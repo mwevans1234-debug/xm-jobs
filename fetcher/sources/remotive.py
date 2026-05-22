@@ -1,42 +1,19 @@
 import hashlib
+import os
 import re
+import sys
 
 import requests
 
-RELEVANT_TERMS = [
-    "experience management", "customer experience", "employee experience",
-    "voice of customer", "voc ", " cx ", "cx manager", "cx analyst",
-    " ex ", "ex manager", " xm ", "qualtrics", "medallia",
-    "customer insights", "employee insights", "customer listening",
-    "employee listening", "nps", "csat", "customer feedback",
-]
-
-
-def _is_relevant(title, description):
-    text = (title + " " + (description or "")).lower()
-    return any(t in text for t in RELEVANT_TERMS)
+_HERE = os.path.dirname(os.path.abspath(__file__))
+_FETCHER = os.path.dirname(_HERE)
+if _FETCHER not in sys.path:
+    sys.path.insert(0, _FETCHER)
+import job_filter
 
 
 def _strip_html(text):
     return re.sub(r"<[^>]+>", " ", text or "").strip()
-
-
-def _categorize(title, description):
-    text = (title + " " + (description or "")).lower()
-    tags = []
-    if any(t in text for t in ["customer experience", " cx ", "voice of customer",
-                                "voc ", "customer feedback", "nps", "csat"]):
-        tags.append("cx")
-    if any(t in text for t in ["employee experience", " ex ", "employee listening",
-                                "people insights", "employee feedback"]):
-        tags.append("ex")
-    if any(t in text for t in ["experience management", " xm ", "qualtrics", "medallia"]):
-        tags.append("xm")
-    if any(t in text for t in ["insights", "analytics", "research", "survey"]):
-        tags.append("insights")
-    if not tags:
-        tags.append("other")
-    return list(dict.fromkeys(tags))
 
 
 def fetch():
@@ -54,9 +31,9 @@ def fetch():
 
         for result in data.get("jobs", []):
             title = result.get("title", "")
-            description = _strip_html(result.get("description", ""))
+            company = result.get("company_name", "Unknown")
 
-            if not _is_relevant(title, description):
+            if not job_filter.is_relevant(title, company):
                 continue
 
             url = result.get("url", "")
@@ -64,6 +41,7 @@ def fetch():
                 continue
             seen_urls.add(url)
 
+            description = _strip_html(result.get("description", ""))
             posted_raw = result.get("publication_date", "")
             posted = posted_raw[:10] if posted_raw else ""
             job_id = hashlib.md5(url.encode()).hexdigest()[:12]
@@ -71,7 +49,7 @@ def fetch():
             jobs.append({
                 "id": job_id,
                 "title": title,
-                "company": result.get("company_name", "Unknown"),
+                "company": company,
                 "location": "Remote",
                 "remote": True,
                 "url": url,
@@ -79,7 +57,7 @@ def fetch():
                 "description": description[:500],
                 "source": "remotive",
                 "country": "Remote",
-                "tags": _categorize(title, description),
+                "tags": job_filter.categorize(title, description),
             })
     except Exception as e:
         print(f"  Remotive error: {e}")

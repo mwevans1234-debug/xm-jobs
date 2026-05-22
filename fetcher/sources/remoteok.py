@@ -1,38 +1,19 @@
 import hashlib
+import os
 import re
+import sys
 
 import requests
 
-RELEVANT_TERMS = [
-    "experience", "cx", "ex", "customer", "insights",
-    "qualtrics", "medallia", "voc", "nps", "feedback", "listening",
-]
-
-
-def _is_relevant(title, tags_list):
-    text = (title + " " + " ".join(tags_list or [])).lower()
-    return any(t in text for t in RELEVANT_TERMS)
+_HERE = os.path.dirname(os.path.abspath(__file__))
+_FETCHER = os.path.dirname(_HERE)
+if _FETCHER not in sys.path:
+    sys.path.insert(0, _FETCHER)
+import job_filter
 
 
 def _strip_html(text):
     return re.sub(r"<[^>]+>", " ", text or "").strip()
-
-
-def _categorize(title, description):
-    text = (title + " " + (description or "")).lower()
-    tags = []
-    if any(t in text for t in ["customer experience", " cx ", "voice of customer",
-                                "voc ", "customer feedback", "nps", "csat"]):
-        tags.append("cx")
-    if any(t in text for t in ["employee experience", " ex ", "employee listening"]):
-        tags.append("ex")
-    if any(t in text for t in ["experience management", " xm ", "qualtrics", "medallia"]):
-        tags.append("xm")
-    if any(t in text for t in ["insights", "analytics", "research", "survey"]):
-        tags.append("insights")
-    if not tags:
-        tags.append("other")
-    return list(dict.fromkeys(tags))
 
 
 def fetch():
@@ -53,9 +34,9 @@ def fetch():
                 continue
 
             title = result.get("position", "")
-            raw_tags = result.get("tags", [])
+            company = result.get("company", "Unknown")
 
-            if not _is_relevant(title, raw_tags):
+            if not job_filter.is_relevant(title, company):
                 continue
 
             url = result.get("url", "")
@@ -71,7 +52,7 @@ def fetch():
             jobs.append({
                 "id": job_id,
                 "title": title,
-                "company": result.get("company", "Unknown"),
+                "company": company,
                 "location": "Remote",
                 "remote": True,
                 "url": url,
@@ -79,7 +60,7 @@ def fetch():
                 "description": description[:500],
                 "source": "remoteok",
                 "country": "Remote",
-                "tags": _categorize(title, description),
+                "tags": job_filter.categorize(title, description),
             })
     except Exception as e:
         print(f"  RemoteOK error: {e}")

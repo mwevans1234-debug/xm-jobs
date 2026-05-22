@@ -5,7 +5,8 @@ from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from sources import adzuna, remotive, remoteok
+from sources import adzuna, indeed, remotive, remoteok
+import job_filter
 
 DOCS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "docs")
 JOBS_FILE = os.path.join(DOCS_DIR, "jobs.json")
@@ -40,6 +41,10 @@ def main():
     adzuna_jobs = adzuna.fetch()
     print(f"  {len(adzuna_jobs)} jobs")
 
+    print("\nFetching from Indeed...")
+    indeed_jobs = indeed.fetch()
+    print(f"  {len(indeed_jobs)} jobs")
+
     print("\nFetching from Remotive...")
     remotive_jobs = remotive.fetch()
     print(f"  {len(remotive_jobs)} jobs")
@@ -48,13 +53,19 @@ def main():
     remoteok_jobs = remoteok.fetch()
     print(f"  {len(remoteok_jobs)} jobs")
 
+    # Merge all sources; newer fetches override existing entries with the same ID
     merged = dict(existing)
-    for job in adzuna_jobs + remotive_jobs + remoteok_jobs:
+    for job in adzuna_jobs + indeed_jobs + remotive_jobs + remoteok_jobs:
         merged[job["id"]] = job
 
-    fresh = {jid: job for jid, job in merged.items() if is_fresh(job.get("posted", ""))}
+    # Final safety filter — catches anything a source forgot to filter
+    relevant = {
+        jid: job for jid, job in merged.items()
+        if job_filter.is_relevant(job.get("title", ""), job.get("company", ""))
+        and is_fresh(job.get("posted", ""))
+    }
 
-    jobs_list = sorted(fresh.values(), key=lambda j: j.get("posted", ""), reverse=True)
+    jobs_list = sorted(relevant.values(), key=lambda j: j.get("posted", ""), reverse=True)
 
     output = {
         "updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),

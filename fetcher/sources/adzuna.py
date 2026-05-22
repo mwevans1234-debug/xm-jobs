@@ -1,57 +1,52 @@
 import hashlib
 import os
+import sys
 
 import requests
 from dateutil import parser as dateparser
+
+_HERE = os.path.dirname(os.path.abspath(__file__))
+_FETCHER = os.path.dirname(_HERE)
+if _FETCHER not in sys.path:
+    sys.path.insert(0, _FETCHER)
+import job_filter
 
 APP_ID = os.environ.get("ADZUNA_APP_ID", "")
 API_KEY = os.environ.get("ADZUNA_API_KEY", "")
 
 BASE_URL = "https://api.adzuna.com/v1/api/jobs/{country}/search/1"
 
+# XM practitioner role searches — focused on buyers/users of XM software
 SEARCH_TERMS = [
-    "experience management",
     "customer experience manager",
     "customer experience director",
+    "customer experience analyst",
+    "customer experience lead",
     "employee experience manager",
-    "voice of customer",
-    "VOC analyst",
+    "employee experience director",
+    "voice of customer manager",
+    "voice of customer analyst",
+    "VOC program manager",
     "customer insights manager",
-    "employee insights",
+    "customer insights director",
+    "employee insights manager",
+    "people insights manager",
     "customer listening",
     "employee listening",
-    "CX program manager",
-    "EX program manager",
-    "customer feedback manager",
-    "Qualtrics",
-    "Medallia",
+    "NPS program manager",
     "NPS analyst",
-    "experience data analyst",
+    "CSAT manager",
+    "experience program manager",
+    "CX program manager",
+    "experience management",
+    "customer feedback manager",
+    "employee feedback manager",
+    "people analytics manager",
+    "survey program manager",
+    "Qualtrics",
 ]
 
 COUNTRIES = ["us", "gb", "ca", "au"]
-
-
-def _categorize(title, description):
-    text = (title + " " + (description or "")).lower()
-    tags = []
-    if any(t in text for t in ["customer experience", " cx ", "cx manager", "cx analyst",
-                                "voice of customer", "voc ", "customer feedback",
-                                "nps", "csat", "customer listening"]):
-        tags.append("cx")
-    if any(t in text for t in ["employee experience", " ex ", "employee listening",
-                                "people insights", "employee engagement",
-                                "employee insights", "employee feedback"]):
-        tags.append("ex")
-    if any(t in text for t in ["experience management", " xm ", "qualtrics", "medallia",
-                                "experience platform", "experience program"]):
-        tags.append("xm")
-    if any(t in text for t in ["insights", "analytics", "data analyst",
-                                "research", "nps", "csat", "survey"]):
-        tags.append("insights")
-    if not tags:
-        tags.append("other")
-    return list(dict.fromkeys(tags))
 
 
 def fetch():
@@ -84,10 +79,15 @@ def fetch():
                     url = result.get("redirect_url", "")
                     if not url or url in seen_urls:
                         continue
-                    seen_urls.add(url)
 
                     title = result.get("title", "")
                     company = result.get("company", {}).get("display_name", "Unknown")
+
+                    if not job_filter.is_relevant(title, company):
+                        continue
+
+                    seen_urls.add(url)
+
                     location = result.get("location", {}).get("display_name", "")
                     description = result.get("description", "")
                     created = result.get("created", "")
@@ -111,7 +111,7 @@ def fetch():
                         "description": description[:500],
                         "source": "adzuna",
                         "country": country.upper(),
-                        "tags": _categorize(title, description),
+                        "tags": job_filter.categorize(title, description),
                     })
             except Exception as e:
                 print(f"  Adzuna error ({country} / {term!r}): {e}")
