@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>XM Jobs — Experience Management Careers</title>
+  <meta name="description" content="Job board for Customer Experience, Employee Experience, VOC, and Insights roles.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">XM Jobs</div>
+  <p class="tagline">Customer Experience &nbsp;·&nbsp; Employee Experience &nbsp;·&nbsp; VOC &amp; Listening &nbsp;·&nbsp; Insights</p>
+</header>
+
+<main>
+  <div class="controls">
+    <input
+      type="search"
+      id="search"
+      placeholder="Search by title, company, or keyword…"
+      autocomplete="off"
+    >
+    <div class="filters">
+      <button class="filter-btn active" data-tag="all">All</button>
+      <button class="filter-btn" data-tag="cx">Customer Experience</button>
+      <button class="filter-btn" data-tag="ex">Employee Experience</button>
+      <button class="filter-btn" data-tag="xm">XM Platform</button>
+      <button class="filter-btn" data-tag="insights">Insights &amp; Analytics</button>
+      <button class="filter-btn" data-tag="remote">Remote Only</button>
+    </div>
+  </div>
+
+  <div class="results-bar">
+    <span id="job-count">Loading…</span>
+    <span id="last-updated"></span>
+  </div>
+
+  <div id="job-grid" class="job-grid"></div>
+
+  <div id="empty-state" class="empty-state hidden">
+    <p>No positions match your search. Try different keywords or clear the filters.</p>
+  </div>
+</main>
+
+<footer>
+  <p>Aggregated from Adzuna, Remotive, and RemoteOK &nbsp;·&nbsp; Refreshed daily</p>
+</footer>
+
+<script src="main.js"></script>
+</body>
+</html>
