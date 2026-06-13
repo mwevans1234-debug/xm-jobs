@@ -1,7 +1,204 @@
 {
-  "updated": "2026-06-12T16:37:14Z",
-  "count": 1435,
+  "updated": "2026-06-13T12:12:51Z",
+  "count": 1430,
   "jobs": [
+    {
+      "id": "b26649032e3a",
+      "title": "Customer Experience Manager",
+      "company": "The Great Escape Room",
+      "location": "South, Arlington County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5762473896?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-13",
+      "description": "We are seeking a dedicated Customer Experience Manager to oversee our Arlington, VA location. This role requires an energetic leader with strong customer service skills, a passion for immersive entertainment, and a strong focus on driving business growth within the local community. The ideal candidate must be available to work evenings and weekends, as our primary business hours are Wednesday\u2013Sunday. We offer a dynamic, hands-on environment that fosters teamwork, creativity, and growth opportun\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1ac5be7105e3",
+      "title": "Director of Customer Experience (Home Services)",
+      "company": "Hueman PE Talent Solutions",
+      "location": "Chicago, Cook County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5762334118?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-13",
+      "description": "A top client is searching for an experienced Director of Customer Experience in Chicago, IL. As the Director of Customer Experience, you are responsible for leading the overall customer experience strategy and execution across the organization. This role oversees customer service operations, scheduling coordination, call center performance, issue resolution, and customer communication throughout the lifecycle of the customer journey. The Director of Customer Experience ensures service excellenc\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2016fd5adc97",
+      "title": "Client Experience Manager",
+      "company": "Fischer Homes",
+      "location": "Dayton, Montgomery County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5762451305?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-13",
+      "description": "Job Summary As a Client Experience Manager, you will serve as the primary point of contact for customers after the home purchase agreement through closing. In this highly visible and impactful role, you will guide customers through the homebuilding journey, ensuring a seamless, well-communicated, and positive experience. You\u2019ll collaborate cross-functionally with Sales, Construction, Operations, Mortgage, and Design teams to drive alignment, proactively solve issues, and deliver an exceptional \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "e848c87c3732",
+      "title": "Director, Employee Experience (Hybrid)",
+      "company": "RELX",
+      "location": "Alpharetta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5762211958?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-13",
+      "description": "About the Business LexisNexis Risk Solutions is the essential partner in the assessment of risk. Within our Insurance vertical, we provide customers with solutions and decision tools that combine public and industry specific content with advanced technology and analytics to assist them in evaluating and predicting risk and enhancing operational efficiency. Our insurance risk solutions help drive better data-driven decisions across the insurance policy lifecycle all while reducing risk. You can \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "12777ec8817a",
+      "title": "Director, People Analytics & Workforce Intelligence",
+      "company": "Blue Origin",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5762041730?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-13",
+      "description": "Application close date: Applications will be accepted on an ongoing basis until the requisition is closed. At Blue Origin, we envision millions of people living and working in space for the benefit of Earth. We\u2019re working to develop reusable, safe, and low-cost space vehicles and systems within a culture of safety, collaboration, and inclusion. Join our team of problem solvers as we add new chapters to the history of spaceflight! This role is part of Blue Origin corporate functions, providing c\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "f3bf101bf0b4",
+      "title": "Lead Customer Experience Manager",
+      "company": "Sainsbury's",
+      "location": "Beaconsfield, Buckinghamshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5762362285?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-13",
+      "description": "What you'll be doing: Lead a team of managers to make sure every single one of our customers has a great experience in store everywhere from the checkouts to the petrol station. Planning for upcoming key trading activity and events by working closely with the rest of the store leadership team Regularly taking full accountability for the store in the absence of a store manager, role modelling and coaching for high standards and efficiency across the store. Running operations at our checkout area\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "5a2b43dbbf41",
+      "title": "Customer Experience Manager",
+      "company": "Sainsbury's",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5762362383?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-13",
+      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "351478912f6a",
+      "title": "Customer Experience Manager",
+      "company": "Barchester Healthcare",
+      "location": "Manchester, Greater Manchester",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5762027411?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-13",
+      "description": "ABOUT THE ROLE As a Customer Experience Manager at Barchester, you'll redefine how we put our customers first so that each and every one can benefit from our high-quality, person-centred service. We'll look to you to design, drive and oversee the resident experience, looking at how the living experience can deliver enhanced resident well-being all to drive our reputation and occupancy levels. A big part of this will be working with teams across our organisation to understand, what's important t\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d32ecb10c7f0",
+      "title": "Customer Experience Manager",
+      "company": "Barchester Healthcare",
+      "location": "Birmingham, West Midlands",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5762023753?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-13",
+      "description": "ABOUT THE ROLE As a Customer Experience Manager at Barchester, you'll redefine how we put our customers first so that each and every one can benefit from our high-quality, person-centred service. We'll look to you to design, drive and oversee the resident experience, looking at how the living experience can deliver enhanced resident well-being all to drive our reputation and occupancy levels. A big part of this will be working with teams across our organisation to understand, what's important t\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "0d58568a16fc",
+      "title": "Customer Experience Specialist \u2013 Evening Shift (4pm eastern -midnight)",
+      "company": "Vention",
+      "location": "Montr\u00e9al, Qu\u00e9bec",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5762110098?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-13",
+      "description": "Job Description Vention is looking for an enthusiastic and dedicated Customer Experience Specialist to join the Customer Success team in Montreal. In this role, you will provide first-class customer support to ensure peak customer satisfaction. You will track all points of customer engagement, address customer queries, and identify ways to improve our customer services. We are looking for a technical thinker whose expertise results in excellent customer relationship management and a positive br\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "207327dec2cc",
+      "title": "Customer Experience & Trade Manager - Beauty",
+      "company": "MYER",
+      "location": "Australia",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5761932223?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-13",
+      "description": "Customer Experience & Trade Manager - Beauty Job no: 944881 Work type: Permanent / Full time Location: Support Office - Docklands About Myer Group Myer Group brings together the iconic brands that define fashion, beauty and lifestyle across Australia and New Zealand. From our Myer Department stores to our fashion brands Just Jeans, Dotti, Portmans, Jacqui E, Jay Jays, sass and bide, Marcs and David Lawrence \u2014 each bring its own legacy, united by a shared commitment to delivering exceptional exp\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7510361f3857",
+      "title": "Director, Customer Experience Delivery Division",
+      "company": "Council Jobs",
+      "location": "Barton, South Canberra",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5761861199?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-13",
+      "description": "Closes: 25 June 2026 Classification: Senior Officer Grade B Salary: $149,172 - $167,151 plus superannuation Position No: 54230 Directorate: City and Environment Advertised (Gazettal date): 11 June 2026 Contact Officer: Syienny Susanna on act.gov.au or (02) 6205 8 Details: Transport Canberra is seeking an experienced and people-focused leader to drive high-quality customer experiences across Canberra\u2019s public transport network. This role leads a small, dedicated team responsible for delivering d\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c44bcfeaf4b0",
+      "title": "IT Customer Experience Administrator",
+      "company": "Australian Gas Infrastructure Group",
+      "location": "Adelaide CBD, Adelaide",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5761861839?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-13",
+      "description": "Who We Are Australian Gas Infrastructure Group (AGIG) owns, operates and invests in infrastructure which delivers gas to more than two million homes and businesses, and is one of the largest gas infrastructure businesses in Australia. AGIG manages distribution networks, transmission pipelines and storage capacity. AGIG recently grew to over 1300 employees. We also manage a large contractor workforce, who provide both specialist and operating and maintenance services on AGIG's gas distribution n\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
     {
       "id": "333cad7dfad3",
       "title": "Client Engagement Specialist - Automotive Customer Experience",
@@ -366,6 +563,299 @@
       ]
     },
     {
+      "id": "5c71e5460056",
+      "title": "Customer Experience Analyst",
+      "company": "Insight Global",
+      "location": "Stamford, Fairfield County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761980087?se=JkUcwSBn8RGhB4OIQ4b5DQ&utm_medium=api&utm_source=638f9cc6&v=6A741C611F2BF81FAD91F6D21ADA66EFC232691D",
+      "posted": "2026-06-12",
+      "description": "Job Description Insight Global is seeking a data-driven, customer-obsessed CX Insights Analyst to join our client's CX journey & design team. This role will be pivotal in uncovering customer pain points, synthesizing insights into compelling stories, and partnering across UX Research, Marketing Research, and CX Design to drive our CX Improvement roadmap. The ideal candidate is equal parts analyst and storyteller-someone who loves diving into customer data and transforming it into meaningful ins\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "3a4f3be560ec",
+      "title": "Director, Employee Experience (Hybrid)",
+      "company": "RELX INC",
+      "location": "Alpharetta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761993152?se=MNEExSBn8RGhB4OIQ4b5DQ&utm_medium=api&utm_source=638f9cc6&v=AEB2C1ED4D31885ED8D140B8B7B6544279F39729",
+      "posted": "2026-06-12",
+      "description": "About the Business LexisNexis Risk Solutions is the essential partner in the assessment of risk. Within our Insurance vertical, we provide customers with solutions and decision tools that combine public and industry specific content with advanced technology and analytics to assist them in evaluating and predicting risk and enhancing operational efficiency. Our insurance risk solutions help drive better data-driven decisions across the insurance policy lifecycle all while reducing risk. You can \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "45c9455e65f5",
+      "title": "Product Manager, Customer Insights and Analysis (SOURCE Generics Program)",
+      "company": "Cardinal Health",
+      "location": "Dublin, Franklin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761997255?se=xHCNxyBn8RGPL9oNLTnS9Q&utm_medium=api&utm_source=638f9cc6&v=BB8DF3022915AB101961491078FF7A11C3539D41",
+      "posted": "2026-06-12",
+      "description": "_What SOURCE Generics Program contributes to Cardinal Health_ SOURCE Generics is responsible for creating strategic partnerships with suppliers to unlock enterprise value, lower sourcing costs, improve access to products, and provide supply chain stability. We partner with suppliers and customers to provide a best-in-class whole seller distribution experience. The _Product Manager, Customer Insights & Analysis_ executes strategies to differentiate Cardinal Health's SOURCE Generics Program to gr\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "77167bf91b9e",
+      "title": "CX Program Management Lead - Aerospace",
+      "company": "Honeywell Aerospace",
+      "location": "Charlotte, Mecklenburg County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761987388?se=voBh0CBn8RGhB4OIQ4b5DQ&utm_medium=api&utm_source=638f9cc6&v=C3B706A052AE59B50DA7AAB596C0ED9B6426DC4E",
+      "posted": "2026-06-12",
+      "description": "As a Program Management Manager - Customer Experience Aerospace here at Honeywell, you will be responsible for leading and managing customer experience programs, ensuring that our customers have a seamless and positive experience throughout their engagement with us. Your role will involve developing and executing strategies that enhance customer satisfaction, drive operational excellence, and foster long-term relationships. By effectively managing customer experience initiatives at a senior lev\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "9af3ca189c36",
+      "title": "CX Program Management Lead - Aerospace",
+      "company": "Honeywell Aerospace",
+      "location": "Phoenix, Maricopa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761982833?se=voBh0CBn8RGhB4OIQ4b5DQ&utm_medium=api&utm_source=638f9cc6&v=7F527E9EB176A712641CFDA0C83D76D8AA058AE6",
+      "posted": "2026-06-12",
+      "description": "As a Program Management Manager - Customer Experience Aerospace here at Honeywell, you will be responsible for leading and managing customer experience programs, ensuring that our customers have a seamless and positive experience throughout their engagement with us. Your role will involve developing and executing strategies that enhance customer satisfaction, drive operational excellence, and foster long-term relationships. By effectively managing customer experience initiatives at a senior lev\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "40de4a3c2e87",
+      "title": "Director of People Analytics",
+      "company": "KIPP Philadelphia Public Schools",
+      "location": "Philadelphia, Philadelphia County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5761906863?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-12",
+      "description": "Job Description ROLE OVERVIEW Reporting to the Senior Director of Data & Assessment, the Director of People Analytics (DPA) is responsible for supporting an effective data-driven culture at KIPP Philadelphia through the management of the region\u2019s various Talent platforms, including its HRIS (UKG), and all associated Talent data. The Director of People Analytics is responsible for ensuring sound data collection and storage, producing reports and visualizations aligned to stakeholder needs, and i\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "a86c5f301ed9",
+      "title": "CX Customer Experience Strategist 12 Month Contract",
+      "company": "Request Technology, LLC",
+      "location": "Schiller Park, Cook County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761546441?se=HLaL1iBn8RG0btGxqHH3qw&utm_medium=api&utm_source=638f9cc6&v=437A7E43F6B46FFA8342639DF20FD6D2AD414367",
+      "posted": "2026-06-12",
+      "description": "We are unable to sponsor for this 12 month straight contract role Prestigious Enterprise Company is currently seeking a CX Customer Experience Strategist for a 12 month contract role. Candidate will work on customer experience, service design, or UX strategy. Responsibilities : \u2022 Perform complex workshops with senior stakeholders and cross-functional teams, including journey mapping and service blueprinting \u2022 Working knowledge of human-centered design (HCD) principles and methods, with ability \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a6f006cf3979",
+      "title": "CX Customer Experience Strategist 12 Month Contract",
+      "company": "Request Technology, LLC",
+      "location": "Coppell, Dallas",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761545274?se=HLaL1iBn8RG0btGxqHH3qw&utm_medium=api&utm_source=638f9cc6&v=A0558E77B869A65AAB32B85A46AC5D67B8130C52",
+      "posted": "2026-06-12",
+      "description": "We are unable to sponsor for this 12 month straight contract role Prestigious Enterprise Company is currently seeking a CX Customer Experience Strategist for a 12 month contract role. Candidate will work on customer experience, service design, or UX strategy. Responsibilities : Perform complex workshops with senior stakeholders and cross-functional teams, including journey mapping and service blueprinting Working knowledge of human-centered design (HCD) principles and methods, with ability to a\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b5c31354e767",
+      "title": "Oracle CRM Developer (CX Sales)",
+      "company": "Ernest Gordon Recruitment Limited",
+      "location": "Birmingham, West Midlands",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5761831784?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-12",
+      "description": "Oracle CRM Developer (CX Sales) Remote \u00a365,000 - \u00a370,000  Remote  Training  Progression  Company Benefits Are you an experienced Oracle CRM Developer looking to join one of the most progressive and ambitious Software House Companies in the UK, with a long, successful history having been established for nearly 20 years? Do you want the opportunity to implement your ideas and knowledge into creative and large scale projects parallel with large blue chip companies, in a role that will see you make\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "093a1fb1814e",
+      "title": "Customer Experience Manager",
+      "company": "Barchester Healthcare",
+      "location": "Ladywood, Birmingham",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5761544447?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-12",
+      "description": "ABOUT THE ROLE As a Customer Experience Manager at Barchester, you'll redefine how we put our customers first so that each and every one can benefit from our high-quality, person-centred service. We'll look to you to design, drive and oversee the resident experience, looking at how the living experience can deliver enhanced resident well-being all to drive our reputation and occupancy levels. A big part of this will be working with teams across our organisation to understand, what's important t\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "70d433135f98",
+      "title": "Customer Experience Manager",
+      "company": "Barchester Healthcare",
+      "location": "Castleton, Cardiff",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5761544444?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-12",
+      "description": "ABOUT THE ROLE As a Customer Experience Manager at Barchester, you'll redefine how we put our customers first so that each and every one can benefit from our high-quality, person-centred service. We'll look to you to design, drive and oversee the resident experience, looking at how the living experience can deliver enhanced resident well-being all to drive our reputation and occupancy levels. A big part of this will be working with teams across our organisation to understand, what's important t\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7fbd13aaae03",
+      "title": "Customer Experience Manager",
+      "company": "Barchester Healthcare",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5761544425?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-12",
+      "description": "ABOUT THE ROLE As a Customer Experience Manager at Barchester, you'll redefine how we put our customers first so that each and every one can benefit from our high-quality, person-centred service. We'll look to you to design, drive and oversee the resident experience, looking at how the living experience can deliver enhanced resident well-being all to drive our reputation and occupancy levels. A big part of this will be working with teams across our organisation to understand, what's important t\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d1e2b4e27ec0",
+      "title": "Customer Experience Manager",
+      "company": "Barchester Healthcare",
+      "location": "Broadgate, Central London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5761544429?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-12",
+      "description": "ABOUT THE ROLE As a Customer Experience Manager at Barchester, you'll redefine how we put our customers first so that each and every one can benefit from our high-quality, person-centred service. We'll look to you to design, drive and oversee the resident experience, looking at how the living experience can deliver enhanced resident well-being all to drive our reputation and occupancy levels. A big part of this will be working with teams across our organisation to understand, what's important t\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d9d784b4bb73",
+      "title": "Lead Customer Experience Manager",
+      "company": "Sainsbury's",
+      "location": "Muswell Hill, North London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5761402378?se=BERP2SBn8RGhB4OIQ4b5DQ&utm_medium=api&utm_source=638f9cc6&v=23C3452034E096C2422989F0D7EB2B1F6F6FD536",
+      "posted": "2026-06-12",
+      "description": "Description What you\u2019ll be doing: Lead a team of managers to make sure every single one of our customers has a great experience in store everywhere from the checkouts to the petrol station. Planning for upcoming key trading activity and events by working closely with the rest of the store leadership team Regularly taking full accountability for the store in the absence of a store manager, role modelling and coaching for high standards and efficiency across the store. Running operations at our c\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "971368afec38",
+      "title": "Customer Experience Representative, Service",
+      "company": "City of Burlington, Ontario",
+      "location": "Burlington, Halton",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5761830752?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-12",
+      "description": "Position TypeContract NU (Full Time) (Fixed Term)Closing DateJune 24, 2026Salary/Wage Range$54,912.00 - $68,638.00Working for the City of BurlingtonA great career is closer than you think. Come work for the City of Burlington, where you'll be joining an innovative and progressive workplace focused on building a 21st century city that respects the diversity of our residents, visitors and employees; and prioritizes continuous opportunities for you to learn and grow.We don't just spend time attrac\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "0bcce8163eba",
+      "title": "Manager Process Excellence & Customer Experience",
+      "company": "Gore Mutual Insurance",
+      "location": "Cambridge, Waterloo region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5761751030?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-12",
+      "description": "At Gore Mutual, we\u2019ve always set ourselves apart as a modern mutual that does good. Now, we\u2019re proudly building on that legacy to transform our company\u2014and our industry\u2014for the better. Effective January 1, 2026, Gore has joined Beneva\u2014the country\u2019s largest mutual insurance company\u2014as part of its Property & Casualty operations in Ontario and Western Canada. During 2026, Gore will combine its operations with Unica Insurance, Beneva\u2019s Ontario-based subsidiary specializing in niche commercial and p\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1f2c1d83d4b5",
+      "title": "Customer Experience Representative, Service Burlington",
+      "company": "City of Burlington",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5761686835?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-12",
+      "description": "Position Type: Contract NU (Full Time) (Fixed Term) Closing Date: June 24, 2026 Salary/Wage Range: $54,912.00 - $68,638.00 Working for the City of Burlington A great career is closer than you think. Come work for the City of Burlington, where you'll be joining an innovative and progressive workplace focused on building a 21st century city that respects the diversity of our residents, visitors and employees; and prioritizes continuous opportunities for you to learn and grow. We don't just spend \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e024d55f0764",
+      "title": "Expert Employee Experience",
+      "company": "Canadian National Railway Company",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5761802138?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-12",
+      "description": "At CN, everyday brings new and exciting challenges. You can expect an interesting environment where you\u2019re part of making sure our business is running optimally and safely\u2015helping keep the economy on track. We provide the kind of paid training and opportunities that long-term careers are built on and we recognize hard workers who strive to make a difference. You will be able to thrive in our close-knit, safety-focused culture working together as ONE TEAM. The careers we offer are meaningful bec\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "82eceacd0d53",
+      "title": "Head of Customer Experience",
+      "company": "Stars + Honey",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-customer-experience-stars-honey-1133332",
+      "posted": "2026-06-12",
+      "description": "STARS + HONEY: Head of Consumer Experience    ROLE OVERVIEW   Stars + Honey is a fast-growing functional nutrition brand on a mission to eliminate compromise in health and indulgence. Our products deliver joyful flavor and clean functionality, making everyday wellness feel like a treat rather than a trade-off.  As we enter our next phase of growth \u00e2\u0080\u0094 scaling from a strong DTC foundation into national retail \u00e2\u0080\u0094 we are seeking a Head of Consumer Experience to build and lead a best-in-class consu",
+      "source": "remoteok",
+      "country": "Remote",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
       "id": "8adbe708b9e2",
       "title": "Customer Experience Coordinator",
       "company": "Suddath Companies",
@@ -575,6 +1065,21 @@
       "description": "How will you support the team? As a Team Leader, you possess a passion for fashion and customer service. You will be part of a winning team that provides a unique and memorable shopping experience to every customer. You will be joining a Company focused on the development and career growth of its employees. Act as a stylist to build a personalized wardrobe to the customer. Develop and train the sales team on exemplary customer service, the promotion of different programs, product knowledge and \u2026",
       "source": "adzuna",
       "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "015788b56834",
+      "title": "Customer Experience Manager in",
+      "company": "empact",
+      "location": "Remote",
+      "remote": true,
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-experience-manager-in-empact-1133281",
+      "posted": "2026-06-11",
+      "description": "Wer ist empact?   building tomorrow. Das treibt uns an. \u00c2\u00a0empact baut den dezentralen Energieversorger f\u00c3\u00bcr den Geb\u00c3\u00a4udesektor und bereitet damit den Weg in eine klimaneutrale und lebenswerte Zukunft. F\u00c3\u00bcr dieses Vorhaben suchen wir engagierte Pers\u00c3\u00b6nlichkeiten, die gemeinsam mit uns an der Schnittstelle zwischen Energie und Geb\u00c3\u00a4ude etwas ver\u00c3\u00a4ndern wollen und bereit sind, Verantwortung zu \u00c3\u00bcbernehmen.   Deine Aufgaben    Du gestaltest das Kundenerlebnis rund um unsere Energieprojekte und sorgs",
+      "source": "remoteok",
+      "country": "Remote",
       "tags": [
         "cx"
       ]
@@ -1562,6 +2067,84 @@
       ]
     },
     {
+      "id": "20f8460c6b44",
+      "title": "Director of Customer Experience",
+      "company": "Springs Window Fashions",
+      "location": "Waukegan, Lake County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5758228091?se=0nxDwCBn8RG5GpwkRXC5CA&utm_medium=api&utm_source=638f9cc6&v=A8582D194AEDD20E49A8D27F82C7D4519C8C51C4",
+      "posted": "2026-06-10",
+      "description": "Job Description The Best Experience Company Our tagline is \u201cThe Best Experience Company.\u201d More than just a set of words, it represents the essence of who we are at Springs Window Fashions. As North America\u2019s premier window covering company, we\u2019re committed to creating the Best Experience for our associates, consumers and end users, business partners, and communities. We want you to join our team of passionate self-starters who believe the world is full of Best Experience opportunities. So, if y\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "dc9505efe31b",
+      "title": "TSD Customer Experience Analyst Support",
+      "company": "The Reynolds and Reynolds Company",
+      "location": "North Andover, Essex County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5759429158?se=JkUcwSBn8RGhB4OIQ4b5DQ&utm_medium=api&utm_source=638f9cc6&v=487406B52A856996862FAF6E24BC4155DBDB6428",
+      "posted": "2026-06-10",
+      "description": "Position Description *In office position working Monday-Friday* Shift Options: 4 days 8am-5pm and 1 day 10am-7pm or 3 days 8am-5pm, 1 day 9am-6pm and 1 day 10am-7pm TSD Mobility Solutions, Inc., an affiliate of Reynolds and Reynolds, is looking for a Customer Service Specialist to join our growing team. As a Customer Service Specialist, you will be responsible for providing excellent customer service to our clients in all interactions supporting our software as a service (SaaS) product. This po\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "65e6270cc8c0",
+      "title": "IT Business Analyst - NPS",
+      "company": "Nelnet",
+      "location": "State House, Lancaster County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5759368361?se=_gyozCBn8RGJNOs5ynNQjw&utm_medium=api&utm_source=638f9cc6&v=F74C08CD9E7EA3645A493A729A3272072685A8F4",
+      "posted": "2026-06-10",
+      "description": "Nelnet Business Services (NBS), a division of Nelnet, Inc., provides payment technology, education services, and learning management solutions to education and faith-based organizations, serving more than 1,300 higher education institutions, 11,500 K-12 schools, 3,500 churches, and millions of individual students, families, and supporters across the globe. Our culture of service enables us to form long-lasting and trusted partnerships, while our focus on creativity and innovative solutions empo\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "7a3b2a27c7c9",
+      "title": "NPS Environmental Research Analyst - 28918",
+      "company": "Huntington Ingalls Industries",
+      "location": "Del Rey Oaks, Monterey County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5759187916?se=_gyozCBn8RGJNOs5ynNQjw&utm_medium=api&utm_source=638f9cc6&v=B462F9C68C5FD224596ACC7E604CF289673E1904",
+      "posted": "2026-06-10",
+      "description": "Requisition Number: 28918 Required Travel: 0 - 10% Employment Type: Full Time/Salaried/Exempt Anticipated Salary Range: $79,534.00 - $125,008.00 Security Clearance: Ability to Obtain Level of Experience: Mid This opportunity resides with Global Security (GS). Mission Technologies' Global Security (GS) group comprises live, virtual, constructive (LVC) solutions; fleet sustainment; nuclear and environmental; and Australia business. As a trusted partner to our military customers, HII designs, deve\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "660677ad7fc5",
+      "title": "Employee Experience (EX) Product Channel Operations Director",
+      "company": "JPMorganChase",
+      "location": "Bournemouth, Dorset",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5758423070?se=RNX02iBn8RG0btGxqHH3qw&utm_medium=api&utm_source=638f9cc6&v=0B400810FADB99ED44862F2D5047000129B639C4",
+      "posted": "2026-06-10",
+      "description": "Description Join us to shape the future of employee digital experiences at JPMorganChase. You will lead the operational heartbeat of our primary channels, making a real impact on how employees get help, find answers, and connect to support. We value your leadership, problem-solving skills, and passion for delivering stable, high-quality services. As part of our team, you\u2019ll collaborate across product, engineering, and analytics, driving improvements that matter. Discover a role where your exper\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
       "id": "dd0b03dcb0c6",
       "title": "Director, Customer Experience & Growth",
       "company": "George Patton Assoc Inc",
@@ -2431,6 +3014,99 @@
       "location": "Grand Central, Manhattan",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5757930794?se=Et45oHxm8RGfB72z_DrYeQ&utm_medium=api&utm_source=638f9cc6&v=3F5683778F9C0B3E2ECE2B5AD7E7E0D8E51B4CC1",
+      "posted": "2026-06-09",
+      "description": "Job Description Insight Global is seeking a Senior Customer Insights & Survey Analytics Consultant to join a Customer Insights team within an enterprise organization. This candidate will be responsible for supporting functionalities that help represent the voice of millions of customers. Through their work they will help influence customer strategy and architect research strategies that help identify the \"why\" behind customer behavior. On a day-to-day basis, this person will operate as a strate\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "2356d0fd7a73",
+      "title": "Director Digital Customer Experience Technology",
+      "company": "Insight Global",
+      "location": "Charlotte, Mecklenburg County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5757895870?se=0nxDwCBn8RG5GpwkRXC5CA&utm_medium=api&utm_source=638f9cc6&v=C67CD5E3E21E07343CA1631D21F12123B85DB084",
+      "posted": "2026-06-09",
+      "description": "Job Description One of our clients is looking for a Director, Digital Customer Experience Technology to join their team in Charlotte, NC. Technology leadership and customer technology capability will be a critical to achieving this goal. A key focus area is to innovate the Customer Journey and deliver on the client's digital channel offerings. This is where you come in, we are looking for a Director, Digital Customer Experience Technology, to join our team. This role reports to Head of Customer\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "353bcffe37ba",
+      "title": "Director of Customer Experience",
+      "company": "Jobot",
+      "location": "Huntington Beach, Orange County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5757721640?se=0nxDwCBn8RG5GpwkRXC5CA&utm_medium=api&utm_source=638f9cc6&v=45365F4E0ACF3232410C4A2E84EF7BCC1AA3F5B5",
+      "posted": "2026-06-09",
+      "description": "Supporting accountability for sobriety in Addiction Recovery & Family Law with a comprehensive alcohol monitoring system This Jobot Job is hosted by: Gene Choi Are you a fit? Easy Apply now by clicking the \"Quick Apply\" button and sending us your resume. Salary: $110,000 - $150,000 per year A bit about us: Based in Huntington Beach, we are an exciting medical device company on the cutting edge of monitoring. We utilize facial recognition that can send real time data to individuals. We've been i\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2e215c469b27",
+      "title": "Research Analyst - Voice of Customer (VoC) (INTL)",
+      "company": "Insight Global",
+      "location": "Huntington, Orange County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5757769287?se=jDQIxiBn8RG5GpwkRXC5CA&utm_medium=api&utm_source=638f9cc6&v=72414F330C3F1706A19762A9ADDC8CD5A8290321",
+      "posted": "2026-06-09",
+      "description": "Job Description We are seeking a highly motivated and analytical Customer Experience Analytics & Research Consultant to support strategic customer experience initiatives. This role requires a unique blend of Customer Experience (CX), Market Research, Survey Programming, Advanced Analytics, and AI/ML expertise. The ideal candidate will have hands-on experience managing Voice of Customer (VoC) programs, designing and programming surveys, analyzing customer feedback and behavioral data, and levera\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "270733e5af2b",
+      "title": "Research Analyst - Voice of Customer (VoC) (INTL)",
+      "company": "Insight Global",
+      "location": "Huntington, Orange County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5757769287?se=yCyrxiBn8RGihJbKSHh3Mg&utm_medium=api&utm_source=638f9cc6&v=72414F330C3F1706A19762A9ADDC8CD5A8290321",
+      "posted": "2026-06-09",
+      "description": "Job Description We are seeking a highly motivated and analytical Customer Experience Analytics & Research Consultant to support strategic customer experience initiatives. This role requires a unique blend of Customer Experience (CX), Market Research, Survey Programming, Advanced Analytics, and AI/ML expertise. The ideal candidate will have hands-on experience managing Voice of Customer (VoC) programs, designing and programming surveys, analyzing customer feedback and behavioral data, and levera\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "ef71d2e6e37e",
+      "title": "Sr Program Manager (CX, IVR) Only W2",
+      "company": "Nasscomm, Inc.",
+      "location": "Campbell, Santa Clara County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5757829810?se=voBh0CBn8RGhB4OIQ4b5DQ&utm_medium=api&utm_source=638f9cc6&v=504FCE74E5051D9FA4B594F57E61E5E8D1C1B6CA",
+      "posted": "2026-06-09",
+      "description": "Position: Sr Program Manager (Customer Experience (CX)) Location: San Jose, CA Mode : Hybrid 3 days onsite Duration: 6 Months We are seeking a Senior Program Manager with 7\u201310 years of experience leading Customer Experience (CX) and Digital Engagement programs. The ideal candidate will have hands-on experience managing initiatives involving WhatsApp Business, IVR Automation, Amazon Connect, messaging platforms, and customer outreach solutions. Required Skills: \u2022 7\u201310 years of Program Management\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1452522d6c7d",
+      "title": "Senior Customer Insights & Survey Analytics Consultant",
+      "company": "Insight Global",
+      "location": "Grand Central, Manhattan",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5757930794?se=Qu-g1SBn8RGPL9oNLTnS9Q&utm_medium=api&utm_source=638f9cc6&v=3F5683778F9C0B3E2ECE2B5AD7E7E0D8E51B4CC1",
       "posted": "2026-06-09",
       "description": "Job Description Insight Global is seeking a Senior Customer Insights & Survey Analytics Consultant to join a Customer Insights team within an enterprise organization. This candidate will be responsible for supporting functionalities that help represent the voice of millions of customers. Through their work they will help influence customer strategy and architect research strategies that help identify the \"why\" behind customer behavior. On a day-to-day basis, this person will operate as a strate\u2026",
       "source": "adzuna",
@@ -4800,6 +5476,54 @@
       ]
     },
     {
+      "id": "c53d1da39012",
+      "title": "Employee Listening and Insights Lead",
+      "company": "NetApp",
+      "location": "Campbell, Santa Clara County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5753705561?se=nhXuySBn8RG5GpwkRXC5CA&utm_medium=api&utm_source=638f9cc6&v=D57D9C095C6168F5A250D96E96BC765EB417E154",
+      "posted": "2026-06-05",
+      "description": "Job Summary The Employee Listening & Analytics Consultant plays a key role in shaping how we understand and improve the employee experience across the lifecycle. In this role, you will lead end to end survey programs-from research and question design through analysis, storytelling, and action enablement. You'll help bring employee voices to life through compelling insights, intuitive tools, and thoughtful program management. This role is integral to embedding employee listening insights into Wo\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "eaf6716b5ae1",
+      "title": "Manager, People Analytics & Insights",
+      "company": "QVC Group, Inc",
+      "location": "West Chester, Chester County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5753398615?se=nhXuySBn8RG5GpwkRXC5CA&utm_medium=api&utm_source=638f9cc6&v=9E96AE91162A75029CE12D372DF415DF3C26C8ED",
+      "posted": "2026-06-05",
+      "description": "Working at QVC Group means joining a live social shopping company with incredible teams, ambitious projects and amazing careers. QVC Group, Inc. is a Fortune 500 company with six leading retail brands - QVC\u00ae, HSN\u00ae, Ballard Designs\u00ae, Frontgate\u00ae, Garnet Hill\u00ae and Grandin Road. Your Opportunity, Your Team We're seeking aManager of People Analytics & Insights to help evolve our HR analytics capability from reporting to decision-focused people analytics. This role supports all QVC Group brands and f\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "c773eb00eeea",
+      "title": "Employee Listening and Insights Lead",
+      "company": "NetApp",
+      "location": "Campbell, Santa Clara County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5753705561?se=Qu-g1SBn8RGPL9oNLTnS9Q&utm_medium=api&utm_source=638f9cc6&v=D57D9C095C6168F5A250D96E96BC765EB417E154",
+      "posted": "2026-06-05",
+      "description": "Job Summary The Employee Listening & Analytics Consultant plays a key role in shaping how we understand and improve the employee experience across the lifecycle. In this role, you will lead end to end survey programs-from research and question design through analysis, storytelling, and action enablement. You'll help bring employee voices to life through compelling insights, intuitive tools, and thoughtful program management. This role is integral to embedding employee listening insights into Wo\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
       "id": "52be01059595",
       "title": "Customer Experience and Inbound Operations Manager",
       "company": "Talus Holdings",
@@ -5547,6 +6271,21 @@
       "location": "Worcester, Worcestershire",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5752131355?se=ml64L_Rk8RGN64C7ajy0tA&utm_medium=api&utm_source=638f9cc6&v=12430899C670BA7BFD6260DC7005532D22BF6304",
+      "posted": "2026-06-04",
+      "description": "Strensham - Customer Experience Leader - McDonald's Kirk, our Site Director at Strensham Motorway Services on the M5 near Worcester is looking for a Customer Experience Leader to join his McDonald's team. Joining the McDonald's team will give you the opportunity to provide our customers with the iconic \"Big Mac '' or any other of their freshly prepared food and drinks while providing exceptional customer service. We offer working patterns on either a full or part time basis, with a variety of s\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "40d41cb1b49e",
+      "title": "Strensham - Customer Experience Leader - McDonald's",
+      "company": "Roadchef",
+      "location": "Worcester, Worcestershire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5752131355?se=NI022CBn8RG0btGxqHH3qw&utm_medium=api&utm_source=638f9cc6&v=12430899C670BA7BFD6260DC7005532D22BF6304",
       "posted": "2026-06-04",
       "description": "Strensham - Customer Experience Leader - McDonald's Kirk, our Site Director at Strensham Motorway Services on the M5 near Worcester is looking for a Customer Experience Leader to join his McDonald's team. Joining the McDonald's team will give you the opportunity to provide our customers with the iconic \"Big Mac '' or any other of their freshly prepared food and drinks while providing exceptional customer service. We offer working patterns on either a full or part time basis, with a variety of s\u2026",
       "source": "adzuna",
@@ -6343,6 +7082,22 @@
       ]
     },
     {
+      "id": "75f9fc3369a4",
+      "title": "ThankYou Rewards Servicing Experience & Customer Insights Lead Analyst, Vice President (Hybrid)",
+      "company": "Citigroup",
+      "location": "Wilmington, New Castle County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5751462512?se=JkUcwSBn8RGhB4OIQ4b5DQ&utm_medium=api&utm_source=638f9cc6&v=2FF2A62185862F41B5337F405E5F9EAB18FC6175",
+      "posted": "2026-06-03",
+      "description": "Citi is a leading global bank that serves more than 200 million customer accounts and does business in more than 160 countries and jurisdictions. Citi provides consumers, corporations, governments, and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, transaction services, and wealth management. The Citi ThankYou Rewards program is a cornerstone of our card loyalty offerings, providi\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
       "id": "c384b01835ac",
       "title": "Director of Customer Experience",
       "company": "Saxco International",
@@ -7025,6 +7780,37 @@
       "location": "Darwen, Lancashire",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=Wsbeonxm8RGODLlwAK4g_Q&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
+      "posted": "2026-06-02",
+      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "35baf1da6dfe",
+      "title": "Chief Customer Experience Officer",
+      "company": "Anderson Quigley",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=NI022CBn8RG0btGxqHH3qw&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
+      "posted": "2026-06-02",
+      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "aedbf2d61dc5",
+      "title": "Customer Insights Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "Darwen, Lancashire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=iNLd2CBn8RGrMLOjlx9mmg&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
       "posted": "2026-06-02",
       "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
       "source": "adzuna",
@@ -16746,6 +17532,22 @@
       ]
     },
     {
+      "id": "8c47bdb57cd8",
+      "title": "Associate Director, Global Customer Insights",
+      "company": "BD ",
+      "location": "Franklin Lakes, Bergen County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5737172419?se=UKyDyCBn8RG0btGxqHH3qw&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
+      "posted": "2026-05-21",
+      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
       "id": "eb4953a987a2",
       "title": "Director, Access Marketing & Customer Experience",
       "company": "Pfizer",
@@ -17844,6 +18646,22 @@
       "location": "Pleasanton, Alameda County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5735319607?se=GvmLmXxm8RGfB72z_DrYeQ&utm_medium=api&utm_source=638f9cc6&v=D01B687C61D6DC0F91EFEBE5571B83AC22B07880",
+      "posted": "2026-05-20",
+      "description": "Job: 3028342 Job Description: Apex Systems is hiring a Data Analyst for a large Healthcare client. Location: Fully remote anywhere in the United States. Employment Type: 3-year contract Role Overview This role is responsible for working across data transformation and consumption layers, primarily performing source-to-target mappings, data validations, and quality checks. The position involves analyzing data requirements and constructing meaningful information from raw data. This role will suppo\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "ccef64dd24e9",
+      "title": "Data Analyst - NPS",
+      "company": "Apex Systems",
+      "location": "Pleasanton, Alameda County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5735319607?se=_gyozCBn8RGJNOs5ynNQjw&utm_medium=api&utm_source=638f9cc6&v=D01B687C61D6DC0F91EFEBE5571B83AC22B07880",
       "posted": "2026-05-20",
       "description": "Job: 3028342 Job Description: Apex Systems is hiring a Data Analyst for a large Healthcare client. Location: Fully remote anywhere in the United States. Employment Type: 3-year contract Role Overview This role is responsible for working across data transformation and consumption layers, primarily performing source-to-target mappings, data validations, and quality checks. The position involves analyzing data requirements and constructing meaningful information from raw data. This role will suppo\u2026",
       "source": "adzuna",
@@ -20396,6 +21214,21 @@
       ]
     },
     {
+      "id": "9f5a7490cd1f",
+      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
+      "company": "Amazon",
+      "location": "Santa Clara, Santa Clara County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5730095614?se=voBh0CBn8RGhB4OIQ4b5DQ&utm_medium=api&utm_source=638f9cc6&v=80E46B83FB7B356089A6FAB9C3F48851FC2CD274",
+      "posted": "2026-05-15",
+      "description": "Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key job responsibi\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "5a4ce2e897f1",
       "title": "Director of Customer Experience",
       "company": "Jobot",
@@ -21072,902 +21905,14 @@
       ]
     },
     {
-      "id": "2384e2e24939",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
+      "id": "055d7a7468e7",
+      "title": "CX Director of Program Management",
+      "company": "Delivering synchronized finance",
+      "location": "US",
       "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=zCc-EnNV8RGSQI5_Fv5Ikg&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "f4af7306db4c",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=zCc-EnNV8RGSQI5_Fv5Ikg&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "89592fe49cc3",
-      "title": "Clinical Customer Experience Specialist (Maternity Cover)",
-      "company": "TympaHealth",
-      "location": "London, UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5727980775?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-13",
-      "description": "The Clinical Customer Experience Specialist is a new role within TympaHealth that is key to enabling the Company to expand and for our customers to grow their ear and hearing health services. In this role you will guide our customers from onboarding through training to successful utilisation of our services. Your guidance and influence will be a crucial factor in customer retention and success. You will play a key role in helping customers deliver ear and hearing care, solving real-world challe\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "32a0129ef312",
-      "title": "Go-to-Market Operations Director - Employee Experience",
-      "company": "JPMorgan Chase",
-      "location": "Tyler Park, Hudson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728710403?se=oPZHp3dV8RGSQI5_Fv5Ikg&utm_medium=api&utm_source=638f9cc6&v=DD59D6C91E170D7B28C3DC619F02C6C7DC057F43",
-      "posted": "2026-05-13",
-      "description": "Join our dynamic Employee Success team as the Go-to-Market (GTM) Operations Lead and play a pivotal role in orchestrating and overseeing cross-functional GTM campaigns, channel management, and adoption initiatives, ensuring cohesive execution and measurable impact across the organization. Your leadership will drive engagement, awareness, adoption, and continuous improvement, supporting our mission to make work better for everyone at JPMorganChase. Job Responsibilities  Oversee the strategy, rec\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "3df2ae78e186",
-      "title": "Manager, Quality Assurance & CSAT",
-      "company": "Barnes & Noble",
-      "location": "Clifton, Passaic County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5727925055?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-13",
-      "description": "Job Description The Manager, Quality Assurance & CSAT, leads the Quality Assurance function within the Customer Service organization, driving measurable improvements in customer experience, service consistency, and operational performance. This role blends hands-on leadership with strategic influence, using QA insights, customer feedback, and CSAT data to drive improvements across teams, processes, and external partners. This leader sets the tone for quality, building trust, raising the bar, an\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "09dc7b0943b4",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=mlegrXdV8RGpf8fFy7Zj8A&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "6cb18f53dcb8",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=mlegrXdV8RGpf8fFy7Zj8A&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "45f504200091",
-      "title": "Go-to-Market Operations Director - Employee Experience",
-      "company": "JPMorgan Chase",
-      "location": "Tyler Park, Hudson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728710403?se=5PVNR_dV8RGIh4nUmlVPng&utm_medium=api&utm_source=638f9cc6&v=DD59D6C91E170D7B28C3DC619F02C6C7DC057F43",
-      "posted": "2026-05-13",
-      "description": "Join our dynamic Employee Success team as the Go-to-Market (GTM) Operations Lead and play a pivotal role in orchestrating and overseeing cross-functional GTM campaigns, channel management, and adoption initiatives, ensuring cohesive execution and measurable impact across the organization. Your leadership will drive engagement, awareness, adoption, and continuous improvement, supporting our mission to make work better for everyone at JPMorganChase. Job Responsibilities  Oversee the strategy, rec\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "650f12d6b7de",
-      "title": "Customer Experience Associate (Precious Metals Analyst)",
-      "company": "Canada Gold",
-      "location": "Edmonton, Edmonton region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5727925103?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-13",
-      "description": "Job Description Job Description Salary: $25.00-$28.00 per hour Position:Customer Experience Associate (Precious Metals Analyst) Location (s):10345 78 Ave NW, Edmonton, Alberta, T6E 6T3 Rate:$25.00 per hour Who We Are AtCanada Gold, we dont just buy and sell jewellery, precious metals, and diamondswe help customers make informed financial decisions with confidence. As one of Canadas largest and most trusted precious metals dealers, we pride ourselves on transparency, expertise, and delivering ex\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "579d5c87f0a2",
-      "title": "Senior Specialist, People Analytics",
-      "company": "Deloitte",
-      "location": "Toronto, Ontario",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5728506251?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-13",
-      "description": "Job Type: Permanent Work Model: Hybrid Reference code: 131983 Primary Location: Toronto, ON All Available Locations: Toronto, ON Our Purpose At Deloitte, our Purpose is to make an impact that matters. We exist to inspire and help our people, organizations, communities, and countries to thrive by building a better future. Our work underpins a prosperous society where people can find meaning and opportunity. It builds consumer and business confidence, empowers organizations to find imaginative wa\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "6ae69cef0d62",
-      "title": "Manager, HRIS & People Analytics",
-      "company": "SAIT",
-      "location": "Calgary, Calgary region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5728292395?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-13",
-      "description": "Our people make SAIT shine. The Human Resources department ensures employees feel valued, supported and empowered to pursue bold ambitions and fulfilling careers. Be part of a team dedicated to helping every employee thrive and make the most of their SAIT journey. The Opportunity Job classification : M1100 - Manager Salary range: $130,000.00 - $145,000.00 Placement within the range is typically based upon a review of skills, experience, and internal equity. Hours per week: 37.5 Deadline to appl\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "45c02ad8d2cd",
-      "title": "Go-to-Market Operations Director - Employee Experience",
-      "company": "JPMorgan Chase",
-      "location": "Tyler Park, Hudson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728710403?se=JOJ9qpZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=638f9cc6&v=DD59D6C91E170D7B28C3DC619F02C6C7DC057F43",
-      "posted": "2026-05-13",
-      "description": "Join our dynamic Employee Success team as the Go-to-Market (GTM) Operations Lead and play a pivotal role in orchestrating and overseeing cross-functional GTM campaigns, channel management, and adoption initiatives, ensuring cohesive execution and measurable impact across the organization. Your leadership will drive engagement, awareness, adoption, and continuous improvement, supporting our mission to make work better for everyone at JPMorganChase. Job Responsibilities  Oversee the strategy, rec\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "6c42c133ed42",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=ZkuCuZZW8RGvmYhZjb_dKQ&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "0b16094a2ea9",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=ZkuCuZZW8RGvmYhZjb_dKQ&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "00bd90237315",
-      "title": "Go-to-Market Operations Director - Employee Experience",
-      "company": "JPMorgan Chase",
-      "location": "Tyler Park, Hudson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728710403?se=gjTT-F9X8RGb7f8grSVscQ&utm_medium=api&utm_source=638f9cc6&v=DD59D6C91E170D7B28C3DC619F02C6C7DC057F43",
-      "posted": "2026-05-13",
-      "description": "Join our dynamic Employee Success team as the Go-to-Market (GTM) Operations Lead and play a pivotal role in orchestrating and overseeing cross-functional GTM campaigns, channel management, and adoption initiatives, ensuring cohesive execution and measurable impact across the organization. Your leadership will drive engagement, awareness, adoption, and continuous improvement, supporting our mission to make work better for everyone at JPMorganChase. Job Responsibilities  Oversee the strategy, rec\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "9fe56140e0c7",
-      "title": "Go-to-Market Operations Director - Employee Experience",
-      "company": "JPMorgan Chase Bank, N.A.",
-      "location": "Summit Avenue, Hudson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5728230654?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-13",
-      "description": "Join our dynamic Employee Success team as the Go-to-Market (GTM) Operations Lead and play a pivotal role in orchestrating and overseeing cross-functional GTM campaigns, channel management, and adoption initiatives, ensuring cohesive execution and measurable impact across the organization. Your leadership will drive engagement, awareness, adoption, and continuous improvement, supporting our mission to make work better for everyone at JPMorganChase. Job Responsibilities Oversee the strategy, reco\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "f6ba686e14bd",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=0nPXBWBX8RGWQvEe2bTbLw&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "ea865900f5f6",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=0nPXBWBX8RGWQvEe2bTbLw&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "bd9ce718131e",
-      "title": "Go-to-Market Operations Director - Employee Experience",
-      "company": "JPMorgan Chase",
-      "location": "Tyler Park, Hudson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728710403?se=tIPRylNY8RGTDdJK-7cL6w&utm_medium=api&utm_source=638f9cc6&v=DD59D6C91E170D7B28C3DC619F02C6C7DC057F43",
-      "posted": "2026-05-13",
-      "description": "Join our dynamic Employee Success team as the Go-to-Market (GTM) Operations Lead and play a pivotal role in orchestrating and overseeing cross-functional GTM campaigns, channel management, and adoption initiatives, ensuring cohesive execution and measurable impact across the organization. Your leadership will drive engagement, awareness, adoption, and continuous improvement, supporting our mission to make work better for everyone at JPMorganChase. Job Responsibilities  Oversee the strategy, rec\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "68d269cc541d",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=XpQi01NY8RGWQvEe2bTbLw&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "07cf362a5178",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=XpQi01NY8RGWQvEe2bTbLw&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "c4c7e18751ca",
-      "title": "Go-to-Market Operations Director - Employee Experience",
-      "company": "JPMorgan Chase",
-      "location": "Tyler Park, Hudson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728710403?se=pPN1ICtZ8RGBjO8nXeSlkg&utm_medium=api&utm_source=638f9cc6&v=DD59D6C91E170D7B28C3DC619F02C6C7DC057F43",
-      "posted": "2026-05-13",
-      "description": "Join our dynamic Employee Success team as the Go-to-Market (GTM) Operations Lead and play a pivotal role in orchestrating and overseeing cross-functional GTM campaigns, channel management, and adoption initiatives, ensuring cohesive execution and measurable impact across the organization. Your leadership will drive engagement, awareness, adoption, and continuous improvement, supporting our mission to make work better for everyone at JPMorganChase. Job Responsibilities  Oversee the strategy, rec\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "6b09489467d7",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=xN0cKStZ8RG4lsJaMgBbHQ&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "d63ac8a6e233",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=xN0cKStZ8RG4lsJaMgBbHQ&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "1f21fb9a34cb",
-      "title": "Go-to-Market Operations Director - Employee Experience",
-      "company": "JPMorgan Chase",
-      "location": "Tyler Park, Hudson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728710403?se=3tdLx_NZ8RGVwO7mwmvPAA&utm_medium=api&utm_source=638f9cc6&v=DD59D6C91E170D7B28C3DC619F02C6C7DC057F43",
-      "posted": "2026-05-13",
-      "description": "Join our dynamic Employee Success team as the Go-to-Market (GTM) Operations Lead and play a pivotal role in orchestrating and overseeing cross-functional GTM campaigns, channel management, and adoption initiatives, ensuring cohesive execution and measurable impact across the organization. Your leadership will drive engagement, awareness, adoption, and continuous improvement, supporting our mission to make work better for everyone at JPMorganChase. Job Responsibilities  Oversee the strategy, rec\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "10808bf300ca",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=nABU2PNZ8RGVwO7mwmvPAA&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "37bbfe2cd355",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=nABU2PNZ8RGVwO7mwmvPAA&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "0fec8f6cd890",
-      "title": "Go-to-Market Operations Director - Employee Experience",
-      "company": "JPMorgan Chase",
-      "location": "Tyler Park, Hudson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728710403?se=ar78Gb5a8RGDNYtSvPqNqw&utm_medium=api&utm_source=638f9cc6&v=DD59D6C91E170D7B28C3DC619F02C6C7DC057F43",
-      "posted": "2026-05-13",
-      "description": "Join our dynamic Employee Success team as the Go-to-Market (GTM) Operations Lead and play a pivotal role in orchestrating and overseeing cross-functional GTM campaigns, channel management, and adoption initiatives, ensuring cohesive execution and measurable impact across the organization. Your leadership will drive engagement, awareness, adoption, and continuous improvement, supporting our mission to make work better for everyone at JPMorganChase. Job Responsibilities  Oversee the strategy, rec\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "0b254f67f6ed",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=HvMeI75a8RGvy-bvea3yog&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5bc3eaf0cffe",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=HvMeI75a8RGvy-bvea3yog&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "aecb4bcaa360",
-      "title": "Go-to-Market Operations Director - Employee Experience",
-      "company": "JPMorgan Chase",
-      "location": "Tyler Park, Hudson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728710403?se=hOtT7Ydb8RGbGvW-bcCcHA&utm_medium=api&utm_source=638f9cc6&v=DD59D6C91E170D7B28C3DC619F02C6C7DC057F43",
-      "posted": "2026-05-13",
-      "description": "Join our dynamic Employee Success team as the Go-to-Market (GTM) Operations Lead and play a pivotal role in orchestrating and overseeing cross-functional GTM campaigns, channel management, and adoption initiatives, ensuring cohesive execution and measurable impact across the organization. Your leadership will drive engagement, awareness, adoption, and continuous improvement, supporting our mission to make work better for everyone at JPMorganChase. Job Responsibilities  Oversee the strategy, rec\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "743ec68e3ff9",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=jPNh94db8RGbGvW-bcCcHA&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a76291d655ed",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=jPNh94db8RGbGvW-bcCcHA&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "e6574382b0ab",
-      "title": "Go-to-Market Operations Director - Employee Experience",
-      "company": "JPMorgan Chase",
-      "location": "Tyler Park, Hudson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728710403?se=3LKKkxdc8RGbGvW-bcCcHA&utm_medium=api&utm_source=638f9cc6&v=DD59D6C91E170D7B28C3DC619F02C6C7DC057F43",
-      "posted": "2026-05-13",
-      "description": "Join our dynamic Employee Success team as the Go-to-Market (GTM) Operations Lead and play a pivotal role in orchestrating and overseeing cross-functional GTM campaigns, channel management, and adoption initiatives, ensuring cohesive execution and measurable impact across the organization. Your leadership will drive engagement, awareness, adoption, and continuous improvement, supporting our mission to make work better for everyone at JPMorganChase. Job Responsibilities  Oversee the strategy, rec\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "606e443f247e",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=hisJnRdc8RGbGvW-bcCcHA&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "f0c104f5c686",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=hisJnRdc8RGbGvW-bcCcHA&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "d4811b84419e",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=LF83OOdc8RGUJNJexxfy6Q&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "b01d65dadcd2",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=LF83OOdc8RGUJNJexxfy6Q&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "00dbb2a4e273",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=rIl-jv1d8RGBK8_SYvQaYA&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "fa157646e13d",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=rIl-jv1d8RGBK8_SYvQaYA&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "0f14a9cfa568",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=cj1Sl7Ve8RGuQY7yxssiuQ&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "c83c6cd1e929",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=cj1Sl7Ve8RGuQY7yxssiuQ&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "de7f5ee70bff",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=uBSHgTtg8RGG7L_q_9cIHQ&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "28577add4a2a",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=uBSHgTtg8RGG7L_q_9cIHQ&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "66a19ab60874",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=HK5ny_lg8RGC-sxjVDhDTQ&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "66fe90b11f52",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=HK5ny_lg8RGC-sxjVDhDTQ&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "258b39e859f3",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=CB1CoZhh8RGHk5mrcEw0_Q&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "827bfcd3c687",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=CB1CoZhh8RGHk5mrcEw0_Q&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a330c2c9feef",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=WObkn2li8RGHk5mrcEw0_Q&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "adfb68510363",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=WObkn2li8RGHk5mrcEw0_Q&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "b5d42b9bcf30",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=9gbsuWBj8RGTW7GEtrxXDQ&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9928ff45dad8",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=9gbsuWBj8RGTW7GEtrxXDQ&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "fac581386dba",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=iCyLEh9k8RGufrs9mrrgHA&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "d2a5772b3076",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=iCyLEh9k8RGufrs9mrrgHA&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5126f890aeea",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=5jeHJ_Rk8RGjf-CiiQBFeg&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "dff2a2a5c629",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=5jeHJ_Rk8RGjf-CiiQBFeg&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "eed8889a358b",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=5vUvJ79l8RGOccqhHlf4XA&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "f39581a10e49",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=5vUvJ79l8RGOccqhHlf4XA&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "488b69b902f0",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "East Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551525?se=erThm3xm8RG0btGxqHH3qw&utm_medium=api&utm_source=638f9cc6&v=CD75DA01862F0BB0B6B5F1D10522A826E169ECF2",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "558c0ec4acf2",
-      "title": "Sr. Technical Program Manager - CX AI solutions, AWS UX Design Team",
-      "company": "Amazon",
-      "location": "Holy, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5728551535?se=erThm3xm8RG0btGxqHH3qw&utm_medium=api&utm_source=638f9cc6&v=61B91DCB8E9D28DDB2617FA868962CD8E470A5B0",
-      "posted": "2026-05-13",
-      "description": "Description Join our UX Design organization within AWS Platform Operations & Tooling, where we're building the future of customer experience through AI-powered solutions. Our team operates across four strategic pillars: AWS Service Design (Governance & Ops), Tooling/Onboarding & Sales Enablement, CX AI Solutions, and Organizational Operations. This role specifically supports our CX AI Solutions pillar, driving innovation at the intersection of user experience and artificial intelligence. Key jo\u2026",
+      "url": "https://www.adzuna.com/land/ad/5728938999?se=voBh0CBn8RGhB4OIQ4b5DQ&utm_medium=api&utm_source=638f9cc6&v=53CCAEE81282C8A882A981C4E9F95EB1A3536FA2",
+      "posted": "2026-05-14",
+      "description": "Description About Digital Asset & the Canton Network Digital Asset builds the technologies that are reshaping the foundations of financial markets. Our mission is to create the world\u2019s most trusted, privacy-enabled, and interoperable digital infrastructure for global finance. At the heart of this mission is the Canton Network \u2014 the blockchain purpose-built for institutional finance. Uniquely combining privacy, compliance, and scalability, Canton enables real-time, secure settlement across multi\u2026",
       "source": "adzuna",
       "country": "US",
       "tags": [
