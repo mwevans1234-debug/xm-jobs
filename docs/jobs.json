@@ -1,7 +1,203 @@
 {
-  "updated": "2026-06-20T12:18:54Z",
-  "count": 1553,
+  "updated": "2026-06-21T12:34:23Z",
+  "count": 1525,
   "jobs": [
+    {
+      "id": "7c92c29f073f",
+      "title": "customer experience manager",
+      "company": "Michaels",
+      "location": "Abington, Montgomery County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5771665387?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-21",
+      "description": "Store - PHI-ABINGTON, PA Deliver a customer centric shopping experience by managing and delivering effective front-end operations and expectations. Lead the omnichannel processes. Maintain store recovery standards to deliver our Brand Promises. Deliver friendly customer service. Assist Store Manager in leading and managing adherence to Standard Operating Procedures (SOPs) and Company programs to ensure compliance with applicable laws and requirements; ensure execution of Company policies and st\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "11214f8ce67f",
+      "title": "Associate Manager, Customer Experience",
+      "company": "OhioHealth",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5771637610?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-21",
+      "description": "We are more than a health system. We are a belief system. We believe wellness and sickness are both part of a lifelong partnership, and that everyone could use an expert guide. We work hard, care deeply and reach further to help people uncover their own power to be healthy. We inspire hope. We learn, grow, and achieve more \u2013 in our careers and in our communities. Job Description Summary: The Manager, Customer Experience leads day to day departmental operations to deliver a high quality, consist\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7d169089b8f9",
+      "title": "Associate Clinical Experience Analyst - Customer Service Representative",
+      "company": "Exact Sciences",
+      "location": "Marshfield, Wood County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5771698490?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-21",
+      "description": "Help us change lives At Exact Sciences, we\u2019re helping change how the world prevents, detects and guides treatment for cancer. We give patients and clinicians the clarity needed to make confident decisions when they matter most. Join our team to find a purpose-driven career, an inclusive culture, and robust benefits to support your life while you\u2019re working to help others. Position Overview This role delivers clinical expertise and operational support, ensuring accurate handling of medical inqui\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "d76ca7ddce21",
+      "title": "Strategy & Analytics Manager - Customer Experience Efficiency",
+      "company": "StubHub",
+      "location": "Los Angeles, Los Angeles County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5771538921?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-21",
+      "description": "StubHub is on a mission to redefine the live event experience on a global scale. Whether someone is looking to attend their first event or their hundredth, we\u2019re here to delight them all the way from the moment they start looking for a ticket until they step through the gate. The same goes for our sellers. From fans selling a single ticket to the promoters of a worldwide stadium tour, we want StubHub to be the safest, most convenient way to offer a ticket to the millions of fans who browse our \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "e1ed084ecbb4",
+      "title": "Design Technologist, AWS Marketing CX",
+      "company": "Amazon",
+      "location": "Chicago, Cook County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5771537272?se=cKtSHm1t8RGYAattZ9muOw&utm_medium=api&utm_source=638f9cc6&v=554C73EA908F8DD9FDC8E144970E3DA3A83BBF65",
+      "posted": "2026-06-21",
+      "description": "Join AWS Marketing as a Design Technologist and help revolutionize how we shape our website experiences. In this role, you'll pioneer prototyping as a fundamental capability that drives our digital strategy forward. Working within a dynamic cross-functional team, you'll craft innovative prototypes that demonstrate critical functionality and influence product decisions through hands-on exploration of design, usability, and technical feasibility. Your expertise will be instrumental in transformin\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "03cfd9cdce1d",
+      "title": "Voice of the Customer (VoC) Strategist",
+      "company": "Unum Group",
+      "location": "Chattanooga, Hamilton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5771605795?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-21",
+      "description": "Job Posting End Date: June 19 When you join the team at Unum, you become part of an organization committed to helping you thrive. Here, we work to provide the employee benefits and service solutions that enable employees at our client companies to thrive throughout life\u2019s moments. And this starts with ensuring that every one of our team members enjoys opportunities to succeed both professionally and personally. To enable this, we provide: Award-winning culture Inclusion and diversity as a prior\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "8c18d3ffaa45",
+      "title": "Customer Experience Manager",
+      "company": "Sainsbury's",
+      "location": "Belfast, Northern Ireland",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5771653593?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-21",
+      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "0516dd75415a",
+      "title": "Customer Experience Manager",
+      "company": "Sainsbury's",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5771653613?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-21",
+      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f116da7b8a77",
+      "title": "Customer Feedback & Insight Facilitator",
+      "company": "Hedyn",
+      "location": "Newport, Wales",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5771673542?se=PpU8MW1t8RGrKszqFbIEfQ&utm_medium=api&utm_source=638f9cc6&v=C1E3471CDD5650093AF86AC9B6DE3C193307296E",
+      "posted": "2026-06-21",
+      "description": "Vacancy: Customer Feedback & Insight Facilitator Contract: 7 months FTC Closing date: Tuesday 30 June Shortlisting: Friday 3 June Proposed Interview date: w/c 6 July Salary: \u00a329,588.35 About the vacancy: Join our Homes & Communities team as a Customer Feedback & Insight Facilitator , where your work will directly influence how services are designed and delivered. With customers at the heart of everything we do, you'll engage with a diverse community to gather meaningful feedback, turning insigh\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d7c530250c4c",
+      "title": "Customer Feedback & Insight Facilitator",
+      "company": "Hedyn",
+      "location": "Newport, Wales",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5771673542?se=ZoEUNm1t8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=C1E3471CDD5650093AF86AC9B6DE3C193307296E",
+      "posted": "2026-06-21",
+      "description": "Vacancy: Customer Feedback & Insight Facilitator Contract: 7 months FTC Closing date: Tuesday 30 June Shortlisting: Friday 3 June Proposed Interview date: w/c 6 July Salary: \u00a329,588.35 About the vacancy: Join our Homes & Communities team as a Customer Feedback & Insight Facilitator , where your work will directly influence how services are designed and delivered. With customers at the heart of everything we do, you'll engage with a diverse community to gather meaningful feedback, turning insigh\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "cc52a7d4d39c",
+      "title": "Manager, Customer Experience",
+      "company": "TD Bank",
+      "location": "Yorkton, Saskatchewan",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5771459580?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-21",
+      "description": "Work Location: Yorkton, Saskatchewan, Canada Hours: 18.75 Line of Business: Personal & Commercial Banking Pay Details: $57,100 - $80,600 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The ba\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f3ff0e932cae",
+      "title": "Customer Experience Lead",
+      "company": "Forbes Shire Council",
+      "location": "Forbes Area, Bathurst-Orange Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5770774927?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-21",
+      "description": "An exciting opportunity has become available for a Customer Experience Lead to join the Corporate Business Department of Forbes Shire Council. Reporting directly to the Manager Corporate Business, the aim on this position is to provide high-quality business services and administrative support to all tiers of Council, leading and supervising a professional, multi-faceted customer experience and business services team on behalf of Forbes Shire Council and the community. Working both independently\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b18939063bd4",
+      "title": "Brand Experience Lead",
+      "company": "Havas",
+      "location": "Australia",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5771222966?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-21",
+      "description": "Agency : Red Agency Job Description : Havas Blvd is looking for a Brand Experience Lead to join our Sydney team and help shape the next chapter of our experiential offering. We're looking for someone who can create an experience not just an event. The kind of person who notices the details nobody else does. The guest journey. The first impression. The lighting. The flow. The moment everyone pulls out their phone. The thing people talk about on the flight home. At Havas Blvd, we create experienc\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "other"
+      ]
+    },
     {
       "id": "a6a79946dca6",
       "title": "Customer Experience Specialist - Part Time",
@@ -211,6 +407,248 @@
       "country": "AU",
       "tags": [
         "cx"
+      ]
+    },
+    {
+      "id": "a542b0a36942",
+      "title": "Director, Customer Experience Strategy & Operations",
+      "company": "DoorDash USA",
+      "location": "La Grange, Dutchess County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5771357850?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-20",
+      "description": "About the Team The Customer Experience team serves as a foundational operations pillar at DoorDash, dedicated to resolving friction within the last mile. We architect and oversee an expansive global network of support centers, obsessing over the user journey to ensure every interaction is seamless and reliable. Our mission is to scale a best-in-class support infrastructure that advocates for our community and delivers excellence at the lowest level of detail. About the Role DoorDash is looking \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "38970f573394",
+      "title": "Customer Experience Specialist",
+      "company": "OhioHealth",
+      "location": "Grandview Heights, Franklin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5771309468?se=_mjrG21t8RGYAattZ9muOw&utm_medium=api&utm_source=638f9cc6&v=F3ED934CA34BD33A5A255D17251668F351EE9ADF",
+      "posted": "2026-06-20",
+      "description": "We are more than a health system. We are a belief system. We believe wellness and sickness are both part of a lifelong partnership, and that everyone could use an expert guide. We work hard, care deeply and reach further to help people uncover their own power to be healthy. We inspire hope. We learn, grow, and achieve more - in our careers and in our communities. Job Description Summary: Reporting to the Director, Customer Experience and Hospitality Services, the Customer Experience Specialist \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1edfb77738a9",
+      "title": "Customer Experience Specialist",
+      "company": "OhioHealth",
+      "location": "Grandview Heights, Franklin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5771309461?se=_mjrG21t8RGYAattZ9muOw&utm_medium=api&utm_source=638f9cc6&v=118D6B0B6ABFC04ED31D503B9617FCAD832E33DE",
+      "posted": "2026-06-20",
+      "description": "We are more than a health system. We are a belief system. We believe wellness and sickness are both part of a lifelong partnership, and that everyone could use an expert guide. We work hard, care deeply and reach further to help people uncover their own power to be healthy. We inspire hope. We learn, grow, and achieve more - in our careers and in our communities. Job Description Summary: Reporting to the Director, Customer Experience and Hospitality Services, the Customer Experience Specialist \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b4e5ba6baaf2",
+      "title": "Patient Experience Specialist",
+      "company": "OhioHealth",
+      "location": "Grandview Heights, Franklin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5771309467?se=_mjrG21t8RGYAattZ9muOw&utm_medium=api&utm_source=638f9cc6&v=1555DD11DDFCB37844D0E5626D002EC6C5C34DA5",
+      "posted": "2026-06-20",
+      "description": "We are more than a health system. We are a belief system. We believe wellness and sickness are both part of a lifelong partnership, and that everyone could use an expert guide. We work hard, care deeply and reach further to help people uncover their own power to be healthy. We inspire hope. We learn, grow, and achieve more - in our careers and in our communities. Job Description Summary: Reporting to the Director, Customer Experience and Hospitality Services, the Customer Experience Specialist \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "575631015dfc",
+      "title": "Customer Experience Specialist",
+      "company": "OhioHealth",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5770624804?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-20",
+      "description": "We are more than a health system. We are a belief system. We believe wellness and sickness are both part of a lifelong partnership, and that everyone could use an expert guide. We work hard, care deeply and reach further to help people uncover their own power to be healthy. We inspire hope. We learn, grow, and achieve more \u2013 in our careers and in our communities. Job Description Summary: Reporting to the Director, Customer Experience and Hospitality Services, the Customer Experience Specialist \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1d8f19fa4b5d",
+      "title": "Product Manager (Customer insights and Intelligence)",
+      "company": "Creditsafe",
+      "location": "Splott, Cardiff",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5770809216?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-20",
+      "description": "We are currently looking for a Product Manager to join our Domains Product team in Cardiff. You will be expected to attend the office 50% of the working week, in line with our hybrid working policy. WHO ARE WE? At Creditsafe, we weave our core values of customer obsession, trust, respect, and the courage to be different into everything we do. These values are at the heart of our culture and have helped us build an environment focused on growth, innovation, wellbeing, and long-term success over \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "704c597cf8e8",
+      "title": "Customer Feedback Officer",
+      "company": "Hull City Council",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5770813021?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-20",
+      "description": "Number of Vacancies: 1 Time Type: Full time Worker Type: Regular Proposed Interview Date: Thursday, July 23, 2026 Hours of Work: 37 Hiring Manager: Tracy Pocklington Contact Number: 01482 616153 Job Description Summary: This is a full time, permanent position. For an informal discussion about the role, please contact Tracy Pocklington, External Relations Manager 01482 616 153 or Tracy.Pocklington@hullcc.gov.uk About Us The Housing Investment Service is responsible for the management and deliver\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b0049d873353",
+      "title": "Customer Experience Associate",
+      "company": "TD",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5771094712?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-20",
+      "description": "Work Location: Whitby, Ontario, Canada Hours: 15 Line of Business: Personal & Commercial Banking Pay Details: $22.50 - $28.33 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actu\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "32a30c652c45",
+      "title": "Customer Experience Manager",
+      "company": "Laura",
+      "location": "Windsor, Essex region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5771046980?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-20",
+      "description": "How will you support the team? As part of Management, the Store Assistant Manager possesses a passion for fashion and customer service. They recruit and lead a winning team that provides a unique and memorable shopping experience to every customer. They foster a vibrant, fun, energetic and enjoyable store environment. Act as a stylist to build a personalized wardrobe to the customer. Develop and coach a team on exemplary customer service, the promotion of different programs, product knowledge a\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "11be2bd45f61",
+      "title": "Customer Experience Manager",
+      "company": "Laura",
+      "location": "Winnipeg region, Manitoba",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5771035408?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-20",
+      "description": "How will you support the team? As part of Management, the Store Assistant Manager possesses a passion for fashion and customer service. They recruit and lead a winning team that provides a unique and memorable shopping experience to every customer. They foster a vibrant, fun, energetic and enjoyable store environment. Act as a stylist to build a personalized wardrobe to the customer. Develop and coach a team on exemplary customer service, the promotion of different programs, product knowledge a\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "eb48d73f188d",
+      "title": "Customer Experience Manager",
+      "company": "Laura Canada",
+      "location": "Winnipeg region, Manitoba",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5770873593?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-20",
+      "description": "How will you support the team?As part of Management, the Store Assistant Manager possesses a passion for fashion and customer service. They recruit and lead a winning team that provides a unique and memorable shopping experience to every customer. They foster a vibrant, fun, energetic and enjoyable store environment. Act as a stylist to build a personalized wardrobe to the customer.Develop and coach a team on exemplary customer service, the promotion of different programs, product knowledge and\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b31151db9c0b",
+      "title": "Customer Experience Manager",
+      "company": "Laura Canada",
+      "location": "Windsor, Essex region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5770868467?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-20",
+      "description": "How will you support the team?As part of Management, the Store Assistant Manager possesses a passion for fashion and customer service. They recruit and lead a winning team that provides a unique and memorable shopping experience to every customer. They foster a vibrant, fun, energetic and enjoyable store environment. Act as a stylist to build a personalized wardrobe to the customer.Develop and coach a team on exemplary customer service, the promotion of different programs, product knowledge and\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "132b6d42e0b8",
+      "title": "The Strategist - Administrative & Customer Experience",
+      "company": "Dabbl' - Open Roles",
+      "location": "Ontario, Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5770568414?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-20",
+      "description": "Job Description Job Description Administrative & Customer Experience Leader - You're the Strategist Dabbl\u2019 connects administrative and customer support leaders with flexible, part-time engagements that help businesses stay organized, responsive, and efficient. Our clients rely on Dabbl\u2019 for professionals who can manage communications, support clients, and keep internal operations running smoothly. Rather than posting individual roles, we match professionals to opportunities as they arise. Profe\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a11e6e2298ec",
+      "title": "Senior Project Manager, CX PMO",
+      "company": "Instacart",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5770945019?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-20",
+      "description": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "347a56be2d43",
+      "title": "Director, Experience Management & Governance",
+      "company": "Bank of Montreal",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5771007810?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-20",
+      "description": "Application Deadline: 07/01/2026 Address: VIRTUAL(R)59 - REMOTE/TELETRAVAIL - ON - BMO Job Family Group: Business Management Supports the business/group leader in the effective implementation, maintenance and administration of first line of defense (1st LOD) programs (e.g., operational risk, AML, compliance, regulatory, etc.), including overseeing business operations within the jurisdiction to ensure adherence and efficiency. Contributes to a strong risk management culture through collaboration\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "xm"
+      ]
+    },
+    {
+      "id": "f6a24608424c",
+      "title": "Customer Experience Associate",
+      "company": "Cushman and Wakefield",
+      "location": "Perth CBD, Perth",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5769924147?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-20",
+      "description": "Job Title Customer Experience Associate Job Description Summary This role delivers front-of-house, concierge, and workplace support services to ensure a seamless customer and employee experience. Key responsibilities include welcoming visitors, managing reception and access, coordinating meeting rooms and events, handling mail and deliveries, and supporting workplace requests such as lockers, parking, and facilities. The position requires proactive customer service, strong communication, and cl\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx",
+        "ex"
       ]
     },
     {
@@ -785,6 +1223,83 @@
       "url": "https://www.adzuna.ca/details/5769762291?utm_medium=api&utm_source=638f9cc6",
       "posted": "2026-06-19",
       "description": "\u2800 Are you fascinated with pilot training and how CAE\u2019s training devices are used to make air travel safer? Are you interested to know more about our customers? As a Customer Experience Lead, you will have the opportunity to be at the fore front of executing CAE\u2019s vision to be the training partner of choice, to build long lasting relationships with our customers. We are looking for relationships builders, brand champions and candidates ready to take on their customers needs and represent them wi\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ff7c37cf4356",
+      "title": "Director, Customer Experience",
+      "company": "QXO",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5770053605?se=_mjrG21t8RGYAattZ9muOw&utm_medium=api&utm_source=638f9cc6&v=EE6A7B4F9DE6E980787B55B3AF3ED562CE459E63",
+      "posted": "2026-06-19",
+      "description": "The Director, Customer Experience is accountable for designing, leading, and operating QXO's enterprise Customer Experience program. This role owns the end-to-end customer service model, ensuring QXO presents one unified face to the customer while driving consistent service levels, clear accountability, and strong alignment with Sales and Operations. The Director, CX leads a cross functional influence in partnership with field operations leaders by division who lead Key Account Managers. This i\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "f5687d31777d",
+      "title": "CX Insights Analyst-NO C2C/LOCAL ONLY",
+      "company": "JSG ",
+      "location": "Irvine, Orange County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5769828294?se=6idEHW1t8RGl0MKcaJBBpg&utm_medium=api&utm_source=638f9cc6&v=B8B85C06F23881C38946C9F7BFD8D8F8B6582353",
+      "posted": "2026-06-19",
+      "description": "Job Description Johnson Service Group (JSG) is seeking a Customer Experience (CX) Insights Analyst to join a team in Irvine, CA (onsite) for a short term engagement . This role supports a real-time understanding of customer experience performance across the business by analyzing customer signals, maintaining dashboards and reporting, and delivering actionable insights to help identify experience gaps, improve customer journeys, and enhance overall customer satisfaction. Working closely with the\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "0b56bb9bbc67",
+      "title": "CX Manager",
+      "company": "Unum Group",
+      "location": "Edgewood, Richland County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5769999227?se=uGthL21t8RGrKszqFbIEfQ&utm_medium=api&utm_source=638f9cc6&v=D4CD8FED189CDC0658C39CD5A20750E4F3C8398A",
+      "posted": "2026-06-19",
+      "description": "Job Posting End Date: June 19 When you join the team at Unum, you become part of an organization committed to helping you thrive. Here, we work to provide the employee benefits and service solutions that enable employees at our client companies to thrive throughout life's moments. And this starts with ensuring that every one of our team members enjoys opportunities to succeed both professionally and personally. To enable this, we provide:  Award-winning culture  Inclusion and diversity as a pri\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "6762f84ccd4a",
+      "title": "Voice of the Customer (VoC) Strategist",
+      "company": "Unum Group",
+      "location": "Edgewood, Richland County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5769999219?se=uGthL21t8RGrKszqFbIEfQ&utm_medium=api&utm_source=638f9cc6&v=1AFAC7CB22084AD9B9169C999967BD8954FEC51C",
+      "posted": "2026-06-19",
+      "description": "Job Posting End Date: June 19 When you join the team at Unum, you become part of an organization committed to helping you thrive. Here, we work to provide the employee benefits and service solutions that enable employees at our client companies to thrive throughout life's moments. And this starts with ensuring that every one of our team members enjoys opportunities to succeed both professionally and personally. To enable this, we provide:  Award-winning culture  Inclusion and diversity as a pri\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2faa8412fd06",
+      "title": "Customer Experience Manager - 7052 Regina",
+      "company": "The Home Depot Canada",
+      "location": "Regina, Regina region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/land/ad/5769977329?se=yAXxO21t8RGl0MKcaJBBpg&utm_medium=api&utm_source=638f9cc6&v=FB55DE013E54EEA6E221F067D021C05CED2FFFB9",
+      "posted": "2026-06-19",
+      "description": "Job Description Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If you\u2019re also naturally curious and eager to keep learning, consider starting or growing your career with us at The Home Depot. Position Overview: Customer Experience Managers (CXM) are members of the store leadership and management team, overseeing execution of store standards across the entire store, including customer\u2026",
       "source": "adzuna",
       "country": "CA",
       "tags": [
@@ -1594,6 +2109,38 @@
       "location": "North West London, London",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5768056034?se=tLwQ66Fs8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=B85D5D0F7F200B150DB9F0352E7B4D8DF82A7280",
+      "posted": "2026-06-18",
+      "description": "Founded in 2003 Wasabi's vision is to lovingly create and serve delicious Asian food for a busy nation. Wasabi now has 42 thriving restaurants across London and major UK cities and 4 in New York and in 2019, we introduced Wasabi Home Ben to the grocery channel , launch ing exclusively in Sainsbury's . Building on that success, the grocery business broadened its reach to Tesco in September 2022, followed by exciting launches in Co-op and Morrisons in 2024. Wasabi grocery has seen phenomenal grow\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "dbe3ab28e7dc",
+      "title": "Customer Insights Manager",
+      "company": "WASABI CO. LTD",
+      "location": "North West London, London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5768056034?se=jOqbM21t8RGYAattZ9muOw&utm_medium=api&utm_source=638f9cc6&v=B85D5D0F7F200B150DB9F0352E7B4D8DF82A7280",
+      "posted": "2026-06-18",
+      "description": "Founded in 2003 Wasabi's vision is to lovingly create and serve delicious Asian food for a busy nation. Wasabi now has 42 thriving restaurants across London and major UK cities and 4 in New York and in 2019, we introduced Wasabi Home Ben to the grocery channel , launch ing exclusively in Sainsbury's . Building on that success, the grocery business broadened its reach to Tesco in September 2022, followed by exciting launches in Co-op and Morrisons in 2024. Wasabi grocery has seen phenomenal grow\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "d6a203cdbca3",
+      "title": "Customer Insights Manager",
+      "company": "WASABI CO. LTD",
+      "location": "North West London, London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5768056034?se=Dk2OOW1t8RGrKszqFbIEfQ&utm_medium=api&utm_source=638f9cc6&v=B85D5D0F7F200B150DB9F0352E7B4D8DF82A7280",
       "posted": "2026-06-18",
       "description": "Founded in 2003 Wasabi's vision is to lovingly create and serve delicious Asian food for a busy nation. Wasabi now has 42 thriving restaurants across London and major UK cities and 4 in New York and in 2019, we introduced Wasabi Home Ben to the grocery channel , launch ing exclusively in Sainsbury's . Building on that success, the grocery business broadened its reach to Tesco in September 2022, followed by exciting launches in Co-op and Morrisons in 2024. Wasabi grocery has seen phenomenal grow\u2026",
       "source": "adzuna",
@@ -3214,6 +3761,36 @@
       ]
     },
     {
+      "id": "ae1603cbebb5",
+      "title": "Data Analyst, Customer Experience",
+      "company": "SGS Consulting",
+      "location": "Bee Cave, Travis County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5765747917?se=6idEHW1t8RGl0MKcaJBBpg&utm_medium=api&utm_source=638f9cc6&v=7FC1F576AF72F7D3FCBF666289C0CA7E8D7D2E06",
+      "posted": "2026-06-16",
+      "description": "Summary: As a CX Analyst for Customer Experience (CX) team, you will join a global team leveraging customer feedback to drive service improvements and business growth. You will analyze support surveys and operational data to identify improvement areas and partner with cross-functional teams to implement enhancement strategies. By applying your expertise in data analysis and storytelling, you will help define the future of our customer support program. Responsibilities: Identify trends, opportun\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "33392baf45c4",
+      "title": "Director of Customer Experience",
+      "company": "WeDoTech",
+      "location": "Rusholme, Manchester",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5765662339?se=NiCXMG1t8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=F64198294267F6EF44970B4B524876E1E196217D",
+      "posted": "2026-06-16",
+      "description": "Job Title: Director of Customer Experience Salary: Competitive  Executive Benefits Package Location: UK-Based (Regular Travel Required) Work Type: Permanent Role: An exceptional opportunity to join a high-growth technology services business at a pivotal stage in its journey. This organisation has built a reputation for delivering outstanding customer outcomes and is now entering an exciting new phase of growth and transformation. Customer experience has been a key differentiator throughout its \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "ee08b64e406b",
       "title": "Data Analyst V - CX or VoC",
       "company": "BC Forward",
@@ -3803,6 +4380,21 @@
       "location": "US",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5764946477?se=-IWZ0qFs8RGS2oTFae4rQw&utm_medium=api&utm_source=638f9cc6&v=B42697C55FA7DBC88155F3B9F14C5069351C792E",
+      "posted": "2026-06-15",
+      "description": "Job Title: Data Analyst IV (AI/CX) Location: Remote Duration: Contract - 12 months Pay Range: $65/hr $68/hr (W2) Job ID: 374695 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across North America and India, we take pride in building long-term\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "5709a7d19629",
+      "title": "Data Analyst IV (AI/CX)",
+      "company": "BCforward",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5764946477?se=6idEHW1t8RGl0MKcaJBBpg&utm_medium=api&utm_source=638f9cc6&v=B42697C55FA7DBC88155F3B9F14C5069351C792E",
       "posted": "2026-06-15",
       "description": "Job Title: Data Analyst IV (AI/CX) Location: Remote Duration: Contract - 12 months Pay Range: $65/hr $68/hr (W2) Job ID: 374695 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across North America and India, we take pride in building long-term\u2026",
       "source": "adzuna",
@@ -4911,6 +5503,22 @@
       "location": "Bergen, Genesee County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5763091611?se=jFVG2Ppr8RGXaKe3k6DaFg&utm_medium=api&utm_source=638f9cc6&v=5A84482FFB6F2E9CAE22724E8D33AE000165C4F2",
+      "posted": "2026-06-13",
+      "description": "Job Description CIMR Consumer Insights Analyst (Consumer Insight Market Research) Location: 5 days per week onsite in Bergen County, NJ *Candidates must have experience setting up panels/focus groups, conducting quantitative/qualitative research, making data recommendations to clients, and working in a flavors/fragrance company. Our client, a leading global flavor & fragrance company, is seeking a Consumer Insights Analyst to join their team! Essential Job Functions: Self-starter with the abili\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "78a5b82d4ee9",
+      "title": "Customer Insights Analyst",
+      "company": "Coda Search\u2502Staffing",
+      "location": "Bergen, Genesee County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5763091611?se=UE6SLm1t8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=5A84482FFB6F2E9CAE22724E8D33AE000165C4F2",
       "posted": "2026-06-13",
       "description": "Job Description CIMR Consumer Insights Analyst (Consumer Insight Market Research) Location: 5 days per week onsite in Bergen County, NJ *Candidates must have experience setting up panels/focus groups, conducting quantitative/qualitative research, making data recommendations to clients, and working in a flavors/fragrance company. Our client, a leading global flavor & fragrance company, is seeking a Consumer Insights Analyst to join their team! Essential Job Functions: Self-starter with the abili\u2026",
       "source": "adzuna",
@@ -6030,6 +6638,54 @@
       "location": "Phoenix, Maricopa County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5761982833?se=ZG1i3qFs8RGrKszqFbIEfQ&utm_medium=api&utm_source=638f9cc6&v=7F527E9EB176A712641CFDA0C83D76D8AA058AE6",
+      "posted": "2026-06-12",
+      "description": "As a Program Management Manager - Customer Experience Aerospace here at Honeywell, you will be responsible for leading and managing customer experience programs, ensuring that our customers have a seamless and positive experience throughout their engagement with us. Your role will involve developing and executing strategies that enhance customer satisfaction, drive operational excellence, and foster long-term relationships. By effectively managing customer experience initiatives at a senior lev\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "050f0edf49db",
+      "title": "Customer Experience Analyst",
+      "company": "Insight Global",
+      "location": "Stamford, Fairfield County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761980087?se=6idEHW1t8RGl0MKcaJBBpg&utm_medium=api&utm_source=638f9cc6&v=6A741C611F2BF81FAD91F6D21ADA66EFC232691D",
+      "posted": "2026-06-12",
+      "description": "Job Description Insight Global is seeking a data-driven, customer-obsessed CX Insights Analyst to join our client's CX journey & design team. This role will be pivotal in uncovering customer pain points, synthesizing insights into compelling stories, and partnering across UX Research, Marketing Research, and CX Design to drive our CX Improvement roadmap. The ideal candidate is equal parts analyst and storyteller-someone who loves diving into customer data and transforming it into meaningful ins\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "6c415f666681",
+      "title": "CX Program Management Lead - Aerospace",
+      "company": "Honeywell Aerospace",
+      "location": "Charlotte, Mecklenburg County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761987388?se=lkJNKm1t8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=C3B706A052AE59B50DA7AAB596C0ED9B6426DC4E",
+      "posted": "2026-06-12",
+      "description": "As a Program Management Manager - Customer Experience Aerospace here at Honeywell, you will be responsible for leading and managing customer experience programs, ensuring that our customers have a seamless and positive experience throughout their engagement with us. Your role will involve developing and executing strategies that enhance customer satisfaction, drive operational excellence, and foster long-term relationships. By effectively managing customer experience initiatives at a senior lev\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "15243f8315d7",
+      "title": "CX Program Management Lead - Aerospace",
+      "company": "Honeywell Aerospace",
+      "location": "Phoenix, Maricopa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761982833?se=lkJNKm1t8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=7F527E9EB176A712641CFDA0C83D76D8AA058AE6",
       "posted": "2026-06-12",
       "description": "As a Program Management Manager - Customer Experience Aerospace here at Honeywell, you will be responsible for leading and managing customer experience programs, ensuring that our customers have a seamless and positive experience throughout their engagement with us. Your role will involve developing and executing strategies that enhance customer satisfaction, drive operational excellence, and foster long-term relationships. By effectively managing customer experience initiatives at a senior lev\u2026",
       "source": "adzuna",
@@ -7770,6 +8426,37 @@
       "location": "Bournemouth, Dorset",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5758423070?se=urMd5qFs8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=0B400810FADB99ED44862F2D5047000129B639C4",
+      "posted": "2026-06-10",
+      "description": "Description Join us to shape the future of employee digital experiences at JPMorganChase. You will lead the operational heartbeat of our primary channels, making a real impact on how employees get help, find answers, and connect to support. We value your leadership, problem-solving skills, and passion for delivering stable, high-quality services. As part of our team, you\u2019ll collaborate across product, engineering, and analytics, driving improvements that matter. Discover a role where your exper\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "6b0c11ad0372",
+      "title": "TSD Customer Experience Analyst Support",
+      "company": "The Reynolds and Reynolds Company",
+      "location": "North Andover, Essex County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5759429158?se=6idEHW1t8RGl0MKcaJBBpg&utm_medium=api&utm_source=638f9cc6&v=487406B52A856996862FAF6E24BC4155DBDB6428",
+      "posted": "2026-06-10",
+      "description": "Position Description *In office position working Monday-Friday* Shift Options: 4 days 8am-5pm and 1 day 10am-7pm or 3 days 8am-5pm, 1 day 9am-6pm and 1 day 10am-7pm TSD Mobility Solutions, Inc., an affiliate of Reynolds and Reynolds, is looking for a Customer Service Specialist to join our growing team. As a Customer Service Specialist, you will be responsible for providing excellent customer service to our clients in all interactions supporting our software as a service (SaaS) product. This po\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "24c0b3dee5fe",
+      "title": "Employee Experience (EX) Product Channel Operations Director",
+      "company": "JPMorganChase",
+      "location": "Bournemouth, Dorset",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5758423070?se=vFqdMm1t8RGYAattZ9muOw&utm_medium=api&utm_source=638f9cc6&v=0B400810FADB99ED44862F2D5047000129B639C4",
       "posted": "2026-06-10",
       "description": "Description Join us to shape the future of employee digital experiences at JPMorganChase. You will lead the operational heartbeat of our primary channels, making a real impact on how employees get help, find answers, and connect to support. We value your leadership, problem-solving skills, and passion for delivering stable, high-quality services. As part of our team, you\u2019ll collaborate across product, engineering, and analytics, driving improvements that matter. Discover a role where your exper\u2026",
       "source": "adzuna",
@@ -12248,6 +12935,21 @@
       ]
     },
     {
+      "id": "be4c3ecf6d46",
+      "title": "Strensham - Customer Experience Leader - McDonald's",
+      "company": "Roadchef",
+      "location": "Worcester, Worcestershire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5752131355?se=NiCXMG1t8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=12430899C670BA7BFD6260DC7005532D22BF6304",
+      "posted": "2026-06-04",
+      "description": "Strensham - Customer Experience Leader - McDonald's Kirk, our Site Director at Strensham Motorway Services on the M5 near Worcester is looking for a Customer Experience Leader to join his McDonald's team. Joining the McDonald's team will give you the opportunity to provide our customers with the iconic \"Big Mac '' or any other of their freshly prepared food and drinks while providing exceptional customer service. We offer working patterns on either a full or part time basis, with a variety of s\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "608b2ead224c",
       "title": "Customer Experience Guide - Part Time",
       "company": "Embarc",
@@ -14030,6 +14732,37 @@
       "location": "Darwen, Lancashire",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=ZuzB5KFs8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
+      "posted": "2026-06-02",
+      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "86eca470b5b2",
+      "title": "Chief Customer Experience Officer",
+      "company": "Anderson Quigley",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=NiCXMG1t8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
+      "posted": "2026-06-02",
+      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b28d1968b5f7",
+      "title": "Customer Insights Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "Darwen, Lancashire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=6iPzMG1t8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
       "posted": "2026-06-02",
       "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
       "source": "adzuna",
@@ -22696,1186 +23429,6 @@
       "country": "US",
       "tags": [
         "cx"
-      ]
-    },
-    {
-      "id": "a4bc36cc2668",
-      "title": "Customer Experience Manager - Part Time",
-      "company": "GFI Ikigai",
-      "location": "Stamford, Fairfield County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5737033028?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Join Our Team as a Part-Time Customer Experience Manager! Transforming Financial Futures At GFI Ikigai, we're passionate about curiosity, creativity, and innovation. Our goal is to empower communities and individuals through financial literacy and practical strategies that lead to economic independence. Become a part of a team dedicated to excellence every single day. We're all about collaboration, fresh ideas, and fun! The Challenge: Customer Experience Manager Fancy a role that combines your \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "3babd2360d37",
-      "title": "Customer Experience Manager - Part Time",
-      "company": "GFI Ikigai",
-      "location": "Chelsea and Clinton, Manhattan",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5737033024?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Join Our Team as a Part-Time Customer Experience Manager! Transforming Financial Futures At GFI Ikigai, we're passionate about curiosity, creativity, and innovation. Our goal is to empower communities and individuals through financial literacy and practical strategies that lead to economic independence. Become a part of a team dedicated to excellence every single day. We're all about collaboration, fresh ideas, and fun! The Challenge: Customer Experience Manager Fancy a role that combines your \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "000dd3a61545",
-      "title": "Director, Oncology Customer Experience",
-      "company": "Hologic",
-      "location": "San Diego, San Diego County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737004101?se=Qs6LDHNV8RG0zJdRnlvl2g&utm_medium=api&utm_source=638f9cc6&v=113F5AAF148C43DC31F45560A66F4EF3A739EBFE",
-      "posted": "2026-05-21",
-      "description": "Director, Oncology Customer Experience San Diego, CA, United States Are you a highly engaged and motivated leader who will elevate customer satisfaction, transforming everyday interactions into extraordinary customer experiences? We're looking for a driven and results oriented Director of Customer Experience to lead our dynamic teams, including Client Services, Patient Services, and Clinical Review. You'll be the champion of both our healthcare professional and patient interfaces, reflecting th\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "6b4c5c781bd5",
-      "title": "Office & People Experience Manager",
-      "company": "Merge API",
-      "location": "New York, US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5736279394?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Merge is the leading provider of agentic tools and customer-facing integrations for frontier LLMs, Fortune 500 organizations, and B2B SaaS companies. Our platform offers two core products: Merge Unified, which enables businesses to add hundreds of integrations to their products with a single API, and Merge Agent Handler, which empowers AI agents with secure access to thousands of third-party tools. Merge's enterprise-grade platform handles the entire integration lifecycle, from authentication a\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "2ed537ea16bb",
-      "title": "Customer Experience Concierge, Centurion Lounge - SFO",
-      "company": "American Express",
-      "location": "SoMa, San Francisco",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737017313?se=-NWmEHNV8RGpf8fFy7Zj8A&utm_medium=api&utm_source=638f9cc6&v=0AFACC19306C9F4BB5FE7F86596127C1BC4434A3",
-      "posted": "2026-05-21",
-      "description": "Customer Experience Concierge, Centurion Lounge - SFO San Francisco, CA, United States Job Description The role of the Member Service Professional (MSP) will be to deliver superior service to Card Members visiting the American Express Centurion Lounge, located in the PHX Airport. MSPs will be the face of American Express to our customers, acting as ambassadors of the brand. Working as a cohesive team, they will have the ability to excite our customers and deliver on the brand promise. A success\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "726bf629eabd",
-      "title": "Customer Experience Concierge Centurion Lounge - LAX",
-      "company": "American Express",
-      "location": "Pico Heights, Los Angeles County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737017307?se=-NWmEHNV8RGpf8fFy7Zj8A&utm_medium=api&utm_source=638f9cc6&v=FA848B2F33215F1A44BB878172B547A503E036B0",
-      "posted": "2026-05-21",
-      "description": "Customer Experience Concierge Centurion Lounge - LAX Los Angeles, CA, United States Job Description The role of the Member Service Professional (MSP) will be to deliver superior service to Card Members visiting the American Express Centurion Lounge, located in the LAX Airport. MSPs will be the face of American Express to our customers, acting as ambassadors of the brand. Working as a cohesive team, they will have the ability to excite our customers and deliver on the brand promise. A successful\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "362781726e0b",
-      "title": "People Analytics Analyst",
-      "company": "General Motors",
-      "location": "Mountain View, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737017301?se=ynZqEXNV8RGpf8fFy7Zj8A&utm_medium=api&utm_source=638f9cc6&v=472FB4ABAB687D0867B4721C762369EFB1497B86",
-      "posted": "2026-05-21",
-      "description": "Job Description Work Arrangement Role can site remotely, Pacific or Mountain Time Zone preferred. If you are within 50 miles of Mountain View, CA, Warren, MI, or Austin, TX you will be required to work a Hybrid schedule - 3 days a week onsite. The Role GM's People Analytics Center of Excellence is seeking a curious, data-driven People Analytics Analyst to join our team. In this role, you'll be deployed across different parts of our business, partnering with People Analytics Consultants to deliv\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "insights"
-      ]
-    },
-    {
-      "id": "3cb53967acbf",
-      "title": "People Analytics Analyst",
-      "company": "General Motors",
-      "location": "Sacramento, Sacramento County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737017304?se=ynZqEXNV8RGpf8fFy7Zj8A&utm_medium=api&utm_source=638f9cc6&v=9025ED1E3DB2DFC0D14C990F5E5951EB21AFD58C",
-      "posted": "2026-05-21",
-      "description": "Job Description Work Arrangement Role can site remotely, Pacific or Mountain Time Zone preferred. If you are within 50 miles of Mountain View, CA, Warren, MI, or Austin, TX you will be required to work a Hybrid schedule - 3 days a week onsite. The Role GM's People Analytics Center of Excellence is seeking a curious, data-driven People Analytics Analyst to join our team. In this role, you'll be deployed across different parts of our business, partnering with People Analytics Consultants to deliv\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "insights"
-      ]
-    },
-    {
-      "id": "a13d0f4f329e",
-      "title": "Senior Employee Experience Manager",
-      "company": "Reed Talent Solutions",
-      "location": "Bedford, Bedfordshire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5735662169?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Senior Employee Experience Manager \u00a390,000 per annum Bedford Permanent Hybrid Working Join the Money and Pensions Service (MaPS) as our Senior Employee Experience Manager and play a pivotal role in embedding the leadership ecosystem, strengthening performance and shaping what it truly feels like to work here. This is a high-impact opportunity to help make leadership and employee experience more consistent, meaningful and effective across the organisation. Why This Role Matters This role exists \u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "4f45f47fb228",
-      "title": "Customer Experience Specialist",
-      "company": "Motorway",
-      "location": "Brighton, East Sussex",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5736366044?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "About Motorway Motorway is the UK\u2019s fastest-growing used car marketplace - our online-only platform connects private car sellers with thousands of verified dealers nationwide, ensuring everyone gets the best deal. Founded in 2017, our award-winning, technology-led approach has redefined the experience of selling a car. Motorway is backed by some of the world\u2019s leading technology investors, having raised \u00a3143 million in Series C funding. This is a unique opportunity to join a fast-growing scale-\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a3fad6b5b867",
-      "title": "Senior Manager, Customer Insights & Analytics",
-      "company": "Burberry",
-      "location": "London, UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5736074423?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "INTRODUCTION At Burberry, we believe creativity opens spaces. Our purpose is to unlock the power of imagination to push boundaries and open new possibilities for our people, our customers and our communities. This is the core belief that has guided Burberry since it was founded in 1856 and is central to how we operate as a company today. We aim to provide an environment for creative minds from different backgrounds to thrive, bringing a wide range of skills and experiences to everything we do. \u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "e56324f1f0b0",
-      "title": "Volunteer Experience Manager - Temporary (up to 12 months) Internal only",
-      "company": "RNLI",
-      "location": "Dorset, South West England",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5736031167?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Internal vacancy The RNLI actively promotes continuous development within the organisation and is only seeking applications from current RNLI employees and volunteers at this time. If this position is not filled internally it may be re-advertised openly. LI-DNI At the RNLI our selfless lifesavers are powered by the very best technology and our front-line engagement teams are powered by the very best support. It\u2019s our role in Volunteer Experience to provide this support. We turn every interactio\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "dc2f317d3bb9",
-      "title": "Director, Oncology Customer Experience",
-      "company": "Hologic",
-      "location": "San Diego, San Diego County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737004101?se=5LpRpHdV8RG0zJdRnlvl2g&utm_medium=api&utm_source=638f9cc6&v=113F5AAF148C43DC31F45560A66F4EF3A739EBFE",
-      "posted": "2026-05-21",
-      "description": "Director, Oncology Customer Experience San Diego, CA, United States Are you a highly engaged and motivated leader who will elevate customer satisfaction, transforming everyday interactions into extraordinary customer experiences? We're looking for a driven and results oriented Director of Customer Experience to lead our dynamic teams, including Client Services, Patient Services, and Clinical Review. You'll be the champion of both our healthcare professional and patient interfaces, reflecting th\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "fe6e9fafc286",
-      "title": "Customer Experience Analyst I",
-      "company": "United States Steel Corporation",
-      "location": "Troy, Oakland County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5736110931?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "The Customer Experience Analyst is exposed to various aspects of U.S. Steel\u2019s overall business and will manage a specific group of customer accounts to achieve major business objectives. The interaction with the customer and multiple cross functional groups within the Corporation will provide a well-rounded basic knowledge of the order-to-cash process from beginning to end. This is a remote commuter position, and you will have the ability to work remote while also being able to commute to our A\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "22b28950924d",
-      "title": "CX Insights Consultant - Operations",
-      "company": "U.S. Bank",
-      "location": "Irving, Dallas",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5737054136?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "3792d3b94f19",
-      "title": "Business Development Operations & Customer Experience Lead",
-      "company": "Bechtel Corporation",
-      "location": "Reston, Fairfax County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5737050012?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Requisition ID: 291419  Relocation Authorized: None  Telework Type: Part-Time Telework  Work Location: Reston, VA  Extraordinary teams building inspiring projects: Since 1898, we have helped customers complete more than 25,000 projects in 160 countries on all seven continents that have created jobs, grown economies, improved the resiliency of the world's infrastructure, increased access to energy, resources, and vital services, and made the world a safer, cleaner place. Differentiated by the qu\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "4c3ef1654e1b",
-      "title": "CX Insights Consultant - Operations",
-      "company": "U.S. Bank",
-      "location": "Illinois Medical District, Chicago",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5737049537?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "9d8f8803b101",
-      "title": "Product Manager, Customer Experience",
-      "company": "Abbott",
-      "location": "Alameda Pt, Alameda County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737016547?se=Ip6npXdV8RG0zJdRnlvl2g&utm_medium=api&utm_source=638f9cc6&v=C823E5D7535603D4ACB9EE381C17319C39892D85",
-      "posted": "2026-05-21",
-      "description": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 115,000 colleagues serve people in more than 160 countries. Working at Abbott At Abbott, you can do work that matters, grow, and learn, care for yourself and your family, be your true self, and live a full lif\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "c035ec2889d7",
-      "title": "Director, Oncology Customer Experience",
-      "company": "Hologic",
-      "location": "San Diego, San Diego County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737004101?se=Ip6npXdV8RG0zJdRnlvl2g&utm_medium=api&utm_source=638f9cc6&v=113F5AAF148C43DC31F45560A66F4EF3A739EBFE",
-      "posted": "2026-05-21",
-      "description": "Director, Oncology Customer Experience San Diego, CA, United States Are you a highly engaged and motivated leader who will elevate customer satisfaction, transforming everyday interactions into extraordinary customer experiences? We're looking for a driven and results oriented Director of Customer Experience to lead our dynamic teams, including Client Services, Patient Services, and Clinical Review. You'll be the champion of both our healthcare professional and patient interfaces, reflecting th\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "08428dac9212",
-      "title": "Program Manager - Customer Experience Team",
-      "company": "Molex",
-      "location": "Three Point, Williamson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5736720422?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Your Job As Program Manager, you will lead cross - functional teams to execute strategic customer programs from demand planning through delivery and issue resolution. You will align Molex Aerospace & Defense Solutions (ADS) resources to customer priorities, translate customer requirements into actionable plans, and ensure commitments are delivered with speed, discipline, and operational rigor. This role plays a key part in driving continuous improvement and supporting profitable growth. You wil\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "88973f354a91",
-      "title": "People Analytics Analyst",
-      "company": "General Motors",
-      "location": "Mountain View, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737017301?se=Kgxtq3dV8RGSQI5_Fv5Ikg&utm_medium=api&utm_source=638f9cc6&v=472FB4ABAB687D0867B4721C762369EFB1497B86",
-      "posted": "2026-05-21",
-      "description": "Job Description Work Arrangement Role can site remotely, Pacific or Mountain Time Zone preferred. If you are within 50 miles of Mountain View, CA, Warren, MI, or Austin, TX you will be required to work a Hybrid schedule - 3 days a week onsite. The Role GM's People Analytics Center of Excellence is seeking a curious, data-driven People Analytics Analyst to join our team. In this role, you'll be deployed across different parts of our business, partnering with People Analytics Consultants to deliv\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "ec9dfd8cd18e",
-      "title": "People Analytics Analyst",
-      "company": "General Motors",
-      "location": "Sacramento, Sacramento County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737017304?se=Kgxtq3dV8RGSQI5_Fv5Ikg&utm_medium=api&utm_source=638f9cc6&v=9025ED1E3DB2DFC0D14C990F5E5951EB21AFD58C",
-      "posted": "2026-05-21",
-      "description": "Job Description Work Arrangement Role can site remotely, Pacific or Mountain Time Zone preferred. If you are within 50 miles of Mountain View, CA, Warren, MI, or Austin, TX you will be required to work a Hybrid schedule - 3 days a week onsite. The Role GM's People Analytics Center of Excellence is seeking a curious, data-driven People Analytics Analyst to join our team. In this role, you'll be deployed across different parts of our business, partnering with People Analytics Consultants to deliv\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "45d32770da2f",
-      "title": "Sephora - Customer Experience & Operations Manager",
-      "company": "The Learning Shop at Bluewater",
-      "location": "Bluewater, Greenhithe",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5736372054?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Customer Experience and Operations Manager Location: Bluewater Job Type: Full Time / Permanent Salary: Competitive About At SEPHORA UK, beauty is not just what we sell, it is who we are. It is the freedom to express yourself, the thrill of discovering something new, and the power of belonging to a community that celebrates every identity. From our beginnings in France in 1969 to becoming part of the LVMH family, we\u2019ve always pushed boundaries through creativity, innovation, and inclusivity. Tod\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a041bffa3f24",
-      "title": "Lead Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Bridge Of Dee, Aberdeen",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5736371642?se=WKNKs3dV8RGSQI5_Fv5Ikg&utm_medium=api&utm_source=638f9cc6&v=23370FB3371DFBD3181D038A18EA130A817E37AD",
-      "posted": "2026-05-21",
-      "description": "Description What you\u2019ll be doing: Lead a team of managers to make sure every single one of our customers has a great experience in store everywhere from the checkouts to the petrol station. Planning for upcoming key trading activity and events by working closely with the rest of the store leadership team Regularly taking full accountability for the store in the absence of a store manager, role modelling and coaching for high standards and efficiency across the store. Running operations at our c\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "be3303947b8b",
-      "title": "ServiceNow Customer Experience Lead",
-      "company": "Morgan Philips Group",
-      "location": "Holborn, Central London",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5735934065?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Salary: \u00a318,000 - 19,500 per year Requirements: Strong experience working with ServiceNow ITSM (in design, product ownership, consultancy, or leadership roles). Deep understanding of ITSM processes (ITIL-aligned) and how users interact with them. Proven experience in customer experience design, service design, or UX within IT environments. Ability to translate customer needs into practical platform solutions. Strong stakeholder management skills up to senior leadership level. Experience working\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "b2d87abbe8ed",
-      "title": "Customer Experience Associate",
-      "company": "Tuckernuck",
-      "location": "Rosslyn, Arlington County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5737183223?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Position Overview We\u2019re looking for an exceptional associate to join our Customer Experience team. The perfect candidate is a Tuckernuck brand enthusiast who aspires to build customer relationships and deliver above-and-beyond support to ensure customer happiness. As a member of the Customer Experience team, you will be the voice of our company and brand while being the voice of our customers when issues arise. We strive to deliver an extraordinary shopping experience, whether it be helping a b\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "31ac766d8f8c",
-      "title": "Community & VoC Specialist",
-      "company": "Winnebago Industries Inc",
-      "location": "Nappanee, Elkhart County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5737176931?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "A Little About Us: Operating since 1968, Newmar Corporation has been helping customers explore the outdoor lifestyle, enabling extraordinary mobile experiences as they travel, live, work, and play. Newmar has been synonymous in the RV industry with luxury, quality, and innovative motor coaches. In every part of our company, we relentlessly pursue continuous improvement and enhanced productivity, driving out waste, and creating meaningful strategic differentiation. Newmar is part of Winnebago In\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "24346b7a9e2c",
-      "title": "Director, Access Marketing & Customer Experience",
-      "company": "Pfizer",
-      "location": "Grand Central, Manhattan",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737098868?se=ZiI0RPdV8RGOw_EmAJh9gA&utm_medium=api&utm_source=638f9cc6&v=6028278057F36ACF7F33022A56B98AF3E8B080FC",
-      "posted": "2026-05-21",
-      "description": "ROLE SUMMARY: The atopic dermatitis market is among the most competitive in dermatology, with many advanced treatment options and a rapidly evolving access landscape. As a part of the US Dermatology Marketing team, this role works closely with US Market Access to deliver on HCP and patient commitments to access for CIBINQO and future Pfizer atopic dermatitis treatments. The Director, Access Marketing & Customer Experience will partner with the brand Consumer and HCP marketing teams, US Market A\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "2ecb4e2c3ef0",
-      "title": "Director, Oncology Customer Experience",
-      "company": "Hologic",
-      "location": "San Diego, San Diego County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737004101?se=ZiI0RPdV8RGOw_EmAJh9gA&utm_medium=api&utm_source=638f9cc6&v=113F5AAF148C43DC31F45560A66F4EF3A739EBFE",
-      "posted": "2026-05-21",
-      "description": "Director, Oncology Customer Experience San Diego, CA, United States Are you a highly engaged and motivated leader who will elevate customer satisfaction, transforming everyday interactions into extraordinary customer experiences? We're looking for a driven and results oriented Director of Customer Experience to lead our dynamic teams, including Client Services, Patient Services, and Clinical Review. You'll be the champion of both our healthcare professional and patient interfaces, reflecting th\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "406953897e8e",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=rKW6SfdV8RGOw_EmAJh9gA&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "9f60c16e7046",
-      "title": "Director, People Analytics & Workforce Intelligence",
-      "company": "Blue Origin",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5737192834?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Application close date: Applications will be accepted on an ongoing basis until the requisition is closed. At Blue Origin, we envision millions of people living and working in space for the benefit of Earth. We\u2019re working to develop reusable, safe, and low-cost space vehicles and systems within a culture of safety, collaboration, and inclusion. Join our team of problem solvers as we add new chapters to the history of spaceflight! This role is part of Blue Origin corporate functions, providing c\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "225669a2b724",
-      "title": "CX Insights Consultant - Operations",
-      "company": "U.S. Bank",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737130313?se=6GK5ZfdV8RGOw_EmAJh9gA&utm_medium=api&utm_source=638f9cc6&v=F498175A7E8261F543368B290DA588157B9DC173",
-      "posted": "2026-05-21",
-      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "4d8935831f50",
-      "title": "CX Insights Consultant - Operations",
-      "company": "U.S. Bank",
-      "location": "Charlotte, Mecklenburg County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737129746?se=6GK5ZfdV8RGOw_EmAJh9gA&utm_medium=api&utm_source=638f9cc6&v=B3DB7C74F890B577A7CF88A37BE172C3B2E19137",
-      "posted": "2026-05-21",
-      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "abee791c3116",
-      "title": "CX Insights Consultant - Operations",
-      "company": "U.S. Bank",
-      "location": "Minneapolis, Hennepin County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737111755?se=6GK5ZfdV8RGOw_EmAJh9gA&utm_medium=api&utm_source=638f9cc6&v=0DF72DEEB99C26A003E8D6B3D7BFBC7A9A0495ED",
-      "posted": "2026-05-21",
-      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "b2c375345451",
-      "title": "Consultant, Voice of Customer/Customer Experience",
-      "company": "Cardinal Health",
-      "location": "Dublin, Franklin County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5737078561?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "What Market Intelligence & Analytics contributes to Cardinal Health Marketing is responsible for assessing customer needs, market conditions and competition to inform business strategy. Marketing implements the strategy through developing, commercializing and monitoring the appropriate products and services. Market Intelligence & Analytics is responsible for market data/information, other business analytics in support of marketing. Responsibilities Program Support Support the execution, mainten\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "ce384cd51f5e",
-      "title": "Senior/Lead Data Analyst - Customer Experience (CX)",
-      "company": "Javen Technologies, Inc",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5736660937?se=6GK5ZfdV8RGOw_EmAJh9gA&utm_medium=api&utm_source=638f9cc6&v=18CAED13A417DDD3C7F1A2BE93687D1D5A726451",
-      "posted": "2026-05-21",
-      "description": "Job Title: Senior/Lead Data Analyst Duration : 7 Months - Can be extended Location: Fully remote - nearshore (can be US based if the candidates fit within the bill rate) Job Description: Looking for Senior/Lead Data Analyst Must have go-getter mentality and can hit the ground running Possible opportunity for extension/conversion dependent on the business needs Senior Analyst, CX Strategy & Insights (Contract / Augmented Staff) How you can make a difference The Senior Analyst, CX Strategy & Insi\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "0ade1c7984d0",
-      "title": "Manager, Customer Experience",
-      "company": "Sleep Country",
-      "location": "Toronto, Ontario",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5737049716?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Reporting to the Senior Vice President of Customer Experience, the Manager, Customer Experience will play a key leadership role in the relaunch of Bed Bath & Beyond in Canada. The Manager, Customer Experience will develop, drive and execute the strategic implementation of a scalable, end-to-end customer experience (CX) operating model, including integration of Shopify utilizing the current CX technology stack (Zendesk, Ada, and supporting tools). The strategic plan that the Manager, Customer Ex\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "195740315dae",
-      "title": "Manager, Customer Experience - West Island Area (Future Opportunities)",
-      "company": "TD",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5736969036?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Work Location: Dollard-des-Ormeaux, Quebec, Canada Hours: 37.5 Line of Business: Personal & Commercial Banking Pay Details: 59 500 $ / $59,500 - 84 000 $ / $84,000 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they pro\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "6d2ee91648b0",
-      "title": "Manager, Customer Experience",
-      "company": "Sleep Country",
-      "location": "York region, Ontario",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5736782505?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Description Reporting to the Senior Vice President of Customer Experience, the Manager, Customer Experience will play a key leadership role in the relaunch of Bed Bath & Beyond in Canada. The Manager, Customer Experience will develop, drive and execute the strategic implementation of a scalable, end-to-end customer experience (CX) operating model, including integration of Shopify utilizing the current CX technology stack (Zendesk, Ada, and supporting tools). The strategic plan that the Manager,\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "7bfb456a486f",
-      "title": "Customer Experience Specialist (Aerospace)",
-      "company": "Aston Carter",
-      "location": "Montr\u00e9al, Qu\u00e9bec",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5736314469?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Job Description Job Description Titre du poste: Sp\u00e9cialiste de l'exp\u00e9rience client Description du poste Le Sp\u00e9cialiste de l'exp\u00e9rience client est responsable de cultiver et de maintenir des relations solides et \u00e0 long terme avec un portefeuille de clients. Ce r\u00f4le implique d'agir comme point de contact cl\u00e9 pour les clients, en garantissant la livraison de solutions personnalis\u00e9es qui r\u00e9pondent \u00e0 leurs besoins et en stimulant la satisfaction et l'engagement des clients. Responsabilit\u00e9s Gestion d\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "25d11aea671e",
-      "title": "Survey Programmer",
-      "company": "Ipsos",
-      "location": "Winnipeg region, Manitoba",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5736886727?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-21",
-      "description": "Description As a Survey Programmer, you will be at the heart of our market research operations, responsible for transforming complex questionnaires into engaging online surveys. Your primary mission will be to script and program our surveys, ensuring flawless execution in line with precise project specifications. This role is critical to guaranteeing data integrity and providing an excellent experience for our respondents. Key responsibilities Execute the scripting of surveys according to proje\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "insights"
-      ]
-    },
-    {
-      "id": "a99984aab4c8",
-      "title": "Director, Access Marketing & Customer Experience",
-      "company": "Pfizer",
-      "location": "Grand Central, Manhattan",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737098868?se=fP5epZZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=638f9cc6&v=6028278057F36ACF7F33022A56B98AF3E8B080FC",
-      "posted": "2026-05-21",
-      "description": "ROLE SUMMARY: The atopic dermatitis market is among the most competitive in dermatology, with many advanced treatment options and a rapidly evolving access landscape. As a part of the US Dermatology Marketing team, this role works closely with US Market Access to deliver on HCP and patient commitments to access for CIBINQO and future Pfizer atopic dermatitis treatments. The Director, Access Marketing & Customer Experience will partner with the brand Consumer and HCP marketing teams, US Market A\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "84c967927870",
-      "title": "Director, Oncology Customer Experience",
-      "company": "Hologic",
-      "location": "San Diego, San Diego County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737004101?se=fP5epZZW8RGvjPD20Sc1wQ&utm_medium=api&utm_source=638f9cc6&v=113F5AAF148C43DC31F45560A66F4EF3A739EBFE",
-      "posted": "2026-05-21",
-      "description": "Director, Oncology Customer Experience San Diego, CA, United States Are you a highly engaged and motivated leader who will elevate customer satisfaction, transforming everyday interactions into extraordinary customer experiences? We're looking for a driven and results oriented Director of Customer Experience to lead our dynamic teams, including Client Services, Patient Services, and Clinical Review. You'll be the champion of both our healthcare professional and patient interfaces, reflecting th\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "fe0022c3fb47",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=XMA6r5ZW8RGWQvEe2bTbLw&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "9274c6227feb",
-      "title": "Director, Access Marketing & Customer Experience",
-      "company": "Pfizer",
-      "location": "Grand Central, Manhattan",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737098868?se=_oAo9F9X8RGWQvEe2bTbLw&utm_medium=api&utm_source=638f9cc6&v=6028278057F36ACF7F33022A56B98AF3E8B080FC",
-      "posted": "2026-05-21",
-      "description": "ROLE SUMMARY: The atopic dermatitis market is among the most competitive in dermatology, with many advanced treatment options and a rapidly evolving access landscape. As a part of the US Dermatology Marketing team, this role works closely with US Market Access to deliver on HCP and patient commitments to access for CIBINQO and future Pfizer atopic dermatitis treatments. The Director, Access Marketing & Customer Experience will partner with the brand Consumer and HCP marketing teams, US Market A\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "4868684511d6",
-      "title": "Director, Oncology Customer Experience",
-      "company": "Hologic",
-      "location": "San Diego, San Diego County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737004101?se=_oAo9F9X8RGWQvEe2bTbLw&utm_medium=api&utm_source=638f9cc6&v=113F5AAF148C43DC31F45560A66F4EF3A739EBFE",
-      "posted": "2026-05-21",
-      "description": "Director, Oncology Customer Experience San Diego, CA, United States Are you a highly engaged and motivated leader who will elevate customer satisfaction, transforming everyday interactions into extraordinary customer experiences? We're looking for a driven and results oriented Director of Customer Experience to lead our dynamic teams, including Client Services, Patient Services, and Clinical Review. You'll be the champion of both our healthcare professional and patient interfaces, reflecting th\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "b38519c7e646",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=NtGW_V9X8RGTDdJK-7cL6w&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "0975650ca3da",
-      "title": "Director, Access Marketing & Customer Experience",
-      "company": "Pfizer",
-      "location": "Grand Central, Manhattan",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737098868?se=9sDOxlNY8RGWQvEe2bTbLw&utm_medium=api&utm_source=638f9cc6&v=6028278057F36ACF7F33022A56B98AF3E8B080FC",
-      "posted": "2026-05-21",
-      "description": "ROLE SUMMARY: The atopic dermatitis market is among the most competitive in dermatology, with many advanced treatment options and a rapidly evolving access landscape. As a part of the US Dermatology Marketing team, this role works closely with US Market Access to deliver on HCP and patient commitments to access for CIBINQO and future Pfizer atopic dermatitis treatments. The Director, Access Marketing & Customer Experience will partner with the brand Consumer and HCP marketing teams, US Market A\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "433f0a3ec9ea",
-      "title": "Director, Oncology Customer Experience",
-      "company": "Hologic",
-      "location": "San Diego, San Diego County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737004101?se=9sDOxlNY8RGWQvEe2bTbLw&utm_medium=api&utm_source=638f9cc6&v=113F5AAF148C43DC31F45560A66F4EF3A739EBFE",
-      "posted": "2026-05-21",
-      "description": "Director, Oncology Customer Experience San Diego, CA, United States Are you a highly engaged and motivated leader who will elevate customer satisfaction, transforming everyday interactions into extraordinary customer experiences? We're looking for a driven and results oriented Director of Customer Experience to lead our dynamic teams, including Client Services, Patient Services, and Clinical Review. You'll be the champion of both our healthcare professional and patient interfaces, reflecting th\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "3d0d6566519a",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=Vl_dzVNY8RGTDdJK-7cL6w&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "59c6a8885a0a",
-      "title": "Director, Access Marketing & Customer Experience",
-      "company": "Pfizer",
-      "location": "Grand Central, Manhattan",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737098868?se=fKV3HCtZ8RG4lsJaMgBbHQ&utm_medium=api&utm_source=638f9cc6&v=6028278057F36ACF7F33022A56B98AF3E8B080FC",
-      "posted": "2026-05-21",
-      "description": "ROLE SUMMARY: The atopic dermatitis market is among the most competitive in dermatology, with many advanced treatment options and a rapidly evolving access landscape. As a part of the US Dermatology Marketing team, this role works closely with US Market Access to deliver on HCP and patient commitments to access for CIBINQO and future Pfizer atopic dermatitis treatments. The Director, Access Marketing & Customer Experience will partner with the brand Consumer and HCP marketing teams, US Market A\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "745b25ff7f3c",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=4t5dIytZ8RGIceqnUvMPfg&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "0d8d0a32693e",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=Ukp4zfNZ8RGVwO7mwmvPAA&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "b4a00854da39",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=RKEeHb5a8RGvy-bvea3yog&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "6b6e2f1a6b4b",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=XEsn8Ydb8RGUJNJexxfy6Q&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "f3e04238f881",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=Bsq5lhdc8RG1g60cORqbZQ&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "2c240a75b1b2",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=WHffMudc8RG1g60cORqbZQ&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "3ca57377067d",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=UrrfiP1d8RGjX9bKT4--fw&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "65440c4d65e5",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=8itEkbVe8RGxaa_c72U7cQ&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "e455f56d6504",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=LNXaeztg8RGeGZQN_-WxfA&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "9ef7e6406f2c",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=zpnjxflg8RGAprU-irHORg&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "9f3999933bac",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=Nq2InJhh8RGTyc16BXlIog&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "debfeb34dc7c",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=PKHTmWli8RGHk5mrcEw0_Q&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "f334827088a1",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=0GZOtGBj8RGpBpeRsU9feg&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "8274a89eeb09",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=Qg03DR9k8RGufrs9mrrgHA&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "97188153b158",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=PBSyH_Rk8RGN64C7ajy0tA&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "206368b3974b",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=bs3RIL9l8RGOccqhHlf4XA&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "4e61b1a9f5eb",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=ukM7lnxm8RGfB72z_DrYeQ&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "8c47bdb57cd8",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=UKyDyCBn8RG0btGxqHH3qw&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "46309d9ea991",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=ntNBpexn8RG5GpwkRXC5CA&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "abe1c2cc983b",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=UDyBsPRo8RGdcKmg89akZw&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "fbd163f519eb",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=mtAV2bxp8RGHcblSVmFK6Q&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "1c7e3e85e40d",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=5K-NqXJq8RGNlJLvgglOgg&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "973cf5e14d8d",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=yA22CT5r8RGhD6oSViI0Lg&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "51b9b9f2dba5",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=GEMhz_pr8RGC0bdBFXLNcQ&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "edf9a4ac7b7c",
-      "title": "Associate Director, Global Customer Insights",
-      "company": "BD ",
-      "location": "Franklin Lakes, Bergen County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5737172419?se=Kg2P2KFs8RGrKszqFbIEfQ&utm_medium=api&utm_source=638f9cc6&v=F278510E322A661344F37547FA64F9A688DF6E61",
-      "posted": "2026-05-21",
-      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description The successful candidate will thri\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
       ]
     }
   ]
