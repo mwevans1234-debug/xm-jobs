@@ -1,7 +1,145 @@
 {
-  "updated": "2026-06-27T08:42:17Z",
-  "count": 1527,
+  "updated": "2026-06-28T08:58:55Z",
+  "count": 1502,
   "jobs": [
+    {
+      "id": "c8c4476fbff1",
+      "title": "Customer Experience Manager",
+      "company": "Michaels",
+      "location": "Brunswick, Medina County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5780062281?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-28",
+      "description": "Store - BRUNSWICK, GA Deliver a customer centric shopping experience by managing and delivering effective front-end operations and expectations. Lead the omnichannel processes. Maintain store recovery standards to deliver our Brand Promises. Deliver friendly customer service. Assist Store Manager in leading and managing adherence to Standard Operating Procedures (SOPs) and Company programs to ensure compliance with applicable laws and requirements; ensure execution of Company policies and stand\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "feecc92a6b8c",
+      "title": "PT Customer Experience Manager",
+      "company": "Michaels",
+      "location": "Port Washington, Nassau County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5780057619?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-28",
+      "description": "Store - MILW-GRAFTON, WI Deliver a customer centric shopping experience by managing and delivering effective front-end operations and expectations. Lead the omnichannel processes. Maintain store recovery standards to deliver our Brand Promises. Deliver friendly customer service. Assist Store Manager in leading and managing adherence to Standard Operating Procedures (SOPs) and Company programs to ensure compliance with applicable laws and requirements; ensure execution of Company policies and st\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "96d25086b451",
+      "title": "Customer Experience Manager - Full Time",
+      "company": "Michaels",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5780054501?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-28",
+      "description": "Store - Otsego, MN Deliver a customer centric shopping experience by managing and delivering effective front-end operations and expectations. Lead the omnichannel processes. Maintain store recovery standards to deliver our Brand Promises. Deliver friendly customer service. Assist Store Manager in leading and managing adherence to Standard Operating Procedures (SOPs) and Company programs to ensure compliance with applicable laws and requirements; ensure execution of Company policies and standard\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a70c354eef31",
+      "title": "Director, Organizational Insights Head - Businesses & Employee Listening",
+      "company": "Citigroup Inc",
+      "location": "Tampa Palms, Hillsborough County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5779916921?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-28",
+      "description": "In the People Insights & Organizational Effectiveness team at Citi, we solve business problems with workforce and business data. We use data and behavioral science to provide actionable insights and enable evidence-based decision making. Actionable insights lead to better decisions about people - individuals, teams, and organizations - to drive business performance. The Director, Organizational Insights Head - Businesses & Employee Listening , serves as the senior leader responsible for definin\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "e0a31374ec0c",
+      "title": "People Analytics Manager - Workday",
+      "company": "Raymond James",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5779800739?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-28",
+      "description": "Job Description Summary Job Description While we prefer this role to be based in our St. Petersburg, FL office with a hybrid work arrangement, we are open to considering qualified candidates for a remote workstyle based on experience and alignment with business needs Please note: This role is not eligible for Work Visa sponsorship, either currently or in the future. Job Description Summary The People Analytics Manager \u2013 Workday serves as the organization\u2019s Workday reporting expert, with deep ha\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "ef3021f89975",
+      "title": "Survey Programmer",
+      "company": "MarketOnce",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5779907668?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-28",
+      "description": "About the Opportunity: Here at ROI Rocket, we\u2019re in search of an experienced Survey Programmer to join our Support Services Survey team. What You'll Do: Program online surveys using Decipher, Qualtrics, and other online platforms as assigned, paying special attention to logic and aesthetics Provide feedback to clients with regard to survey logic, structure, question types, and best practices Take ownership of document revision / keep drafts and change logs updated Review and thoroughly test sur\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "71c3eb69277a",
+      "title": "Internal Sales Support \u2013 Customer Experience & Sales Operations",
+      "company": "Flender",
+      "location": "Perth CBD, Perth",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5779547936?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-28",
+      "description": "About the Company Flender has been supplying gears, couplings and generators since 1899. As a global leader in drive systems, we are known for quality, innovation, and reliability across key industries. The Role We\u2019re seeking a technically minded, customer-focused Internal Sales Support professional to deliver an outstanding customer experience. Working closely with the Internal Sales Team Lead and in partnership with external sales, you\u2019ll manage enquiries, quotations and order processing\u2014ensu\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ea912c5811bc",
+      "title": "Customer Experience Manager",
+      "company": "Data#3",
+      "location": "Perth CBD, Perth",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5779235278?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-28",
+      "description": "Client Services Manager \u2013 Service Delivery \u00b7 Lead key mining managed services customer engagements \u00b7 Join an award-winning Australian ASX200 technology business This is an exciting opportunity for a commercially astute services delivery professional to lead the end-to-end customer lifecycle for a portfolio of key mining managed services customers. Acting as a trusted advisor, you will build executive relationships, align service delivery to business outcomes, and lead customer satisfaction, ret\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "5ba43f2f55a4",
+      "title": "Customer Experience Customer Success Technical Leader",
+      "company": "Cisco Systems Australia Pty Limited",
+      "location": "Melbourne, Melbourne Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5779629861?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-28",
+      "description": "Meet the Team The Cisco Customer Experience (CX) organization is one of Cisco's fastest-growing teams, with a clear purpose: helping customers get real, lasting value from their Cisco investments. We work at the crossroads of technical knowledge and business understanding, partnering with customers to improve how they operate and achieve outcomes that matter to them. The Customer Success Specialist (CSS) team is a collaborative group of technical advisors who bring deep product knowledge and a \u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
     {
       "id": "e89d84e0efb0",
       "title": "Customer Experience Coordinator (Front End Lead)",
@@ -106,6 +244,297 @@
       "country": "GB",
       "tags": [
         "ex"
+      ]
+    },
+    {
+      "id": "13c56d02aed4",
+      "title": "Director, Customer Experience",
+      "company": "Bound",
+      "location": "Ames, Story County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5778972240?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-27",
+      "description": "About the Role The Customer Experience Director is responsible for leading and scaling Bound\u2019s customer experience and success from onboarding to support to data quality and long term success. This leader ensures that every school, district, and partner receives a consistent, high-quality experience that drives adoption, satisfaction, and long-term retention. You will oversee three core teams: Customer Support & Customer Success Customer Onboarding Customer Data This role blends strategic leade\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "de1d12126a29",
+      "title": "Senior Director, Guest & Employee Experience Services \u2013 Hospitality",
+      "company": "JLL",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5778798149?se=dk0bLc9y8RGe4ZwL0wNS6w&utm_medium=api&utm_source=638f9cc6&v=7D3D83EEAD3BE5BF4F01740A0014C1ACD9BB1643",
+      "posted": "2026-06-27",
+      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "fc458e3bc51c",
+      "title": "Director, Customer Insights",
+      "company": "McDonald's",
+      "location": "Illinois Medical District, Chicago",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5779611115?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-27",
+      "description": "Job Description: Company Description: McDonald's is proud to be one of the most recognized brands in the world, with restaurants in over 100 countries that serve 70 million customers daily.?We continue to operate from a position of strength. Our updated growth strategy is focused on staying ahead of what our customers want and realizing further growth potential. Our relentless ambition is why McDonald's remains one of the world's leading corporations after almost 70 years. Joining McDonald's me\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "a7abf07d868b",
+      "title": "Director, People Analytics",
+      "company": "Inspire Brands",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5779755929?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-27",
+      "description": "The Director, People Analytics leads the enterprise People Analytics function, owning the strategy, governance, prioritization, and delivery of all workforce analytics and reporting across HR. This role is responsible for establishing and enforcing enterprise data definitions and metric standards, managing analytics demand intake and resource allocation, driving the elimination of duplicative and legacy reporting, and ensuring leaders at every level have trusted, actionable workforce insights t\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "214c15aae245",
+      "title": "Customer Experience Insights Consultant - Business Banking",
+      "company": "U.S. Bank",
+      "location": "Charlotte, Mecklenburg County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5779738341?se=RpvPPM9y8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=4B2796E761FDB4C2B1110265E390CEC202653012",
+      "posted": "2026-06-27",
+      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "e55c1aeb25f9",
+      "title": "Customer Experience Insights Consultant - Business Banking",
+      "company": "U.S. Bank",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5779738288?se=RpvPPM9y8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=4220BC43EE6B0EDEDCD01CDDC27EFAD69AEF48BB",
+      "posted": "2026-06-27",
+      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "f10188ea1288",
+      "title": "Customer Experience Insights Consultant - Business Banking",
+      "company": "U.S. Bank",
+      "location": "Minneapolis, Hennepin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5779715928?se=RpvPPM9y8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=D2A9F336B018E4C36F9B8EA7B8221D81D049EF30",
+      "posted": "2026-06-27",
+      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "32728fd142cc",
+      "title": "Customer Experience Insights Consultant - Business Banking",
+      "company": "U.S. Bank",
+      "location": "Illinois Medical District, Chicago",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5779613938?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-27",
+      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "012300693475",
+      "title": "Customer Experience Manager",
+      "company": "Sainsbury's",
+      "location": "Sherborne, Dorset",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5779514923?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-27",
+      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "269d3664051f",
+      "title": "Customer Experience Manager",
+      "company": "Community Housing",
+      "location": "Titton, Stourport-On-Severn",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5779257497?se=nsiAPc9y8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=7D82290E46C0989EC9FD49031024B3A68E0DF2ED",
+      "posted": "2026-06-27",
+      "description": "Customer Experience Manager Kidderminster, Worcestershire (Hybrid Working) We are looking for an experienced and customer focused Customer Experience Manager to lead our Customer Service Centre and Customer Resolution teams. You will create a high performing culture that puts customers at the heart of everything we do, ensuring enquiries, feedback and complaints are handled efficiently, professionally and with a focus on achieving the right outcome first time. You will lead the management of th\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f8659dcf3762",
+      "title": "Asset Experience Manager \u2013 Community Deputy",
+      "company": "JLL",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5779214206?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-27",
+      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "9291762fd447",
+      "title": "Asset Experience Lead",
+      "company": "JLL",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5779213641?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-27",
+      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "8d4eb2d6a4a6",
+      "title": "Customer Experience Specialist - Accounting",
+      "company": "Xero",
+      "location": "Milton Keynes, Buckinghamshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5779212698?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-27",
+      "description": "The role & impact As a Customer Experience Specialist, you will be a key brand ambassador, providing world-class support and guidance to small business owners, bookkeepers, and accountants. Your mission is to become a trusted advisor, helping our customers unlock the full value of Xero\u2019s features through proactive outreach and efficient problem-solving across various channels. You will play a vital part in building a stronger economy by empowering our community with the tools they need to thriv\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2fe0449f585c",
+      "title": "Asset Experience Lead",
+      "company": "JLL",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5779212325?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-27",
+      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "5af0935f9776",
+      "title": "Customer Experience Manager",
+      "company": "Community Housing",
+      "location": "Titton, Stourport-On-Severn",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5779257497?se=qBzRPs9y8RG03p_b2NRIZw&utm_medium=api&utm_source=638f9cc6&v=7D82290E46C0989EC9FD49031024B3A68E0DF2ED",
+      "posted": "2026-06-27",
+      "description": "Customer Experience Manager Kidderminster, Worcestershire (Hybrid Working) We are looking for an experienced and customer focused Customer Experience Manager to lead our Customer Service Centre and Customer Resolution teams. You will create a high performing culture that puts customers at the heart of everything we do, ensuring enquiries, feedback and complaints are handled efficiently, professionally and with a focus on achieving the right outcome first time. You will lead the management of th\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1e6bb940e030",
+      "title": "Manager, Customer Experience",
+      "company": "TD",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5779517267?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-27",
+      "description": "Work Location: Sudbury, Ontario, Canada Hours: 37.5 Line of Business: Personal & Commercial Banking Pay Details: $57,100 - $80,600 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c7f14ab06df6",
+      "title": "Manager, IT Service Delivery & Customer Experience",
+      "company": "Hlf 2023",
+      "location": "Halifax, Halifax region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5779494886?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-27",
+      "description": "Job Overview: Reporting to the Senior Director, IT, the Manager, IT Services & Customer Experience is accountable for the end-to-end delivery, quality, and continuous improvement of IT service operations across the enterprise. This role owns the service management model and people leadership of the IT Services and Customer Experience and Support team. The expectation is that this position would be onsite 4 days per week. Essential Duties and responsibilities Serve as the accountable lead for th\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f75f8740395f",
+      "title": "Customer Experience Manager - 4 month Contract Newmarket",
+      "company": "Home Depot",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5779428890?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-27",
+      "description": "Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If you\u2019re also naturally curious and eager to keep learning, consider starting or growing your career with us at The Home Depot. Position Overview: Customer Experience Managers (CXM) are members of the store leadership and management team, overseeing execution of store standards across the entire store, including customer service, depart\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "bededc93f63a",
+      "title": "Customer Experience Representative (Occasional) - Rothesay Ave. Saint John (243269-67)",
+      "company": "Cannabis NB",
+      "location": "Saint John region, New Brunswick",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5779515699?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-27",
+      "description": "Customer Experience Representative (Occasional) Cannabis NB Cannabis NB is New Brunswick\u2019s trusted retailer for the responsible, safe, and educational delivery of cannabis products across the province. Our Goal: To deliver a world-class customer experience rooted in knowledge, care, and safety. Our Mission: To provide access to quality-assured products while empowering customers through meaningful conversations and accurate information. Our Mandate: To support public education and harm reductio\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
       ]
     },
     {
@@ -630,6 +1059,84 @@
       ]
     },
     {
+      "id": "d93f9423bf02",
+      "title": "Research Manager \u2013 Employee Experience Insights & Strategies (Memphis, TN or Remote in USA)",
+      "company": "St. Jude Children\u2019s Research Hospital",
+      "location": "Memphis, Shelby County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5777216387?se=FoUwMc9y8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=6799CE706C135D1B4A4B1033688CD02D283F399C",
+      "posted": "2026-06-26",
+      "description": "At ALSAC you do more than make a living; you make a difference. We like people who are different\u2026because we\u2019re different, too. As one of the world\u2019s most iconic and respected nonprofits, we know what it\u2019s like to stand out. That\u2019s why we\u2019re looking at you. Your background, perspective, and desire to make an impact set you apart. As we work to help St. Jude cure childhood cancer, we're calling on the game-changers, innovators and visionaries to join our family. Not just for the kids of St. Jude,\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "1d0ab7faf6f4",
+      "title": "Sr. Manager, People Analytics",
+      "company": "Smart IT Frame LLC",
+      "location": "Santa Clara, Santa Clara County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5777430973?se=TnlPO89y8RG03p_b2NRIZw&utm_medium=api&utm_source=638f9cc6&v=4E6E9474D19CAA93556E45779854C1E47A9B9AC6",
+      "posted": "2026-06-26",
+      "description": "Job Description Position:Sr. Manager, People Analytics Location :Santa Clara,CA Key Responsibilitie sPeople Analytics & Workforce Insight sPartner with HR and business stakeholders to understand strategic priorities and deliver data, reporting, and actionable workforce insights that support business success .Develop and scale people analytics capabilities that move beyond descriptive reporting toward predictive insights and workforce planning .Design and deliver executive dashboards, scorecards\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "fc6e73e74a5b",
+      "title": "Customer Experience Insights Consultant \u2013 Business Banking",
+      "company": "U.S. Bank",
+      "location": "Minneapolis, Hennepin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5778600003?se=RpvPPM9y8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=679BB781D8FAA270B3CF0550AD29C3D2DA5237C2",
+      "posted": "2026-06-26",
+      "description": "At U.S. Bank, we\u2019re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "1a0e738597a5",
+      "title": "Customer Experience Manager (6 month Contract)- Aurora",
+      "company": "The Home Depot Canada",
+      "location": "Aurora, York region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/land/ad/5778313940?se=iIiOSc9y8RG03p_b2NRIZw&utm_medium=api&utm_source=638f9cc6&v=7862346B7AB2ED96B1367EBF56E22F72E54AEB24",
+      "posted": "2026-06-26",
+      "description": "Job Description Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If you\u2019re also naturally curious and eager to keep learning, consider starting or growing your career with us at The Home Depot. Position Overview: Customer Experience Managers (CXM) are members of the store leadership and management team, overseeing execution of store standards across the entire store, including customer\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e5f4eb7e7200",
+      "title": "Customer Experience Manager - 4 month Contract Newmarket",
+      "company": "The Home Depot Canada",
+      "location": "Kettleby, York region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/land/ad/5778303217?se=iIiOSc9y8RG03p_b2NRIZw&utm_medium=api&utm_source=638f9cc6&v=D3423E5CC58E4835AEE2C4CF809915C0E9C04F4F",
+      "posted": "2026-06-26",
+      "description": "Job Description Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If you\u2019re also naturally curious and eager to keep learning, consider starting or growing your career with us at The Home Depot. Position Overview: Customer Experience Managers (CXM) are members of the store leadership and management team, overseeing execution of store standards across the entire store, including customer\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "f41fbf2318b2",
       "title": "Customer Experience Manager",
       "company": "Five Below",
@@ -1063,6 +1570,52 @@
       "location": "Indianapolis, Marion County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5775972408?se=WAqRvANy8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=0BCD93C077E13C318C11667D31B10B3387A4ED64",
+      "posted": "2026-06-25",
+      "description": "Job Description The Associate Data Analyst, People Analytics & Automation will be a key support member of the People Analytics function, focusing on the execution of foundational data analysis, reporting, and process automation tasks within the People department. This role directly contributes to data-driven decision-making and operational efficiency by assisting in transforming raw people data into preliminary insights and supporting the streamlining of administrative processes. This position \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "c7391e3ca324",
+      "title": "CX Manager- ERP Integration Solution & AI Operations",
+      "company": "Stampli",
+      "location": "Mountain View, Santa Clara County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5776491635?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-25",
+      "description": "Stampli is seeking an execution-focused CX Manager with deep expertise in ERP implementations, P2P workflows, ERP integrations, and AI-enabled operations. This person will serve as a senior problem solver, strong 3rd-level support owner, and ERP integration domain expert, ensuring complex customer issues are diagnosed, prioritized, and resolved efficiently. This is not a traditional relationship-management role or an additional communication layer. It is a hands-on role for someone who understa\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "69cd96ff57fc",
+      "title": "Director, Chief of Staff - Employee Experience",
+      "company": "Labcorp",
+      "location": "Durham, Durham County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5777173782?se=dk0bLc9y8RGe4ZwL0wNS6w&utm_medium=api&utm_source=638f9cc6&v=06A0ACC6C669913A92E24411EF564C8D4EABCB6E",
+      "posted": "2026-06-25",
+      "description": "At Labcorp, you are part of a journey to accelerate life-changing healthcare breakthroughs and improve the delivery of care for all. You'll be inspired to discover more, develop new skills and pursue career-building opportunities as we help solve some of today's biggest health challenges around the world. Together, let's embrace possibilities and change lives! Labcorp is seeking a hybrid Director, Chief of Staff - Employee Experience to join our team at 10 Moore Drive, Durham, NC. This schedule\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "c215a8d8ecab",
+      "title": "Associate Data Analyst, People Analytics & Automation",
+      "company": "JD Finish Line",
+      "location": "Indianapolis, Marion County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5775972408?se=TnlPO89y8RG03p_b2NRIZw&utm_medium=api&utm_source=638f9cc6&v=0BCD93C077E13C318C11667D31B10B3387A4ED64",
       "posted": "2026-06-25",
       "description": "Job Description The Associate Data Analyst, People Analytics & Automation will be a key support member of the People Analytics function, focusing on the execution of foundational data analysis, reporting, and process automation tasks within the People department. This role directly contributes to data-driven decision-making and operational efficiency by assisting in transforming raw people data into preliminary insights and supporting the streamlining of administrative processes. This position \u2026",
       "source": "adzuna",
@@ -1763,6 +2316,36 @@
       "location": "US",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5775082915?se=hN5RsANy8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=93764F260478FA7224DFD1F368A6D18286004446",
+      "posted": "2026-06-24",
+      "description": "About the role We''re looking for a detail-oriented Customer Feedback Analyst to support a major financial services client. You''ll be embedded in a team that reviews, classifies, and analyzes inbound customer feedback, identifies emerging trends, and communicates findings to onshore stakeholders and vendor partners. This role sits at the intersection of data analysis, compliance awareness, and stakeholder communication. What you''ll do Review and classify large volumes of customer feedback to \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "0464fee0dabf",
+      "title": "Customer Analytics and Experience Analyst",
+      "company": "Colgate-Palmolive",
+      "location": "Piscataway, Middlesex County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5775695896?se=WNG4Kc9y8RG03p_b2NRIZw&utm_medium=api&utm_source=638f9cc6&v=4EE2E454B4B5A53FA0EF9090E1DA2C4B75DD019C",
+      "posted": "2026-06-24",
+      "description": "No Relocation Assistance Offered Job Number 174331 - Piscataway, New Jersey, United States Who We Are Colgate-Palmolive Company is a global consumer products company operating in over 200 countries specializing in Oral Care, Personal Care, Home Care, Skin Care, and Pet Nutrition. Our products are trusted in more households than any other brand in the world, making us a household name! Join Colgate-Palmolive, a caring, innovative growth company reimagining a healthier future for people, their pe\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "insights"
+      ]
+    },
+    {
+      "id": "683d18e6e246",
+      "title": "Customer Feedback Analyst \u2013 Banking & Compliance",
+      "company": "Synapse Business Systems",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5775082915?se=sMCPLs9y8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=93764F260478FA7224DFD1F368A6D18286004446",
       "posted": "2026-06-24",
       "description": "About the role We''re looking for a detail-oriented Customer Feedback Analyst to support a major financial services client. You''ll be embedded in a team that reviews, classifies, and analyzes inbound customer feedback, identifies emerging trends, and communicates findings to onshore stakeholders and vendor partners. This role sits at the intersection of data analysis, compliance awareness, and stakeholder communication. What you''ll do Review and classify large volumes of customer feedback to \u2026",
       "source": "adzuna",
@@ -2665,6 +3248,22 @@
       ]
     },
     {
+      "id": "9e42686b8265",
+      "title": "Customer Insights & Discovery Enablement Lead - London Stock Exchange Group",
+      "company": "London Stock Exchange Group",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5773546924?se=8lgYSc9y8RG03p_b2NRIZw&utm_medium=api&utm_source=638f9cc6&v=A418DB0D61D306C102FDCE7D7EF691C05CD20D4A",
+      "posted": "2026-06-23",
+      "description": "ABOUT US: LSEG (London Stock Exchange Group) is more than a diversified global financial markets infrastructure and data business. We are dedicated, open-access partners with a commitment to excellence in delivering the services our customers expect from us. With extensive experience, deep knowledge and worldwide presence across financial markets, we enable businesses and economies around the world to fund innovation, manage risk and create jobs. It's how we've contributed to supporting the fin\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
       "id": "053626a23f92",
       "title": "Santa Ana Customer Experience Shift Lead",
       "company": "Sender One Service",
@@ -3161,6 +3760,21 @@
       "location": "Woonsocket, Providence County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5773122430?se=gsoSqwNy8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=9B30A646D5CF395099FE9BCA64D420E5AAC1AE3C",
+      "posted": "2026-06-22",
+      "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary: CVS Pharmacy, Inc., a CVS Health compa\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "75a27669ccad",
+      "title": "Sr. Analyst, Customer Experience",
+      "company": "CVS Health",
+      "location": "Woonsocket, Providence County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5773122430?se=WNG4Kc9y8RG03p_b2NRIZw&utm_medium=api&utm_source=638f9cc6&v=9B30A646D5CF395099FE9BCA64D420E5AAC1AE3C",
       "posted": "2026-06-22",
       "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary: CVS Pharmacy, Inc., a CVS Health compa\u2026",
       "source": "adzuna",
@@ -6166,6 +6780,22 @@
       ]
     },
     {
+      "id": "034c7d1d3592",
+      "title": "Senior Advisor, People Insights and Workforce Intelligence",
+      "company": "BCI Corporation",
+      "location": "Victoria, Capital",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5768586992?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-06-18",
+      "description": "About Us: With $313.7 billion of gross assets under management, as of March 31, 2026, British Columbia Investment Management Corporation (BCI) is the provider of investment management services for British Columbia\u2019s public sector and one of the largest asset managers in Canada. BCI seeks investment opportunities around the world and across a range of asset classes that convert savings into productive capital. Our investment returns play a significant role in helping our institutional clients bu\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
       "id": "d19e52453092",
       "title": "Customer Experience Manager",
       "company": "Frontline Retail WA",
@@ -7941,6 +8571,21 @@
       ]
     },
     {
+      "id": "da19ea9010ff",
+      "title": "Director of Customer Experience",
+      "company": "WeDoTech",
+      "location": "Rusholme, Manchester",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5765662339?se=TI8kPs9y8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=F64198294267F6EF44970B4B524876E1E196217D",
+      "posted": "2026-06-16",
+      "description": "Job Title: Director of Customer Experience Salary: Competitive  Executive Benefits Package Location: UK-Based (Regular Travel Required) Work Type: Permanent Role: An exceptional opportunity to join a high-growth technology services business at a pivotal stage in its journey. This organisation has built a reputation for delivering outstanding customer outcomes and is now entering an exciting new phase of growth and transformation. Customer experience has been a key differentiator throughout its \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "ee08b64e406b",
       "title": "Data Analyst V - CX or VoC",
       "company": "BC Forward",
@@ -8635,6 +9280,21 @@
       "location": "US",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5764946477?se=gsoSqwNy8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=B42697C55FA7DBC88155F3B9F14C5069351C792E",
+      "posted": "2026-06-15",
+      "description": "Job Title: Data Analyst IV (AI/CX) Location: Remote Duration: Contract - 12 months Pay Range: $65/hr $68/hr (W2) Job ID: 374695 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across North America and India, we take pride in building long-term\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "64908e38becf",
+      "title": "Data Analyst IV (AI/CX)",
+      "company": "BCForward",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5764946477?se=WNG4Kc9y8RG03p_b2NRIZw&utm_medium=api&utm_source=638f9cc6&v=B42697C55FA7DBC88155F3B9F14C5069351C792E",
       "posted": "2026-06-15",
       "description": "Job Title: Data Analyst IV (AI/CX) Location: Remote Duration: Contract - 12 months Pay Range: $65/hr $68/hr (W2) Job ID: 374695 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across North America and India, we take pride in building long-term\u2026",
       "source": "adzuna",
@@ -11336,6 +11996,38 @@
       ]
     },
     {
+      "id": "8e280bea3a3e",
+      "title": "CX Program Management Lead - Aerospace",
+      "company": "Honeywell Aerospace",
+      "location": "Charlotte, Mecklenburg County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761987388?se=ijl_N89y8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=C3B706A052AE59B50DA7AAB596C0ED9B6426DC4E",
+      "posted": "2026-06-12",
+      "description": "As a Program Management Manager - Customer Experience Aerospace here at Honeywell, you will be responsible for leading and managing customer experience programs, ensuring that our customers have a seamless and positive experience throughout their engagement with us. Your role will involve developing and executing strategies that enhance customer satisfaction, drive operational excellence, and foster long-term relationships. By effectively managing customer experience initiatives at a senior lev\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "b7c856b185c3",
+      "title": "CX Program Management Lead - Aerospace",
+      "company": "Honeywell Aerospace",
+      "location": "Phoenix, Maricopa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761982833?se=ijl_N89y8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=7F527E9EB176A712641CFDA0C83D76D8AA058AE6",
+      "posted": "2026-06-12",
+      "description": "As a Program Management Manager - Customer Experience Aerospace here at Honeywell, you will be responsible for leading and managing customer experience programs, ensuring that our customers have a seamless and positive experience throughout their engagement with us. Your role will involve developing and executing strategies that enhance customer satisfaction, drive operational excellence, and foster long-term relationships. By effectively managing customer experience initiatives at a senior lev\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
       "id": "8adbe708b9e2",
       "title": "Customer Experience Coordinator",
       "company": "Suddath Companies",
@@ -13218,6 +13910,22 @@
       ]
     },
     {
+      "id": "daed2ce6be11",
+      "title": "Employee Experience (EX) Product Channel Operations Director",
+      "company": "JPMorganChase",
+      "location": "Bournemouth, Dorset",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5758423070?se=WPg0QM9y8RG03p_b2NRIZw&utm_medium=api&utm_source=638f9cc6&v=0B400810FADB99ED44862F2D5047000129B639C4",
+      "posted": "2026-06-10",
+      "description": "Description Join us to shape the future of employee digital experiences at JPMorganChase. You will lead the operational heartbeat of our primary channels, making a real impact on how employees get help, find answers, and connect to support. We value your leadership, problem-solving skills, and passion for delivering stable, high-quality services. As part of our team, you\u2019ll collaborate across product, engineering, and analytics, driving improvements that matter. Discover a role where your exper\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
       "id": "dd0b03dcb0c6",
       "title": "Director, Customer Experience & Growth",
       "company": "George Patton Assoc Inc",
@@ -14451,6 +15159,22 @@
       "location": "Huntington, Orange County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5757769287?se=hN5RsANy8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=72414F330C3F1706A19762A9ADDC8CD5A8290321",
+      "posted": "2026-06-09",
+      "description": "Job Description We are seeking a highly motivated and analytical Customer Experience Analytics & Research Consultant to support strategic customer experience initiatives. This role requires a unique blend of Customer Experience (CX), Market Research, Survey Programming, Advanced Analytics, and AI/ML expertise. The ideal candidate will have hands-on experience managing Voice of Customer (VoC) programs, designing and programming surveys, analyzing customer feedback and behavioral data, and levera\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "aff1256c3835",
+      "title": "Research Analyst - Voice of Customer (VoC) (INTL)",
+      "company": "Insight Global",
+      "location": "Huntington, Orange County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5757769287?se=sMCPLs9y8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=72414F330C3F1706A19762A9ADDC8CD5A8290321",
       "posted": "2026-06-09",
       "description": "Job Description We are seeking a highly motivated and analytical Customer Experience Analytics & Research Consultant to support strategic customer experience initiatives. This role requires a unique blend of Customer Experience (CX), Market Research, Survey Programming, Advanced Analytics, and AI/ML expertise. The ideal candidate will have hands-on experience managing Voice of Customer (VoC) programs, designing and programming surveys, analyzing customer feedback and behavioral data, and levera\u2026",
       "source": "adzuna",
@@ -19712,6 +20436,22 @@
       ]
     },
     {
+      "id": "0c6e5d036b83",
+      "title": "Customer Insights Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "Darwen, Lancashire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=anSAPs9y8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
+      "posted": "2026-06-02",
+      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
       "id": "8fba1c21c41b",
       "title": "Director of Customer Experience",
       "company": "Saxco International",
@@ -22329,1118 +23069,6 @@
       "url": "https://www.adzuna.com/land/ad/5745101228?se=ThHoiLVe8RGhS87hc9yoXg&utm_medium=api&utm_source=638f9cc6&v=FEB668F8067BE83394D98AB12C13DFDBD7442547",
       "posted": "2026-05-29",
       "description": "As a community, the University of Rochester is defined by a deep commitment to Meliora - Ever Better. Embedded in that ideal are the values we share: equity, leadership, integrity, openness, respect, and accountability. Together, we will set the highest standards for how we treat each other to ensure our community is welcoming to all and is a place where all can thrive. Job Location (Full Address): 255 Crittenden Blvd, Rochester, New York, United States of America, 14642 Opening: Worker Subtype\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5b3153297bbb",
-      "title": "Account Director, Customer Experience (Healthcare)",
-      "company": "Amsive",
-      "location": "New York City, New York",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743652978?se=7pzfFb5a8RGvy-bvea3yog&utm_medium=api&utm_source=638f9cc6&v=A2F988B5B4845DF8A100025E0C6325CFAB098A1E",
-      "posted": "2026-05-28",
-      "description": "Job Description Job Description Who We Are At Amsive, we're more than just a performance marketing agency; we're a team that thrives on collaboration and innovation. We offer a supportive environment where personal growth is just as important as professional development. We're a team of passionate individuals ready to tackle challenges, learn from one another, and drive results. We believe in empowering our team members, providing them with the tools they need to succeed, and trusting them to l\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "f0fa8a8b749e",
-      "title": "Technical Program Manager , Customer Experience and Business Trends",
-      "company": "Amazon",
-      "location": "International, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743054017?se=7pzfFb5a8RGvy-bvea3yog&utm_medium=api&utm_source=638f9cc6&v=87CD94EFDE04788D23089903FB3A0DD572522187",
-      "posted": "2026-05-28",
-      "description": "Description Are you passionate about improving the performance of AWS services for all of our customers? Do you want to shape the metrics that inform critical business decisions for Amazon's leadership team, including the Chief Executive Officer and Board of Directors? Join the Customer Experience and Business Trends (CXBT) organization as our single-threaded owner for continuously communicating performance metrics to leadership. In this high-impact role, you will serve as the critical bridge b\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "1cc5629996bd",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=Ik3DFr5a8RGDNYtSvPqNqw&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "98f4d0c90b01",
-      "title": "Customer Experience Analyst I",
-      "company": "United States Steel Corporation",
-      "location": "Troy, Oakland County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5743158871?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "The Customer Experience Analyst is exposed to various aspects of U.S. Steel\u2019s overall business and will manage a specific group of customer accounts to achieve major business objectives. The interaction with the customer and multiple functional groups within the Corporation will provide a well-rounded basic knowledge of the order-to-cash process from beginning to end. This is a remote commuter position, and you will have the ability to work remote while also being able to commute to one of our \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "e87b55580c86",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=Ik3DFr5a8RGDNYtSvPqNqw&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "af39d377696b",
-      "title": "Employee Experience Manager",
-      "company": "Rhythm Pharmaceuticals",
-      "location": "Boston, Suffolk County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743650907?se=npwdGb5a8RG7fpRy-soy_w&utm_medium=api&utm_source=638f9cc6&v=1116D354389F451872F09E69C68BCEF80B55B1F2",
-      "posted": "2026-05-28",
-      "description": "Job Description Job Description Company Overview Rhythm is a global, commercial-stage biopharmaceutical company committed to transforming the lives of patients and their families living with rare neuroendocrine diseases. We develop medicines for previously untreatable or undertreated diseases and provide meaningful support for healthcare providers and patients and their families. We recognize the courage it takes for patients and their caregivers to begin their journey of advocacy to find the a\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "07ed0c32fbf7",
-      "title": "Senior Manager, Employee Experience",
-      "company": "Oscar Health",
-      "location": "New York City, New York",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743644192?se=npwdGb5a8RG7fpRy-soy_w&utm_medium=api&utm_source=638f9cc6&v=7735BA7BB5946D6D7A3B1AC2ADED7B7F9017BC0E",
-      "posted": "2026-05-28",
-      "description": "Job Description Job Description Hi, we're Oscar. We're hiring a Senior Manager, Employee Experience to join our People team. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves\u2014one that behaves like a doctor in the family. About the role: You will be responsible for designing, delivering, and evolving Oscar Healt\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "170c6ee398c4",
-      "title": "Customer Experience (CX) Manager, Bet-David Consulting",
-      "company": "Valuetainment",
-      "location": "Fort Lauderdale, Broward County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743393663?se=kIXXGr5a8RGvy-bvea3yog&utm_medium=api&utm_source=638f9cc6&v=D933A82E35DD88BD54A2D1797BE16CB7632AACA1",
-      "posted": "2026-05-28",
-      "description": "Job Description Job Description Bet-David Consulting (BDC) serves over 10,000 entrepreneurs across 60 countries through business consulting, media, and technology. Our clients do not just purchase services \u2014 they invest in growth, transformation, and belief. Reporting to the General Manager of BDC, the Customer Experience (CX) Manager will architect and operationalize a world-class \u201csurprise and delight\u201d function that turns customers into raving fans. This is not a support role. This is a brand\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "22553efb0763",
-      "title": "Director, Market Research & Customer Insights",
-      "company": "Cleerly",
-      "location": "Denver, Colorado",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5743660779?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "Job Description Job Description About Cleerly We're Cleerly \u2013 a healthcare company that's revolutionizing how heart disease is diagnosed, treated, and tracked. We were founded in 2017 by one of the world's leading cardiologists and are a growing team of world-class engineering, operations, medical affairs, marketing, and sales leaders. We raised $223M in Series C funding in 2022 which has enabled rapid growth and continued support of our mission. In December 2024 we received an additional $106M\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "60871b2d28c0",
-      "title": "Senior Manager, Employee Experience",
-      "company": "Oscar Health",
-      "location": "New York City, New York",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743644192?se=hCHoH75a8RGvy-bvea3yog&utm_medium=api&utm_source=638f9cc6&v=7735BA7BB5946D6D7A3B1AC2ADED7B7F9017BC0E",
-      "posted": "2026-05-28",
-      "description": "Job Description Job Description Hi, we're Oscar. We're hiring a Senior Manager, Employee Experience to join our People team. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves\u2014one that behaves like a doctor in the family. About the role: You will be responsible for designing, delivering, and evolving Oscar Healt\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "d5dae578d0bb",
-      "title": "Customer Experience Operations Manager (Pillar Lead)",
-      "company": "Instacart",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5743186812?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "ba698e6b63bb",
-      "title": "Customer Experience (CX) Manager, Bet-David Consulting",
-      "company": "Valuetainment",
-      "location": "Fort Lauderdale, Broward County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743393663?se=dP8jJb5a8RGDNYtSvPqNqw&utm_medium=api&utm_source=638f9cc6&v=D933A82E35DD88BD54A2D1797BE16CB7632AACA1",
-      "posted": "2026-05-28",
-      "description": "Job Description Job Description Bet-David Consulting (BDC) serves over 10,000 entrepreneurs across 60 countries through business consulting, media, and technology. Our clients do not just purchase services \u2014 they invest in growth, transformation, and belief. Reporting to the General Manager of BDC, the Customer Experience (CX) Manager will architect and operationalize a world-class \u201csurprise and delight\u201d function that turns customers into raving fans. This is not a support role. This is a brand\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "c6ce6ce6337e",
-      "title": "Customer Insights and Strategy Analyst",
-      "company": "System One",
-      "location": "Bloomfield, Allegheny County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743635122?se=0D6jKL5a8RG7fpRy-soy_w&utm_medium=api&utm_source=638f9cc6&v=74E8466C418B64510A6EC5D55A0BD5E5322906ED",
-      "posted": "2026-05-28",
-      "description": "For immediate consideration, please connect with me on LinkedIn at and then email your resume, work authorization status, current location, availability, and compensation expectations directly to - make sure to include the exact job title and job location in your email message.  W2 hourly contract work - no C2C candidates  Location: 77 Hot Metal Street, Pittsburgh, PA 15203 - hybrid work schedule, parking provided Customer Insights and Strategy Analyst : - As a member of the Customer Insights &\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "4e4e92521b7d",
-      "title": "Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Hazel Grove, Stockport",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5743633392?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "266c5b8c96a4",
-      "title": "Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Denton, Manchester",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5743633048?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "2fed6d1c59fd",
-      "title": "Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Perton, Stoke Edith",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5743632949?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "234cae931749",
-      "title": "Customer Experience Manager, Mid-Market",
-      "company": "Navex",
-      "location": "Hammersmith, West London",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5743586420?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "At NAVEX, we\u2019re transforming the world\u2014making it safer, more ethical, and ensuring every voice is heard. That\u2019s real impact. Our high-performance culture is driven by our values. We move with speed, passion and purpose \u2014 as one team. We are bold in our ideas, accountable in our actions, and committed to doing the right things right. NAVEX is seeking a Mid-Market Customer Experience Manager (CXM) to deliver highly personalized and strategic experience for our most important mid-market customers.\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "6e204a289381",
-      "title": "Studio Lead / Customer Experience - One City",
-      "company": "Battersea Academy for Skills & Employment",
-      "location": "London, UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5743549732?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "One City Studio Lead / Customer Experience Location: Battersea Power Station Pay: \u00a312.80/hr (FOH shifts) | \u00a314/hr (Lead shifts) One City is looking for a driven, high-energy individual to join our team as a Studio Lead and head up our in studio customer experience. This role is for those who understand that a high-performance studio requires more than just operational support, it requires focus on atmosphere and brand energy. You will split your time between Front of House shifts and Lead shift\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "3fae04548c33",
-      "title": "Customer Experience Lead",
-      "company": "Computer Futures",
-      "location": "Southwark, South East London",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5742790363?se=InYIK75a8RGvy-bvea3yog&utm_medium=api&utm_source=638f9cc6&v=D16F4BFE76E2E1C9B483E9E3FB850650072ED5D1",
-      "posted": "2026-05-28",
-      "description": "Customer Experience Lead: Customer Experience Strategy & Design We're looking for a strategic and hands-on Customer Experience (CX) Lead to shape and deliver exceptional, end-to-end customer journeys across our digital and physical touchpoints. Role : Customer Experience Lead Rate : \u00a3neg DOE IR35 : Outside Location : Some travel to London/Midlands - weekly/bi-weekly The role As CX Lead, you will define and drive our customer experience vision-translating business, customer, and policy objective\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9ce166902aec",
-      "title": "Director of CX Product Strategy",
-      "company": "Love's Travel Stops & Country Stores",
-      "location": "Oklahoma City, Oklahoma County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5744109539?se=TL7R6Idb8RG1g60cORqbZQ&utm_medium=api&utm_source=638f9cc6&v=3223A28AB38B613B5A01BF3FCED054CFB4A98686",
-      "posted": "2026-05-28",
-      "description": "Benefits: _*_ _Fuel Your Growth with Love's - company funded tuition assistance_ _* Paid Time Off * 401(k) - 100% Match up to 5% * Medical/Dental/Vision Insurance after 30 days * Competitive Pay Career Development_ _This position is based at the corporate office in Oklahoma City._ BASIC PURPOSE : The Director of Customer Experience Product Strategy will define and deliver Customer Experience best practices and customer-facing tools across Love's Family of Companies. This role involves leading a\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "14a4418f9f0a",
-      "title": "VP, Sales & Customer Experience - DEWALT Construction Technology",
-      "company": "Stanley Black and Decker",
-      "location": "New Britain, Hartford County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5744108321?se=TL7R6Idb8RG1g60cORqbZQ&utm_medium=api&utm_source=638f9cc6&v=1DAA662BD3D354325C4423025F0859CD0BA39344",
-      "posted": "2026-05-28",
-      "description": "VP, Sales & Customer Experience - DEWALT Construction Technology The Company It takes great people to achieve greatness. People with a sense of purpose and integrity. People with a relentless pursuit of excellence. People who care about making things better For Those Who Make The World. Join our top-notch team of more than 43,500 high-performing professionals globally who are making their mark on some of the world's most beloved brands, including DEWALT\u00ae, STANLEY, CRAFTSMAN, BLACKDECKER, and ot\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "d3c4d1283c86",
-      "title": "Customer Experience Analyst",
-      "company": "SGS Consulting",
-      "location": "Cupertino, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743637962?se=fIUL6odb8RGbGvW-bcCcHA&utm_medium=api&utm_source=638f9cc6&v=A3D3F032266734C6ABE79BD844801EA10D6E997B",
-      "posted": "2026-05-28",
-      "description": "Summary: The Customer Experience (CX) team is dedicated to improving customer experiences across the entire customer journey. As a Customer Experience Analyst, you will be part of a global practice focused on understanding and learning from our customers. You will leverage customer insights to drive business improvements and promote customer-centric decision-making throughout the organization. You will play a pivotal role in boosting customer satisfaction and loyalty by analyzing feedback, iden\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "8e049dab0863",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=fIUL6odb8RGbGvW-bcCcHA&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "7ad9435a5966",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=fIUL6odb8RGbGvW-bcCcHA&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9de461657486",
-      "title": "Customer Insights and Strategy Analyst",
-      "company": "System One",
-      "location": "Bloomfield, Allegheny County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743635122?se=aBTE_Idb8RGbGvW-bcCcHA&utm_medium=api&utm_source=638f9cc6&v=74E8466C418B64510A6EC5D55A0BD5E5322906ED",
-      "posted": "2026-05-28",
-      "description": "For immediate consideration, please connect with me on LinkedIn at and then email your resume, work authorization status, current location, availability, and compensation expectations directly to - make sure to include the exact job title and job location in your email message.  W2 hourly contract work - no C2C candidates  Location: 77 Hot Metal Street, Pittsburgh, PA 15203 - hybrid work schedule, parking provided Customer Insights and Strategy Analyst : - As a member of the Customer Insights &\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "2842159e47de",
-      "title": "Manager, Customer Experience",
-      "company": "Sleep Country",
-      "location": "Toronto, Ontario",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5744044924?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "Reporting to the Senior Vice President of Customer Experience, the Manager, Customer Experience will play a key leadership role in the relaunch of Bed Bath & Beyond in Canada. The Manager, Customer Experience will develop, drive and execute the strategic implementation of a scalable, end-to-end customer experience (CX) operating model, including integration of Shopify utilizing the current CX technology stack (Zendesk, Ada, and supporting tools). The strategic plan that the Manager, Customer Ex\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "1880d102f1b4",
-      "title": "Customer Experience Operations Manager (Pillar Lead)",
-      "company": "Instacart",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5743856772?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "We're transforming the grocery industry At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible \u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "93088b79772c",
-      "title": "Manager, Customer Experience (Service Burlington)",
-      "company": "City of Burlington",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5743830351?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "Position Type: Regular Full Time (RFT) Closing Date: June 9, 2026 Salary/Wage Range: $124,099.00 - $155,124.00 Working for the City of Burlington A great career is closer than you think. Come work for the City of Burlington, where you'll be joining an innovative and progressive workplace focused on building a 21st century city that respects the diversity of our residents, visitors and employees; and prioritizes continuous opportunities for you to learn and grow. We don't just spend time attract\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "7fcf593d6ff7",
-      "title": "Customer Insights Manager",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5743781685?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across programmatic advertising and marketing channels. At StackAdapt\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "65b142842af2",
-      "title": "Customer Experience Specialist",
-      "company": "Eastlink",
-      "location": "Delta, Greater Vancouver",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5743861544?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "Customer Experience Specialist Eastlink Designated office: 5381 Ladner Trunk Rd, Delta BC, V4K 1W6 This position is: 100% working from the store. Eastlink is a family owned; entrepreneurial and innovative Canadian telecommunications company with offices across the country. We take great pride in being a leader in delivering creative, competitive, customer focused telecommunications solutions, and connecting our customers to the things and people that matter most. Serving a customer base across \u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "385e3121096b",
-      "title": "Director of CX Product Strategy",
-      "company": "Love's Travel Stops & Country Stores",
-      "location": "Oklahoma City, Oklahoma County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5744109539?se=iHw3jxdc8RG8nZ7wvX64DA&utm_medium=api&utm_source=638f9cc6&v=3223A28AB38B613B5A01BF3FCED054CFB4A98686",
-      "posted": "2026-05-28",
-      "description": "Benefits: _*_ _Fuel Your Growth with Love's - company funded tuition assistance_ _* Paid Time Off * 401(k) - 100% Match up to 5% * Medical/Dental/Vision Insurance after 30 days * Competitive Pay Career Development_ _This position is based at the corporate office in Oklahoma City._ BASIC PURPOSE : The Director of Customer Experience Product Strategy will define and deliver Customer Experience best practices and customer-facing tools across Love's Family of Companies. This role involves leading a\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "8dc5c430360b",
-      "title": "VP, Sales & Customer Experience - DEWALT Construction Technology",
-      "company": "Stanley Black and Decker",
-      "location": "New Britain, Hartford County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5744108321?se=iHw3jxdc8RG8nZ7wvX64DA&utm_medium=api&utm_source=638f9cc6&v=1DAA662BD3D354325C4423025F0859CD0BA39344",
-      "posted": "2026-05-28",
-      "description": "VP, Sales & Customer Experience - DEWALT Construction Technology The Company It takes great people to achieve greatness. People with a sense of purpose and integrity. People with a relentless pursuit of excellence. People who care about making things better For Those Who Make The World. Join our top-notch team of more than 43,500 high-performing professionals globally who are making their mark on some of the world's most beloved brands, including DEWALT\u00ae, STANLEY, CRAFTSMAN, BLACKDECKER, and ot\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "ed5520ddcd04",
-      "title": "Technical Program Manager , Customer Experience and Business Trends",
-      "company": "Amazon",
-      "location": "International, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743054017?se=iHw3jxdc8RG8nZ7wvX64DA&utm_medium=api&utm_source=638f9cc6&v=87CD94EFDE04788D23089903FB3A0DD572522187",
-      "posted": "2026-05-28",
-      "description": "Description Are you passionate about improving the performance of AWS services for all of our customers? Do you want to shape the metrics that inform critical business decisions for Amazon's leadership team, including the Chief Executive Officer and Board of Directors? Join the Customer Experience and Business Trends (CXBT) organization as our single-threaded owner for continuously communicating performance metrics to leadership. In this high-impact role, you will serve as the critical bridge b\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "14a8bf35b9f9",
-      "title": "Customer Experience Analyst",
-      "company": "SGS Consulting",
-      "location": "Cupertino, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743637962?se=6CU8kBdc8RGUJNJexxfy6Q&utm_medium=api&utm_source=638f9cc6&v=A3D3F032266734C6ABE79BD844801EA10D6E997B",
-      "posted": "2026-05-28",
-      "description": "Summary: The Customer Experience (CX) team is dedicated to improving customer experiences across the entire customer journey. As a Customer Experience Analyst, you will be part of a global practice focused on understanding and learning from our customers. You will leverage customer insights to drive business improvements and promote customer-centric decision-making throughout the organization. You will play a pivotal role in boosting customer satisfaction and loyalty by analyzing feedback, iden\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "e0424da02497",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=6CU8kBdc8RGUJNJexxfy6Q&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "f8233f0a8b72",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=6CU8kBdc8RGUJNJexxfy6Q&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "25b077780eb7",
-      "title": "Customer Insights and Strategy Analyst",
-      "company": "System One",
-      "location": "Bloomfield, Allegheny County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743635122?se=Oh-7ohdc8RGF_uoLgKvTnQ&utm_medium=api&utm_source=638f9cc6&v=74E8466C418B64510A6EC5D55A0BD5E5322906ED",
-      "posted": "2026-05-28",
-      "description": "For immediate consideration, please connect with me on LinkedIn at and then email your resume, work authorization status, current location, availability, and compensation expectations directly to - make sure to include the exact job title and job location in your email message.  W2 hourly contract work - no C2C candidates  Location: 77 Hot Metal Street, Pittsburgh, PA 15203 - hybrid work schedule, parking provided Customer Insights and Strategy Analyst : - As a member of the Customer Insights &\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "aeb35aee64a8",
-      "title": "Director of CX Product Strategy",
-      "company": "Love's Travel Stops & Country Stores",
-      "location": "Oklahoma City, Oklahoma County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5744109539?se=pHGQLOdc8RGUJNJexxfy6Q&utm_medium=api&utm_source=638f9cc6&v=3223A28AB38B613B5A01BF3FCED054CFB4A98686",
-      "posted": "2026-05-28",
-      "description": "Benefits: _*_ _Fuel Your Growth with Love's - company funded tuition assistance_ _* Paid Time Off * 401(k) - 100% Match up to 5% * Medical/Dental/Vision Insurance after 30 days * Competitive Pay Career Development_ _This position is based at the corporate office in Oklahoma City._ BASIC PURPOSE : The Director of Customer Experience Product Strategy will define and deliver Customer Experience best practices and customer-facing tools across Love's Family of Companies. This role involves leading a\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "447da926ff32",
-      "title": "VP, Sales & Customer Experience - DEWALT Construction Technology",
-      "company": "Stanley Black and Decker",
-      "location": "New Britain, Hartford County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5744108321?se=pHGQLOdc8RGUJNJexxfy6Q&utm_medium=api&utm_source=638f9cc6&v=1DAA662BD3D354325C4423025F0859CD0BA39344",
-      "posted": "2026-05-28",
-      "description": "VP, Sales & Customer Experience - DEWALT Construction Technology The Company It takes great people to achieve greatness. People with a sense of purpose and integrity. People with a relentless pursuit of excellence. People who care about making things better For Those Who Make The World. Join our top-notch team of more than 43,500 high-performing professionals globally who are making their mark on some of the world's most beloved brands, including DEWALT\u00ae, STANLEY, CRAFTSMAN, BLACKDECKER, and ot\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "3305f1cf8af4",
-      "title": "Customer Experience Analyst",
-      "company": "SGS Consulting",
-      "location": "Cupertino, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743637962?se=gvpuLedc8RGUJNJexxfy6Q&utm_medium=api&utm_source=638f9cc6&v=A3D3F032266734C6ABE79BD844801EA10D6E997B",
-      "posted": "2026-05-28",
-      "description": "Summary: The Customer Experience (CX) team is dedicated to improving customer experiences across the entire customer journey. As a Customer Experience Analyst, you will be part of a global practice focused on understanding and learning from our customers. You will leverage customer insights to drive business improvements and promote customer-centric decision-making throughout the organization. You will play a pivotal role in boosting customer satisfaction and loyalty by analyzing feedback, iden\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "c918a11716f7",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=gvpuLedc8RGUJNJexxfy6Q&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "52538040be3c",
-      "title": "Data & Customer Insights Analyst, Client Experience",
-      "company": "Advisor Group",
-      "location": "Scottsdale, Maricopa County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5743195128?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-05-28",
-      "description": "Current Employees and Contractors Apply Here Osaic Careers Business Analyst Opportunity in Financial Services Data & Customer Insights Analyst, Client Experience Location(s): Atlanta: 2300 Windy Ridge Pkwy SE, Suite750, Atlanta, GA 30339 La Vista:12325 Port Grace Blvd, La Vista, NE 68128 Oakdale: 7755 3rd St. N, Oakdale, MN 55128 Scottsdale: 18700 N Hayden Rd, Suite 255, Scottsdale, AZ 85255 St. Petersburg: 877 Executive Center Dr. W, Suite 300, St. Petersburg, FL 33702 Osaic is not considering\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "b65c7ba94019",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=gvpuLedc8RGUJNJexxfy6Q&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "6b5e75d546c9",
-      "title": "Director of CX Product Strategy",
-      "company": "Love's Travel Stops & Country Stores",
-      "location": "Oklahoma City, Oklahoma County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5744109539?se=cJW6gv1d8RGLwJSGqSIW5A&utm_medium=api&utm_source=638f9cc6&v=3223A28AB38B613B5A01BF3FCED054CFB4A98686",
-      "posted": "2026-05-28",
-      "description": "Benefits: _*_ _Fuel Your Growth with Love's - company funded tuition assistance_ _* Paid Time Off * 401(k) - 100% Match up to 5% * Medical/Dental/Vision Insurance after 30 days * Competitive Pay Career Development_ _This position is based at the corporate office in Oklahoma City._ BASIC PURPOSE : The Director of Customer Experience Product Strategy will define and deliver Customer Experience best practices and customer-facing tools across Love's Family of Companies. This role involves leading a\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "20bedb30de9c",
-      "title": "VP, Sales & Customer Experience - DEWALT Construction Technology",
-      "company": "Stanley Black and Decker",
-      "location": "New Britain, Hartford County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5744108321?se=cJW6gv1d8RGLwJSGqSIW5A&utm_medium=api&utm_source=638f9cc6&v=1DAA662BD3D354325C4423025F0859CD0BA39344",
-      "posted": "2026-05-28",
-      "description": "VP, Sales & Customer Experience - DEWALT Construction Technology The Company It takes great people to achieve greatness. People with a sense of purpose and integrity. People with a relentless pursuit of excellence. People who care about making things better For Those Who Make The World. Join our top-notch team of more than 43,500 high-performing professionals globally who are making their mark on some of the world's most beloved brands, including DEWALT\u00ae, STANLEY, CRAFTSMAN, BLACKDECKER, and ot\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "8812bce1579c",
-      "title": "Customer Experience Analyst",
-      "company": "SGS Consulting",
-      "location": "Cupertino, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743637962?se=ugZyg_1d8RGPOejJLnPHVg&utm_medium=api&utm_source=638f9cc6&v=A3D3F032266734C6ABE79BD844801EA10D6E997B",
-      "posted": "2026-05-28",
-      "description": "Summary: The Customer Experience (CX) team is dedicated to improving customer experiences across the entire customer journey. As a Customer Experience Analyst, you will be part of a global practice focused on understanding and learning from our customers. You will leverage customer insights to drive business improvements and promote customer-centric decision-making throughout the organization. You will play a pivotal role in boosting customer satisfaction and loyalty by analyzing feedback, iden\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "cab269662b13",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=ugZyg_1d8RGPOejJLnPHVg&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "c9ca3a615116",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=ugZyg_1d8RGPOejJLnPHVg&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "7b34276781f9",
-      "title": "Customer Experience Analyst",
-      "company": "SGS Consulting",
-      "location": "Cupertino, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743637962?se=junTibVe8RGuQY7yxssiuQ&utm_medium=api&utm_source=638f9cc6&v=A3D3F032266734C6ABE79BD844801EA10D6E997B",
-      "posted": "2026-05-28",
-      "description": "Summary: The Customer Experience (CX) team is dedicated to improving customer experiences across the entire customer journey. As a Customer Experience Analyst, you will be part of a global practice focused on understanding and learning from our customers. You will leverage customer insights to drive business improvements and promote customer-centric decision-making throughout the organization. You will play a pivotal role in boosting customer satisfaction and loyalty by analyzing feedback, iden\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "53146b1672ba",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=junTibVe8RGuQY7yxssiuQ&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "60e01de3b188",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=junTibVe8RGuQY7yxssiuQ&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "14272adf08f9",
-      "title": "Customer Experience Analyst",
-      "company": "SGS Consulting",
-      "location": "Cupertino, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743637962?se=yN7SdDtg8RGOiOmPg4gP4A&utm_medium=api&utm_source=638f9cc6&v=A3D3F032266734C6ABE79BD844801EA10D6E997B",
-      "posted": "2026-05-28",
-      "description": "Summary: The Customer Experience (CX) team is dedicated to improving customer experiences across the entire customer journey. As a Customer Experience Analyst, you will be part of a global practice focused on understanding and learning from our customers. You will leverage customer insights to drive business improvements and promote customer-centric decision-making throughout the organization. You will play a pivotal role in boosting customer satisfaction and loyalty by analyzing feedback, iden\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "47117a2f45fa",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=yN7SdDtg8RGOiOmPg4gP4A&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "77e56ed1f887",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=yN7SdDtg8RGOiOmPg4gP4A&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "18e70bca60f4",
-      "title": "Customer Experience Analyst",
-      "company": "SGS Consulting",
-      "location": "Cupertino, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743637962?se=Pu28v_lg8RGAprU-irHORg&utm_medium=api&utm_source=638f9cc6&v=A3D3F032266734C6ABE79BD844801EA10D6E997B",
-      "posted": "2026-05-28",
-      "description": "Summary: The Customer Experience (CX) team is dedicated to improving customer experiences across the entire customer journey. As a Customer Experience Analyst, you will be part of a global practice focused on understanding and learning from our customers. You will leverage customer insights to drive business improvements and promote customer-centric decision-making throughout the organization. You will play a pivotal role in boosting customer satisfaction and loyalty by analyzing feedback, iden\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "7b2e6aee86c8",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=Pu28v_lg8RGAprU-irHORg&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "239556ce6807",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=Pu28v_lg8RGAprU-irHORg&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "cbde48911738",
-      "title": "Customer Experience Analyst",
-      "company": "SGS Consulting",
-      "location": "Cupertino, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743637962?se=TBo4l5hh8RGHk5mrcEw0_Q&utm_medium=api&utm_source=638f9cc6&v=A3D3F032266734C6ABE79BD844801EA10D6E997B",
-      "posted": "2026-05-28",
-      "description": "Summary: The Customer Experience (CX) team is dedicated to improving customer experiences across the entire customer journey. As a Customer Experience Analyst, you will be part of a global practice focused on understanding and learning from our customers. You will leverage customer insights to drive business improvements and promote customer-centric decision-making throughout the organization. You will play a pivotal role in boosting customer satisfaction and loyalty by analyzing feedback, iden\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "f51046303629",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=TBo4l5hh8RGHk5mrcEw0_Q&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "976932afa5b5",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=TBo4l5hh8RGHk5mrcEw0_Q&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "11db3a3e4700",
-      "title": "Customer Experience Analyst",
-      "company": "SGS Consulting",
-      "location": "Cupertino, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743637962?se=cgWMkmli8RGHk5mrcEw0_Q&utm_medium=api&utm_source=638f9cc6&v=A3D3F032266734C6ABE79BD844801EA10D6E997B",
-      "posted": "2026-05-28",
-      "description": "Summary: The Customer Experience (CX) team is dedicated to improving customer experiences across the entire customer journey. As a Customer Experience Analyst, you will be part of a global practice focused on understanding and learning from our customers. You will leverage customer insights to drive business improvements and promote customer-centric decision-making throughout the organization. You will play a pivotal role in boosting customer satisfaction and loyalty by analyzing feedback, iden\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "b39b6e23c9d2",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=cgWMkmli8RGHk5mrcEw0_Q&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a6233e4fcff9",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=cgWMkmli8RGHk5mrcEw0_Q&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "7d282ac3583b",
-      "title": "Customer Experience Analyst",
-      "company": "SGS Consulting",
-      "location": "Cupertino, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743637962?se=gGTFrWBj8RGTW7GEtrxXDQ&utm_medium=api&utm_source=638f9cc6&v=A3D3F032266734C6ABE79BD844801EA10D6E997B",
-      "posted": "2026-05-28",
-      "description": "Summary: The Customer Experience (CX) team is dedicated to improving customer experiences across the entire customer journey. As a Customer Experience Analyst, you will be part of a global practice focused on understanding and learning from our customers. You will leverage customer insights to drive business improvements and promote customer-centric decision-making throughout the organization. You will play a pivotal role in boosting customer satisfaction and loyalty by analyzing feedback, iden\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "5f40bb15ab1e",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=gGTFrWBj8RGTW7GEtrxXDQ&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "737b7a96037e",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=gGTFrWBj8RGTW7GEtrxXDQ&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9bc63c0bf1ae",
-      "title": "Customer Experience Analyst",
-      "company": "SGS Consulting",
-      "location": "Cupertino, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743637962?se=YJ2nBx9k8RGh7Lnoo1-DZQ&utm_medium=api&utm_source=638f9cc6&v=A3D3F032266734C6ABE79BD844801EA10D6E997B",
-      "posted": "2026-05-28",
-      "description": "Summary: The Customer Experience (CX) team is dedicated to improving customer experiences across the entire customer journey. As a Customer Experience Analyst, you will be part of a global practice focused on understanding and learning from our customers. You will leverage customer insights to drive business improvements and promote customer-centric decision-making throughout the organization. You will play a pivotal role in boosting customer satisfaction and loyalty by analyzing feedback, iden\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "73b3040925cc",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=YJ2nBx9k8RGh7Lnoo1-DZQ&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "6ed2f61146ef",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=YJ2nBx9k8RGh7Lnoo1-DZQ&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "8a9887f80006",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=vpNlFfRk8RGN64C7ajy0tA&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "8505412922de",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=vpNlFfRk8RGN64C7ajy0tA&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "035a9f8a4a5b",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743320633?se=3uKoGb9l8RGOccqhHlf4XA&utm_medium=api&utm_source=638f9cc6&v=397A0460CD1140B9FBC3959489C610F8BEB8F02B",
-      "posted": "2026-05-28",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "155d30bdac1e",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5743053981?se=3uKoGb9l8RGOccqhHlf4XA&utm_medium=api&utm_source=638f9cc6&v=BBA9B7539239315B7C980B3A84FFEAF5AEE098F5",
-      "posted": "2026-05-28",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
       "source": "adzuna",
       "country": "US",
       "tags": [
