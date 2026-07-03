@@ -1,7 +1,310 @@
 {
-  "updated": "2026-07-02T09:19:16Z",
-  "count": 1502,
+  "updated": "2026-07-03T09:24:13Z",
+  "count": 1491,
   "jobs": [
+    {
+      "id": "ed5893a18182",
+      "title": "Enterprise Customer Experience Program Manager",
+      "company": "Rockwell Automation",
+      "location": "Milwaukee, Milwaukee County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786625189?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "Rockwell Automation is a global technology leader focused on helping the world\u2019s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the worl\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "462f6fac389e",
+      "title": "Manager, Customer Experience",
+      "company": "Sysco",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786604939?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "Company: US6469 Sysco Payroll, Division of Sysco Resources Services, LLC Sales Territory: None Zip Code: 34221 Travel Percentage: Up to 25% COMPENSATION INFORMATION: The pay range provided is not indicative of Sysco\u2019s actual pay range but is merely algorithmic and provided for generalized comparison. Factors that may be used to determine rate of pay include specific skills, work location, work experience and other individualized factors This is a hybrid position (remote, onsite) with approximat\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f8a5ed80328e",
+      "title": "Customer Experience Manager FT Rockville",
+      "company": "Michaels",
+      "location": "Rockville, Montgomery County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786600198?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "Store - DC-ROCKVILLE, MD Deliver a customer centric shopping experience by managing and delivering effective front-end operations and expectations. Lead the omnichannel processes. Maintain store recovery standards to deliver our Brand Promises. Deliver friendly customer service. Assist Store Manager in leading and managing adherence to Standard Operating Procedures (SOPs) and Company programs to ensure compliance with applicable laws and requirements; ensure execution of Company policies and st\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "5889b6218f08",
+      "title": "CX Support Manager",
+      "company": "Generation Tux",
+      "location": "Jeffersontown, Jefferson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786388329?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "LOCATION: Onsite; Louisville, KY REPORTS TO: Director of Customer Experience TYPE: Full-time, Exempt DEPARTMENT: Customer Experience Generation Tux is currently looking for a Customer Service Support Manager to lead our call center team to deliver exceptional customer service and operational excellence. A leader at Generation Tux is flexible to our dynamic call center environment and can adapt to change quickly. If you like to lead by example while demonstrating resilience in the face of challe\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e600a334932b",
+      "title": "Manager, CX AI Strategy",
+      "company": "Brex",
+      "location": "New York, US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786617787?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "Why join us Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex\u2019s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can foc\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "609486205793",
+      "title": "Manager, CX AI Strategy",
+      "company": "Brex",
+      "location": "Seattle, King County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786560624?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "Why join us Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex\u2019s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can foc\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1a08a6f3fdf1",
+      "title": "Manager, Employee Experience",
+      "company": "Ensign College",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786579304?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "Manager, Employee Experience Reports to: Senior Director, Human Resources Total Base Pay Range: 75,000 - 85,000 USD Annual Position Summary: The Manager of Employee Experience is responsible for designing, coordinating, and implementing programs that enhance employee growth, engagement, development, and workplace experience. This position leads professional development initiatives, employee training programs, leadership development efforts, campus-wide events, and employee engagement activities\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "3d4def10de60",
+      "title": "Customer Experience Associate",
+      "company": "Aafes",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786609166?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "As a Customer Experience Associate in Hardlines, you are responsible for ensuring an exceptional guest experience in the Hardlines departments. You will assist customers in finding what they are looking for and ensure Hardlines is stocked with the products customers want. You'll know which products will meet customer's needs and stay up to date on trends. With your knowledge and helpful suggestions, customers will continue to shop the Exchange. You will prioritize customer needs over tasks and \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "36ac0fc5826f",
+      "title": "Customer Experience Associate (Hardlines)",
+      "company": "Aafes",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786598257?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "Job Description As a Customer Experience Associate in Hardlines, you are responsible for ensuring an exceptional guest experience in the Hardlines departments. You will assist customers in finding what they are looking for and ensure Hardlines is stocked with the products customers want. You'll know which products will meet customer's needs and stay up to date on trends. With your knowledge and helpful suggestions, customers will continue to shop the Exchange. You will prioritize customer needs\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "471059c38ce1",
+      "title": "Customer Experience Host - Fort Richardson Troop Store",
+      "company": "Aafes",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786596078?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "As a Customer Experience Host at the Express, you will assist customers in finding what they are looking for and ensure the Express is stocked with the products customers want. You'll know which products will meet customer's needs and stay up to date on trends. With your knowledge and helpful suggestions, customers will continue to shop the Exchange. You will prioritize customer needs over tasks and grow sales by maintaining merchandise, signs and labels on the sales floor. We offer flexible sc\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ce875a0cbe67",
+      "title": "Sales Associate - Guest Experience Specialist (Bilingual Spanish A Plus)",
+      "company": "Bob's Discount Furniture",
+      "location": "West Hills, Los Angeles County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786589678?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "Job Title Retail Guest Experience Sales Specialist Job Overview Our Retail Guest Experience Sales Specialists are a driving force behind Bob\u2019s Discount Furniture\u2019s success and expansion. Whether you're looking for full-time or part-time opportunities, you'll find a supportive, fun, and team-oriented environment at Bob\u2019s. As a Guest Experience Sales Specialist, you\u2019ll help customers bring their home design dreams to life while delivering world-class service in a low-pressure, gimmick-free atmosp\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "48340ebaba0f",
+      "title": "Customer Experience Specialist-Firearms",
+      "company": "Aafes",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786586417?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "As a Customer Experience Specialist in Firearms/Sporting Goods, you are responsible for ensuring an exceptional guest experience in the Firearms/Sporting Goods departments. You will support a strong commitment to world class customer service and ensure an extraordinary shopping experience for our customers. You'll know which products will meet customer's needs and stay up to date on product knowledge. You will organize and maintain firearms in all locations within the store to include the Firea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9ae6dbe64df5",
+      "title": "Sr. Product Marketing Manager \u2013 Event Experience Programs",
+      "company": "Salesforce",
+      "location": "Indianapolis, Marion County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786615628?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts. Job Category Marketing & Communications Job Details About Salesforce Salesforce is the 1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust. And innovation isn\u2019t a buzzword \u2014 it\u2019s a way of life. The world of work as we know it is changing and we're looking for Trailblazers who are passiona\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "xm"
+      ]
+    },
+    {
+      "id": "f8de7749a55d",
+      "title": "People Analytics & Compensation Manager",
+      "company": "Formlabs",
+      "location": "Somerville, Middlesex County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786477502?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "About Formlabs: Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, en\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "1c0da62de962",
+      "title": "People Analytics & Compensation Manager",
+      "company": "Formlabs",
+      "location": "Boston, Suffolk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5786396528?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "About Formlabs: Do you want to change how the world creates? At Formlabs, we\u2019re building the tools that make it possible for anyone to bring their ideas to life, from cutting-edge products to life-saving medical devices. Our 3D printing technology powers innovation at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA. Together, we\u2019re helping everyone design, prototype, and manufacture faster than ever before. We\u2019re a team of hands-on builders, en\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "dbc1ddf38c79",
+      "title": "Customer Journeys and Experience Manager",
+      "company": "Prostate Cancer UK",
+      "location": "North Lambeth, South East London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5786282505?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "\u00a342,750 - \u00a346,500 per year Fixed term (6 months), full-time (37.5 hours per week) Hybrid working with regular travel to our London Bridge Office What the job involves We\u2019re looking for a Customer Journeys and Experience Manager to join our Customer Engagement and Experience Team on a fixed term basis for six months. We\u2019re about to launch our new, organisation-wide, segmentation project \u2013 Designed Around You, where you\u2019ll play a key role in using this new insight to support teams to deliver the \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "bf8f8cd5e1c4",
+      "title": "Customer Experience Leader",
+      "company": "O\u2019Brien",
+      "location": "Darwin Region, Northern Territory",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5786204468?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "Are you wanting to work for an organisation that values their people, invests in communities and has a commitment to our environment? Do you share a passion for maintaining a continual focus on Making a Difference with Real Care to customers and employees? If this sounds like you, then we have your next opportunity.  Full Time | Monday\u2013Friday  Occasional Saturdays (Overtime Paid) Monthly Pay | Career Growth | Supportive Team Grow your leadership skills with Australia\u2019s leading glass specialist!\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ce574f5e4aae",
+      "title": "Team Leader Leisure, Wellness and Aquatics Customer Experience",
+      "company": "Canterbury-Bankstown Council",
+      "location": "Canterbury, Canterbury Area",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5786085161?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "Here at CBCity The City of Canterbury Bankstown is one of the largest Councils in NSW, delivering a wide range of services to one of Sydney\u2019s most diverse communities. Opening late 2026, the new Canterbury Leisure & Aquatic Centre is set to become the heart of health, fitness and fun in our community. We are now recruiting a Team Leader Leisure, Wellness and Aquatics Customer Experience to help support high-quality customer service and positive community experiences across our Leisure and Aquat\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "88917d2d59e7",
+      "title": "Customer Experience Lead",
+      "company": "Adelaide Wedding Hire",
+      "location": "Adelaide CBD, Adelaide",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5786125908?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "Customer Experience Lead \u2013 Adelaide Wedding & Party Hire Do you love talking to people, rolling up your sleeves, and helping create unforgettable celebrations? At Adelaide Wedding & Party Hire, we\u2019re looking for a friendly, energetic team member who enjoys both customer service and being hands-on in the events world. About Us We hire out everything from chairs and tables to marquees and d\u00e9cor, helping bring weddings, parties, and events to life across South Australia. Our team is hardworking bu\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "cc4e3bf17aa4",
+      "title": "Senior Workplace Experience Specialist",
+      "company": "Airwallex",
+      "location": "Sydney, Sydney Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5786202539?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-03",
+      "description": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 200,000 businesses worldwide \u2013 including Brex, Rippling, Navan, Qantas, SHEIN and many more \u2013 with fully integrated solutions to manage everything from business accounts, payments, spend management and treasury, to embedded finance at a global scale. Proudly founded in Melbourne, we have a team of over \u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "other"
+      ]
+    },
     {
       "id": "485dea3acedb",
       "title": "Pro Experience Manager",
@@ -151,6 +454,322 @@
       "country": "AU",
       "tags": [
         "cx"
+      ]
+    },
+    {
+      "id": "e13e613c0c77",
+      "title": "Customer Experience Supervisor",
+      "company": "Volm Companies",
+      "location": "Eagle Rock, Bonneville County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5785041484?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "Job Title: Customer Experience Supervisor Reports to: Supply Chain Director Job Summary The Customer Experience Supervisor is responsible for leading the onsite Customer Experience Specialist (CES) team in supply chain development and product planning for specific customer accounts. The Supervisor will support the CES team in activities including vendor order placement, customer cost savings initiatives, problem resolution, and delivery performance for an unlimited range of products and service\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "31b7c86690d4",
+      "title": "Senior Analyst, Customer Experience",
+      "company": "White Cap Management",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5785223506?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "A position at White Cap isn\u2019t your ordinary job. You\u2019ll work in an exciting and diverse environment, meet interesting people, and have a variety of career opportunities. The White Cap family is committed to Building Trust on Every Job. We do this by being deeply knowledgeable, fully capable, and always dependable, and our associates are the driving force behind this commitment. Job Summary Responsible for the operational backbone of White Cap\u2019s Voice of Customer (VoC) program, with ownership of\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a17f3f4808b1",
+      "title": "Customer Experience Leader",
+      "company": "Lennox International",
+      "location": "North Bay Shore, Suffolk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5785321152?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "Lennox (NYSE: LII) Driven by 130 years of legacy, HVAC and refrigeration success, Lennox provides our residential and commercial customers with industry-leading climate-control solutions. At Lennox, we win as a team, aiming for excellence and delivering innovative, sustainable products and services. Our culture guides us and creates a workplace where all employees feel heard and welcomed. Lennox is a global community that values each team member\u2019s contributions and offers a supportive environme\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "52eaf685a6e8",
+      "title": "Patient Experience Program Coordinator",
+      "company": "CommonSpirit Health",
+      "location": "Chicago, Cook County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5785545872?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "Job Summary and Responsibilities As our Patient Experience Program Coordinator, you will be a pivotal force in shaping and enhancing the patient journey within CommonSpirit Health. This critical role involves orchestrating the strategic and operational facets of our national patient experience programs, driving healthcare quality improvement and patient satisfaction initiatives. You will directly contribute to a patient-centered culture by coordinating all activities, from operational logistics\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "xm"
+      ]
+    },
+    {
+      "id": "dc75199e7a5b",
+      "title": "Voice of Customer Program Lead",
+      "company": "Justworks",
+      "location": "New York City, New York",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5785370506?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "Who We Are At Justworks, you\u2019ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work hard and care about our most prized asset - our people. We\u2019re helping businesses get off the ground by enabling them to focus on running their business. We solve HR issues. We\u2019re data-driven and never stop iterating. If you\u2019d like to work in a supportive, entrepreneurial e\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c03beca50f8f",
+      "title": "Patient Experience Program Coordinator",
+      "company": "CommonSpirit Health",
+      "location": "West Loop, Chicago",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5785319448?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "Inspired by faith. Driven by innovation. Powered by humankindness. CommonSpirit Health is building a healthier future for all through its integrated health services. As one of the nation\u2019s largest nonprofit Catholic healthcare organizations, CommonSpirit Health delivers more than 20 million patient encounters annually through more than 2,300 clinics, care sites and 137 hospital-based locations, in addition to its home-based services and virtual care offerings. CommonSpirit has more than 157,000\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "xm"
+      ]
+    },
+    {
+      "id": "f9fd223b5a33",
+      "title": "Customer Experience Manager",
+      "company": "Sainsbury's",
+      "location": "Edinburgh, Scotland",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5786097137?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "Leading in our stores: Our management teams don&rsquo;t just run stores - they&rsquo;re the driving force behind our business. With bold leadership, a passion for service and an eye for opportunity, they empower teams to raise the bar every single day for our customers. Whether it's product availability, safety standards, or delivering seamless daily operations, they&rsquo;re hands-on, sleeves-rolled-up changemakers. And the impact? Work becomes more rewarding for our colleagues, and shopping b\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ca4540219bb6",
+      "title": "Customer Experience Coordinator - part time",
+      "company": "PTSG",
+      "location": "Glasshoughton, Castleford",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5785909220?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "Customer Experience Coordinator Here at PTSG we are seeking a proactive and customer-focused Customer Experience Coordinator to join our team. This telephone-based role is responsible for contacting customers to ensure service satisfaction, gathering and managing customer feedback, and coordinating actions to resolve customer concerns. As a Customer Experience Coordinator you will play a key role in improving the customer journey by identifying service improvements, tracking customer issues, an\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2769dade123e",
+      "title": "Strensham - Customer Experience Leader - McDonald's",
+      "company": "Roadchef",
+      "location": "Worcester, Worcestershire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5785648728?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "Strensham - Customer Experience Leader - McDonald's Kirk, our Site Director at Strensham Motorway Services on the M5 near Worcester is looking for a Customer Experience Leader to join his McDonald's team. Joining the McDonald's team will give you the opportunity to provide our customers with the iconic \"Big Mac '' or any other of their freshly prepared food and drinks while providing exceptional customer service. We offer working patterns on either a full or part time basis, with a variety of s\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c7cfa84a6fa8",
+      "title": "Customer Experience Manager",
+      "company": "Southway Housing Trust",
+      "location": "Chorlton Cum Hardy, Manchester",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785724090?se=HqvQpMB28RG-2tHAxNAnZQ&utm_medium=api&utm_source=638f9cc6&v=9FBD524ED1B5014A6695E7B95D8EB0A6508E0825",
+      "posted": "2026-07-02",
+      "description": "Customer Experience Manager Location: Hybrid, Didsbury, Manchester Salary: \u00a347,016 Full time / 35 hours per week Fixed term contract 18 months About Us Southway owns over 6,500 homes in Greater Manchester and is a community-focused housing association with a vision to provide excellent customer service and quality homes, where communities thrive. Southway strives for continuous improvement led by customers, communities and colleagues. It is a member of the Greater Manchester Good Employment Cha\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2fe48dedf734",
+      "title": "Customer Experience Manager",
+      "company": "Southway Housing Trust",
+      "location": "Manchester, Greater Manchester",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5785635346?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "Customer Experience Manager Location: Hybrid, Didsbury, Manchester Salary: \u00a347,016 Full time / 35 hours per week Fixed term contract 18 months About Us Southway owns over 6,500 homes in Greater Manchester and is a community-focused housing association with a vision to provide excellent customer service and quality homes, where communities thrive. Southway strives for continuous improvement led by customers, communities and colleagues. It is a member of the Greater Manchester Good Employment Cha\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f80bab99d9f9",
+      "title": "Lead Customer Experience Manager",
+      "company": "Sainsbury's",
+      "location": "Stretton Hall, Oadby",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5785369431?se=HqvQpMB28RG-2tHAxNAnZQ&utm_medium=api&utm_source=638f9cc6&v=FB2A553D086A048487273B36FAD4559EE1F1D778",
+      "posted": "2026-07-02",
+      "description": "Description What you\u2019ll be doing: Lead a team of managers to make sure every single one of our customers has a great experience in store everywhere from the checkouts to the petrol station. Planning for upcoming key trading activity and events by working closely with the rest of the store leadership team Regularly taking full accountability for the store in the absence of a store manager, role modelling and coaching for high standards and efficiency across the store. Running operations at our c\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f9c7b4893f18",
+      "title": "Customer Experience Manager",
+      "company": "Splend",
+      "location": "Cricklewood, North West London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5785364742?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "About Us At Splend, we're on a mission to fundamentally change the way people own and operate a vehicle. With a strategic focus on rideshare, we provide our customers with straightforward, no-strings-attached access to vehicle ownership. But we aren't just about vehicle ownership. We're also fast-tracking the transition to green mobility, leading the way globally in reducing the carbon footprint of the transportation sector by transitioning our fleet to electric vehicles. You'll be excited to w\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c47db2520f77",
+      "title": "Customer Experience Specialist",
+      "company": "Faith Recruitment",
+      "location": "Guildford, Surrey",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5785765544?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "Customer Experience Specialist Guildford (Hybrid: 3 days office / 2 days home) \u00a328,000-\u00a330,000 per annum Are you passionate about delivering first-class service? Do you thrive in a people-focused, fast-paced environment? We are looking for a motivated Customer Experience Specialist to join our friendly and professional team based in Guildford. You'll play a vital role as the first point of contact for customer queries, ensuring every interaction is handled with care, clarity, and efficiency. Wh\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d39717122311",
+      "title": "Assistant Store Manager - Customer Experience",
+      "company": "PetSmart",
+      "location": "Saskatoon, Saskatchewan",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5786063145?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "PetSmart does Anything for Pets - JOIN OUR TEAM! Assistant Store Manager Customer Experience About Life at PetSmart At PetSmart, Anything for Pets begins with our people. Every associate plays a vital role in creating meaningful experiences for pets and their families, and we empower our teams with the tools, resources, and opportunities to grow and succeed. This posting reflects an existing vacancy, and we are actively seeking candidates for this role. Benefits that benefit you Take care of yo\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "975b2c55ad41",
+      "title": "Manager, Customer Experience & Operations",
+      "company": "Myant Shared Service",
+      "location": "Oakville, Halton",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5786010718?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "About Myant: At Myant, our mission is to help people Live Younger, Longer by transforming healthcare from episodic, reactive care to proactive, preventive health management. Through our pioneering connected textiles and continuous monitoring technology, we bridge the gap between individuals, their families, and healthcare providers\u2014creating a world where quality healthcare is more accessible, personalized, and preventative. With global ambitions, Myant is building a worldwide presence\u2014collabora\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d477e6aa0256",
+      "title": "Hypercare Customer Experience Coordinator",
+      "company": "Quartermaster inc.",
+      "location": "Richmond, City of Toronto",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5785952341?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "BUILD SOMETHING YOUR NEIGHBOURS WILL LOVE We\u2019re building Toronto\u2019s dedicated platform for home management to empower the city\u2019s homeowners and to better connect our neighbours and the local Pros they trust. Our focus is purely on the GTA market right now. We build our property base one street at a time, and our marketplaces one neighbourhood at a time. We\u2019re a local tech company in every sense of the word. We start with integrity, neighbourhood values, and competitive craftsmanship, and we buil\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2aba39e537c0",
+      "title": "Lead, People Analytics Cheffe, Analytique RH",
+      "company": "IPEX",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5785918483?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "IPEX is one of North America\u2019s leading providers of advanced plastic piping systems. Our mission is to shape a better tomorrow by connecting people with water and energy. We currently have an exciting opportunity as a Lead, People Analytics . This role is based in Oakville , ON or Montreal , QC and reports to the Senior Manager, People Analytics & HR Technology. Do not miss the opportunity to join a diverse group of people-centric professionals, thought leaders and rapid thinkers, entrepreneurs\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "4b73239e54ff",
+      "title": "Survey Programmer",
+      "company": "NMG Consulting",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5785979926?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "KEY RESPONSIBILITIES \u200b Success in this role will see the following achieved: \u200b \u200b Demonstrates proficient communication skills. Maintains a high degree of professionalism. Maintains full responsibility for online survey development and thoroughly reviews client materials. Delivers high-quality surveys in line with client materials. Works to resolve amendments during quality assurance/client testing phase. Meets programming timelines. Prepares surveys for deployment and sets up links to track pro\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "insights"
+      ]
+    },
+    {
+      "id": "a94870964920",
+      "title": "Senior Business Analyst - Contact Centre Ops - Genesys Cloud CX - 12 Months",
+      "company": "Clear Recruitment",
+      "location": "Sydney, Sydney Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5785435887?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "Our client is seeking an experienced Senior Business Analyst to join a major SAP S/4HANA transformation program . Must have strong experience within Call Contact Centre environments and with Genesys Cloud CX (or equivalent). Location: North Sydney (Hybrid \u2013 2-3 Days in Office) Duration: Initial 12 Month Contract with strong chance of extension Rate: Up to $1100 including super a day This is an excellent opportunity to join a large-scale enterprise transformation, working on the implementation o\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "584d4415d9b0",
+      "title": "Student Experience Manager",
+      "company": "EDU Corporate Services Pty Limited",
+      "location": "Adelaide CBD, Adelaide",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5785262880?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-02",
+      "description": "About EDU EDU is an ASX-listed provider of tertiary education, specialising in Health and Community Services. We foster meaningful careers through high-quality education across our campuses in Sydney, Melbourne, Brisbane and Adelaide: Australian Learning Group (ALG) : VET provider for international students. Learn more about ALG . Ikon Institute of Australia (Ikon): HE provider for domestic and international students. Learn more about Ikon . About the Role The Student Experience Manager leads a\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "other"
       ]
     },
     {
@@ -837,6 +1456,99 @@
       "country": "CA",
       "tags": [
         "ex"
+      ]
+    },
+    {
+      "id": "d82709e9d6eb",
+      "title": "Director, Marketing- Digital Customer Experience",
+      "company": "Gilead Sciences, Inc.",
+      "location": "Belmont, San Mateo County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5784536506?se=FnLSk8B28RG-cvvra3L-5Q&utm_medium=api&utm_source=638f9cc6&v=948307CC85472732BE75F8406D393EF33A0F5C6D",
+      "posted": "2026-07-01",
+      "description": "At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a relentless drive to make a difference. Every member of Gilead's team plays a critical ro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "52045161b442",
+      "title": "Director of Customer Experience",
+      "company": "Jobot",
+      "location": "Huntington Beach, Orange County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5783912620?se=FnLSk8B28RG-cvvra3L-5Q&utm_medium=api&utm_source=638f9cc6&v=BA8AE10EF9733CD61D2DE0F2D73D775825AE9802",
+      "posted": "2026-07-01",
+      "description": "Supporting accountability for sobriety in Addiction Recovery & Family Law with a comprehensive alcohol monitoring system This Jobot Job is hosted by: Gene Choi Are you a fit? Easy Apply now by clicking the \"Quick Apply\" button and sending us your resume. Salary: $110,000 - $150,000 per year A bit about us: Based in Huntington Beach, we are an exciting medical device company on the cutting edge of monitoring. We utilize facial recognition that can send real time data to individuals. We've been i\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7dcca6f6efbf",
+      "title": "Sr Manager, People Analytics Insight Partner",
+      "company": "Gilead Sciences, Inc.",
+      "location": "Belmont, San Mateo County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5784536487?se=QFxdmsB28RGw99DSBwaIyw&utm_medium=api&utm_source=638f9cc6&v=2C5A226CD082C6232153369FD27A412D747C7886",
+      "posted": "2026-07-01",
+      "description": "At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a relentless drive to make a difference. Every member of Gilead's team plays a critical ro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "0327802d5301",
+      "title": "Customer Experience (CX) Solution Architect - Google Cloud (Gemini Enterprise)",
+      "company": "Capgemini America, Inc.",
+      "location": "Northlake, DeKalb County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5784327603?se=4oKunsB28RGMmszQJLOorA&utm_medium=api&utm_source=638f9cc6&v=53DD3507BCB3C3F17BFE2B62416225651E69F448",
+      "posted": "2026-07-01",
+      "description": "CAPGEMINI SERVICE INC Location This is a hybrid role based in one of the preferred locations - Atlanta, GA / New York, NY / Bridgewater, NJ / Chicago, IL / Dallas, TX / San Francisco, CA. About the job you re considering As a Gemini Enterprise Customer Experience (CX) Solution Lead, you will lead the technical strategy, solution architecture, and execution alignment for AI-powered CX transformations. You will be responsible for designing scalable architectures, securing technical wins, and ensu\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b7b59f7e0129",
+      "title": "Sr Manager, People Analytics Insight Partner",
+      "company": "Gilead Sciences, Inc.",
+      "location": "Belmont, San Mateo County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5784536487?se=Gp7LocB28RGw99DSBwaIyw&utm_medium=api&utm_source=638f9cc6&v=2C5A226CD082C6232153369FD27A412D747C7886",
+      "posted": "2026-07-01",
+      "description": "At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a relentless drive to make a difference. Every member of Gilead's team plays a critical ro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "4008e3cebd81",
+      "title": "Project Manager - Employee Listening - HSBC",
+      "company": "HSBC",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5783944522?se=sJ-qqMB28RGw99DSBwaIyw&utm_medium=api&utm_source=638f9cc6&v=4207A14784FF1DE4C8A9BC448C09B61F05229975",
+      "posted": "2026-07-01",
+      "description": "Project Manager \u2013 Employee Listening (Snapshot Survey) London / Hybrid Contract until November 2026 \u00a3666.75 p/d Umbrella About the Opportunity We are seeking an experienced Project Manager to join HSBC's Employee Listening team and lead the delivery of one of the bank's highest-profile people initiatives \u2013 the annual all-employee Snapshot Survey. This is a fantastic opportunity to work on a programme that reaches employees across the globe and attracts significant attention from senior leadersh\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
       ]
     },
     {
@@ -1886,7 +2598,7 @@
       "remote": false,
       "url": "https://www.adzuna.ca/details/5780524714?utm_medium=api&utm_source=638f9cc6",
       "posted": "2026-06-28",
-      "description": "Connect with us! LinkedIn Facebook University Degree in a related field (organization development, business administration, human resources, leadership, etc.) Certified Professional in Human Resources (CPHR) or Certified Training & Development Professional (CTDP) designation is considered an asset. Minimum 5 years of related experience in organization development, human resources, leadership development, and/or learning and development, including experience in HR program development (e.g. perfo\u2026",
+      "description": "Make your favourite place your workplace! Edmonton Public Library is looking for an enthusiastic, collaborative, people-focused team player to join the Employee Experience team as an Organization Development Consultant. The Employee Experience team at EPL is a small, diverse, passionate, and high-performing. We pride ourselves on the value that we add to EPL through our talent and experience. We believe in having fun and working hard! What we're looking for\\: Reporting to and working closely wi\u2026",
       "source": "adzuna",
       "country": "CA",
       "tags": [
@@ -2010,6 +2722,38 @@
       "location": "Mc Lean, Fairfax County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5780070980?se=BD7uv_Z18RGUVcOgKLtGgA&utm_medium=api&utm_source=638f9cc6&v=28FD0717B490F7EB63235F13568B5270E6B0824B",
+      "posted": "2026-06-28",
+      "description": "Senior Manager, Data Analysis - People Analytics At Capital One, data is at the center of everything we do. When we launched as a startup we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making. \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "f29aef1bc47b",
+      "title": "People Analytics Consultant",
+      "company": "Manulife",
+      "location": "Boston, Suffolk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5780746997?se=Gp7LocB28RGw99DSBwaIyw&utm_medium=api&utm_source=638f9cc6&v=FC01D6544F1A635820E9AFAF79D3AC2766EEB8CE",
+      "posted": "2026-06-28",
+      "description": "The People Analytics (PA) Consultant serves as a strategic, client-facing partner to designated business segments and People Centers of Excellence. This role focuses on deeply understanding business priorities, translating them into high-impact people analytics opportunities, and embedding data-driven decision-making into day-to-day people and business processes. Position Responsibilities  Serve as the primary People Analytics consultant and point of contact for aligned business segments and/or\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "a5c0074f1ded",
+      "title": "Senior Manager, Data Analysis - People Analytics",
+      "company": "Capital One",
+      "location": "Mc Lean, Fairfax County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5780070980?se=Gp7LocB28RGw99DSBwaIyw&utm_medium=api&utm_source=638f9cc6&v=28FD0717B490F7EB63235F13568B5270E6B0824B",
       "posted": "2026-06-28",
       "description": "Senior Manager, Data Analysis - People Analytics At Capital One, data is at the center of everything we do. When we launched as a startup we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making. \u2026",
       "source": "adzuna",
@@ -2516,6 +3260,21 @@
       "location": "US",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5778798149?se=lLfms_Z18RGWD8kDLhqI6A&utm_medium=api&utm_source=638f9cc6&v=7D3D83EEAD3BE5BF4F01740A0014C1ACD9BB1643",
+      "posted": "2026-06-27",
+      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "8c8b7ff16ba0",
+      "title": "Senior Director, Guest & Employee Experience Services \u2013 Hospitality",
+      "company": "JLL",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5778798149?se=NP_xlsB28RG-cvvra3L-5Q&utm_medium=api&utm_source=638f9cc6&v=7D3D83EEAD3BE5BF4F01740A0014C1ACD9BB1643",
       "posted": "2026-06-27",
       "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
       "source": "adzuna",
@@ -3204,6 +3963,22 @@
       ]
     },
     {
+      "id": "fb6f1da804ab",
+      "title": "Research Manager \u2013 Employee Experience Insights & Strategies (Memphis, TN or Remote in USA)",
+      "company": "St. Jude Children\u2019s Research Hospital",
+      "location": "Memphis, Shelby County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5777216387?se=7uD4mcB28RG-cvvra3L-5Q&utm_medium=api&utm_source=638f9cc6&v=6799CE706C135D1B4A4B1033688CD02D283F399C",
+      "posted": "2026-06-26",
+      "description": "At ALSAC you do more than make a living; you make a difference. We like people who are different\u2026because we\u2019re different, too. As one of the world\u2019s most iconic and respected nonprofits, we know what it\u2019s like to stand out. That\u2019s why we\u2019re looking at you. Your background, perspective, and desire to make an impact set you apart. As we work to help St. Jude cure childhood cancer, we're calling on the game-changers, innovators and visionaries to join our family. Not just for the kids of St. Jude,\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
       "id": "f41fbf2318b2",
       "title": "Customer Experience Manager",
       "company": "Five Below",
@@ -3745,6 +4520,21 @@
       "location": "Durham, Durham County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5777173782?se=lLfms_Z18RGWD8kDLhqI6A&utm_medium=api&utm_source=638f9cc6&v=06A0ACC6C669913A92E24411EF564C8D4EABCB6E",
+      "posted": "2026-06-25",
+      "description": "At Labcorp, you are part of a journey to accelerate life-changing healthcare breakthroughs and improve the delivery of care for all. You'll be inspired to discover more, develop new skills and pursue career-building opportunities as we help solve some of today's biggest health challenges around the world. Together, let's embrace possibilities and change lives! Labcorp is seeking a hybrid Director, Chief of Staff - Employee Experience to join our team at 10 Moore Drive, Durham, NC. This schedule\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "a29824df0b15",
+      "title": "Director, Chief of Staff - Employee Experience",
+      "company": "Labcorp",
+      "location": "Durham, Durham County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5777173782?se=NP_xlsB28RG-cvvra3L-5Q&utm_medium=api&utm_source=638f9cc6&v=06A0ACC6C669913A92E24411EF564C8D4EABCB6E",
       "posted": "2026-06-25",
       "description": "At Labcorp, you are part of a journey to accelerate life-changing healthcare breakthroughs and improve the delivery of care for all. You'll be inspired to discover more, develop new skills and pursue career-building opportunities as we help solve some of today's biggest health challenges around the world. Together, let's embrace possibilities and change lives! Labcorp is seeking a hybrid Director, Chief of Staff - Employee Experience to join our team at 10 Moore Drive, Durham, NC. This schedule\u2026",
       "source": "adzuna",
@@ -4564,6 +5354,21 @@
       "location": "Piscataway, Middlesex County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5775695896?se=WPIxsPZ18RGWD8kDLhqI6A&utm_medium=api&utm_source=638f9cc6&v=4EE2E454B4B5A53FA0EF9090E1DA2C4B75DD019C",
+      "posted": "2026-06-24",
+      "description": "No Relocation Assistance Offered Job Number 174331 - Piscataway, New Jersey, United States Who We Are Colgate-Palmolive Company is a global consumer products company operating in over 200 countries specializing in Oral Care, Personal Care, Home Care, Skin Care, and Pet Nutrition. Our products are trusted in more households than any other brand in the world, making us a household name! Join Colgate-Palmolive, a caring, innovative growth company reimagining a healthier future for people, their pe\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "insights"
+      ]
+    },
+    {
+      "id": "26121d788f36",
+      "title": "Customer Analytics and Experience Analyst",
+      "company": "Colgate-Palmolive",
+      "location": "Piscataway, Middlesex County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5775695896?se=QphrlMB28RG-cvvra3L-5Q&utm_medium=api&utm_source=638f9cc6&v=4EE2E454B4B5A53FA0EF9090E1DA2C4B75DD019C",
       "posted": "2026-06-24",
       "description": "No Relocation Assistance Offered Job Number 174331 - Piscataway, New Jersey, United States Who We Are Colgate-Palmolive Company is a global consumer products company operating in over 200 countries specializing in Oral Care, Personal Care, Home Care, Skin Care, and Pet Nutrition. Our products are trusted in more households than any other brand in the world, making us a household name! Join Colgate-Palmolive, a caring, innovative growth company reimagining a healthier future for people, their pe\u2026",
       "source": "adzuna",
@@ -5546,6 +6351,22 @@
       ]
     },
     {
+      "id": "dc0499dd7b72",
+      "title": "Customer Insights & Discovery Enablement Lead - London Stock Exchange Group",
+      "company": "London Stock Exchange Group",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5773546924?se=-pt-rMB28RG-2tHAxNAnZQ&utm_medium=api&utm_source=638f9cc6&v=A418DB0D61D306C102FDCE7D7EF691C05CD20D4A",
+      "posted": "2026-06-23",
+      "description": "ABOUT US: LSEG (London Stock Exchange Group) is more than a diversified global financial markets infrastructure and data business. We are dedicated, open-access partners with a commitment to excellence in delivering the services our customers expect from us. With extensive experience, deep knowledge and worldwide presence across financial markets, we enable businesses and economies around the world to fund innovation, manage risk and create jobs. It's how we've contributed to supporting the fin\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
       "id": "053626a23f92",
       "title": "Santa Ana Customer Experience Shift Lead",
       "company": "Sender One Service",
@@ -6102,6 +6923,21 @@
       "location": "Woonsocket, Providence County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5773122430?se=WPIxsPZ18RGWD8kDLhqI6A&utm_medium=api&utm_source=638f9cc6&v=9B30A646D5CF395099FE9BCA64D420E5AAC1AE3C",
+      "posted": "2026-06-22",
+      "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary: CVS Pharmacy, Inc., a CVS Health compa\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "af4984fe2461",
+      "title": "Sr. Analyst, Customer Experience",
+      "company": "CVS Health",
+      "location": "Woonsocket, Providence County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5773122430?se=QphrlMB28RG-cvvra3L-5Q&utm_medium=api&utm_source=638f9cc6&v=9B30A646D5CF395099FE9BCA64D420E5AAC1AE3C",
       "posted": "2026-06-22",
       "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary: CVS Pharmacy, Inc., a CVS Health compa\u2026",
       "source": "adzuna",
@@ -10958,6 +11794,21 @@
       ]
     },
     {
+      "id": "126861282669",
+      "title": "Director of Customer Experience",
+      "company": "WeDoTech",
+      "location": "Rusholme, Manchester",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5765662339?se=cK1KpMB28RG-cvvra3L-5Q&utm_medium=api&utm_source=638f9cc6&v=F64198294267F6EF44970B4B524876E1E196217D",
+      "posted": "2026-06-16",
+      "description": "Job Title: Director of Customer Experience Salary: Competitive  Executive Benefits Package Location: UK-Based (Regular Travel Required) Work Type: Permanent Role: An exceptional opportunity to join a high-growth technology services business at a pivotal stage in its journey. This organisation has built a reputation for delivering outstanding customer outcomes and is now entering an exciting new phase of growth and transformation. Customer experience has been a key differentiator throughout its \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "ee08b64e406b",
       "title": "Data Analyst V - CX or VoC",
       "company": "BC Forward",
@@ -14496,6 +15347,38 @@
       ]
     },
     {
+      "id": "d2634c9ed742",
+      "title": "CX Program Management Lead - Aerospace",
+      "company": "Honeywell Aerospace",
+      "location": "Charlotte, Mecklenburg County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761987388?se=4oKunsB28RGMmszQJLOorA&utm_medium=api&utm_source=638f9cc6&v=C3B706A052AE59B50DA7AAB596C0ED9B6426DC4E",
+      "posted": "2026-06-12",
+      "description": "As a Program Management Manager - Customer Experience Aerospace here at Honeywell, you will be responsible for leading and managing customer experience programs, ensuring that our customers have a seamless and positive experience throughout their engagement with us. Your role will involve developing and executing strategies that enhance customer satisfaction, drive operational excellence, and foster long-term relationships. By effectively managing customer experience initiatives at a senior lev\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "c75b0b650d1c",
+      "title": "CX Program Management Lead - Aerospace",
+      "company": "Honeywell Aerospace",
+      "location": "Phoenix, Maricopa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5761982833?se=4oKunsB28RGMmszQJLOorA&utm_medium=api&utm_source=638f9cc6&v=7F527E9EB176A712641CFDA0C83D76D8AA058AE6",
+      "posted": "2026-06-12",
+      "description": "As a Program Management Manager - Customer Experience Aerospace here at Honeywell, you will be responsible for leading and managing customer experience programs, ensuring that our customers have a seamless and positive experience throughout their engagement with us. Your role will involve developing and executing strategies that enhance customer satisfaction, drive operational excellence, and foster long-term relationships. By effectively managing customer experience initiatives at a senior lev\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
       "id": "8adbe708b9e2",
       "title": "Customer Experience Coordinator",
       "company": "Suddath Companies",
@@ -16490,6 +17373,22 @@
       ]
     },
     {
+      "id": "2d896d05bb5c",
+      "title": "Employee Experience (EX) Product Channel Operations Director",
+      "company": "JPMorganChase",
+      "location": "Bournemouth, Dorset",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5758423070?se=wuYSpsB28RG-cvvra3L-5Q&utm_medium=api&utm_source=638f9cc6&v=0B400810FADB99ED44862F2D5047000129B639C4",
+      "posted": "2026-06-10",
+      "description": "Description Join us to shape the future of employee digital experiences at JPMorganChase. You will lead the operational heartbeat of our primary channels, making a real impact on how employees get help, find answers, and connect to support. We value your leadership, problem-solving skills, and passion for delivering stable, high-quality services. As part of our team, you\u2019ll collaborate across product, engineering, and analytics, driving improvements that matter. Discover a role where your exper\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
       "id": "dd0b03dcb0c6",
       "title": "Director, Customer Experience & Growth",
       "company": "George Patton Assoc Inc",
@@ -17787,6 +18686,22 @@
       "location": "Huntington, Orange County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5757769287?se=Ast3tfZ18RG6r8FOSQ_5ag&utm_medium=api&utm_source=638f9cc6&v=72414F330C3F1706A19762A9ADDC8CD5A8290321",
+      "posted": "2026-06-09",
+      "description": "Job Description We are seeking a highly motivated and analytical Customer Experience Analytics & Research Consultant to support strategic customer experience initiatives. This role requires a unique blend of Customer Experience (CX), Market Research, Survey Programming, Advanced Analytics, and AI/ML expertise. The ideal candidate will have hands-on experience managing Voice of Customer (VoC) programs, designing and programming surveys, analyzing customer feedback and behavioral data, and levera\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "f44b356044b7",
+      "title": "Research Analyst - Voice of Customer (VoC) (INTL)",
+      "company": "Insight Global",
+      "location": "Huntington, Orange County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5757769287?se=zqg-mMB28RGw99DSBwaIyw&utm_medium=api&utm_source=638f9cc6&v=72414F330C3F1706A19762A9ADDC8CD5A8290321",
       "posted": "2026-06-09",
       "description": "Job Description We are seeking a highly motivated and analytical Customer Experience Analytics & Research Consultant to support strategic customer experience initiatives. This role requires a unique blend of Customer Experience (CX), Market Research, Survey Programming, Advanced Analytics, and AI/ML expertise. The ideal candidate will have hands-on experience managing Voice of Customer (VoC) programs, designing and programming surveys, analyzing customer feedback and behavioral data, and levera\u2026",
       "source": "adzuna",
@@ -21990,1106 +22905,6 @@
       "description": "Citi is a leading global bank that serves more than 200 million customer accounts and does business in more than 160 countries and jurisdictions. Citi provides consumers, corporations, governments, and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, transaction services, and wealth management. The Citi ThankYou Rewards program is a cornerstone of our card loyalty offerings, providi\u2026",
       "source": "adzuna",
       "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "c384b01835ac",
-      "title": "Director of Customer Experience",
-      "company": "Saxco International",
-      "location": "Suisun, Solano County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5749074292?se=ThHoiLVe8RGhS87hc9yoXg&utm_medium=api&utm_source=638f9cc6&v=D3CA1FD6EF6BECF35697EDC1DE6508B21FBB6E6F",
-      "posted": "2026-06-02",
-      "description": "Saxco International seeks a Director of Customer Experience to lead our Customer Service & Support function in the packaging industry. This role owns end\u2011to\u2011end customer experience strategy, ensuring responsive, high\u2011quality service for clients across glass, plastic, and metal packaging solutions. You will build and mentor a high\u2011performing team, optimize processes and technology, and translate customer insights into actionable improvements. Partnering closely with Sales and Operations, you\u2019ll \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "638787b36a60",
-      "title": "Director of Customer Experience",
-      "company": "Saxco International",
-      "location": "Suisun, Solano County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5748765616?se=ThHoiLVe8RGhS87hc9yoXg&utm_medium=api&utm_source=638f9cc6&v=767EE834319D18B910D4D842624B0B590CEAD2ED",
-      "posted": "2026-06-02",
-      "description": "Why work at Saxco? We are a dynamic, inclusive, and fun team with a passion for excellence in the packaging industry. We have a supportive and collaborative environment where your ideas and creativity are valued, and innovation and continuous improvement. You will be empowered and encouraged to achieve your full potential. The company also values well-being of our team members, embracing flexibility to accommodate personal needs and maintain a healthy lifestyle. At Saxco, community matters beca\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5043fe1fb128",
-      "title": "Dealer Performance Customer Experience Analyst",
-      "company": "Stellantis",
-      "location": "Auburn Hills, Oakland County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5749257412?se=junTibVe8RGuQY7yxssiuQ&utm_medium=api&utm_source=638f9cc6&v=7475E4C2EDF373B0807EF3F0853FB9E04478B865",
-      "posted": "2026-06-02",
-      "description": "The Dealer Performance Analyst is a specialist role responsible for owning one macro performance dimension across the entire dealer network \u2014 all Business Centers, all dealers , all nameplates. Each analyst develops deep diagnostic expertise within their assigned domain, maintaining the analytical frameworks, benchmarks, and intervention playbooks that drive the field team's work. The analyst's job is not to produce reports. It is to identify what is actually happening within their performance \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "96f1d7099207",
-      "title": "Customer Experience Program Manager",
-      "company": "Stellantis",
-      "location": "Auburn Hills, Oakland County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5749249468?se=qO7Gi7Ve8RGhS87hc9yoXg&utm_medium=api&utm_source=638f9cc6&v=3BCE12D8582FC14D1FEF42806A09AD6162DE66AA",
-      "posted": "2026-06-02",
-      "description": "S tellantis Mopar Service, Parts & Customer Care is seeking a highly skilled Customer Experience Program Manager to lead development and execution of a dealer service improvement program . This role is a key contributor within the Technical Service Organization and is responsible for driving measurable improvements in dealer service operations, Fixed First Visit (FFV), and overall customer satisfaction. The Program Manager will leverage internal and external data sources, customer feedback, and\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "xm"
-      ]
-    },
-    {
-      "id": "a931be3ef55b",
-      "title": "Director of Customer Experience",
-      "company": "Saxco International",
-      "location": "Suisun, Solano County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5749074292?se=qO7Gi7Ve8RGhS87hc9yoXg&utm_medium=api&utm_source=638f9cc6&v=D3CA1FD6EF6BECF35697EDC1DE6508B21FBB6E6F",
-      "posted": "2026-06-02",
-      "description": "Saxco International seeks a Director of Customer Experience to lead our Customer Service & Support function in the packaging industry. This role owns end\u2011to\u2011end customer experience strategy, ensuring responsive, high\u2011quality service for clients across glass, plastic, and metal packaging solutions. You will build and mentor a high\u2011performing team, optimize processes and technology, and translate customer insights into actionable improvements. Partnering closely with Sales and Operations, you\u2019ll \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "28f35421b903",
-      "title": "Sr. Manager, People Analytics",
-      "company": "DaVita",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5748721249?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-02",
-      "description": "Posting Date 06/01/2026 2000 16th Street, Denver, Colorado, 80202, United States of America Senior Managers on the People Insights and Analytics team not only guide the strategic path for managing DaVita\u2019s most valuable asset (Teammates) but also help shape the future of the growing field of HR Analytics. They have the opportunity to collaborate with top leaders throughout the Village and manage a team of ambitious, analytical, and creative leaders to identify, frame, and solve critical busines\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "2b4516364c9d",
-      "title": "Customer Experience Guide - Part Time",
-      "company": "Embarc",
-      "location": "Berenda, Madera County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5749057167?se=Mss5mbVe8RGO9PaDeq7KTA&utm_medium=api&utm_source=638f9cc6&v=2E702841B4E3E7FAE2F7F04B3F9B719B1A77E0BA",
-      "posted": "2026-06-02",
-      "description": "Job Description: Part Time Customer Experience Guide Base hourly pay for this position is $19.36 . At our Madera store, team members average approximately $5.70 per hour in tips. Tips are not guaranteed and may vary based on shift, business levels, and seasonality. Embarc seeks an enthusiastic, knowledgeable, and community-minded Customer Experience Guide to join our cannabis retail team. Embarc is an emerging cannabis retailer passionate about our community, customers, and people. If you are e\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "d1afd316dffc",
-      "title": "Customer Experience Guide - Part Time",
-      "company": "Embarc",
-      "location": "Fontana, San Bernardino County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5749005852?se=Mss5mbVe8RGO9PaDeq7KTA&utm_medium=api&utm_source=638f9cc6&v=8DF47D15BCEBEAB7CBE9DC8DD8E140ADE74CC4CE",
-      "posted": "2026-06-02",
-      "description": "Base hourly pay for this position is $18.50. At our Fontana store, team members average approximately $5.75 per hour in tips. Tips are not guaranteed and may vary based on shift, business levels, and seasonality. Job Description: Customer Experience Guide Embarc seeks an enthusiastic, knowledgeable, and community-minded Customer Experience Guide to join our cannabis retail team. Embarc is an emerging cannabis retailer passionate about our community, customers, and people. If you are excited abo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "41e62ec72c13",
-      "title": "Customer Experience Guide - Tracy / Stockton",
-      "company": "Embarc",
-      "location": "Banta, San Joaquin County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5748976685?se=Mss5mbVe8RGO9PaDeq7KTA&utm_medium=api&utm_source=638f9cc6&v=A7BB8DFBE8A65FD0E147C6BF01006AC8A2F6AB2F",
-      "posted": "2026-06-02",
-      "description": "Job Description: Customer Experience Guide - Tracy and Stockton Locations We are looking for a fulltime guide to start at our Tracy store and transition to our new Stockton location once it opens. Base hourly pay for this position is $19.36 . At our Tracy store, team members average approximately $8.84 per hour in tips . Tips are not guaranteed and may vary based on shift, business levels, and seasonality. Embarc seeks an enthusiastic, knowledgeable, and community-minded Customer Experience Gui\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "1d70ce3d7750",
-      "title": "Customer Experience Guide - Part Time",
-      "company": "Embarc",
-      "location": "Pinedale, Fresno County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5748932842?se=Mss5mbVe8RGO9PaDeq7KTA&utm_medium=api&utm_source=638f9cc6&v=377B71742A24E0B3AE77A140A67C724073EFDD15",
-      "posted": "2026-06-02",
-      "description": "Job Description: Customer Experience Guide Base hourly pay for this position is $19.36 . At our Fresno Blackstone store, team members average approximately $6.47 per hour in tips. Tips are not guaranteed and may vary based on shift, business levels, and seasonality. Embarc seeks an enthusiastic, knowledgeable, and community-minded Customer Experience Guide to join our cannabis retail team. Embarc is an emerging cannabis retailer passionate about our community, customers, and people. If you are \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "bf62af60cd5b",
-      "title": "Customer Experience Guide",
-      "company": "Embarc",
-      "location": "Box Springs, Riverside County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5748930290?se=Mss5mbVe8RGO9PaDeq7KTA&utm_medium=api&utm_source=638f9cc6&v=5EB1076959D3A058AD81EB7E2B4496606D010803",
-      "posted": "2026-06-02",
-      "description": "Job Description: Customer Experience Guide Base hourly pay for this position is $18.50 . Company wide, team members average approximately $7.68 per hour in tips. Tips are not guaranteed and may vary based on shift, business levels, and seasonality. Embarc seeks an enthusiastic, knowledgeable, and community-minded Customer Experience Guide to join our cannabis retail team. Embarc is an emerging cannabis retailer passionate about our community, customers, and people. If you are excited about crea\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9f17233156b6",
-      "title": "Customer Experience Guide - Part Time",
-      "company": "Embarc",
-      "location": "Tahoe Valley, El Dorado County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5748930289?se=Mss5mbVe8RGO9PaDeq7KTA&utm_medium=api&utm_source=638f9cc6&v=AA8167CEB56C73633502563E6A634126BF4C896A",
-      "posted": "2026-06-02",
-      "description": "Job Description: Customer Experience Guide Base hourly pay for this position is $19.36 . At our Tahoe store, team members average approximately $8.96 per hour in tips. Tips are not guaranteed and may vary based on shift, business levels, and seasonality. Embarc seeks an enthusiastic, knowledgeable, and community-minded Customer Experience Guide to join our cannabis retail team. Embarc is an emerging cannabis retailer passionate about our community, customers, and people. If you are excited abou\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "90fc1f7320ff",
-      "title": "Customer Experience Guide",
-      "company": "Embarc",
-      "location": "Fontana, San Bernardino County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5748910037?se=Mss5mbVe8RGO9PaDeq7KTA&utm_medium=api&utm_source=638f9cc6&v=63D05D5E0C40C9B23E63D4D02D3D71DD4F522183",
-      "posted": "2026-06-02",
-      "description": "Base hourly pay for this position is $18.50. At our Fontana store, team members average approximately $5.75 per hour in tips. Tips are not guaranteed and may vary based on shift, business levels, and seasonality. Job Description: Customer Experience Guide Embarc seeks an enthusiastic, knowledgeable, and community-minded Customer Experience Guide to join our cannabis retail team. Embarc is an emerging cannabis retailer passionate about our community, customers, and people. If you are excited abo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9891b6546b02",
-      "title": "Customer Experience Guide - Part Time",
-      "company": "Embarc",
-      "location": "San Bruno, San Mateo County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5748839059?se=Mss5mbVe8RGO9PaDeq7KTA&utm_medium=api&utm_source=638f9cc6&v=B18834FB7F07431B30F5127B18596029838703A9",
-      "posted": "2026-06-02",
-      "description": "Job Description: Customer Experience Guide Base hourly pay for this position is $18.50 . At our San Bruno store, team members average approximately $9.41 per hour in tips. Tips are not guaranteed and may vary based on shift, business levels, and seasonality. Embarc seeks an enthusiastic, knowledgeable, and community-minded Customer Experience Guide to join our cannabis retail team. Embarc is an emerging cannabis retailer passionate about our community, customers, and people. If you are excited \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "67578c73f4a1",
-      "title": "Customer Experience Guide",
-      "company": "Embarc",
-      "location": "Florin, Sacramento County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5748837307?se=Mss5mbVe8RGO9PaDeq7KTA&utm_medium=api&utm_source=638f9cc6&v=FDA4806A9C97613C610EE76433ADDEBEF132FB2F",
-      "posted": "2026-06-02",
-      "description": "Job Description: Customer Experience Guide Base hourly pay for this position is $19.36 . At our Sacramento store, team members average approximately $5.57 per hour in tips . Tips are not guaranteed and may vary based on shift, business levels, and seasonality. Embarc seeks an enthusiastic, knowledgeable, and community-minded Customer Experience Guide to join our cannabis retail team. Embarc is an emerging cannabis retailer passionate about our community, customers, and people. If you are excite\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "7bb3ac56fc51",
-      "title": "Customer Experience Guide - Part Time",
-      "company": "Embarc",
-      "location": "Briones, Contra Costa County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5748822743?se=Mss5mbVe8RGO9PaDeq7KTA&utm_medium=api&utm_source=638f9cc6&v=BDED36194B086A7CCB770255C1CDABEF0946B9CC",
-      "posted": "2026-06-02",
-      "description": "Job Description: Customer Experience Guide Base hourly pay for this position is $20.00. At our Redwood City store, team members average approximately $10.91 per hour in tips. Tips are not guaranteed and may vary based on shift, business levels, and seasonality. Embarc seeks an enthusiastic, knowledgeable, and community-minded Customer Experience Guide to join our cannabis retail team. Embarc is an emerging cannabis retailer passionate about our community, customers, and people. If you are excit\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "213b327906ee",
-      "title": "Customer Experience Operations Supervisor",
-      "company": "TTEC",
-      "location": "Melbourne, Brevard County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5748927554?se=9hcjmrVe8RGO9PaDeq7KTA&utm_medium=api&utm_source=638f9cc6&v=30AEBC7BA756039B929EBCCF21CFA17CC1FD9A54",
-      "posted": "2026-06-02",
-      "description": "Position Summary The Customer Experience Operations Supervisor is responsible for the supervision of the Customer Experience teams and provides support for operational initiatives, which include identifying process improvement initiatives, analysis of call and escalation data, identification of workforce gaps and resolution, and presenting recommended action plans to the Sr. Operations Manager based upon research performed. Additionally, the Customer Experience Operations Supervisor partners wi\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "163859082036",
-      "title": "Customer Experience Program Manager",
-      "company": "Stellantis",
-      "location": "Auburn Hills, Oakland County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5749249468?se=3iCtnLVe8RGhS87hc9yoXg&utm_medium=api&utm_source=638f9cc6&v=3BCE12D8582FC14D1FEF42806A09AD6162DE66AA",
-      "posted": "2026-06-02",
-      "description": "S tellantis Mopar Service, Parts & Customer Care is seeking a highly skilled Customer Experience Program Manager to lead development and execution of a dealer service improvement program . This role is a key contributor within the Technical Service Organization and is responsible for driving measurable improvements in dealer service operations, Fixed First Visit (FFV), and overall customer satisfaction. The Program Manager will leverage internal and external data sources, customer feedback, and\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "xm"
-      ]
-    },
-    {
-      "id": "3a2073620070",
-      "title": "Customer Insights and Strategy Analyst",
-      "company": "System One",
-      "location": "Pittsburgh, Allegheny County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5748752506?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-02",
-      "description": "For immediate consideration, please connect with me on LinkedIn at https://www.linkedin.com/in/dpotapenko and then email your resume, work authorization status, current location, availability, and compensation expectations directly to denis.potapenko@systemone.com - make sure to include the exact job title and job location in your email message.  W2 hourly contract work - no C2C candidates  Location: 77 Hot Metal Street, Pittsburgh, PA 15203 - hybrid work schedule, parking provided Customer Ins\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "fc3dbe95fcb7",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5748628624?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "076e0ee805ac",
-      "title": "Sephora - Customer Experience & Operations Manager",
-      "company": "The Learning Shop at Bluewater",
-      "location": "Bluewater, Greenhithe",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5749104473?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-02",
-      "description": "Customer Experience and Operations Manager Location: Bluewater Job Type: Full Time / Permanent Salary: Competitive About At SEPHORA UK, beauty is not just what we sell, it is who we are. It is the freedom to express yourself, the thrill of discovering something new, and the power of belonging to a community that celebrates every identity. From our beginnings in France in 1969 to becoming part of the LVMH family, we\u2019ve always pushed boundaries through creativity, innovation, and inclusivity. Tod\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5b45fa0efb23",
-      "title": "Customer Experience Manager - Dan Murphy's Harpley",
-      "company": "Dan Murphy's",
-      "location": "Werribee, Wyndham Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5748801309?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-02",
-      "description": "About the Role Customer Experience Manager | Dan Murphy's Harpley | Share your spirit If customer satisfaction was a competition, you\u2019d be the winner. As one of our Customer Experience Managers, you\u2019ll channel your engagement and entrepreneurial spirit to create tailored in store customer experiences and inspiring merchandising that keep our community returning to Dan\u2019s! We\u2019re looking for a passionate people leader who has a genuine desire to make better happen; for themselves and others around\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "bb187da76b14",
-      "title": "Customer Experience Manager",
-      "company": "Lotus People",
-      "location": "The Rocks, Sydney",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5748800991?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-02",
-      "description": "ABOUT THE COMPANY Lotus People are excited to be partnering with a market leader in premium building and home improvement solutions, known for innovation, sustainability and exceptional customer care. With a collaborative, down-to-earth culture and strong employee tenure, they\u2019ve built an environment where people feel supported, heard and empowered to make an impact. Backed by international success and continued ANZ growth, this is a business investing heavily in its people, systems and future \u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "f62660a3d7ff",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=5D5e64Zf8RGgx-r2Yz_8QQ&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "c4af7ac802aa",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=Wo7I7YZf8RGdlNmLCL9B1Q&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "108dd2c5ed9d",
-      "title": "Manager, Customer Experience - Port Hawkesbury",
-      "company": "TD",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5749746960?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-02",
-      "description": "Work Location: Port Hawkesbury, Nova Scotia, Canada Hours: 37.5 Line of Business: Personal & Commercial Banking Pay Details: $57,100 - $80,600 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. \u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "349d17b4e899",
-      "title": "Customer Experience Associate - Red Deer - Future Opportunities",
-      "company": "TD Bank",
-      "location": "Red Deer region, Alberta",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5749685740?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-02",
-      "description": "Work Location: Red Deer, Alberta, Canada Hours: 15 Line of Business: Personal & Commercial Banking Pay Details: We\u2019re committed to providing fair and equitable compensation to all our colleagues. As a candidate, we encourage you to have an open dialogue with a member of our HR Team and ask compensation related questions, including pay details for this role. Job Description: KEY ACCOUNTABILITIES CUSTOMER Create an exceptional customer experience with every customer interaction and contribute to \u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "cf26245ee2ac",
-      "title": "Customer Experience Analyst",
-      "company": "Summit 7 Systems",
-      "location": "Madison, Madison County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5749585508?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-02",
-      "description": "Position Title: Customer Experience Analyst Location: Huntsville, AL Salary*: $50,000 - $60,000 *Dependent upon qualifications Summit 7 is here to rise above the ordinary. The work we do here goes far beyond day-to-day projects - it further protects the US defense industrial base from cyber threats, fosters thought leadership and creates growth opportunities. Our support staff, sales team and technicians are all coming together to make a difference. We also recognize that you're a person with l\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "25e65da59f4a",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=uPQgijtg8RGG7L_q_9cIHQ&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "5a8c04a92f25",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=pkoS0vlg8RG8XJ6n81mr5w&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "823901673faa",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=zEaV0vlg8RGQwpUuFYzcXQ&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "33958d47b4a7",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=EHZdp5hh8RGgy-QpN4SWnA&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "c868208bcd59",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=shjmp5hh8RGHk5mrcEw0_Q&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "6552d383b758",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=YiYCp2li8RGI27gKLue9KA&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "108f904b3de4",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=vC2Cp2li8RGMevh9TdtPOQ&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "fa75560196a1",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=JJLRwGBj8RGTW7GEtrxXDQ&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "60c82c2b4107",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=OD5XwWBj8RGa9O86dppG1Q&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "cfe0eac3af5f",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=btDNGB9k8RGufrs9mrrgHA&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "b5c7735c7e24",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=ztlAGR9k8RGufrs9mrrgHA&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "97a067ffdafe",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=ml64L_Rk8RGN64C7ajy0tA&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "0648683d49b1",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=2n5mMPRk8RGjf-CiiQBFeg&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "e2f517149c75",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=MnveLr9l8RGSwvN1B8zRZw&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "201d18320d24",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=7uOBL79l8RGSwvN1B8zRZw&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "ba885346c2d9",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=JjN5onxm8RG5GpwkRXC5CA&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "408014d59afa",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=Wsbeonxm8RGODLlwAK4g_Q&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "35baf1da6dfe",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=NI022CBn8RG0btGxqHH3qw&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "aedbf2d61dc5",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=iNLd2CBn8RGrMLOjlx9mmg&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "f0b472b1ddb8",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=_t2Isuxn8RGIXqxvmw2wtg&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "33dd26dc3fcb",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=hPgjs-xn8RGfB72z_DrYeQ&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "edc83364d38f",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=xh0yvPRo8RGjKJIWHOfiKg&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "24666dfc43ff",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=uj6QvPRo8RGdcKmg89akZw&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "d34143434123",
-      "title": "Director, Customer Experience",
-      "company": "Cisco",
-      "location": "Melbourne CBD, Melbourne",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5748766141?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-02",
-      "description": "This is a Director, Customer Experience role with Cisco based in Melbourne, VIC, AU  Cisco  Role Seniority - senior More about the Director, Customer Experience role at Cisco Meet the Team Join Cisco's Customer Experience (CX) team and be a part of an exciting transformation! We're reshaping our CX Operating Model to deliver more personalized, proactive, and predictive interactions. As a key player in this journey, focus on value creation for customers across the whole portfolio of products, so\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a85adf93d0ce",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=jPLC5bxp8RGL5KWYPU-8Gw&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "fa15e6d33c86",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=BFRTtnJq8RG3duye76zZMg&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "e8d304545e4e",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=QGj4tnJq8RGNlJLvgglOgg&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "d2fe3ac87da6",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=lj7OFT5r8RGhD6oSViI0Lg&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "30458e929880",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=RpED2vpr8RGl0MKcaJBBpg&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5247cdaca5a1",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=fihc2vpr8RGXaKe3k6DaFg&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "48ce000bc7be",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=ilN45KFs8RGrKszqFbIEfQ&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "c593db3c5110",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=ZuzB5KFs8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "86eca470b5b2",
-      "title": "Chief Customer Experience Officer",
-      "company": "Anderson Quigley",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5748628624?se=NiCXMG1t8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=183F61D5C4EE46351142EC6D300A8412F36CE273",
-      "posted": "2026-06-02",
-      "description": "Chief Customer Experience Officer (CCXO) Salary: \u00a3105,540 - \u00a3124,165 per annum (dependent on experience, Grade B) Geographical allowance may apply Hours: Full time (35 hours per week) Contract: Permanent Location: Home-based, with regular travel to London and across the UK Reporting to: CEO (member of the Executive Leadership Team) Functions reporting to the role: Data, Insight & Impact Reporting; Technology & Business Systems; Customer Services About the role The Duke of Edinburgh\u2019s Award (Dof\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "b28d1968b5f7",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=6iPzMG1t8RGJe8gKxAvXaw&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "7a31a803c5a3",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=inliNzNu8RG-C6DUZsghXQ&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "8c7fd7333ee1",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=uGg0Uehu8RG3pc9h1tgKVA&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "6810b0b89c0e",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=GsCZALBv8RG6VbN9WE0NzQ&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "64be9d66a4a9",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=-D8Z9ndw8RGA_J_s4PS1Ig&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "0081dc8c75e1",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=WLjy7EFx8RGopfmZXzXfOg&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "6ea26aeceef6",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=yjLfvwNy8RG03p_b2NRIZw&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "0c6e5d036b83",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=anSAPs9y8RGiVqWJe_bADg&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "52ff69ffa146",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=okz0aqpz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "f0b2a84413c7",
-      "title": "Customer Insights Analyst",
-      "company": "Harnham - Data & Analytics Recruitment",
-      "location": "Darwen, Lancashire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5749715322?se=XN1r22d08RG5wqNxUkLhAA&utm_medium=api&utm_source=638f9cc6&v=73EA6B7A99544410680237D4EE44760475C37EFF",
-      "posted": "2026-06-02",
-      "description": "Customer Insights Analyst \u00a350,000 - \u00a355,000 Darwen (3 days a week on-site) This is an exciting opportunity to join a data-led organisation where customer insight is central to driving commercial performance and improving customer experience. THE COMPANY They are a growing, customer-centric organisation operating across a large network of consumer-facing locations. With a strong focus on personalisation and service quality, they use data to continuously improve engagement, retention, and lifetim\u2026",
-      "source": "adzuna",
-      "country": "GB",
       "tags": [
         "cx",
         "insights"
