@@ -1,7 +1,563 @@
 {
-  "updated": "2026-07-17T08:15:24Z",
-  "count": 1570,
+  "updated": "2026-07-18T07:58:06Z",
+  "count": 1646,
   "jobs": [
+    {
+      "id": "5a6bdebe8403",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Hearn Island, Caldwell Parish",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805906136?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=4A6FE9DF680CAF47A8F2D20E26332721CA3351A5",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c8dd33e648e9",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Bixby, Tulsa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805906111?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=5BA7388646138F81E7DA9D1F22BD24D6859548C6",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b7e3be7c5e95",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Oak Grove, West Carroll Parish",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805906105?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=CF084E5F05AAEC60EF55D5CD54083704090765E3",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a7c7f2069356",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Bodcau, Bossier Parish",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805906121?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=DF31351F7B47BFDEDC1E8BF6854C4C634CC39A6B",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "450dd339dcbd",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Stonewall, De Soto Parish",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805906094?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=D57F5B5620A657597CE9DF295946632363DF0AED",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c454ef314c08",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Wagoner, Wagoner County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805906052?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=DF62A833B1C29ABFA5F0836F5F00BD50FD6960A3",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d72ea13c9740",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Ridgeside, Hamilton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805906049?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=1571CC3CDA1CEA54CAFF80B07F8F76450B9F8CC4",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9d954b026701",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Huber Heights, Montgomery County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905843?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=84FD01C87C1B25BF242652D1C576807E12FE4171",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c57a8d81f7ea",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Capshaw, Limestone County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905724?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=E2FAF1A9FECF60F331BB8434E08D6D1A3898D072",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c5e659643caa",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Harrison, Hamilton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905671?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=BF6068A03B6067F76B63520B0A65FEF5AF581462",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "4c4b517f7a3b",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Risinger Woods, Caddo Parish",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905591?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=46363FA96BD522030E7AA57A9C6E27E5CF2C6739",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e65e27a33377",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Opelika, Lee County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905584?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=D1D981EC4DD23C0001B9AA87E237D6C252BF8559",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9acbccd72c78",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Red Bank, Hamilton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905449?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=436A5A9285E244AB9BB841C1DAA07D5530511520",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "70deee31f8c1",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Panola, Concordia Parish",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905390?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=64E0FA26DAF0BCD5587213EF5007E506AC7A7DCC",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2552c5328d72",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "East Gadsden, Etowah County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905326?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=30215A59B9BAD1B603A5019AECC0D1AF1D5A7E7B",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "96cc1ea6acc9",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Broken Arrow, Tulsa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905301?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=54876749474C6234E1AFA64B1153C87AEFA10D7B",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d6bea555b5a8",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Lake Park, Union County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905316?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=76F0D87FADEC9AADEAA0BAA5F76BE964216776A4",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a479a82ce6c4",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Skiatook, Tulsa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905268?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=4B140A767D2773B609E0730061F31E9DEA717C7C",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "37e71ccac9ff",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Tulsa, Tulsa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905266?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=B92120E6BA9139839F5921BC5CF5EC5158271BEC",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "fda834972d0b",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Taconey, Concordia Parish",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905275?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=08AD9752B5BDE9FB0295970B0719F5C21051B671",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "89cf9f2d2887",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Blairsville, Union County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905187?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=86206EC371BD03B0500D5F806A3C811C8D28D0FC",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "6a60af001628",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "New Tulsa, Wagoner County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905200?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=FB54748E1489CB8CE9B6540F617E1827792420BD",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "0eceee8d7930",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Jonesville, Catahoula Parish",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905194?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=4183B0D8EB3B646CBCF7C84EFF31777C4F3C9341",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "3335db8d8309",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Williams, Tulsa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905176?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=D3083495625439323389533D5E8E4E76C7DB203C",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "fab307ada20d",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Owasso, Tulsa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905052?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=8328BF5E9E003EC63936FDF2112D163252D32579",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f0a46b4bfc9a",
+      "title": "Shift Manager \u2013 Customer Experience",
+      "company": "Sonic Drive-In",
+      "location": "Jenks, Tulsa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805905003?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=C68A46BCBA7EBE37D12EADD19E762F2F6263055E",
+      "posted": "2026-07-18",
+      "description": "Hot burgers, cold shakes, and little moments of magic right in the neighborhood. At SONIC, we do things a little differently. We find the fun, the moment of chill in the every-day. Working at SONIC, youll spark moments of delightful possibility. Feelin these good vibes? Lets do this. Start with a Job, Spark a Career As a Restaurant Shift Manager, you will be responsible for assisting the General Manager and Assistant General Manager in managing the daily operations of the restaurant. You will p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e06036f4ffa9",
+      "title": "Experience Manager",
+      "company": "Fresh Thyme Market",
+      "location": "Ypsilanti, Washtenaw County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805904252?se=-j8Z9X2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=9DB0BBD5EF89A1677BE6C7C2414CDD523307DFEC",
+      "posted": "2026-07-18",
+      "description": "If you\u2019re someone who has a genuine desire to help people live better and healthier lives, join us as we work to be a trusted resource in our communities, offering real people, real food at real affordable prices across the Midwest. If you are ready to immerse yourself in an environment, that helps shoppers naturally, intuitively, and enjoyably find real, honest, affordable goodness to meet them wherever they are on their wellness journey, we\u2019d like to hear from you. Join us to begin YOUR journ\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "0063467cf34b",
+      "title": "Director, Customer Experience Solutions",
+      "company": "Rentokil",
+      "location": "Nashville, Davidson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5805861663?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-18",
+      "description": "Benefits Start Day 1 for Full-Time Colleagues - No Waiting Period! For more information about our benefits, see below! We are proud to be a member of the Rentokil family of companies, the global leader in Pest Control and other services across more than 90 countries. We pride ourselves on being a trusted partner to many of the world's leading brands and serve consumer and business customers across multiple industries. We are extremely proud of our legacy of excellence and constantly work to ful\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "fdd20c547b16",
+      "title": "Customer Experience Specialist",
+      "company": "Schulte Subaru",
+      "location": "Harrisburg, Lincoln County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5805859219?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-18",
+      "description": "Title: Customer Experience Specialist Reports To: Fixed Operations Director OUR MISSION At Schulte Subaru, we are devoted to the idea that every interaction is a chance to make the world a little better. That\u2019s why we partner with our local community to make real impacts in the lives around us through kindness and respect. We believe in these things not only because they are good for business, but it\u2019s the right thing to do. OUR BENEFITS Beyond this incredible culture, employees at Schulte Suba\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "6c7143864d0e",
+      "title": "Customer Experience Supervisor",
+      "company": "Lubrizol Corporation",
+      "location": "Brecksville, Cuyahoga County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5805834037?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-18",
+      "description": "Job Type: Full-time. 4 days on-site, 1 flex day each week Location: Brecksville, OH to start, and transitioning to Wickliffe, OH in 2028. As Lubrizol approaches its centennial in 2028, our Wickliffe campus will become the unified home of Lubrizol\u2019s global headquarters , integrating Lubrizol\u2019s Brecksville site capabilities and employees to the Wickliffe campus. Shape the Future with Us. At Lubrizol, we\u2019re bringing to life the chemistry behind clean water, efficient transportation, reliable infra\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c4d021b584e5",
+      "title": "VP Employee Experience Technology",
+      "company": "Mountain America Credit Union",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5805897517?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-18",
+      "description": "Please reference the schedule and minimum qualifications listed below before applying. If you need assistance with filling out our application form or during any phase of the application, interview, or employment process, please notify our Human Resources Team at 801-366-6947 option 1 or email macurecruiting@macu.com and every reasonable effort will be made to accommodate your needs in a timely manner. Job Summary The VP of Employee Experience (HR) Technology is responsible for shaping the futu\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "357468b91839",
+      "title": "Branch and Small Business Capabilities Experience Manager",
+      "company": "U.S. Bank",
+      "location": "Englewood, Arapahoe County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805859470?se=oi9k-X2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=638f9cc6&v=1DA80906AA88E122E98721AB86EC008D1AF46E97",
+      "posted": "2026-07-18",
+      "description": "At U.S. Bank, we\u2019re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "b418d2832179",
+      "title": "Lead Full Stack Adobe Experience Manager Developer with Security Clearance",
+      "company": "Blu Omega LLC",
+      "location": "State Farm, Arlington County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5805858049?se=oi9k-X2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=638f9cc6&v=36BE29A671FF9B1B6E901F331739A8FE83C6FB5E",
+      "posted": "2026-07-18",
+      "description": "Lead Full Stack Adobe Experience Manager Developer Blu Omega is seeking a Lead Full Stack Adobe Experience Manager Developer to support a federal program focused on digital web services. This role operates within a remote environment and is responsible for leading the AEM development team, providing technical direction, and supporting modernization efforts. The position requires experience supporting AEM 6.5 LTS, backend development, technical architecture, and web environment support. Mission/\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "6b145c2b228e",
+      "title": "SENIOR MANAGER - EMPLOYEE EXPERIENCE PROCESS DESIGN OTIS (Remote)",
+      "company": "Otis Elevator Company",
+      "location": "Rib Mountain, Marathon County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5805847820?se=oi9k-X2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=638f9cc6&v=48C45CB5C5CAB156372AA0E78E88F1CE1942F634",
+      "posted": "2026-07-18",
+      "description": "Date Posted: 2026-05-27 Country: Portugal Location: Sede OTIS, Portugal Role Summary The HR Experience Process Designer is a strategic role responsible for shaping, redesigning, and optimizing key HR operational processes to elevate colleague experience and operational efficiency. Acting as a bridge between business needs and HR delivery teams, this role ensures that HR processes are intuitive, scalable, and aligned with organizational goals. This individual brings deep expertise in HR processe\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "c2665c003d57",
+      "title": "Senior Customer Experience Program Manager - CTJ - Poly",
+      "company": "Microsoft",
+      "location": "Reston, Fairfax County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5805879258?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-18",
+      "description": "Overview Cloud Operations  Innovation (COI) is the team behind one of the World\u2019s largest cloud infrastructures, responsible for powering all Microsoft online Products and Services as well as powering Microsoft\u2019s \u201cCloud First\u201d mission. Our focus is on smart growth, high efficiency, and delivering trusted experiences to customers and partners worldwide, and we are looking for passionate team members to help achieve that mission. The AGC Business Alignment and Strategy (BAS) team is looking for t\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "9ec7ed684171",
+      "title": "Customer Experience Manager",
+      "company": "Sainsbury's",
+      "location": "Stirling, County Stirling",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5805432439?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-18",
+      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "3a2d43559713",
+      "title": "CX Operations Manager",
+      "company": "CoStar Realty Information, Inc.",
+      "location": "Sydney, Sydney Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5805680418?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-18",
+      "description": "CX Operations Manager Job Description About the Role As a Customer Support Manager (or CX Operations Manager as we say at Domain), and sitting within an experienced CX Operations team, you will own the strategy, processes and systems that are designed to deliver a seamless customer support experience across our Core Products including our residential and commercial real estate portals, Pricefinder, Homepass and Leadscope. Whilst managing an incredible delivery team via a small handful of direct\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
     {
       "id": "8628cc92228b",
       "title": "Customer Experience, Product Marketing Manager, Networking",
@@ -271,6 +827,515 @@
       "country": "AU",
       "tags": [
         "cx"
+      ]
+    },
+    {
+      "id": "fc85207220f1",
+      "title": "Director - Capture Research Development & Customer Experience",
+      "company": "Noblis",
+      "location": "Reston, Fairfax County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5805528106?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Responsibilities The Director, Customer Experience, Capture & Research Development is a leadership role within the Federal Civilian Solutions (FCS) Mission Area, reporting directly to the FCS Vice President. This position serves as a cross-divisional strategic asset-functioning simultaneously as a floating capture manager, federal market analyst, research pipeline architect, and customer experience authority. Noblis' Vision 2030 calls us to be a leading S&T powerhouse-delivering exceptional ser\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "8477f815d66e",
+      "title": "Associate Director, Customer Experience Measurements - Princeton NJ",
+      "company": "Military Spouse Corporate Career Network",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5804802048?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Job Description ATTENTION MILITARY AFFILIATED JOB SEEKERS - Our organization works with partner companies to source qualified talent for their open roles. The following position is available to Veterans, Transitioning Military, National Guard and Reserve Members, Military Spouses, Wounded Warriors, and their Caregivers . If you have the required skill set, education requirements, and experience, please click the submit button and follow the next steps. Unless specifically stated otherwise, this\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f9616d9be289",
+      "title": "Director, Customer Experience & Engagement - 26-77",
+      "company": "PriMed Management Consulting",
+      "location": "San Ramon, Contra Costa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5804599567?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "We\u2019re delighted you\u2019re considering joining us! At Hill Physicians Medical Group, we\u2019re shaping the healthcare of the future: actively managed care that prevents disease, supports those with chronic conditions and anticipates the needs of our members. Join Our Team! Hill Physicians has much to offer prospective employees. We\u2019re regularly recognized as one of the \u201cBest Places to Work in the Bay Area\u201d and have been recognized as one of the \u201cHealthiest Places to Work in the Bay Area.\u201d When you join\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "17398ffc49a3",
+      "title": "Business Analyst IV -Sales, Brand & Marketing, and Customer Experience",
+      "company": "wm",
+      "location": "Old Sixth Ward, Houston",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5805538990?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "I. Job Summary We are seeking a highly skilled and motivated Business Analyst IV with expertise in data and analytics platforms, including AWS and Snowflake, to join our Data Services organization. The Business Analyst IV position is recognized as a leadership role within Data Services, serving as a trusted advisor to business stakeholders and a strategic partner to Technology teams. The Business Analyst IV helps shape and prioritize the Data Services portfolio by ensuring business needs, strat\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "b9b09a9cebbd",
+      "title": "Quality Assurance (QA) Analyst \u2013 Customer Experience POD",
+      "company": "American Financing Corporation",
+      "location": "Centennial, Arapahoe County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5804867420?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Compensation: $65K - 75K annually Local Candidates ONLY At American Financing, we're innovators with imagination. We do what it takes to help customers achieve their financial goals. And we stay ahead of the competition by challenging ourselves to become more efficient. We are one of the fastest-growing national mortgage lenders because we don't follow the status quo. See what it's like to work for a national mortgage lender that truly values its employees. Wherever your passions lie, you can f\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ecb11f18a821",
+      "title": "Data Analyst IV (Customer Experience and Support Analyst)",
+      "company": "BC Forward",
+      "location": "Indianapolis, Marion County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804745635?se=Jhux9n2C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=7B0801EEDDF82987C339AD8308440515D9A12AE1",
+      "posted": "2026-07-17",
+      "description": "Job Title: Data Analyst IV (Customer Experience and Support Analyst) Location: Remote (PST or CST Preferred) Duration: Contract - 12 months Pay Range: $59/hr $67/hr (W2) Job ID: 406693 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across Nor\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c5cea54496e2",
+      "title": "VOC Insights Manager",
+      "company": "BC Forward Asymbl",
+      "location": "Englewood Cliffs, Bergen County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804747486?se=Ii2Z-32C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=0FBEF31A15DFF55EBA846D173DBA8031CE948F96",
+      "posted": "2026-07-17",
+      "description": "Job Title: Consumer Insights Manager Location:Englewood Cliffs New Jersey Duration: 6 month Temp to Hire Pay Range: $50-55/hr (W2) About TSR TSR is a trusted staffing and workforce solutions partner with more than 50 years of experience delivery highly qualified talent to support clients' most critical business and technology initiatives. Through a disciplined approach to sourcing, candidate vetting, and delivery, TSR helps organizations scale teams quickly while maintaining quality and reliabi\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "2f7eafc8a178",
+      "title": "VOC Insights Manager",
+      "company": "BC Forward Asymbl",
+      "location": "Englewood Cliffs, Bergen County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804747486?se=apjj_X2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=638f9cc6&v=0FBEF31A15DFF55EBA846D173DBA8031CE948F96",
+      "posted": "2026-07-17",
+      "description": "Job Title: Consumer Insights Manager Location:Englewood Cliffs New Jersey Duration: 6 month Temp to Hire Pay Range: $50-55/hr (W2) About TSR TSR is a trusted staffing and workforce solutions partner with more than 50 years of experience delivery highly qualified talent to support clients' most critical business and technology initiatives. Through a disciplined approach to sourcing, candidate vetting, and delivery, TSR helps organizations scale teams quickly while maintaining quality and reliabi\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "c15d41b37f46",
+      "title": "Business Insights Manager - Employee Experience",
+      "company": "Cook Group",
+      "location": "Ellettsville, Monroe County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5804744579?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "The Business Insights Manager is responsible for understanding business needs and providing actionable insights to support strategic decision-making across the organization specifically in one of these focus areas - customer experience, employee experience or market insights. Across all focus areas, this role ensures that market, customer and employee signals are systematically collected, rigorously analyzed and translated into insights the business can act on. The role will oversee the develop\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "0bd4767b1463",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Tumwater, Thurston County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804459708?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=95ACCF2F91698F0AAF217F278FD01AB11BE70E8F",
+      "posted": "2026-07-17",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "460ff0fe69dd",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Madison, Dane County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804459196?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=C75B88DB8837BBA904FC89B8D163261ECA29A542",
+      "posted": "2026-07-17",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f45b33b363bf",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Bonnie, Utah County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804457504?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=62DCB0E33FC4CE0A4C394D577A5F2DE69C19E6B2",
+      "posted": "2026-07-17",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "bfc6b832dc86",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Charleston, Kanawha County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804416735?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=C7E63E3A289E0D5CE7D775C3CBFF9B5C1A9A6D6E",
+      "posted": "2026-07-17",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d3f46a29e962",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Montpelier, Washington County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804415838?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=9315AF8B9E9E59F601D1F0C5204E281CE4AA67AC",
+      "posted": "2026-07-17",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9d0a249aa8d5",
+      "title": "Admin Ofcr 2 Cx",
+      "company": "University of California, San Francisco",
+      "location": "San Francisco, California",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5804842704?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Description Involves managing or performing administrative services or managing the full general operations of an academic or non-academic organization. Administrative services include activities in finance and human resources and may also include IT, facilities, or student services. General management activities include long and short range strategic planning in determining the mission and directing all activities of multi-disciplinary departments through subordinate management of staff. The E\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9b45c605ca96",
+      "title": "VOC Insights Manager",
+      "company": "BC Forward Asymbl",
+      "location": "Englewood Cliffs, Bergen County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804747486?se=Dj_hCn6C8RG64bpm-6Bw6w&utm_medium=api&utm_source=638f9cc6&v=0FBEF31A15DFF55EBA846D173DBA8031CE948F96",
+      "posted": "2026-07-17",
+      "description": "Job Title: Consumer Insights Manager Location:Englewood Cliffs New Jersey Duration: 6 month Temp to Hire Pay Range: $50-55/hr (W2) About TSR TSR is a trusted staffing and workforce solutions partner with more than 50 years of experience delivery highly qualified talent to support clients' most critical business and technology initiatives. Through a disciplined approach to sourcing, candidate vetting, and delivery, TSR helps organizations scale teams quickly while maintaining quality and reliabi\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "d1fe8f48df45",
+      "title": "Entertainment & Experience Manager",
+      "company": "Zachary Daniels",
+      "location": "Manchester, Greater Manchester",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5804936449?se=bAMwDX6C8RGFMa6bWHzthQ&utm_medium=api&utm_source=638f9cc6&v=53B23ABC903E275CBE89437D9A8D4F685A97AA67",
+      "posted": "2026-07-17",
+      "description": "Entertainment & Experience Manager | Manchester | \u00a345,000 - \u00a360,000  Bonus Lead Experiences. Inspire Teams. Drive Commercial Success. Zachary Daniels Recruitment is partnering with an exciting, customer-focused business to recruit an exceptional Entertainment & Experience Manager for a flagship Manchester location. This opportunity is ideal for a commercially minded leader with a passion for creating unforgettable guest experiences. Whether your background is in hospitality, retail, leisure, vi\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "182bd8362454",
+      "title": "Employee Experience Specialist",
+      "company": "Benifex",
+      "location": "Ocean Village, Southampton",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5805271978?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Who are Benifex?  We are a fast-moving technology company, and one of the most successful providers of online reward and benefits solutions in the world. We believe that everyone deserves an exceptional experience at work, every day, and build workplace technology that makes this happen. Benifex\u2019s mission is to build remarkable experiences that employees love. Today Benifex supports more than five million employees in over 3,000 organisations across more than 100 countries. To help us on our qu\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "17ed0ed2b2ae",
+      "title": "Customer Insights and Outcomes Manager",
+      "company": "Sanctuary Group",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5804954330?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Inclusion is one of our core values. Our goal is to be a diverse, inclusive organisation where our people thrive and meet our customers\u2019 needs with fairness and empathy. We know having a range of ideas and opinions makes a difference. We encourage and welcome applications from people from diverse backgrounds to support this mission. We will make adjustments throughout your application process, in line with Sanctuary\u2019s commitment to our Disability Confident employer status. Customer Insights and\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "d810a159f7ae",
+      "title": "People Analytics and Insights Analyst",
+      "company": "Cancer Research UK",
+      "location": "Stratford, East London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5804893404?se=Sv8LEX6C8RG64bpm-6Bw6w&utm_medium=api&utm_source=638f9cc6&v=EF0156AF9C3D36C0ECD05C31F77E988DA8CF98B7",
+      "posted": "2026-07-17",
+      "description": "Credible HR insights. Informed decision-making. Impacting the future. People Analytics & Insights Analyst \u00a330,000 - \u00a340,000 ( Benefits ) Grade: P2 Reports to: HR People Analytics Manager Contract: Fixed Term for 12 months Hours: Full time 35 hours per week Location: Stratford, London. Office-based with high flexibility (1-2 days per week in the office) Visa sponsorship: You must be eligible to work in the UK to apply for this vacancy. Cancer Research UK is not able to offer visa sponsorship. Ex\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "56a1aa321a2b",
+      "title": "People Analytics and Insights Analyst",
+      "company": "Cancer Research UK",
+      "location": "Stratford, East London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5804885875?se=Sv8LEX6C8RG64bpm-6Bw6w&utm_medium=api&utm_source=638f9cc6&v=4092675F4E8246B047EE31C5D00BA2ABD556A28C",
+      "posted": "2026-07-17",
+      "description": "Credible HR insights. Informed decision-making. Impacting the future. People Analytics & Insights Analyst \u00a330,000 - \u00a340,000 ( Benefits ) Grade: P2 Reports to: HR People Analytics Manager Contract: Fixed Term for 12 months Hours: Full time 35 hours per week Location: Stratford, London. Office-based with high flexibility (1-2 days per week in the office) Visa sponsorship: You must be eligible to work in the UK to apply for this vacancy. Cancer Research UK is not able to offer visa sponsorship. Ex\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "d4e9d4639472",
+      "title": "Customer Experience Advisor",
+      "company": "Veolia",
+      "location": "Warrington, Cheshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5805150762?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Salary: Competitive plus Veolia benefits and pension Hours: 40 hours per week Monday - Saturday Including a min of 2 Bank Holidays per year Location: Birchwood Park, Warrington WA3 6FW Duration: FTC 6 months (possibility to extend or become permanent) When you see the world as we do, you see the chance to help the world take better care of its resources, and help it become a better place for everyone. It's why we're looking for someone who's just as committed as we are, to push for genuine chan\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b6b3bf5e9afa",
+      "title": "Employee Experience Comms Lead - 3 Month FTC",
+      "company": "Dr. Martens UK",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5804471835?se=AtVUEn6C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=610C72BF8FF97AB1DCE4E78EE7A942C07E48D0F1",
+      "posted": "2026-07-17",
+      "description": "Dr. Martens is more than a brand - it\u2019s a global icon with over 60 years of attitude, heritage, and cultural impact. We\u2019re a thriving, values\u2011driven business powered by diverse thinkers, bold doers, and people who bring their whole selves to work. If you\u2019re ready to make your mark, you\u2019re in the right place. At DM, our values guide everything we do: Be Yourself , Act Courageously , Show You Care . They\u2019re not just words - they\u2019re how we turn passion into progress. WHERE YOU SIT As our Employee \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "ee983a07a178",
+      "title": "People Analytics and Insights Analyst",
+      "company": "Cancer Research UK",
+      "location": "Stratford, East London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5804893404?se=wDD6Fn6C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=EF0156AF9C3D36C0ECD05C31F77E988DA8CF98B7",
+      "posted": "2026-07-17",
+      "description": "Credible HR insights. Informed decision-making. Impacting the future. People Analytics & Insights Analyst \u00a330,000 - \u00a340,000 ( Benefits ) Grade: P2 Reports to: HR People Analytics Manager Contract: Fixed Term for 12 months Hours: Full time 35 hours per week Location: Stratford, London. Office-based with high flexibility (1-2 days per week in the office) Visa sponsorship: You must be eligible to work in the UK to apply for this vacancy. Cancer Research UK is not able to offer visa sponsorship. Ex\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "2dd6e3363fda",
+      "title": "People Analytics and Insights Analyst",
+      "company": "Cancer Research UK",
+      "location": "Stratford, East London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5804885875?se=wDD6Fn6C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=4092675F4E8246B047EE31C5D00BA2ABD556A28C",
+      "posted": "2026-07-17",
+      "description": "Credible HR insights. Informed decision-making. Impacting the future. People Analytics & Insights Analyst \u00a330,000 - \u00a340,000 ( Benefits ) Grade: P2 Reports to: HR People Analytics Manager Contract: Fixed Term for 12 months Hours: Full time 35 hours per week Location: Stratford, London. Office-based with high flexibility (1-2 days per week in the office) Visa sponsorship: You must be eligible to work in the UK to apply for this vacancy. Cancer Research UK is not able to offer visa sponsorship. Ex\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "45f01227492d",
+      "title": "Manager, Customer Experience Trainee",
+      "company": "TD",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5805443807?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Work Location: Brampton, Ontario, Canada Hours: 37.5 Line of Business: Personal & Commercial Banking Pay Details: $59,500 - $84,000 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pa\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "589b7a5881ed",
+      "title": "Customer Experience Analyst",
+      "company": "Saskatchewan Workers' Compensation Board",
+      "location": "Saskatchewan, Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5805368966?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Description Customer Experience Analyst Permanent Appointment Regina or Saskatoon Location Job Summary: The customer experience analyst leads the work of the Voice of the Customer and plans, coordinates, analyzes and reports on findings of internal and external customer research studies on various customer issues related to the efficient and effective operation of WCB programs, services and systems. This role will support business partners and offer recommendations on processes, methods and too\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "4a254ecd904e",
+      "title": "Assistant Director, Customer Experience",
+      "company": "Starlink Aviation",
+      "location": "Dorval, Montr\u00e9al",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5804972049?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Reporting to the Vice President of Operations, the Assistant Director, Customer Experience, plays a cross-functional role in coordination, follow\u2011up, and administrative support for aircraft owners and internal teams. Your role Aircraft Owner Communications Manage and follow up on communications with aircraft owners regarding matters related to their aircraft. Coordinate follow\u2011ups related to scheduled and unscheduled maintenance, inspections, maintenance work, and technical events requiring com\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "3dfd69e74b37",
+      "title": "VP Lottery Strategy, Transformation, & Customer Experience",
+      "company": "Ontario Lottery and Gaming Corporation",
+      "location": "Sault Ste. Marie, Algoma",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5805403380?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Job Description: VP Lottery Strategy, Transformation & Enterprise Customer Experience We are ready to take this game to the next level and need someone passionate about leading the strategic evolution and transformation of OLG's Lottery business. As VP, Lottery Strategy, Transformation & Enterprise Customer Experience, you will provide executive leadership for Lottery strategy, business transformation, planning and performance, and enterprise customer experience. This role will drive the delive\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "827cd3d0fd04",
+      "title": "Customer Experience Lead",
+      "company": "Laura Canada",
+      "location": "Ottawa, Ottawa region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5805151627?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "How will you support the team?As a Team Leader, you possess a passion for fashion and customer service. You will be part of a winning team that provides a unique and memorable shopping experience to every customer. You will be joining a Company focused on the development and career growth of its employees.Act as a stylist to build a personalized wardrobe to the customer.Develop and train the sales team on exemplary customer service, the promotion of different programs, product knowledge and cur\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "218e57829b28",
+      "title": "Technical Program Manager, Customer Experience (100% Remote)",
+      "company": "NearSource",
+      "location": "Toronto, Ontario",
+      "remote": true,
+      "url": "https://www.adzuna.ca/details/5804732177?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Job Description Job Description Job Title: Technical Program Manager, Customer Experience Job Location: 100% Remote, Canada Job Type: T4 Contract Experience: 8 Years Rate: CAD 60 - 70 per hour Role Summary: NearSource Technologies is seeking an experienced Technical Program Manager, Customer & Account Experience to lead complex, cross-functional technology initiatives that enhance customer and account experiences. This role partners closely with Product Management, Engineering, Architecture, De\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "eab6767ef9fb",
+      "title": "MSC - HONDA | Customer Experience Rep.",
+      "company": "Metro Supply Chain",
+      "location": "Richmond Hill, York region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5805289154?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Job Opportunity Date Posted July 8, 2026 Expiry Date July 14, 2026 Position Customer Experience Representative Shift Monday \u2013 Friday 6:30am - 3:00pm Location 66 Leek Crescent, Richmond Hill The Customer Experience Representative carries out all customer service activities such as responding to inquiries, processing orders, and handling complaints, in a prompt, courteous, and effective manner. Other responsibilities include phone duties, greetings visitors, scheduling, and other clerical duties \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c87f6d4c76c6",
+      "title": "Head of CX & Insights AU Food",
+      "company": "Woolworths Group",
+      "location": "Australia",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5804341275?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-17",
+      "description": "Head of Customer Experience & Insights AU Food As the Head of Customer Experience & Insights AU Food, you will serve as the foremost customer experience advocate and expert across the AU Food business. In this critical leadership role, you will partner with the Senior Leadership team to establish a comprehensive customer experience framework and a closed\u2011loop insights process that drives tangible experience uplifts for our customers. What you\u2019ll do Partner with business stakeholders and the Cus\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx",
+        "insights"
       ]
     },
     {
@@ -1347,6 +2412,548 @@
       ]
     },
     {
+      "id": "9adb8c821990",
+      "title": "Associate Director, Customer Experience Measurements & Insights",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804254131?se=5lnM9X2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=638f9cc6&v=99920C9760B24B822FBDB17FA1B0B7F01B15AE97",
+      "posted": "2026-07-16",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "047e863a276d",
+      "title": "Associate Director, Customer Experience Measurements & Insights",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804254131?se=NJqj_n2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=99920C9760B24B822FBDB17FA1B0B7F01B15AE97",
+      "posted": "2026-07-16",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "485b6774dbd6",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Cedar, Cole County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804265453?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=DF5FC5ED7B1CCD4C9CCBD47E8AD90000B489C058",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "df081b9229d5",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Trenton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804265163?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=49922B73C4EFCB07D6AAF766675AC29FD3B24F63",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e79b24e5a05a",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Frankfort, Franklin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804263302?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=5F028216A8B575D118D3481C7CB86190EE6D8273",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9bf3f0bf3f73",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Topeka, Shawnee County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804261824?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=E8FE59C77D3B2971656FDC41032A0AD884055115",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9b9ba511778b",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Jackson, Hinds County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804259062?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=343104A7B525775DC8AC9D74436655623F81A806",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2f5d24360aa1",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Carson Mall, Carson City",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804258346?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=9730FE1BA4C0E19E9607765DD0CD6D304EE56E3B",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e4ecb51498b3",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "State House, Lancaster County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804257560?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=C320367C3AA04236BD7567644187D4DA021C6367",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c7754431a3c0",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Pierre, Hughes County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804257442?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=73D4B4025AA1A194C43DB8CEA93FA238EC474B4E",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b33853ade58c",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Concord, Merrimack County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804257329?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=5BEA54D0808CFDB7E94A6884F29A7A2B3F566F44",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a37ff3b09c43",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Providence, Providence County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804256426?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=502FF9E96B83CFD4955B4BFE316FE23B5E370086",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9257a39706a3",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Washington, D.C., US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804249423?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=186D209E7077327EAF84B59378C95A1F80270BBC",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "5026716c076b",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Bismarck, Burleigh County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804249118?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=76434E7EC119A740018C6934FC80D0D14414F8FD",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "61000ed0c197",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Boise, Ada County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804248847?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=9E0A7802B6643B3CB25AE492298EEBE28D5B8951",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "86f2c05d479c",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Wyoming, Kent County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804248765?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=4CC38EC2C2F6475ED82815314FA45B31B40F7D02",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "5fdecbe866eb",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Urbanizaci\u00f3n El Vedado, San Juan",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804247154?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=F17E769DA7BFE8606E7A2F232F5E9821F476B53B",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9c46bb28cccf",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Mongmong, Mongmong-Toto-Maite",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804246123?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=260DA77A00B5A73CBDF8182DEFEA1FC50C1EA436",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "34944a0cc9b3",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Archer, Laramie County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804244541?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=97B91E90BD70B29A9B4DB9C504811E4F0CEB7837",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "35185417b6e9",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Grandview Heights, Franklin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804236984?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=74145AFF1D0172A997791DA19BE7D3E2D00CABF9",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ecc9a75c72d2",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804233493?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=A702DDE203B85560C17786BF24A6A8F0A760232C",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d6f258432b9e",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Five Points, Wake County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804231639?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=F12EC6B91F3677993D75A335F40C66B9F56BE4CB",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "0f80b1c86918",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Nashville, Davidson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804230535?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=6E9FEADC0947A5D18AAEC8CA3A56A0DF2C181ACF",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9c919382a9aa",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Boston, Suffolk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804228448?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=ECA6E8B2DD8A50E0F88195D928211C2A8893DB39",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b69fe7a76899",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Lansing, Ingham County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804228303?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=ADC6DF766230C7D338FBBA3BEF4FFEA0E8FC3DC6",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c66b3ec14766",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Warren, Macomb County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804228297?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=0DC185713A241695711612DE75BEE58F23EEF163",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "57ca41744bb8",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Glendale, Denver",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804227186?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=E0736A372D1AB9DE2022E534018DAC7F62031C11",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9f0ca5ddb8cb",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Phoenix, Maricopa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804226063?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=CF95B97B850C26AD70E76F8E8A16F4A96B428D9C",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "94e7cdcdcf2c",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Saint Paul, Ramsey County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804224907?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=A91B6116ED1982370D9CB40722597AD3495999F1",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "5d6de6338c81",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Chisolm, Montgomery County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804223654?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=12EDADADD3089E6A674CAAAC380AD3A3EFB2BCCF",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7350e0f7ba0d",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Baton Rouge, East Baton Rouge Parish",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804221478?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=381078BB4EB4549F80B9EEB07A1D5E588034C559",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "fcdc276757a6",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Oklahoma City, Oklahoma County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804217378?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=2C267A9A0EBA68B9AAE8515C665DCB405906D9BA",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "188c712a3545",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Salem, Marion County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804215850?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=8E6F5E5E35D63524067CC10E6DF7F69E07A56A5E",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "649c59187f70",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Ny State Campus, Albany County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804214266?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=58E7D3DFC428ED172E514FE69C540E96CB007CBC",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "aa1c54be45f9",
+      "title": "Lead, GM Energy CX Transformation - Care Operations",
+      "company": "General Motors",
+      "location": "Talcott Village, Hartford County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804213237?se=DjolA36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=94860AB3C01CE30805AC4E68EB694777E84BAE09",
+      "posted": "2026-07-16",
+      "description": "Job Description The GM Energy Customer Experience (CX) Transformation team serves as the center of expertise and champion of the end-to-end GM Energy customer journey. We connect voice of the customer, operational performance, and experience design to deliver consistent, frictionless experience across products, channels, and partners. The Lead, GM Energy CX Transformation - Care Operations is responsible for transforming and continuously improving GM Energy Care operations in service of the bro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "32f9ba79ee1e",
+      "title": "Head of Customer Experience",
+      "company": "Olympus Recruitment",
+      "location": "Manchester, Greater Manchester",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5803005243?se=XJiUD36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=041737584D894DDB4A4FDF694D3A8F1AF8E1302E",
+      "posted": "2026-07-16",
+      "description": "Head of Customer Experience Location: Hybrid Salary: \u00a370,000  Excellent Benefits Hours: Full Time (37.5 hours per week) Shape the Customer Experience Strategy for a Growing National Organisation An exciting opportunity has arisen for an experienced customer experience leader to join a large, multi-site organisation during a period of significant growth and transformation. We're looking for a strategic and commercially minded Head of Customer Experience to lead the development of an end-to-end c\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "4033e04a957b",
       "title": "Program Manager, Customer Experience (WOW Programs)",
       "company": "Chewy",
@@ -1628,7 +3235,7 @@
       "remote": false,
       "url": "https://www.adzuna.com/details/5802001920?utm_medium=api&utm_source=638f9cc6",
       "posted": "2026-07-15",
-      "description": "Program Manager, Culture & Employee Experience, PTx Date: Jul 2, 2026 Req ID: 104264 Location: Tremont, IL, USBatavia, IL, USWestminster, CO, US Employment Duration: PTx Workplace Type: Onsite Not everyone can claim to feed the world, but it is part of our every day. Behind everything we do for our farmers, there is one AGCO team making it happen. We are proud to put our curiosity to work, building a better and more sustainable world. Join our extraordinary team today! The Global Program Manage\u2026",
+      "description": "Program Manager, Culture & Employee Experience, PTx Date: Jul 2, 2026 Req ID: 104264 Location: Tremont, IL, USWestminster, CO, USBatavia, IL, US Employment Duration: PTx Workplace Type: Onsite Not everyone can claim to feed the world, but it is part of our every day. Behind everything we do for our farmers, there is one AGCO team making it happen. We are proud to put our curiosity to work, building a better and more sustainable world. Join our extraordinary team today! The Global Program Manage\u2026",
       "source": "adzuna",
       "country": "US",
       "tags": [
@@ -2026,6 +3633,160 @@
       "location": "Princeton, Mercer County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5802159298?se=pmKQTreB8RGtkPw-jY9-8Q&utm_medium=api&utm_source=638f9cc6&v=34A6047E3A422AC09B71652E6ABEFCF62BCD7ED9",
+      "posted": "2026-07-15",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "cc6e7d99ff92",
+      "title": "Director, Customer Experience, Patient Access Liaison Field Team, Neuroscience Commercialization",
+      "company": "Bristol Myers Squibb",
+      "location": "Lawrence, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5802159346?se=5lnM9X2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=638f9cc6&v=9F0B9B2EE8D5502C1CFDC4F26296FF46DF71EBD8",
+      "posted": "2026-07-15",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "27a2916a3961",
+      "title": "Director, Semiconductor Customer Experience Vertical",
+      "company": "ThermoFisher Scientific",
+      "location": "Orenco, Washington County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5802127312?se=5lnM9X2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=638f9cc6&v=DC471B46CE3344B1581CFE4CBFB88B9197C83B38",
+      "posted": "2026-07-15",
+      "description": "Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description As part of the Thermo Fisher Scientific team, you'll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life every single day to enable our customers to make the world healthier, cleaner and safer. We provide our global teams with the resources needed to achieve individual career goals while helping to take science a step beyond by developing solu\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "864bad51c59e",
+      "title": "Director, Semiconductor Customer Experience Vertical",
+      "company": "ThermoFisher Scientific",
+      "location": "SoMa, San Francisco",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5801939544?se=5lnM9X2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=638f9cc6&v=2EF1F3C19D714EFAA36EF172906D4DD1AD9459B8",
+      "posted": "2026-07-15",
+      "description": "Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description As part of the Thermo Fisher Scientific team, you'll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life every single day to enable our customers to make the world healthier, cleaner and safer. We provide our global teams with the resources needed to achieve individual career goals while helping to take science a step beyond by developing solu\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "fc6cc27dd2b1",
+      "title": "Senior Customer Experience Analyst",
+      "company": "Pilot Thomas Logistics",
+      "location": "Boston, Suffolk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5801046273?se=5lnM9X2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=638f9cc6&v=6508F9E168C7485EDFBAA8DEED52061BEE5D10C3",
+      "posted": "2026-07-15",
+      "description": "Our world is transforming, and PTC is leading the way. Our software brings the physical and digital worlds together, enabling companies to improve operations, create better products, and empower people in all aspects of their business. Our people make all the difference in our success. Today, we are a global team of nearly 7,000 and our main objective is to create opportunities for our team members to explore, learn, and grow \u2013 all while seeing their ideas come to life and celebrating the diffe\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c73f07d44faa",
+      "title": "Senior Customer Experience Analyst",
+      "company": "Pilot Thomas Logistics",
+      "location": "Boston, Suffolk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5801046273?se=Jhux9n2C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=6508F9E168C7485EDFBAA8DEED52061BEE5D10C3",
+      "posted": "2026-07-15",
+      "description": "Our world is transforming, and PTC is leading the way. Our software brings the physical and digital worlds together, enabling companies to improve operations, create better products, and empower people in all aspects of their business. Our people make all the difference in our success. Today, we are a global team of nearly 7,000 and our main objective is to create opportunities for our team members to explore, learn, and grow \u2013 all while seeing their ideas come to life and celebrating the diffe\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "3c7dc3f2ae4b",
+      "title": "Program Manager, Culture & Employee Experience, PTx",
+      "company": "AGCO Corporation",
+      "location": "Westminster, Adams County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5802112541?se=umlI-n2C8RG64bpm-6Bw6w&utm_medium=api&utm_source=638f9cc6&v=BFA3DA95C963622931BCB4A46A956716D7ADF562",
+      "posted": "2026-07-15",
+      "description": "Program Manager, Culture & Employee Experience, PTx Date: Jul 2, 2026 Req ID: 104264 Location: Tremont, IL, USWestminster, CO, USBatavia, IL, US Employment Duration: PTx Workplace Type: Onsite Not everyone can claim to feed the world, but it is part of our every day. Behind everything we do for our farmers, there is one AGCO team making it happen. We are proud to put our curiosity to work, building a better and more sustainable world. Join our extraordinary team today! The Global Program Manage\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "4224ede0eca5",
+      "title": "Director, Customer Insights & Engagement- Thoracic",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5802159359?se=NJqj_n2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=253D804DF161B02BA11CEF3F8EE845444341F2BD",
+      "posted": "2026-07-15",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "5a7f75633fa6",
+      "title": "Director, Customer Insights & Engagement- Immunology",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5802159298?se=NJqj_n2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=34A6047E3A422AC09B71652E6ABEFCF62BCD7ED9",
+      "posted": "2026-07-15",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "c0d4c934fb0c",
+      "title": "Associate Director, Customer Insights & Engagement, Melanoma, GU",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5802159314?se=NJqj_n2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=8D10C153A2F099FC9ABD494DC3FD8280059E37D2",
+      "posted": "2026-07-15",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "927eaac98e19",
+      "title": "Associate Director, Customer Insights & Engagement - Cell Therapy Analytics",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5802159368?se=NJqj_n2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=D891DAB75FE9AAEE7A7D880DB0B49BC21B0941CE",
       "posted": "2026-07-15",
       "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
       "source": "adzuna",
@@ -2625,6 +4386,83 @@
       "location": "Manchester, Greater Manchester",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5799937002?se=Ji-5YLeB8RGuXZiVwx-Xkw&utm_medium=api&utm_source=638f9cc6&v=4844BDF76ECD161BDEE1E8D0035420A41F5DA44A",
+      "posted": "2026-07-14",
+      "description": "SAP SuccessFactors & People Systems Manager South Manchester/Cheshire \u2013 1 day on site per week Full-time, Permanent Competitive salary plus benefits Medlock Partners are partnering with a leading organisation to recruit an experienced SAP SuccessFactors & People Systems Manager to lead the ongoing development, support and optimisation of its HR technology landscape. Managing a small specialist team, you'll take ownership of SAP SuccessFactors and associated people systems, ensuring they deliver\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "8be15a7d2fc6",
+      "title": "Customer Experience Analyst",
+      "company": "BUUK Infrastructure",
+      "location": "Borley Green, Woolpit",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5799307297?se=QuTdDH6C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=CCC0C9D472FF76C9F1B0B8483F765F68FC39D59B",
+      "posted": "2026-07-14",
+      "description": "At BUUK Infrastructure, our vision is to be the leading utility partner to accelerate the UK towards net zero for all our customers. Our group of companies has been the major drive for change and innovation over 30 years. We provide a supportive environment that is committed to enabling our people to be the best ensuring they feel proud to be themselves and part of BUUK Infrastructure. We are looking for Customer Experience Analyst who would like to help us reach our mission to earn customer lo\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "34c70982e553",
+      "title": "Senior Customer Insights Manager",
+      "company": "OpenSourced Ltd",
+      "location": "Woking, Surrey",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5799938903?se=XJiUD36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=05C51BD59AC772605608CE67189E09D67B65F488",
+      "posted": "2026-07-14",
+      "description": "Senior Customer Insights Manager Salary: \u00a375,000 \u2013 \u00a390,000  bonus  benefits Location: Hybrid (UK-based, multi-market remit) Are you ready to own a multi-market analytics platform used across 12 countries? Do you want to shape predictive pricing and promotional strategy at scale? Looking for real commercial influence \u2014 not just reporting? We are hiring a Senior Customer Insights Manager to lead Shopper & Revenue Growth Management (RGM) insight within a global blue-chip FMCG environment. The Role\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "d0f19f1b7782",
+      "title": "Customer Experience Manager",
+      "company": "MPJ Recruitment Ltd",
+      "location": "Birmingham, West Midlands",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5799936924?se=XJiUD36C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=C9DF4E552C5619D0196CF7D500E8395D733409E1",
+      "posted": "2026-07-14",
+      "description": "Customer Experience Manager Location: Birmingham Salary: \u00a335,000 - \u00a342,000 per annum Job Type: Full-Time | Permanent Shape the Future of Customer Experience Are you passionate about delivering exceptional customer experiences and driving continuous improvement? Do you thrive on using customer insight to influence change and improve business performance? We're looking for an experienced Customer Experience Manager to lead the development and delivery of a customer-focused strategy, ensuring ever\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c85f149a406e",
+      "title": "Employee Experience Specialist",
+      "company": "Michael Page HR",
+      "location": "Liverpool, Merseyside",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5799932230?se=AtVUEn6C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=FE6115E7A800B3B5F274BBB3550AE15F2EA6C930",
+      "posted": "2026-07-14",
+      "description": "Shape the people, culture, engagement and inclusion agenda across a high-profile organisation. Lead strategic OD and people projects with significant autonomy and senior stakeholder exposure. Client Details Our client is a well-established and highly regarded organisation within a customer-focused, people-centric environment. With an ambitious people agenda and significant investment in its People function, the organisation is focused on strengthening culture, engagement, organisational effecti\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "6016f601d144",
+      "title": "SAP SuccessFactors & People Analytics Manager",
+      "company": "Medlock Partners Limited",
+      "location": "Manchester, Greater Manchester",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5799937002?se=wDD6Fn6C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=4844BDF76ECD161BDEE1E8D0035420A41F5DA44A",
       "posted": "2026-07-14",
       "description": "SAP SuccessFactors & People Systems Manager South Manchester/Cheshire \u2013 1 day on site per week Full-time, Permanent Competitive salary plus benefits Medlock Partners are partnering with a leading organisation to recruit an experienced SAP SuccessFactors & People Systems Manager to lead the ongoing development, support and optimisation of its HR technology landscape. Managing a small specialist team, you'll take ownership of SAP SuccessFactors and associated people systems, ensuring they deliver\u2026",
       "source": "adzuna",
@@ -4181,7 +6019,7 @@
     {
       "id": "f4aa7c0eef7c",
       "title": "Customer Experience Insight Analyst",
-      "company": "Nationwide Building Society",
+      "company": "Nationwide",
       "location": "Hillhead, Glasgow City Centre",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/details/5797955967?utm_medium=api&utm_source=638f9cc6",
@@ -6715,6 +8553,22 @@
       ]
     },
     {
+      "id": "b0427e71685b",
+      "title": "Associate Director, Customer Insights - New Products",
+      "company": "Regeneron Pharmaceuticals",
+      "location": "Sleepy Hollow, Westchester County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5797539516?se=NJqj_n2C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=3F0D4ADCDDB4C45D6E2293126F19A4BDE377819F",
+      "posted": "2026-07-11",
+      "description": "Build our future together: At Regeneron, we use science and innovation to develop life-changing medicines for people with serious diseases. We are seeking an Associate Director to join our Insights & Analytics New Products team. This position offers the opportunity to contribute to a fast-growing, science-driven organization making a meaningful difference to patients worldwide. The Associate Director, Customer Insights - New Products, will report into the Executive Director, I&A (New Products),\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
       "id": "cab321e05049",
       "title": "Customer Service Representative- Customer Experience",
       "company": "Plymouth Tube",
@@ -8614,6 +10468,21 @@
       ]
     },
     {
+      "id": "6b052225d78d",
+      "title": "Analyst, Online Customer Experience (18 month contract)",
+      "company": "The Home Depot Canada",
+      "location": "Toronto, Ontario",
+      "remote": false,
+      "url": "https://www.adzuna.ca/land/ad/5794397471?se=fAdQGn6C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=F996A154F2E6D14B635C453CD4679539D61FB965",
+      "posted": "2026-07-09",
+      "description": "Job Description Pay Range: $60,000 - $90,000 At The Home Depot Canada, we want you to feel valued and supported. The pay range you see represents base salary only. In addition, your total rewards may include: semi-annual bonuses tied to business performance; Deferred Profit-Sharing Program to assist with retirement savings; comprehensive paid benefits; a 15% discount on Home Depot stock purchases; and merit-based salary increases. We are committed to recognizing your efforts and supporting your\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "e91d14e63661",
       "title": "Pro Experience Manager",
       "company": "Home Depot",
@@ -9221,6 +11090,22 @@
       "location": "Rusholme, Manchester",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5792544113?se=Ji-5YLeB8RGuXZiVwx-Xkw&utm_medium=api&utm_source=638f9cc6&v=EB08F5E23E0E14B2395CB8211550609CFD8FC05F",
+      "posted": "2026-07-08",
+      "description": "SAP SuccessFactors & People Systems Manager * South Manchester/Cheshire \u2013 1 day on site per week * Full-time, Permanent * Competitive salary plus benefits Medlock Partners are partnering with a leading organisation to recruit an experienced SAP SuccessFactors & People Systems Manager to lead the ongoing development, support and optimisation of its HR technology landscape. Managing a small specialist team, you'll take ownership of SAP SuccessFactors and associated people systems, ensuring they d\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "9a8b825ccdac",
+      "title": "SAP SuccessFactors & People Analytics Manager",
+      "company": "Medlock Partners Ltd",
+      "location": "Rusholme, Manchester",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792544113?se=wDD6Fn6C8RGF5LNal_k3gA&utm_medium=api&utm_source=638f9cc6&v=EB08F5E23E0E14B2395CB8211550609CFD8FC05F",
       "posted": "2026-07-08",
       "description": "SAP SuccessFactors & People Systems Manager * South Manchester/Cheshire \u2013 1 day on site per week * Full-time, Permanent * Competitive salary plus benefits Medlock Partners are partnering with a leading organisation to recruit an experienced SAP SuccessFactors & People Systems Manager to lead the ongoing development, support and optimisation of its HR technology landscape. Managing a small specialist team, you'll take ownership of SAP SuccessFactors and associated people systems, ensuring they d\u2026",
       "source": "adzuna",
@@ -9933,6 +11818,36 @@
       "location": "Lands End, Twyford",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5791203038?se=hqxMWbeB8RGGb8qpyTf_lw&utm_medium=api&utm_source=638f9cc6&v=5309E557F6C19CC397A6AC05615CEA5EFEBC535B",
+      "posted": "2026-07-07",
+      "description": "Key Relationships CEO, Customer Experience & Growth Director, Operations & Estates Director, People & Talent Director, Regional Operations Directors, GMs and HoDs. Frequent travel to clubs. About The Club Company TCC is the UK's leading owner and operator of premium country clubs, with a portfolio of outstanding golf, health & wellness and hospitality destinations across England. Our clubs combine golf",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "efa6efcebe66",
+      "title": "Data Analyst IV (Customer Experience and Support Analyst)",
+      "company": "BCforward",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5791309297?se=Jhux9n2C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=9CFF22DB933D06C1D58D78A58913188559A19AED",
+      "posted": "2026-07-07",
+      "description": "Job Title: Data Analyst IV (Customer Experience and Support Analyst) Location: Remote (PST or CST Preferred) Duration: Contract - 12 months Pay Range: $59/hr $67/hr (W2) Job ID: 406693 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across Nor\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "05eca235a730",
+      "title": "Group Customer Experience Coach",
+      "company": "The Club Company  Ltd",
+      "location": "Lands End, Twyford",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5791203038?se=YtdmDH6C8RG64bpm-6Bw6w&utm_medium=api&utm_source=638f9cc6&v=5309E557F6C19CC397A6AC05615CEA5EFEBC535B",
       "posted": "2026-07-07",
       "description": "Key Relationships CEO, Customer Experience & Growth Director, Operations & Estates Director, People & Talent Director, Regional Operations Directors, GMs and HoDs. Frequent travel to clubs. About The Club Company TCC is the UK's leading owner and operator of premium country clubs, with a portfolio of outstanding golf, health & wellness and hospitality destinations across England. Our clubs combine golf",
       "source": "adzuna",
@@ -11884,6 +13799,22 @@
       ]
     },
     {
+      "id": "de6f50c8a6c1",
+      "title": "Senior Manager, People Analytics, Insights and AI",
+      "company": "BD ",
+      "location": "Franklin Lakes, Bergen County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5788701770?se=yC-c_32C8RG64bpm-6Bw6w&utm_medium=api&utm_source=638f9cc6&v=A446020DC72EDBDAE84DD69DFB755D2C459A18F6",
+      "posted": "2026-07-04",
+      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health is our Purpose, and it's no small feat. It takes the imagination and passion of all of us-from design and engineering to the manufacturing and marketing of our billions of MedTech products per year-to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description Summary: The Senior Manager of Peo\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
       "id": "ed5893a18182",
       "title": "Enterprise Customer Experience Program Manager",
       "company": "Rockwell Automation",
@@ -12270,7 +14201,7 @@
       "remote": false,
       "url": "https://www.adzuna.com/details/5787403830?utm_medium=api&utm_source=638f9cc6",
       "posted": "2026-07-03",
-      "description": "Program Manager, Culture & Employee Experience, PTx Date: Jul 2, 2026 Req ID: 104264 Location: Tremont, IL, USBatavia, IL, USWestminster, CO, US Employment Duration: PTx Workplace Type: Onsite Not everyone can claim to feed the world, but it is part of our every day. Behind everything we do for our farmers, there is one AGCO team making it happen. We are proud to put our curiosity to work, building a better and more sustainable world. Join our extraordinary team today! The Global Program Manage\u2026",
+      "description": "Program Manager, Culture & Employee Experience, PTx Date: Jul 2, 2026 Req ID: 104264 Location: Tremont, IL, USWestminster, CO, USBatavia, IL, US Employment Duration: PTx Workplace Type: Onsite Not everyone can claim to feed the world, but it is part of our every day. Behind everything we do for our farmers, there is one AGCO team making it happen. We are proud to put our curiosity to work, building a better and more sustainable world. Join our extraordinary team today! The Global Program Manage\u2026",
       "source": "adzuna",
       "country": "US",
       "tags": [
@@ -14275,6 +16206,21 @@
       "location": "Northlake, DeKalb County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5784327603?se=OG40U7eB8RGuXZiVwx-Xkw&utm_medium=api&utm_source=638f9cc6&v=53DD3507BCB3C3F17BFE2B62416225651E69F448",
+      "posted": "2026-07-01",
+      "description": "CAPGEMINI SERVICE INC Location This is a hybrid role based in one of the preferred locations - Atlanta, GA / New York, NY / Bridgewater, NJ / Chicago, IL / Dallas, TX / San Francisco, CA. About the job you re considering As a Gemini Enterprise Customer Experience (CX) Solution Lead, you will lead the technical strategy, solution architecture, and execution alignment for AI-powered CX transformations. You will be responsible for designing scalable architectures, securing technical wins, and ensu\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2302a77c0467",
+      "title": "Customer Experience (CX) Solution Architect - Google Cloud (Gemini Enterprise)",
+      "company": "Capgemini America, Inc.",
+      "location": "Northlake, DeKalb County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5784327603?se=oirVBX6C8RGLa6z5xlq37Q&utm_medium=api&utm_source=638f9cc6&v=53DD3507BCB3C3F17BFE2B62416225651E69F448",
       "posted": "2026-07-01",
       "description": "CAPGEMINI SERVICE INC Location This is a hybrid role based in one of the preferred locations - Atlanta, GA / New York, NY / Bridgewater, NJ / Chicago, IL / Dallas, TX / San Francisco, CA. About the job you re considering As a Gemini Enterprise Customer Experience (CX) Solution Lead, you will lead the technical strategy, solution architecture, and execution alignment for AI-powered CX transformations. You will be responsible for designing scalable architectures, securing technical wins, and ensu\u2026",
       "source": "adzuna",
@@ -23188,804 +25134,6 @@
       "tags": [
         "ex",
         "insights"
-      ]
-    },
-    {
-      "id": "d19e52453092",
-      "title": "Customer Experience Manager",
-      "company": "Frontline Retail WA",
-      "location": "Leederville, Vincent Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5765631768?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Global Luxury Bridal Showroom! $80k Base Salary  Uncapped Commissions  Incentives! Inspirational Training in the USA with ongoing Development & Support! Our client is a global luxury retailer renowned for exceptional customer experiences within a beautifully designed boutique in the heart of Leederville . Known for personalised styling, attention to detail and making every client feel valued, the brand has built a strong presence in the high-end market. Supported by a passionate team and intern\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "78a5af132799",
-      "title": "People Experience Lead",
-      "company": "921 Pfizer Australia Pty Ltd",
-      "location": "Ashwood, Monash Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5765632557?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Use Your Power for Purpose At Pfizer, the People Experience (PX) division is at the heart of our mission to improve patients' lives. Your unique perspectives and experiences will help us challenge the status quo and create space for meaningful work. Whether you are supporting our colleagues directly or working behind the scenes, your contributions will be vital in making Pfizer a place where everyone can thrive. What You Will Achieve In this role, you will: Serve as the People Experience (PX) L\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "69cf2e412c32",
-      "title": "Customer Experience Advocate",
-      "company": "Bayside Group",
-      "location": "Rhodes, Canada Bay Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5765634042?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Customer Experience Advocate Our client Chery Motor Australia is a global automotive manufacturer of both EV and ICT powered motor vehicles and is one of the world\u2019s largest exporters. Inspired by design combined with advanced technology they have secured thousands of new component patents, forging their reputation as a global leader in independent innovation and engineering. With market expansion continuing to grow beyond forecast, they have an immediate requirement for a Customer Experience A\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5399f14f60d3",
-      "title": "Customer Experience Specialist - West Coast",
-      "company": "The Shade Store",
-      "location": "Fairmont, Los Angeles County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5766921449?se=KMcXoXJq8RGJEN9EejDKcQ&utm_medium=api&utm_source=638f9cc6&v=E27593EC3FB5F83CD99603C4192EBF8A88CA01C1",
-      "posted": "2026-06-17",
-      "description": "Title: Customer Experience Specialist Location: Santa Monica, CA Compensation: $60,000.00 - $65,000.00/year The Shade Store will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance. ABOUT THE SHADE STORE\u00ae At The Shade Store, we have handcrafted the finest Shades, Blinds and Drapery for 75 years. We \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "82562986a649",
-      "title": "Part Time Customer Service Experience Manager",
-      "company": "Michaels Stores",
-      "location": "Wilton, Fairfield County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5766920932?se=KMcXoXJq8RGJEN9EejDKcQ&utm_medium=api&utm_source=638f9cc6&v=E9A3B485E4E82ACA58FCBA3DC7BB7A647F7269EC",
-      "posted": "2026-06-17",
-      "description": "Store - WILTON, CT Deliver a customer centric shopping experience by managing and delivering effective front-end operations and expectations. Lead the omnichannel processes. Maintain store recovery standards to deliver our Brand Promises. Deliver friendly customer service. Assist Store Manager in leading and managing adherence to Standard Operating Procedures (SOPs) and Company programs to ensure compliance with applicable laws and requirements; ensure execution of Company policies and standard\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "f44154c8f79a",
-      "title": "Director of Customer Experience",
-      "company": "Laboratory Sciences of Arizona",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5766571308?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Primary City/State: Phoenix, Arizona Department Name: Commericial Admin-Ref Lab Work Shift: Day Job Category: Administrative Services Shape how customers experience Sonora Quest Labs at every touch point. This role blends strategy, data, and cross-functional leadership to drive consistent, high-quality customer experiences with measurable impact. Through your vision and collaboration with multiple departments, stakeholders, and the Senior Leadership Team, you\u2019ll build the framework for us to de\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5cf2f8c93f68",
-      "title": "Customer Experience Lead",
-      "company": "Saks",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5766472984?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Salary Range $20.31 - $25.39* Job Description: WHO WE ARE: Saks OFF 5TH is a leading destination for luxury off-price fashion. In our stores across the U.S. and online at SaksOFF5TH.com, we offer a compelling assortment of high-end designers and everyday favorites at the best prices. We prioritize a digital-first operating model focused on delivering a superior customer experience. We lead with the customer, empower our team and drive accountability within the business. We welcome creativity an\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "40f4d1c6219a",
-      "title": "Director of Digital Customer Experience & AI",
-      "company": "Banyan Software",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5766397173?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Banyan Software is the best permanent home for software businesses that serve specialized industries, their employees, and their customers. We are on a mission to acquire, build, and grow great companies worldwide, helping them modernize through shared AI expertise and operational discipline. The Banyan Software Foundation, endowed with $100 million in Banyan stock, leverages technology to build a greener and more equitable world. Banyan is Great Place to Work Certified, a five-time Inc. 5000 h\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "8aed366b72bc",
-      "title": "User Experience Director",
-      "company": "Home Depot",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5766316202?se=MN0MonJq8RGNlJLvgglOgg&utm_medium=api&utm_source=638f9cc6&v=496FEA7516FB611F40365EDB1AAD4F44AB1CEDA1",
-      "posted": "2026-06-17",
-      "description": "With a career at The Home Depot, you can be yourself and also be part of something bigger. Position Purpose: The User Experience Director for Customer Experience Design will leverage their background in design thinking, facilitation, research, and strategy to lead the creation of interconnected customer-centric strategies. This person will lead a team and be hands-on in collecting and leveraging qualitative and quantitative insights to inform and influence product, engineering, and business lea\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "7f87c48e1478",
-      "title": "Data Analyst V - CX or VoC",
-      "company": "BC Forward",
-      "location": "Indianapolis, Marion County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5766512470?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Job Title: Data Analyst V - CX or VoC Location: Remote Duration: Contract - 12 months Pay Range: $58/hr - $65/hr on W2 Job ID: 374024 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across North America and India, we take pride in building lon\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "61a1cf4fbeca",
-      "title": "Customer Experience Ambassador",
-      "company": "Cushman & Wakefield",
-      "location": "Norwalk, Fairfield County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5766673908?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Job Title Customer Experience Ambassador Job Description Summary The Customer Experience Ambassador plays a vital role in ensuring the seamless and timely execution of all tasks related to Workspace Services. Your primary objective is to cultivate a productive and well-organized work environment that aligns with the broader objectives of our client. Operating from their HQ office in Norwalk, your role is pivotal in supporting day-to-day on-site operations and addressing local business needs. As\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "94bb6b565ba7",
-      "title": "User Experience Director",
-      "company": "Home Depot",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5766316202?se=zI3hqHJq8RGJEN9EejDKcQ&utm_medium=api&utm_source=638f9cc6&v=496FEA7516FB611F40365EDB1AAD4F44AB1CEDA1",
-      "posted": "2026-06-17",
-      "description": "With a career at The Home Depot, you can be yourself and also be part of something bigger. Position Purpose: The User Experience Director for Customer Experience Design will leverage their background in design thinking, facilitation, research, and strategy to lead the creation of interconnected customer-centric strategies. This person will lead a team and be hands-on in collecting and leveraging qualitative and quantitative insights to inform and influence product, engineering, and business lea\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "4506d52f7f48",
-      "title": "Director, Customer Insights",
-      "company": "Zydus Therapeutics",
-      "location": "Pennington, Mercer County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5766479953?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Full-time Description COMPANY SUMMARY Zydus Therapeutics is a clinical-stage, specialty-focused bio-pharmaceutical company dedicated to developing transformative treatments for rare and serious liver diseases. Our lead drug candidate, Saroglitazar, is a dual PPAR alpha / gamma agonist that has received FDA Fast Track and Orphan Drug designations for the treatment of Primary Biliary Cholangitis (PBC). As a subsidiary of Zydus Lifesciences, we leverage a global network of 1,300 researchers to unl\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "b71ec5bf7aef",
-      "title": "Customer Experience Operations Supervisor",
-      "company": "TTEC",
-      "location": "Melbourne, Brevard County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5766520380?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Position Summary The Customer Experience Operations Supervisor is responsible for the supervision of the Customer Experience teams and provides support for operational initiatives, which include identifying process improvement initiatives, analysis of call and escalation data, identification of workforce gaps and resolution, and presenting recommended action plans to the Sr. Operations Manager based upon research performed. Additionally, the Customer Experience Operations Supervisor partners wi\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "4cc823ae531a",
-      "title": "Senior Data Analyst, People Analytics",
-      "company": "Avispa Technology",
-      "location": "Meadows, Hudson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5766313079?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Senior Data Analyst, People Analytics Hourly pay: $50-$55 /hr Worksite: Leading music streaming company (Remote - open for candidates located in the United States) W2 Employment, Group Medical, Dental, Vision, Life, Retirement Savings Program, PSL 40 hours/week, 6 Month Assignment A leading music streaming company seeks a Senior Data Analyst, People Analytics to support HR reporting, analytics, and compliance initiatives by maintaining data integrity, delivering actionable insights, and ensurin\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "2597bcb49edb",
-      "title": "Lead Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Cowley, Uxbridge",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5766873309?se=XrOQtXJq8RG3duye76zZMg&utm_medium=api&utm_source=638f9cc6&v=52485709AE8698108CDBCDF230719A3F4D1AF8BA",
-      "posted": "2026-06-17",
-      "description": "Description What you\u2019ll be doing: Lead a team of managers to make sure every single one of our customers has a great experience in store everywhere from the checkouts to the petrol station. Planning for upcoming key trading activity and events by working closely with the rest of the store leadership team Regularly taking full accountability for the store in the absence of a store manager, role modelling and coaching for high standards and efficiency across the store. Running operations at our c\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "3aec9aefbe11",
-      "title": "Customer Experience Coordinator",
-      "company": "Owen Daniels",
-      "location": "Saul, Gloucester",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5766742764?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Are you looking to build your career within a customer-focused role in a growing and ambitious organisation? We are working with a market-leading UK business who are seeking a Customer Experience Coordinator to join their team on a permanent basis. This is a fantastic opportunity for someone who thrives in a fast-paced environment, enjoys working cross-functionally, and is passionate about delivering an excellent customer journey from order to delivery. Customer Experience Coordinator Permanent\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "608da99b183a",
-      "title": "Customer Experience Coordinator",
-      "company": "Owen Daniels",
-      "location": "Gloucester, Gloucestershire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5766712900?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Are you looking to build your career within a customer-focused role in a growing and ambitious organisation? We are working with a market-leading UK business who are seeking a Customer Experience Coordinator to join their team on a permanent basis. This is a fantastic opportunity for someone who thrives in a fast-paced environment, enjoys working cross-functionally, and is passionate about delivering an excellent customer journey from order to delivery. Customer Experience Coordinator Permanent\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "06e6ac305598",
-      "title": "Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Hazel Grove, Stockport",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5766653181?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a3149cd1735e",
-      "title": "Customer Feedback & Insight Facilitator",
-      "company": "Newport City Homes",
-      "location": "Newport, Wales",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5766925078?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Vacancy: Customer Feedback & Insight Facilitator Contract: 7 months FTC Closing date: Tuesday 30 June Shortlisting: Friday 3 June Proposed Interview date: w/c 6 July Salary: \u00a329,588.35 About the vacancy: Join our Homes & Communities team as a Customer Feedback & Insight Facilitator , where your work will directly influence how services are designed and delivered. With customers at the heart of everything we do, you'll engage with a diverse community to gather meaningful feedback, turning insigh\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5dd87ea3e341",
-      "title": "Lead Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Cowley, Uxbridge",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5766873309?se=np5Ft3Jq8RGNlJLvgglOgg&utm_medium=api&utm_source=638f9cc6&v=52485709AE8698108CDBCDF230719A3F4D1AF8BA",
-      "posted": "2026-06-17",
-      "description": "Description What you\u2019ll be doing: Lead a team of managers to make sure every single one of our customers has a great experience in store everywhere from the checkouts to the petrol station. Planning for upcoming key trading activity and events by working closely with the rest of the store leadership team Regularly taking full accountability for the store in the absence of a store manager, role modelling and coaching for high standards and efficiency across the store. Running operations at our c\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "bf5999b939a8",
-      "title": "Lead Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Uxbridge, London",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5766653110?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "What you'll be doing: Lead a team of managers to make sure every single one of our customers has a great experience in store everywhere from the checkouts to the petrol station. Planning for upcoming key trading activity and events by working closely with the rest of the store leadership team Regularly taking full accountability for the store in the absence of a store manager, role modelling and coaching for high standards and efficiency across the store. Running operations at our checkout area\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "0e959d42bd57",
-      "title": "Customer Insights Manager",
-      "company": "WASABI CO. LTD",
-      "location": "North West London, London",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5766300153?se=1qi6uXJq8RGNlJLvgglOgg&utm_medium=api&utm_source=638f9cc6&v=A243C4E2A43679C5C152379F7FA694AC707136EA",
-      "posted": "2026-06-17",
-      "description": "Founded in 2003 Wasabi's vision is to lovingly create and serve delicious Asian food for a busy nation. Wasabi now has 42 thriving restaurants across London and major UK cities and 4 in New York and in 2019, we introduced Wasabi Home Ben to the grocery channel , launch ing exclusively in Sainsbury's . Building on that success, the grocery business broadened its reach to Tesco in September 2022, followed by exciting launches in Co-op and Morrisons in 2024. Wasabi grocery has seen phenomenal grow\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "7a39d42f2e12",
-      "title": "Front of House & Client Experience Manager",
-      "company": "Bell And Bee Beauty",
-      "location": "Clothall Common, Baldock",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5766945481?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "About The Role: This isn't a standard receptionist role. As our Front of House & Client Experience Manager, you'll be the heartbeat of the clinic \u2014 the first face clients see, the person who keeps everything running beautifully, and a key part of how we track and grow the business. You'll own the entire client journey, support and manage the team day-to-day, and take responsibility for keeping our performance data accurate and up to date. The Role: A part-time, front-facing management position \u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "ace26262559c",
-      "title": "Customer Insights Manager",
-      "company": "WASABI CO. LTD",
-      "location": "North West London, London",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5766300153?se=FMdnv3Jq8RGNlJLvgglOgg&utm_medium=api&utm_source=638f9cc6&v=A243C4E2A43679C5C152379F7FA694AC707136EA",
-      "posted": "2026-06-17",
-      "description": "Founded in 2003 Wasabi's vision is to lovingly create and serve delicious Asian food for a busy nation. Wasabi now has 42 thriving restaurants across London and major UK cities and 4 in New York and in 2019, we introduced Wasabi Home Ben to the grocery channel , launch ing exclusively in Sainsbury's . Building on that success, the grocery business broadened its reach to Tesco in September 2022, followed by exciting launches in Co-op and Morrisons in 2024. Wasabi grocery has seen phenomenal grow\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "54355ea282b8",
-      "title": "Voice of Customer and Insight Executive",
-      "company": "Prudential Distribution",
-      "location": "Reading, Berkshire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5766789758?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Our purpose is to give everyone real confidence to put their money to work. With a heritage dating back more than 175 years, we have a long history of innovation in savings and investments, combining asset management and insurance expertise to offer a wide range of solutions. Our two distinct operating segments, Asset Management and Life, work together to provide access to balanced, long-term investment and savings solutions. Through telling it like it is, owning it now, and moving it forward t\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "cccf4930761e",
-      "title": "Software Development Engineer, Employee Listening",
-      "company": "Amazon Development Centre Canada ULC",
-      "location": "Toronto, Ontario",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5766407616?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Use your expert technical skills and experience to deliver state of the art employee listening technology! Our vision is to deliver an employee listening system that helps build a workplace where Amazonians can invent and deliver on behalf of customers. We put employee listening data, metrics, and insights in the right places to drive high quality, high velocity, high impact decisions. As a Software Development Engineer you will have technical ownership of the development of critical parts of t\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "cc97893b4090",
-      "title": "Customer Experience Manager - Dan Murphy's Tuggeranong",
-      "company": "Dan Murphy's",
-      "location": "Barton, South Canberra",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5765781525?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Job Description Customer Experience Manager | Dan Murphy's Tuggeranong | Share your spirit If customer satisfaction was a competition, you\u2019d be the winner. As one of our Customer Experience Managers, you\u2019ll channel your engagement and entrepreneurial spirit to create tailored in store customer experiences and inspiring merchandising that keep our community returning to Dan\u2019s! We\u2019re looking for a passionate people leader who has a genuine desire to make better happen; for themselves and others a\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "fe0e45af4746",
-      "title": "Customer Experience Coordinator",
-      "company": "Mitchell Shire Council",
-      "location": "Kennington, Bendigo",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5765781514?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Customer Experience Coordinator Be part of Victoria's last great story of growth Mitchell Shire is where the city meets the country. Located just 40 minutes north of Melbourne, we're home to thriving townships, beautiful natural landscapes and some of Australia's fastest-growing communities. With a current population of more than 64,000 residents and forecast growth to over 220,000 by 2046, there has never been a more exciting time to join Mitchell Shire Council. As we continue to grow, so do t\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "f414ba542456",
-      "title": "User Experience Specialist",
-      "company": "Power and Water Corporation",
-      "location": "Larrakeyah, Darwin",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5765779369?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Northern Territory Government Job Title User Experience Specialist Classification Band 3 Administrative Corporate Services Position No. 46287 Job Type Full time Duration Fixed to 24/03/2028 Business Unit Customer and Strategy Location Darwin Reports to Senior Service Designer Reports to P/No. 24091 Power and Water values diversity. Power and Water encourages people from all diversity groups to apply Inclusion and for vacancies and accommodates people with disability by making reasonable workpla\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "874e3b5d06bf",
-      "title": "Customer Experience Officer",
-      "company": "TAFE Queensland",
-      "location": "Manoora, Cairns",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5765781244?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Make a difference in your community - join our Atherton team as a part-time Customer Experience Officer. About TAFE Queensland TAFE Queensland is proud to be the largest and most experienced Vocational Education and Training (VET) provider in the State. For more than 140 years, TAFE Queensland has delivered practical and industry-relevant training to provide students with the skills and experience they need to build lifelong careers. Our award-winning training is delivered on campus, online, an\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5100b3668a26",
-      "title": "Director Customer Experience & Strategy",
-      "company": "Diesel Direct Inc",
-      "location": "Stoughton, Norfolk County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5767532810?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "The Director, Customer Experience & Strategy is responsible for leading and evolving the end-to-end customer experience strategy across fuel and lubricants businesses. This role oversees a cross-functional organization focused on delivering consistent, high-quality customer interactions while ensuring efficient, scalable operational execution. The position has direct accountability for core operational processes supporting Customer, Vendor and Sales functions\u2014including onboarding, data manageme\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "8d51f58c48de",
-      "title": "Director of Customer Experience",
-      "company": "Casa of Hobart",
-      "location": "Hobart, Lake County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5766972218?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Casa of Hobart - Now Hiring: Customer Service Experience, DCE Casa of Hobart \u2013 Hobart, IN Employment Type: Full-Time Competitive Pay \u2022 Excellent Benefits \u2022 Supportive Team Environment Position Overview: We are seeking a Director of Customer Experience (DCE) to champion guest satisfaction and lead customer service operations at our facility. This role plays a crucial part in ensuring a smooth and welcoming experience for all residents and families\u2014from admission to discharge. The DCE works close\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "11cb14faa006",
-      "title": "Senior Manager, People Analytics & Insights",
-      "company": "SageSure",
-      "location": "Chicago, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5766678105?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Overview: SageSure is seeking a Senior Manager, People Analytics and Insights to build and scale a modern analytics capability within the People function. This role reports to the Director, People Strategy and Operations. This role is responsible for establishing foundational reporting, defining key workforce metrics, and delivering insights that inform strategic decision-making for our business leaders. You will operate as a hands-on builder, creating structure from fragmented data and evolvin\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "ee6d6c5df58c",
-      "title": "CX Insights Consultant - Operations",
-      "company": "U.S. Bank",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5767487094?se=rgIDFD5r8RGhD6oSViI0Lg&utm_medium=api&utm_source=638f9cc6&v=3649355DAFF8F64E9758712B892157048134D188",
-      "posted": "2026-06-17",
-      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "83fb225b46ea",
-      "title": "CX Insights Consultant - Operations",
-      "company": "U.S. Bank",
-      "location": "Charlotte, Mecklenburg County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5767487008?se=rgIDFD5r8RGhD6oSViI0Lg&utm_medium=api&utm_source=638f9cc6&v=0F98E2F315441EF4076031B475BFF63F2BCD0E99",
-      "posted": "2026-06-17",
-      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "48ccc437f883",
-      "title": "CX Insights Consultant - Operations",
-      "company": "U.S. Bank",
-      "location": "Minneapolis, Hennepin County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5767482122?se=rgIDFD5r8RGhD6oSViI0Lg&utm_medium=api&utm_source=638f9cc6&v=6C957CC9F88913113FB35BB9B16F5745FD1C8E36",
-      "posted": "2026-06-17",
-      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "ef9192c156e0",
-      "title": "Program Director, Voice of the Customer (VoC) Insights",
-      "company": "Elevance Health",
-      "location": "Chicago, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5767422945?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Program Director, Voice of the Customer (VOC) Location: This role requires associates to be in-office 3 days per week , fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office Please note that per our pol\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "e7045051084e",
-      "title": "Assistant Director - Product Management, Engagement Center and Customer Experience Enablement (Updated Location)",
-      "company": "Principal Financial Group",
-      "location": "Des Moines, Polk County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5767415768?se=rgIDFD5r8RGhD6oSViI0Lg&utm_medium=api&utm_source=638f9cc6&v=B925CDE21D4A4E03047C4FD658B26F17537E32EC",
-      "posted": "2026-06-17",
-      "description": "What You'll Do We're looking for an Assistant Director of Product Management to lead our Engagement Center Enablement (ECE) and Customer Experience Enablement (CXE) product families. This team supports how we engage with customers across channels by enabling capabilities like customer feedback and insights, data aggregation, voice and contact center technology, agent experience, and digital messaging (chat and video). Together, these products power how we understand and serve our customers, hel\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "7b0f6809ba12",
-      "title": "CX Insights Consultant - Operations",
-      "company": "U.S. Bank",
-      "location": "Irving, Dallas",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5767392048?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "a69e5f5d02c8",
-      "title": "CX Insights Consultant - Operations",
-      "company": "U.S. Bank",
-      "location": "Illinois Medical District, Chicago",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5767389348?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "efc78431bf87",
-      "title": "International Employer Experience Manager",
-      "company": "University of Waterloo",
-      "location": "Waterloo region, Ontario",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5767276582?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "At the University of Waterloo, we create and promote a culture where everyone can reach their full potential. As an employee, you get support & opportunities that empower you to advance your career. Explore how we can bring big ideas to life, together. The University is a welcoming workplace for those of all abilities, interests, and expertise. As part of our workforce, you can do what you do best, every day. Learn more about our recruitment process. 2026-00859 Time Type Full time Employee Grou\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "ac648b569a8d",
-      "title": "Manager, Customer Experience Trainee",
-      "company": "TD Bank",
-      "location": "Calgary, Calgary region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5767114763?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Work Location: Calgary, Alberta, Canada Hours: 37.5 Line of Business: Personal & Commercial Banking Pay Details: $59,500 - $84,000 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "edf200b6c30d",
-      "title": "Bilingual Customer Experience Analyst",
-      "company": "Labatt",
-      "location": "Moncton, Westmorland",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5767127917?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Dreaming big is in our DNA. It\u2019s who we are as a company. It\u2019s our culture. It\u2019s our heritage. And more than ever, it\u2019s our future. A future where we\u2019re always looking forward. Always serving up new ways to meet life\u2019s moments. A future where we keep dreaming bigger. We look for people with passion, talent, and curiosity, and provide them with the teammates, resources and opportunities to unleash their full potential. The power we create together \u2013 when we combine your strengths with ours \u2013 is \u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "055dffda6327",
-      "title": "Customer Experience Agent - FT Perm",
-      "company": "Town of Canmore",
-      "location": "Canmore region, Alberta",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5767171318?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Why work for the Town of Canmore: Our team is professional, fun, dedicated and passionate about work, the community and the endless opportunities for outdoor and indoor recreation in our magnificent Rocky Mountain environment. Our Customer Experience Agents support the community as part of an energetic and dedicated recreation team committed to promoting a high level of community wellness and exceptional customer service. Position Overview: As members of the Recreation department and reporting \u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "cb580b1d6ae7",
-      "title": "Customer Experience Lead",
-      "company": "Laura",
-      "location": "Montr\u00e9al, Qu\u00e9bec",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5767154683?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "How will you support the team? As a Team Leader, you possess a passion for fashion and customer service. You will be part of a winning team that provides a unique and memorable shopping experience to every customer. You will be joining a Company focused on the development and career growth of its employees. Act as a stylist to build a personalized wardrobe to the customer. Develop and train the sales team on exemplary customer service, the promotion of different programs, product knowledge and \u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "2ea8cfbe11a9",
-      "title": "Customer Experience Lead",
-      "company": "Laura",
-      "location": "Rocky View County, Calgary region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5767142692?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "How will you support the team? As a Team Leader, you possess a passion for fashion and customer service. You will be part of a winning team that provides a unique and memorable shopping experience to every customer. You will be joining a Company focused on the development and career growth of its employees. Act as a stylist to build a personalized wardrobe to the customer. Develop and train the sales team on exemplary customer service, the promotion of different programs, product knowledge and \u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "09b8b88a1b08",
-      "title": "Customer Experience Lead",
-      "company": "Laura Canada",
-      "location": "Alberta, Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5766956634?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "How will you support the team?As a Team Leader, you possess a passion for fashion and customer service. You will be part of a winning team that provides a unique and memorable shopping experience to every customer. You will be joining a Company focused on the development and career growth of its employees.Act as a stylist to build a personalized wardrobe to the customer.Develop and train the sales team on exemplary customer service, the promotion of different programs, product knowledge and cur\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9df30cc97161",
-      "title": "Senior Product Manager, Customer Insights",
-      "company": "Jobgether",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5767127818?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Product Manager, Customer Insights based in Canada. As a Senior Product Manager, Customer Insights, you will lead the vision, strategy, and execution of a high-impact analytics product area designed for enterprise customers. This role combines product leadership, data expertise, and AI innovation to transform complex usage data into meaningful insights that dr\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "fc3ba0e9018c",
-      "title": "Director, People Analytics & Insights",
-      "company": "Ontario Teachers' Pension Plan",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5767188137?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "Director, People Analytics & Insights The opportunity This role brings together analytics, workforce insights, and technology under a single strategic leader. The Director will shift the organization from reactive reporting to consultative, predictive, and prescriptive insights, while also providing clear enterprise ownership for people technology, data governance, and AI enablement across People and Culture. This is a build role \u2014 designing strategy, establishing capabilities, and embedding da\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "63e10ba8ea8d",
-      "title": "Customer Experience Representative",
-      "company": "Air Liquide",
-      "location": "Edmonton, Edmonton region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5767229448?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "How will you CONTRIBUTE and GROW? The CEC rep main responsibility is to provide an excellent customer experience to the customers according to Air Liquide Canada\u2019s 3C\u2019s of Customer Service and work as a team member in the Customer Experience Centre. In this capacity, they are dedicated to respond to all customers inquiries (orders, general support, web requests, invoicing and technical) in order to promote and deliver sustainable and collaborative value. At Air Liquide, we RESPECT , HONOR and V\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "8fbbe0c5d719",
-      "title": "Customer Experience Officer",
-      "company": "TAFE Queensland",
-      "location": "Manoora, Cairns",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5765781391?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-17",
-      "description": "About TAFE Queensland TAFE Queensland is proud to be the largest and most experienced Vocational Education and Training (VET) provider in the State. For more than 140 years, TAFE Queensland has delivered practical and industry-relevant training to provide students with the skills and experience they need to build lifelong careers. Our award-winning training is delivered on campus, online, and in the workplace to give people the skills they need to enrich their communities, support their industr\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
       ]
     }
   ]
