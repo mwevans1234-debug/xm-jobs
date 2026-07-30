@@ -1,7 +1,341 @@
 {
-  "updated": "2026-07-29T08:46:56Z",
-  "count": 2132,
+  "updated": "2026-07-30T08:33:13Z",
+  "count": 2236,
   "jobs": [
+    {
+      "id": "c882703fcfbe",
+      "title": "Customer Experience Manager",
+      "company": "Captrue Benefits",
+      "location": "Blaine, Anoka County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820891199?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "Full-time Description A CAREER AT CAPTRUE BENEFITS Working at Captrue Benefits, you\u2019ll experience a culture that is made up of a group of people who are supportive, innovative, collaborative, and caring towards each other and the customers we serve. Captrue Benefits is looking for a Customer Experience Representative to join our team. This is a full-time position located in our Blaine, MN office, or remote, depending on location. Join our team and help us change the way healthcare is financed, \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "69352b76ebe1",
+      "title": "Customer Experience Manager",
+      "company": "Stord",
+      "location": "Hebron, Boone County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820874664?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "Stord is The Consumer Experience Company, powering seamless checkout through delivery for today's leading brands. Stord is rapidly growing and is on track to double our revenue in the next 18 months. To meet and exceed this target, Stord is strategically scaling teams across the entire company, and seeking energetic experts to help us achieve our mission. By combining comprehensive commerce-enablement technology with high-volume fulfillment services, Stord provides brands a platform to compete \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e74dac73fad7",
+      "title": "Customer Experience Program Manager -Windows Gaming Team",
+      "company": "Microsoft",
+      "location": "Redmond, King County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820872357?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "Overview Microsoft is looking for a Senior Program Manager to help define and drive the future of graphics development on Windows. The Windows Graphics team builds foundational platform technologies used by game developers, GPU partners, and application developers worldwide to deliver high-performance experiences across the Windows ecosystem. This role sits at the intersection of developer platform strategy, engineering execution, and industry engagement , with responsibility for technologies i\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "7f0cce70e2dd",
+      "title": "Client Experience Manager",
+      "company": "SAGE INTEGRATION HOLDING S",
+      "location": "Brady Lake, Portage County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820869802?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "SAGE Integration Job Description Effective Date: Jan 2026 Supersedes: Oct 2022 Job Title: Client Experience Manager Reports To: Chief Operating Officer (COO) Job Type: Full Time Job Summary: About Us: Sage Integration Holdings, LLC protects the people, facilities, and reputation of enterprise clients by advancing the intelligence and integration of security technology. Innovation at SAGE is not just a tagline. The entire organization has been built around five core factors which both enable and\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "f21b99e55d27",
+      "title": "Retail Lead Associate (Reduced-Time), Customer Experience Operations",
+      "company": "Amazon",
+      "location": "Reno, Washoe County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820866802?se=nHLq0vCL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=83661D431921618A6489DC8A65D44C75C9059E72",
+      "posted": "2026-07-30",
+      "description": "Pay starts at $18.90 per hour with benefits available. Reduced Time Hours: Average work between 30-39 hrs per week. This role requires open availability Tuesday-Saturday between 2:45pm and 9:15pm. As a Retail Lead Associate, you will be the face of Amazon and contribute to the culture based on customer obsession, trust, respect, integrity, continuous learning, and fun. You possess strong attention to detail, the ability to quickly prioritize tasks, the willingness to learn new things, and a com\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "df7979fc1a38",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "wm",
+      "location": "Tumwater, Thurston County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820808671?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=7C9622583364B75810AA9A59574874B83D58CAF2",
+      "posted": "2026-07-30",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d61f5d9ec964",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "wm",
+      "location": "Madison, Dane County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820808143?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=D59437ABE4C41F054B49E874FD41755A1FA15CD1",
+      "posted": "2026-07-30",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "58415ecf8f2d",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "wm",
+      "location": "Bonnie, Utah County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820804506?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=013A4A59DDA56CF7CC8AEB6261FE0B99C94F21BD",
+      "posted": "2026-07-30",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9238b1482233",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Charleston, Kanawha County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820758198?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=E247CB6315E1A489EB53F9571D71C2FDE60561C7",
+      "posted": "2026-07-30",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1f77e5d8d9d2",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Montpelier, Washington County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820752068?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=8CBAA87FD091F19A4B3732483972AA9E440E2DAF",
+      "posted": "2026-07-30",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "77bd16d34ac3",
+      "title": "Director of Customer Experience",
+      "company": "Climate First Bank",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820721093?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "We are changing FINANCE to finance CHANGE! At Climate First Bank , we\u2019re redefining what banking can be. As a Florida Benefit Corporation and FDIC-insured commercial bank, we offer a full suite of personal and business services\u2014including solar, residential, commercial, ESOP Banking, Structured Finance and SBA loans\u2014all designed to power a better future. We\u2019re proud to be a Certified B Corporation, a member of 1% for the Planet, and part of the Global Alliance for Banking on Values (GABV), refle\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "cd6833ab8cb1",
+      "title": "Customer Experience Analyst",
+      "company": "SimpliSafe",
+      "location": "Richmond, Richmond County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820859499?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "About SimpliSafe We\u2019re a high-tech home security company that\u2019s passionate about protecting the life you\u2019ve built and our mission of keeping Every Home Secure. And we\u2019ve created a culture here that cares just as deeply about the career you\u2019re building. Ours is a no ego culture of collaboration and innovation where those seeking their next challenge can find big opportunities and make a huge impact on the lives of all those who we protect. We don\u2019t just want you to work here. We want you to grow\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "089e4f761567",
+      "title": "Customer Experience Analyst",
+      "company": "SimpliSafe",
+      "location": "Boston, Suffolk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820845634?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "About SimpliSafe We\u2019re a high-tech home security company that\u2019s passionate about protecting the life you\u2019ve built and our mission of keeping Every Home Secure. And we\u2019ve created a culture here that cares just as deeply about the career you\u2019re building. Ours is a no ego culture of collaboration and innovation where those seeking their next challenge can find big opportunities and make a huge impact on the lives of all those who we protect. We don\u2019t just want you to work here. We want you to grow\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2a597e576771",
+      "title": "Senior Manager, Employee Experience & Development",
+      "company": "Minnesota United",
+      "location": "Crystal, Hennepin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820859475?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "In order to be considered for this role, after clicking \"Apply Now\" above and being redirected, you must fully complete the application process on the follow-up screen. Who We Are: Minnesota United FC (MNUFC) is a professional soccer club competing in Major League Soccer (MLS), the top tier of soccer in North America. As a club driven by passion and community, we operate under the oversight of the U.S. Soccer Federation, a member of FIFA. Our headquarters are in Golden Valley, MN, with soccer o\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "d6748252d33c",
+      "title": "Manager of Operations & Customer Experience (Ops CX)",
+      "company": "Cheba Hut Franchising",
+      "location": "Fort Collins, Larimer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820726568?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "$80,000-$90,000 Plus Bonus Program The Lowdown At Cheba Hut, the customer experience isn't just a metric\u2014it\u2019s the soul of our brand. We are seeking a Manager of Ops CX to own the voice of our guests and turn raw feedback into high-impact action across our entire system. Serving as the right hand to the Director of Operations and Orchestration, you will lead our guest feedback platforms, manage front-line customer experience talent, drive owner-facing event content, and serve as the company's Fo\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e551313e205e",
+      "title": "Customer Experience Supervisor",
+      "company": "Grainger Businesses",
+      "location": "Tempe, Maricopa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820782254?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "Work Location Type: Onsite Req Number 333000 About Grainger W.W. Grainger, Inc. is a leading broad line distributor with operations primarily in North America and Japan. At Grainger, We Keep the World Working\u00ae by serving more than 4.6 million customers worldwide with maintenance, repair and operating (MRO) products and value-added solutions delivered through innovative technology and deep customer expertise. Known for its commitment to service and purpose-driven culture, the Company reported 20\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b3bcc51c4a68",
+      "title": "Senior Manager, Employee Experience & Development",
+      "company": "Minnesota United FC",
+      "location": "Golden Valley, Hennepin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820906838?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "Position: The Senior Manager, Employee Experience & Development is part of the People Operations department for Minnesota United FC (MNUFC), a sports business located in the Twins Cities area of Minnesota and a member of Major League Soccer (MLS), the top tier soccer league in North America. Position Summary: The Senior Manager, Employee Experience & Development is a builder \u2013 someone who wakes up every day thinking about how MNUFC helps its people grow, perform, and feel genuinely connected to\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "09b52477e224",
+      "title": "Consumer CX Insights Consultant",
+      "company": "U.S. Bank",
+      "location": "Minneapolis, Hennepin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820815219?se=2kt67_CL8RGzQa4pljvFHQ&utm_medium=api&utm_source=638f9cc6&v=DF0BA57F41702D8BE28114751A4A5C989E6D5B8D",
+      "posted": "2026-07-30",
+      "description": "At U.S. Bank, we\u2019re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "9dfb4f7d02fa",
+      "title": "Customer Experience Manager",
+      "company": "Zenith Advisory Partners",
+      "location": "Chorley, Lancashire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5820418522?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "Overview: A key role for a manufacturer in the Chorley area, the Customer Experience Manager takes ownership of customer satisfaction (CSAT) and the end-to-end customer journey, and acts as the primary point of escalation for customer complaints, both pre-sale and post-sale. The role also owns the Group's reputation across all Trustpilot pages. Working closely with customer service, sales, bookings, and installation teams, department heads, team managers, and the Group Continuous Improvement Ma\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "f8b549ae6936",
+      "title": "Customer Experience Manager",
+      "company": "Sainsbury's",
+      "location": "Bracknell, Berkshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5820417969?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "3da96e790439",
+      "title": "Customer Experience Manager",
+      "company": "Sainsbury's",
+      "location": "Harlow, Essex",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5820417964?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "34c27699d138",
+      "title": "Consumer and Customer Insights Manager",
+      "company": "Goodman Fielder",
+      "location": "Sydney, Sydney Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5820390913?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-30",
+      "description": "Turn curiosity into commercial growth. At Goodman Fielder, we're looking for a strategic and insight-driven leader to help shape the future of some of Australia's most loved food brands. As our Consumer & Customer Insights Manager, you'll uncover what drives consumers, shoppers and customers, transforming data, research and trends into actionable strategies that influence brand growth, innovation and commercial decisions. What you'll do * Lead consumer, customer, shopper and category insight pr\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
     {
       "id": "6d475c1a30c9",
       "title": "Customer Experience Manager",
@@ -256,6 +590,944 @@
       "url": "https://www.adzuna.com.au/details/5818406922?utm_medium=api&utm_source=638f9cc6",
       "posted": "2026-07-29",
       "description": "Description Do you speak fashion? We're hiring, Let\u2019s Chat! Born in Australia, loved around the world. At Cotton On, we know good style goes well beyond what's in your wardrobe. We\u2019re here to inspire, spark joy and bolster self-expression and creativity. We want our community to feel seen, heard and celebrated, and as a brand, we want to use our voice to make a positive difference in people's lives. We\u2019re playfully rebellious and always optimistic. Join our world and let's do good things togeth\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c8a2527b887c",
+      "title": "Associate Director, Area Customer Experience",
+      "company": "Foundation Medicine",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820700740?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "Description About the Job: The Associate Director, Area Customer Experience leads regional customer experience teams and supports the execution of customer engagement strategies aligned to broader Commercial objectives. This role is responsible for operationalizing customer experience initiatives, managing regional performance, and improving end-to-end customer journey outcomes. The Associate Director partners with functional leadership to translate strategy into execution, while developing a h\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1d0f08bdfef4",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Cedar, Cole County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820691520?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=7ED3FA2B00D235022F9D7EE7F291F0AA52D74510",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "87689ec823d8",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Trenton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820691501?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=58FCD33D605FD9437C2B66C38ECFF58FEFCA19DE",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a4673fba45e0",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Frankfort, Franklin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820689797?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=0838F386C07CC85F1898FFC3285705645AB8F556",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "fcce26d58f23",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Topeka, Shawnee County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820689325?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=B3F083FE90B3545AAAB5E0D9402ADC6ACE3801E6",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d23d5f9cc4a3",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Jackson, Hinds County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820687310?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=00463C8B286EAE168739513E6146D8536122E098",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1d09c071a8b4",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Carson Mall, Carson City",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820685102?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=F04EC497A41AF997C9BBF387663B3B7FCF283EE1",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "8503989a6427",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "State House, Lancaster County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820684956?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=CB41D7D09BB56AAD499DE04DC899DFC400A59279",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2b0488320194",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Concord, Merrimack County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820684010?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=0A9C92C7AFB378C2A21FC5DD4773A754E8C1B662",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9b19eb2c0817",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Providence, Providence County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820681759?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=5D1F0D82126E66541B015E90B4A04A6EFE90EB72",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7b815361fe11",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Pierre, Hughes County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820681734?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=87B5BB4C8A5086947A156589F756EF96091E4304",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "bf8e1d5468ec",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Boise, Ada County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820676269?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=92FEA456405E85F299605769EED9F002F25FBF7C",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1f63952077d4",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Washington, D.C., US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820676226?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=67063D6D59651B17702649581B8F1FEA532DB357",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "be80296cfea3",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Douglas, Juneau",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820676093?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c9d3b286ba66",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Bismarck, Burleigh County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820676036?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=602A53A1CF918B33C3090F63FE51D0A98ABD1661",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "089fecf2a007",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Wyoming, Kent County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820675797?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=6EC385560ECA74C03462E79E41BFA8108B95F4AA",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "5191af1ca3c6",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Urbanizaci\u00f3n El Vedado, San Juan",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820674398?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=5EE3244B93BFD747DB4046F94C88E91C9602725F",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "de7121a26390",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Mongmong, Mongmong-Toto-Maite",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820673794?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=E4BBB625D2B2D7733D7C17412DEE12EC0465B140",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f202e4c41b9e",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Archer, Laramie County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820672558?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=AFAC29A182C7BB5CECEF121B93F98DDFA2824C4D",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "486253d7fe47",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Grandview Heights, Franklin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820669235?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=658E87A733B1B110360E019CB50E64B0CC1E4B58",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "3d6710a04271",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Five Points, Wake County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820668558?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=F29F7B6C31C3454BCF8FFBD03C214A164B4B79BF",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a3ab405f8493",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820667505?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=559A274CDF91579A1E9247A21B1195AA8AEBE3F8",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ab5a669cd82c",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Nashville, Davidson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820664746?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=012A3D42656F41A77883579AB7DAD46E42F86579",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b46167e96b2c",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Lansing, Ingham County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820663419?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=39E9460D0D847A981553B0638F8F693B3EF54FDB",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "3a39a1ad20b8",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Boston, Suffolk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820659557?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=3A637D0AC0583B1B91F5726BAC9280A2EC0E9548",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "38c0787edac1",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Glendale, Denver",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820658158?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=8D4CA3B9D2EC2D54D377BED9C1D365D5B809524B",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f491d24dbb04",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Saint Paul, Ramsey County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820657694?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=5CD00E73A5AA6A2F0F5D194C0BBF673D2BCEF971",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e943e6d9665b",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Phoenix, Maricopa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820657130?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=6117C81722A515FA510399FB0111915138394FDB",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "042d2c23df67",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Ny State Campus, Albany County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820655078?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=312112F73F734C6853F4B8ACE41E2226893E050E",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "561e6bd96c0a",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Chisolm, Montgomery County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820653378?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=6C97E5CB2E33BA8D0553D825DC4F8BC7F99B9F1D",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b17355b4fdea",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Baton Rouge, East Baton Rouge Parish",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820651644?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=F785568BA537FD3A770A0F2CBA645DEEB185C2CD",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "69cca0c30288",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Oklahoma City, Oklahoma County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820651277?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=2842295122585C7B0202296392B6465612726DFE",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "4b616e7c04ef",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Salem, Marion County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820649263?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=6040FFF352CAB9AC3F05CFB765DDCD9189BA46E3",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "27828a892d3e",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Talcott Village, Hartford County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820648482?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=C474FF8D1792138966FC5CC552F6CF4E74B4E8A6",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "53a949e8fec8",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Cammack Village, Pulaski County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820647304?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=1F3BFC6AA657770CFB53B81D5D962E4CE141101D",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "cd6674a193d4",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "WM",
+      "location": "Uptown, Marion County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820610141?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=88AC0CDA4F2A4F2AC240CD7C4301646903BBDE5E",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2b44082af008",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "wm",
+      "location": "Edgewood, Richland County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820567133?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=AE409953603772C69427A44FB5D9CF777EF636B9",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "6f72204db1dc",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "wm",
+      "location": "Des Moines, Polk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820565467?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=AAB7E5369ECA2645DA737B024A4FF1353B768C2F",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b937b66de69f",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "wm",
+      "location": "Augusta, Kennebec County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820564110?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=6AD2D1253E2CB418F058C13B5116B69CC12F8948",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "daa496d6324f",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "wm",
+      "location": "Wake Island, Honolulu",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820564116?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=EE1F19AA98CCBECEFC0F088CA573F10F616C3AA1",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "3c2adf2a2903",
+      "title": "Project Manager, Customer Experience (WMHS)",
+      "company": "wm",
+      "location": "Helena, Lewis and Clark County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820563534?se=LsOT0_CL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=2311A6E480642C887B54F705BCC6FABD396FA38C",
+      "posted": "2026-07-29",
+      "description": "Stericycle is now part of WM. To learn more about WM's acquisition of Stericycle, CLICK HERE to read the press release. I. Job Summary This position is responsible for managing specific Customer Experience projects through requirements definition, planning and implementation. This role has direct responsibility for working with the business owners as needed to improve customer resolution and thereby improve loyalty and intermediate these requests with WMHS's technical teams. II. Essential Dutie\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "edf4ef15f7fa",
+      "title": "Data Analyst IV (Customer Experience and Support Analyst)",
+      "company": "BC Forward",
+      "location": "Indianapolis, Marion County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5819587898?se=tiwz1PCL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=37C8F15BB07DEC267BD6B595C6EB6C50F7D254A7",
+      "posted": "2026-07-29",
+      "description": "Job Title: Data Analyst IV (Customer Experience and Support Analyst) Location: Remote (PST or CST Preferred) Duration: Contract - 12 months Pay Range: $59/hr $67/hr (W2) Job ID: 406693 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across Nor\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "216c1837f412",
+      "title": "Assistant Store Leader, Customer Experience & Outreach",
+      "company": "Crate & Barrel",
+      "location": "Tampa, Hillsborough County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820526170?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "Strategic and service-driven, the Assistant Store Leader - Customer Experience & Outreach drives sales and engagement through hands-on leadership and a passion for delivering results. In this role, you lead sales and service programs, train and coach associates, and implement engagement initiatives that boost customer acquisition, retention, and loyalty. You oversee the performance of key programs such as Design Services, Trade, Registry, and in-store events-driving traffic, conversion, and lon\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b3e55ae5e2dc",
+      "title": "Consumer CX Insights Consultant",
+      "company": "U.S. Bank",
+      "location": "Charlotte, Mecklenburg County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820667099?se=2kt67_CL8RGzQa4pljvFHQ&utm_medium=api&utm_source=638f9cc6&v=83FDD660A1354922EF8B5D80F986B97C1DA0A727",
+      "posted": "2026-07-29",
+      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "8618cbf5319e",
+      "title": "Consumer CX Insights Consultant",
+      "company": "U.S. Bank",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820666968?se=2kt67_CL8RGzQa4pljvFHQ&utm_medium=api&utm_source=638f9cc6&v=1059787A7107B3A1C8FD5D27EE7ECAF1EA6188B6",
+      "posted": "2026-07-29",
+      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "c093218a7b06",
+      "title": "Consumer CX Insights Consultant",
+      "company": "U.S. Bank",
+      "location": "Minneapolis, Hennepin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5820656714?se=2kt67_CL8RGzQa4pljvFHQ&utm_medium=api&utm_source=638f9cc6&v=95EB548EE16933B8EF87C2F31FE423326E4DD357",
+      "posted": "2026-07-29",
+      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "56a64ab1e5a3",
+      "title": "Medallia Customer Experience Strategist / Product Owner",
+      "company": "Steampunk",
+      "location": "Tysons Corner, Fairfax County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820535595?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "Overview As a Steampunk Customer Experience Strategist / Product Owner, you will partner with stakeholders to transform customer feedback into actionable insights that drive organizational improvement. You will own the strategy, measurement framework, and reporting approach for customer experience initiatives, ensuring feedback programs generate meaningful data that supports executive decision-making. You will work closely with business leaders, program teams, and platform administrators to def\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "eef787bc58a4",
+      "title": "Consumer CX Insights Consultant",
+      "company": "U.S. Bank",
+      "location": "Illinois Medical District, Chicago",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5820533427?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "At U.S. Bank, we're on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "f3b9b8be4b01",
+      "title": "Manager, Customer Experience, SMB & Mid Market",
+      "company": "Navex",
+      "location": "Hammersmith, West London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5820098194?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "At NAVEX, we\u2019re transforming the world\u2014making it safer, more ethical, and ensuring every voice is heard. That\u2019s real impact.Our high-performance culture is driven by our values. We move with speed, passion and purpose \u2014 as one team. We are bold in our ideas, accountable in our actions, and committed to doing the right things right. NAVEX is seeking a Manager, Customer Experience to lead a hybrid team supporting both SMB customer engagement and strategic Mid-Market customer relationship manageme\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "265e1c65c064",
+      "title": "Manager, Customer Experience, SMB & Mid Market",
+      "company": "Navex",
+      "location": "Hammersmith, West London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5820097131?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "At NAVEX, we\u2019re transforming the world\u2014making it safer, more ethical, and ensuring every voice is heard. That\u2019s real impact. Our high-performance culture is driven by our values. We move with speed, passion and purpose \u2014 as one team. We are bold in our ideas, accountable in our actions, and committed to doing the right things right. NAVEX is seeking a Manager, Customer Experience to lead a hybrid team supporting both SMB customer engagement and strategic Mid-Market customer relationship managem\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ab18ad577947",
+      "title": "EU Sr. Product Manager, Customer Experience Improvement",
+      "company": "Amazon UK Services Ltd.",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5819969128?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "Amazon Customer Service (CS) is a large and global organization, obsessed with taking care of our customers and delivering reliably fast, convenient, and helpful support when they need it. Whether customers interact with our self-serve solutions or CS Associates, we work hard to make sure they have a delightful experience with us, each and every time. We are looking for a customer-obsessed product leader to join us in the EU Customer Experience Improvement org within Customer Service. You will \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9e1bf348dc35",
+      "title": "Customer Experience Manager",
+      "company": "E.ON",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5819767984?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "Customer Experience Manager We're looking for an experienced and strategic Customer Experience Manager to shape the future of customer experience at E.ON Next. This is a senior role, requiring proven experience in designing and delivering customer experience strategies, leading transformation initiatives and influencing change across complex organisations Working within our Customer Experience team, you'll collaborate with Product, Operations, Commercial, Digital and Technology teams to improve\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7fa660abcef1",
+      "title": "Customer Experience Specialist",
+      "company": "Faith Recruitment",
+      "location": "Guildford, Surrey",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5820189682?se=hJ1Q9fCL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=F43EAB64497FF87B5484EF63D75F581B2CE27264",
+      "posted": "2026-07-29",
+      "description": "Customer Experience Specialist Guildford (Hybrid: 3 days office / 2 days home) \u00a328,000-\u00a330,000 per annum Are you passionate about delivering first-class service? Do you thrive in a people-focused, fast-paced environment? We are looking for a motivated Customer Experience Specialist to join our friendly and professional team based in Guildford . You'll play a vital role as the first point of contact for customer queries, ensuring every interaction is handled with care, clarity, and efficiency. W\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "94c19b913d97",
+      "title": "Customer Experience Specialist",
+      "company": "Faith Recruitment",
+      "location": "Ash Vale, Aldershot",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5820168086?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "Customer Experience Specialist Guildford (Hybrid: 3 days office / 2 days home) \u00a328,000-\u00a330,000 per annum Are you passionate about delivering first-class service? Do you thrive in a people-focused, fast-paced environment? We are looking for a motivated Customer Experience Specialist to join our friendly and professional team based in Guildford. You'll play a vital role as the first point of contact for customer queries, ensuring every interaction is handled with care, clarity, and efficiency. Wh\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9a1e810c4eaf",
+      "title": "Global Customer Insights Lead",
+      "company": "Airwallex",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5820100828?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide \u2013 including Brex, Rippling, Navan, Qantas, SHEIN and many more \u2013 with fully integrated solutions to manage everything from business accounts, payments, spend management and treasury, to embedded finance at a global scale. Proudly founded in Melbourne, we have a team of over \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "398121752282",
+      "title": "People Analytics Analyst & Business Partner",
+      "company": "Stripe",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5820060948?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world\u2019s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most import\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "53cb5899683d",
+      "title": "Lead Business Consultant, VRS, CX",
+      "company": "Jobgether",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5820007575?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Lead Business Consultant, VRS, CX based in Canada. This role offers the opportunity to lead strategic consulting engagements focused on customer experience transformation and measurable business value creation. You will guide enterprise customers in maximizing the impact of advanced CX, analytics, and contact center solutions. The position combines business consultin\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "45683a35bf55",
+      "title": "Manager, Customer Experience",
+      "company": "TD Bank",
+      "location": "Lethbridge region, Alberta",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5819864362?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "Work Location: Lethbridge, Alberta, Canada Hours: 18.75 Line of Business: Personal & Commercial Banking Pay Details: $57,100 - $80,600 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "38fc496f93e3",
+      "title": "Manager, Customer Experience - West Island Area (Future Opportunities)",
+      "company": "TD Bank",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5819850673?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "Work Location: Dollard-des-Ormeaux, Quebec, Canada Hours: 37.5 Line of Business: Personal & Commercial Banking Pay Details: 59 500 $ / $59,500 - 84 000 $ / $84,000 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they pro\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a24b8f01d49c",
+      "title": "Customer Experience Lead",
+      "company": "Laura",
+      "location": "Montr\u00e9al, Qu\u00e9bec",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5819857294?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "How will you support the team? As a Team Leader, you possess a passion for fashion and customer service. You will be part of a winning team that provides a unique and memorable shopping experience to every customer. You will be joining a Company focused on the development and career growth of its employees. Act as a stylist to build a personalized wardrobe to the customer. Develop and train the sales team on exemplary customer service, the promotion of different programs, product knowledge and \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d678e860b8f2",
+      "title": "Customer Experience Leader / Responsable de l\u2019exp\u00e9rience en magasin",
+      "company": "Indigo Books & Music",
+      "location": "Laval, Laval region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5819790584?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "Description du poste Le responsable de l\u2019exp\u00e9rience en magasin dirige l\u2019ex\u00e9cution des priorit\u00e9s d\u2019Indigo ax\u00e9es sur la client\u00e8le. Il veille \u00e0 ce que le magasin offre une exp\u00e9rience pertinente \u00e0 l\u2019\u00e9chelle locale et centr\u00e9e sur la client\u00e8le, qui favorise les ventes, l\u2019engagement, la fid\u00e9lisation et la rentabilit\u00e9. En adoptant une approche centr\u00e9e sur la client\u00e8le, la personne titulaire de ce poste veille \u00e0 donner vie \u00e0 l\u2019exp\u00e9rience Indigo et \u00e0 R.E.A.D., le mod\u00e8le de recommandation d\u2019Indigo, sur la\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ebf312a9439f",
+      "title": "Customer Experience Manager",
+      "company": "TAL",
+      "location": "Melbourne, Melbourne Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5819790554?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-29",
+      "description": "Job Description As a Customer Experience Manager, you\u2019ll play a hands-on role in shaping how customers experience TAL by simplifying interactions, modernising propositions and removing friction across key journeys. Working across channels and initiatives, you\u2019ll drive meaningful improvements that help customers better understand and value their cover. This role is central to TAL\u2019s mission of supporting Australians to live better lives, delivering tangible outcomes through clearer communication,\u2026",
       "source": "adzuna",
       "country": "AU",
       "tags": [
@@ -981,6 +2253,21 @@
       ]
     },
     {
+      "id": "847d178c6238",
+      "title": "Accountant \u2013 Customer Experience & Assets (FTC 18\u201324 Months)",
+      "company": "Seymour John",
+      "location": "Telford, Shropshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5817416166?se=fLft8PCL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=5F85820C77F6907C536544763EBFFA853880D6AE",
+      "posted": "2026-07-27",
+      "description": "Accountant \u2013 Customer Experience & Assets (FTC 18\u201324 Months) Organisation: Housing Plus Group Salary: \u00a349,200 per annum Location: Telford / Hybrid Working (minimum one day per week in the office) Working Pattern: 36 hours per week Contract: Fixed Term Contract (18\u201324 Months) Closing Date: Friday 7 August 2026 Final Interviews: Thursday 27 August 2026 This is an exciting time to join Housing Plus Group. Following the merger of The Wrekin Housing Group and Housing Plus Group, the organisation has\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "1fcb24ce8783",
       "title": "Customer Experience Manager",
       "company": "BrandsMart",
@@ -1349,7 +2636,7 @@
     {
       "id": "0a11b96c46b7",
       "title": "Customer Experience Analyst",
-      "company": "TCR Toyota Credit Canada Company",
+      "company": "Toyota",
       "location": "Canada",
       "remote": false,
       "url": "https://www.adzuna.ca/details/5816827091?utm_medium=api&utm_source=638f9cc6",
@@ -1430,6 +2717,22 @@
       "location": "Glasgow, Scotland",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5816504071?se=PBR1sCmL8RGBFsAoqFc4tw&utm_medium=api&utm_source=638f9cc6&v=19195969B81FA3341E1930D72DC2BD8123C64DC7",
+      "posted": "2026-07-26",
+      "description": "Customer Experience & Insights Manager Location: HQ Glasgow Salary  benefits: \u00a355,200 - \u00a369,000pa  annual bonus (up to 15%)  single cover healthcare with a strong benefits package, and our excellent pension scheme, where we\u2019ll double match your contribution up to a company contribution of 10%. Clo sing Date: 10th August 2026 Interviews will take place week commencing 24th of August 2026 Help us create a better future, quicker At SP Energy Networks, our customers are the spark that drive everyth\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "8fba8a193667",
+      "title": "Customer Experience and Insight Manager",
+      "company": "Iberdrola",
+      "location": "Glasgow, Scotland",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5816504071?se=hJ1Q9fCL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=19195969B81FA3341E1930D72DC2BD8123C64DC7",
       "posted": "2026-07-26",
       "description": "Customer Experience & Insights Manager Location: HQ Glasgow Salary  benefits: \u00a355,200 - \u00a369,000pa  annual bonus (up to 15%)  single cover healthcare with a strong benefits package, and our excellent pension scheme, where we\u2019ll double match your contribution up to a company contribution of 10%. Clo sing Date: 10th August 2026 Interviews will take place week commencing 24th of August 2026 Help us create a better future, quicker At SP Energy Networks, our customers are the spark that drive everyth\u2026",
       "source": "adzuna",
@@ -2027,6 +3330,22 @@
       "country": "US",
       "tags": [
         "cx"
+      ]
+    },
+    {
+      "id": "b372a72ab375",
+      "title": "Sr Manager, People Analytics Insight Partner",
+      "company": "Gilead Sciences",
+      "location": "Foster City, San Mateo County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5815361765?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-25",
+      "description": "At Gilead, we\u2019re creating a healthier world for all people. For more than 35 years, we\u2019ve tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer \u2013 working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world\u2019s biggest health challenges, and our mission requires collaboration, determination and a relentless drive to make a difference. Every member of Gilead\u2019s team plays a critical ro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
       ]
     },
     {
@@ -3418,6 +4737,38 @@
       ]
     },
     {
+      "id": "97a7c03075e3",
+      "title": "Sr Manager, People Analytics Insight Partner",
+      "company": "Gilead Sciences, Inc.",
+      "location": "Belmont, San Mateo County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5814604959?se=vqPf2vCL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=41FDD95F38762BA79F2D0F893F3AA7BDCCD13517",
+      "posted": "2026-07-24",
+      "description": "At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a relentless drive to make a difference. Every member of Gilead's team plays a critical ro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "3db31aa0a336",
+      "title": "Sr Manager, People Analytics Insight Partner",
+      "company": "Gilead Sciences, Inc.",
+      "location": "Belmont, San Mateo County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5814604959?se=lHob7fCL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=41FDD95F38762BA79F2D0F893F3AA7BDCCD13517",
+      "posted": "2026-07-24",
+      "description": "At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a relentless drive to make a difference. Every member of Gilead's team plays a critical ro\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
       "id": "d34ee31ca71c",
       "title": "VOC & Knowledge Management Specialist",
       "company": "GuideWell",
@@ -3731,7 +5082,7 @@
       "remote": false,
       "url": "https://www.adzuna.com/details/5812264149?utm_medium=api&utm_source=638f9cc6",
       "posted": "2026-07-23",
-      "description": "LICENSES AND CERTIFICATIONS A valid driver's license from state of residence is required. EDUCATION bachelor's degree in business administration, Engineering or related field is required. EXPERIENCE Zero (0) to two (2) years of professional-level experience in Data Analytics, Data Science, Market Research or related role is required. Must demonstrate basic proficiency with computer applications such as Microsoft Word, Excel, PowerPoint and SharePoint and Power BI or similar data visualization t\u2026",
+      "description": "JOB PURPOSE The Customer Experience and Market Analysis Analyst I supports Lean Six Sigma process improvements by sourcing and cleaning data; maintaining databases; and developing visualizations. The role involves data collection, manipulation, and modeling to analyze operational performance and generate actionable insights. This position collaborates across all levels of the Customer Experience and Energy Services teams to improve data-driven program design and enhance technologies that simpli\u2026",
       "source": "adzuna",
       "country": "US",
       "tags": [
@@ -4046,6 +5397,37 @@
       "tags": [
         "cx",
         "xm"
+      ]
+    },
+    {
+      "id": "0cc1503642a6",
+      "title": "Principal Customer Experience Program Manager - The Office Product Group",
+      "company": "Microsoft Corporation",
+      "location": "Redmond, King County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5811937712?se=xOHu1_CL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=1C70E179E6DA4A998A329416C9F122C7755A7C84",
+      "posted": "2026-07-23",
+      "description": "Overview The Office Product Group (OPG) is looking for a Principal Customer Experience Program Manager to serve as the connective tissue between our largest, most strategic customers and the engineering and product teams who build Office and Copilot in Office. In this role you will own the end-to-end experience of priority accounts, turning frontline customer signal into product improvement, leading high-stakes recovery engagements, and accelerating adoption of our newest AI capabilities. This \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "cce4507c0591",
+      "title": "Senior Manager, CX Data Integration & Performance",
+      "company": "TD Bank",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5812852462?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-07-23",
+      "description": "Work Location: Toronto, Ontario, Canada Hours: 37.5 Line of Business: Marketing Pay Details: 115600 - 163200 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
       ]
     },
     {
@@ -4822,6 +6204,36 @@
       ]
     },
     {
+      "id": "eb595ed447c1",
+      "title": "Customer Experience Analyst",
+      "company": "Summit 7 Systems",
+      "location": "Madison, Madison County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5810454686?se=tiwz1PCL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=CA96E6C8434E3F83C300FFBC3EC838AA7928B465",
+      "posted": "2026-07-22",
+      "description": "Position Title: Customer Experience Analyst Location: Huntsville, AL Salary*: $50,000 - $60,000 *Dependent upon qualifications Summit 7 is here to rise above the ordinary. The work we do here goes far beyond day-to-day projects - it further protects the US defense industrial base from cyber threats, fosters thought leadership and creates growth opportunities. Our support staff, sales team and technicians are all coming together to make a difference. We also recognize that you're a person with l\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9135a7b3fdc6",
+      "title": "Director, Voice of Customer Product Management",
+      "company": "The Hartford",
+      "location": "Talcott Village, Hartford County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5811759441?se=xOHu1_CL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=D1ADA87C1A560DF7D7DBC5B076B196C7605BB38E",
+      "posted": "2026-07-22",
+      "description": "Director Agile Product Management - BA06CE We're determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals - and to help others accomplish theirs, too. Join our team as we help shape the future. The Director, Voice of Customer (VoC) Product Management is responsible for defining and executing the strategy, roadmap, governance, and evolution of The Hartford's enterprise \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "537c41f330ba",
       "title": "Customer Experience Manager Pensacola FL",
       "company": "Five Below",
@@ -5589,6 +7001,37 @@
       ]
     },
     {
+      "id": "09dcca85b764",
+      "title": "Associate Director, Customer Insights & Engagement - Neuroscience",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5810308720?se=QkLm2fCL8RGCtP7-ITkicg&utm_medium=api&utm_source=638f9cc6&v=E4859BD871EEDBE045ED959E4373A68121CDFB43",
+      "posted": "2026-07-21",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "d392c3c228ed",
+      "title": "Finance Manager Customer Experience & Assets",
+      "company": "Seymour John Public Services  Limited",
+      "location": "Telford, Shropshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5809537066?se=fLft8PCL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=4A8E3304536AC3DC8AB006C93F6CD606AA7EC040",
+      "posted": "2026-07-21",
+      "description": "Finance Manager Customer Experience & Assets Organisation: Housing Plus Group Salary: \u00a360,540 per annum Location: Telford / Hybrid Working (minimum two days per week in the office) Working Pattern: 36 hours per week Closing Date: Friday 31 July 2026 Final Interviews: Wednesday 19 August 2026 This is an exciting time to join Housing Plus Group. Following the merger of The Wrekin Housing Group and Housing Plus Group, the organisation has created a broader, strengthened group structure and is cont\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "4d83902732fc",
       "title": "Project Engineer & Customer Experience Liaison - Field Service Migration",
       "company": "MacDonald-Miller Facility Solutions",
@@ -6242,6 +7685,37 @@
       "location": "Warwick, Warwickshire",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5808392381?se=nMpLrymL8RGCrekkC7WOOQ&utm_medium=api&utm_source=638f9cc6&v=A9C0FAAACA89426EB148D576A6520770EF7863B4",
+      "posted": "2026-07-20",
+      "description": "Job Title : Customer Insights (Voice of the Customer) Manager Location: Warwick (2/3 days per week onsite) / Hybrid Contract: 12 months initial (strong likelihood of extension) As the Customer Insights Manager, you will be the driving force behind integrating customer insights across the organisation. Your role is pivotal in delivering a clear, evidence-based view of how the organisation is perceived by its customers. Key Responsibilities : Extensive experience in leading customer insight or an\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "f2f8f7423fa3",
+      "title": "Finance Manager \u2013 Customer Experience & Assets",
+      "company": "Seymour John",
+      "location": "Telford, Shropshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5808129158?se=fLft8PCL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=2C8ED52A36D2DA47469F115170B170371623A139",
+      "posted": "2026-07-20",
+      "description": "Finance Manager \u2013 Customer Experience & Assets Organisation: Housing Plus Group Salary: \u00a360,540 per annum Location: Telford / Hybrid Working (minimum two days per week in the office) Working Pattern: 36 hours per week Closing Date: Friday 31 July 2026 Final Interviews: Wednesday 19 August 2026 This is an exciting time to join Housing Plus Group. Following the merger of The Wrekin Housing Group and Housing Plus Group, the organisation has created a broader, strengthened group structure and is co\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "015919fc6665",
+      "title": "Customer Insights and Voice of the Customer Manager",
+      "company": "Pontoon",
+      "location": "Warwick, Warwickshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5808392381?se=UApz9PCL8RGzQa4pljvFHQ&utm_medium=api&utm_source=638f9cc6&v=A9C0FAAACA89426EB148D576A6520770EF7863B4",
       "posted": "2026-07-20",
       "description": "Job Title : Customer Insights (Voice of the Customer) Manager Location: Warwick (2/3 days per week onsite) / Hybrid Contract: 12 months initial (strong likelihood of extension) As the Customer Insights Manager, you will be the driving force behind integrating customer insights across the organisation. Your role is pivotal in delivering a clear, evidence-based view of how the organisation is perceived by its customers. Key Responsibilities : Extensive experience in leading customer insight or an\u2026",
       "source": "adzuna",
@@ -7352,6 +8826,53 @@
       "location": "San Bruno, San Mateo County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5807026570?se=AGTRqSmL8RGBFsAoqFc4tw&utm_medium=api&utm_source=638f9cc6&v=07F830872E884C46A8C115C6C4A184EB51B1974E",
+      "posted": "2026-07-19",
+      "description": "One of our direct client is urgently looking for following resource TITLE: Market Research Manager/Analyst- Customer Insights LOCATION: San Bruno, CA / Remote DURATION: 6 to 12 Months Rate: DOE Client notes * Role is about Customer Research Analyst/Manager, Customer Insights * Requires strong interpersonal skills, some project management and presentation skills to various audience/clients Roles and Responsibilities This role requires an experienced market research professional , with survey res\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "231be0548b1c",
+      "title": "Workplace Experience Director",
+      "company": "JLL",
+      "location": "San Jose, Santa Clara County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5806880611?se=eLYb1_CL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=4FCB8D47A29ABEC905961E5F308E26DFA03940C2",
+      "posted": "2026-07-19",
+      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "6a838647424c",
+      "title": "Customer Research Analyst, Customer Insights",
+      "company": "Redolent",
+      "location": "San Bruno, San Mateo County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5807097943?se=VoJz7vCL8RGCtP7-ITkicg&utm_medium=api&utm_source=638f9cc6&v=707C5FD6619322D21123F9BC16CD33712C1DCD9A",
+      "posted": "2026-07-19",
+      "description": "One of our direct client is urgently looking for a Analytics Manager @San Bruno, CA TITLE: Customer Research Analyst, Customer Insights LOCATION: San Bruno, CA DURATION: 6 to 12 Months Rate: DOE .Description: Roles and Responsibilities \u2013 Customer Research Analyst, Customer Insights Job overview This role requires an experienced market research professional, with survey research experience on the vendor or corporate side; advertising research experience a plus. This position offers an opportunit\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "e69377c32f7f",
+      "title": "Market Research Manager/Analyst- Customer Insights",
+      "company": "Redolent",
+      "location": "San Bruno, San Mateo County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5807026570?se=VoJz7vCL8RGCtP7-ITkicg&utm_medium=api&utm_source=638f9cc6&v=07F830872E884C46A8C115C6C4A184EB51B1974E",
       "posted": "2026-07-19",
       "description": "One of our direct client is urgently looking for following resource TITLE: Market Research Manager/Analyst- Customer Insights LOCATION: San Bruno, CA / Remote DURATION: 6 to 12 Months Rate: DOE Client notes * Role is about Customer Research Analyst/Manager, Customer Insights * Requires strong interpersonal skills, some project management and presentation skills to various audience/clients Roles and Responsibilities This role requires an experienced market research professional , with survey res\u2026",
       "source": "adzuna",
@@ -9370,6 +10891,22 @@
       "location": "Madison, Morris County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5806746375?se=SuEQnimL8RGBFsAoqFc4tw&utm_medium=api&utm_source=638f9cc6&v=FC9CB19397CD57A8ECEB8E2D986E19467C1347E4",
+      "posted": "2026-07-18",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "5b2e2df01174",
+      "title": "Associate Director, Customer Insights & Engagement - Cell Therapy Market Research",
+      "company": "Bristol Myers Squibb",
+      "location": "Madison, Morris County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5806746375?se=QkLm2fCL8RGCtP7-ITkicg&utm_medium=api&utm_source=638f9cc6&v=FC9CB19397CD57A8ECEB8E2D986E19467C1347E4",
       "posted": "2026-07-18",
       "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
       "source": "adzuna",
@@ -11425,6 +12962,70 @@
       "location": "Stratford, East London",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5804885875?se=JHs9tymL8RGRUZLah8DS3A&utm_medium=api&utm_source=638f9cc6&v=4092675F4E8246B047EE31C5D00BA2ABD556A28C",
+      "posted": "2026-07-17",
+      "description": "Credible HR insights. Informed decision-making. Impacting the future. People Analytics & Insights Analyst \u00a330,000 - \u00a340,000 ( Benefits ) Grade: P2 Reports to: HR People Analytics Manager Contract: Fixed Term for 12 months Hours: Full time 35 hours per week Location: Stratford, London. Office-based with high flexibility (1-2 days per week in the office) Visa sponsorship: You must be eligible to work in the UK to apply for this vacancy. Cancer Research UK is not able to offer visa sponsorship. Ex\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "e5b22df32106",
+      "title": "People Analytics and Insights Analyst",
+      "company": "Cancer Research UK",
+      "location": "Stratford, East London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5804893404?se=jiLP9vCL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=EF0156AF9C3D36C0ECD05C31F77E988DA8CF98B7",
+      "posted": "2026-07-17",
+      "description": "Credible HR insights. Informed decision-making. Impacting the future. People Analytics & Insights Analyst \u00a330,000 - \u00a340,000 ( Benefits ) Grade: P2 Reports to: HR People Analytics Manager Contract: Fixed Term for 12 months Hours: Full time 35 hours per week Location: Stratford, London. Office-based with high flexibility (1-2 days per week in the office) Visa sponsorship: You must be eligible to work in the UK to apply for this vacancy. Cancer Research UK is not able to offer visa sponsorship. Ex\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "32729ded66d0",
+      "title": "People Analytics and Insights Analyst",
+      "company": "Cancer Research UK",
+      "location": "Stratford, East London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5804885875?se=jiLP9vCL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=4092675F4E8246B047EE31C5D00BA2ABD556A28C",
+      "posted": "2026-07-17",
+      "description": "Credible HR insights. Informed decision-making. Impacting the future. People Analytics & Insights Analyst \u00a330,000 - \u00a340,000 ( Benefits ) Grade: P2 Reports to: HR People Analytics Manager Contract: Fixed Term for 12 months Hours: Full time 35 hours per week Location: Stratford, London. Office-based with high flexibility (1-2 days per week in the office) Visa sponsorship: You must be eligible to work in the UK to apply for this vacancy. Cancer Research UK is not able to offer visa sponsorship. Ex\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "3565d811c7be",
+      "title": "People Analytics and Insights Analyst",
+      "company": "Cancer Research UK",
+      "location": "Stratford, East London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5804893404?se=FA8L_fCL8RGZmYFlEP0Odw&utm_medium=api&utm_source=638f9cc6&v=EF0156AF9C3D36C0ECD05C31F77E988DA8CF98B7",
+      "posted": "2026-07-17",
+      "description": "Credible HR insights. Informed decision-making. Impacting the future. People Analytics & Insights Analyst \u00a330,000 - \u00a340,000 ( Benefits ) Grade: P2 Reports to: HR People Analytics Manager Contract: Fixed Term for 12 months Hours: Full time 35 hours per week Location: Stratford, London. Office-based with high flexibility (1-2 days per week in the office) Visa sponsorship: You must be eligible to work in the UK to apply for this vacancy. Cancer Research UK is not able to offer visa sponsorship. Ex\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "632247ac9152",
+      "title": "People Analytics and Insights Analyst",
+      "company": "Cancer Research UK",
+      "location": "Stratford, East London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5804885875?se=FA8L_fCL8RGZmYFlEP0Odw&utm_medium=api&utm_source=638f9cc6&v=4092675F4E8246B047EE31C5D00BA2ABD556A28C",
       "posted": "2026-07-17",
       "description": "Credible HR insights. Informed decision-making. Impacting the future. People Analytics & Insights Analyst \u00a330,000 - \u00a340,000 ( Benefits ) Grade: P2 Reports to: HR People Analytics Manager Contract: Fixed Term for 12 months Hours: Full time 35 hours per week Location: Stratford, London. Office-based with high flexibility (1-2 days per week in the office) Visa sponsorship: You must be eligible to work in the UK to apply for this vacancy. Cancer Research UK is not able to offer visa sponsorship. Ex\u2026",
       "source": "adzuna",
@@ -15833,6 +17434,22 @@
       ]
     },
     {
+      "id": "92fed9b47b4b",
+      "title": "Associate Director, Customer Experience Measurements & Insights",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5804254131?se=QkLm2fCL8RGCtP7-ITkicg&utm_medium=api&utm_source=638f9cc6&v=99920C9760B24B822FBDB17FA1B0B7F01B15AE97",
+      "posted": "2026-07-16",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
       "id": "4033e04a957b",
       "title": "Program Manager, Customer Experience (WOW Programs)",
       "company": "Chewy",
@@ -16114,7 +17731,7 @@
       "remote": false,
       "url": "https://www.adzuna.com/details/5802001920?utm_medium=api&utm_source=638f9cc6",
       "posted": "2026-07-15",
-      "description": "Program Manager, Culture & Employee Experience, PTx Date: Jul 2, 2026 Req ID: 104264 Location: Tremont, IL, USWestminster, CO, USBatavia, IL, US Employment Duration: PTx Workplace Type: Onsite Not everyone can claim to feed the world, but it is part of our every day. Behind everything we do for our farmers, there is one AGCO team making it happen. We are proud to put our curiosity to work, building a better and more sustainable world. Join our extraordinary team today! The Global Program Manage\u2026",
+      "description": "Program Manager, Culture & Employee Experience, PTx Date: Jul 2, 2026 Req ID: 104264 Location: Tremont, IL, USBatavia, IL, USWestminster, CO, US Employment Duration: PTx Workplace Type: Onsite Not everyone can claim to feed the world, but it is part of our every day. Behind everything we do for our farmers, there is one AGCO team making it happen. We are proud to put our curiosity to work, building a better and more sustainable world. Join our extraordinary team today! The Global Program Manage\u2026",
       "source": "adzuna",
       "country": "US",
       "tags": [
@@ -17890,6 +19507,100 @@
       ]
     },
     {
+      "id": "964e7b0a70ce",
+      "title": "Senior Customer Experience Analyst",
+      "company": "Pilot Thomas Logistics",
+      "location": "Boston, Suffolk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5801046273?se=tiwz1PCL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=6508F9E168C7485EDFBAA8DEED52061BEE5D10C3",
+      "posted": "2026-07-15",
+      "description": "Our world is transforming, and PTC is leading the way. Our software brings the physical and digital worlds together, enabling companies to improve operations, create better products, and empower people in all aspects of their business. Our people make all the difference in our success. Today, we are a global team of nearly 7,000 and our main objective is to create opportunities for our team members to explore, learn, and grow \u2013 all while seeing their ideas come to life and celebrating the diffe\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2570bdb7de61",
+      "title": "Program Manager, Culture & Employee Experience, PTx",
+      "company": "AGCO Corporation",
+      "location": "Westminster, Adams County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5802112541?se=eLYb1_CL8RGwt9JQJaAK3A&utm_medium=api&utm_source=638f9cc6&v=BFA3DA95C963622931BCB4A46A956716D7ADF562",
+      "posted": "2026-07-15",
+      "description": "Program Manager, Culture & Employee Experience, PTx Date: Jul 2, 2026 Req ID: 104264 Location: Tremont, IL, USBatavia, IL, USWestminster, CO, US Employment Duration: PTx Workplace Type: Onsite Not everyone can claim to feed the world, but it is part of our every day. Behind everything we do for our farmers, there is one AGCO team making it happen. We are proud to put our curiosity to work, building a better and more sustainable world. Join our extraordinary team today! The Global Program Manage\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "01160d53e294",
+      "title": "Associate Director, Customer Insights & Engagement, Melanoma, GU",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5802159314?se=QkLm2fCL8RGCtP7-ITkicg&utm_medium=api&utm_source=638f9cc6&v=8D10C153A2F099FC9ABD494DC3FD8280059E37D2",
+      "posted": "2026-07-15",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "7f03ca6536e8",
+      "title": "Director, Customer Insights & Engagement- Thoracic",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5802159359?se=QkLm2fCL8RGCtP7-ITkicg&utm_medium=api&utm_source=638f9cc6&v=253D804DF161B02BA11CEF3F8EE845444341F2BD",
+      "posted": "2026-07-15",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "3c975e4fc4b7",
+      "title": "Director, Customer Insights & Engagement- Immunology",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5802159298?se=QkLm2fCL8RGCtP7-ITkicg&utm_medium=api&utm_source=638f9cc6&v=34A6047E3A422AC09B71652E6ABEFCF62BCD7ED9",
+      "posted": "2026-07-15",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "90dacca2ef2c",
+      "title": "Associate Director, Customer Insights & Engagement - Cell Therapy Analytics",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5802159368?se=QkLm2fCL8RGCtP7-ITkicg&utm_medium=api&utm_source=638f9cc6&v=D891DAB75FE9AAEE7A7D880DB0B49BC21B0941CE",
+      "posted": "2026-07-15",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
       "id": "fe99fcb0f7ed",
       "title": "CX Strategy Director",
       "company": "TheLab",
@@ -19094,6 +20805,37 @@
       "location": "Manchester, Greater Manchester",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5799937002?se=JHs9tymL8RGRUZLah8DS3A&utm_medium=api&utm_source=638f9cc6&v=4844BDF76ECD161BDEE1E8D0035420A41F5DA44A",
+      "posted": "2026-07-14",
+      "description": "SAP SuccessFactors & People Systems Manager South Manchester/Cheshire \u2013 1 day on site per week Full-time, Permanent Competitive salary plus benefits Medlock Partners are partnering with a leading organisation to recruit an experienced SAP SuccessFactors & People Systems Manager to lead the ongoing development, support and optimisation of its HR technology landscape. Managing a small specialist team, you'll take ownership of SAP SuccessFactors and associated people systems, ensuring they deliver\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "fbaebe7bf574",
+      "title": "Employee Experience Specialist",
+      "company": "Michael Page HR",
+      "location": "Liverpool, Merseyside",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5799932230?se=DiMW-PCL8RGzQa4pljvFHQ&utm_medium=api&utm_source=638f9cc6&v=FE6115E7A800B3B5F274BBB3550AE15F2EA6C930",
+      "posted": "2026-07-14",
+      "description": "Shape the people, culture, engagement and inclusion agenda across a high-profile organisation. Lead strategic OD and people projects with significant autonomy and senior stakeholder exposure. Client Details Our client is a well-established and highly regarded organisation within a customer-focused, people-centric environment. With an ambitious people agenda and significant investment in its People function, the organisation is focused on strengthening culture, engagement, organisational effecti\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "ba2978ad7b81",
+      "title": "SAP SuccessFactors & People Analytics Manager",
+      "company": "Medlock Partners Limited",
+      "location": "Manchester, Greater Manchester",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5799937002?se=FA8L_fCL8RGZmYFlEP0Odw&utm_medium=api&utm_source=638f9cc6&v=4844BDF76ECD161BDEE1E8D0035420A41F5DA44A",
       "posted": "2026-07-14",
       "description": "SAP SuccessFactors & People Systems Manager South Manchester/Cheshire \u2013 1 day on site per week Full-time, Permanent Competitive salary plus benefits Medlock Partners are partnering with a leading organisation to recruit an experienced SAP SuccessFactors & People Systems Manager to lead the ongoing development, support and optimisation of its HR technology landscape. Managing a small specialist team, you'll take ownership of SAP SuccessFactors and associated people systems, ensuring they deliver\u2026",
       "source": "adzuna",
@@ -22009,6 +23751,22 @@
       ]
     },
     {
+      "id": "fee27915c31b",
+      "title": "Product & Customer Experience Insights Manager, Customer Experience and Business Trends",
+      "company": "Amazon",
+      "location": "International, King County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5797646905?se=ipTW5fCL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=80D17D80675D403B103B7B668811A0D9CC2C517D",
+      "posted": "2026-07-12",
+      "description": "Description Are you Customer obsessed and eager to propose opportunities and influence business decisions to improve the Consumer and Seller experience across our different Amazon businesses? Customer Experience and Business Trends (CXBT) is looking for an experienced, talented, and highly motivated individual to join our Customer Experience Insights team in Arlington. As a Product and Customer Insights Manager, you will own and contribute to studies that measure Amazon's end-to-end experience.\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
       "id": "a004bc914070",
       "title": "Experience Lead - Connected Get Help",
       "company": "General Motors",
@@ -23556,6 +25314,38 @@
       "location": "Seattle, King County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5796595577?se=HFZmoimL8RGbLL45Ug83Nw&utm_medium=api&utm_source=638f9cc6&v=EA63F546C1DFDDE7828F3DDFE152E308BA090542",
+      "posted": "2026-07-11",
+      "description": "Are you Customer obsessed and eager to propose opportunities and influence business decisions to improve the Consumer and Seller experience across our different Amazon businesses? Customer Experience and Business Trends (CXBT) is looking for an experienced, talented, and highly motivated individual to join our Customer Experience Insights team in Arlington. As a Product and Customer Insights Manager, you will own and contribute to studies that measure Amazon's end-to-end experience. You will dr\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "c76459a90a7a",
+      "title": "Associate Director, Customer Insights - New Products",
+      "company": "Regeneron Pharmaceuticals",
+      "location": "Sleepy Hollow, Westchester County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5797539516?se=QkLm2fCL8RGCtP7-ITkicg&utm_medium=api&utm_source=638f9cc6&v=3F0D4ADCDDB4C45D6E2293126F19A4BDE377819F",
+      "posted": "2026-07-11",
+      "description": "Build our future together: At Regeneron, we use science and innovation to develop life-changing medicines for people with serious diseases. We are seeking an Associate Director to join our Insights & Analytics New Products team. This position offers the opportunity to contribute to a fast-growing, science-driven organization making a meaningful difference to patients worldwide. The Associate Director, Customer Insights - New Products, will report into the Executive Director, I&A (New Products),\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "c98474781041",
+      "title": "Product & Customer Experience Insights Manager, Customer Experience and Business Trends",
+      "company": "Amazon",
+      "location": "Seattle, King County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5796595577?se=ipTW5fCL8RGW1Ji16AgArw&utm_medium=api&utm_source=638f9cc6&v=EA63F546C1DFDDE7828F3DDFE152E308BA090542",
       "posted": "2026-07-11",
       "description": "Are you Customer obsessed and eager to propose opportunities and influence business decisions to improve the Consumer and Seller experience across our different Amazon businesses? Customer Experience and Business Trends (CXBT) is looking for an experienced, talented, and highly motivated individual to join our Customer Experience Insights team in Arlington. As a Product and Customer Insights Manager, you will own and contribute to studies that measure Amazon's end-to-end experience. You will dr\u2026",
       "source": "adzuna",
@@ -26311,6 +28101,22 @@
       "location": "Rusholme, Manchester",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5792544113?se=JHs9tymL8RGRUZLah8DS3A&utm_medium=api&utm_source=638f9cc6&v=EB08F5E23E0E14B2395CB8211550609CFD8FC05F",
+      "posted": "2026-07-08",
+      "description": "SAP SuccessFactors & People Systems Manager * South Manchester/Cheshire \u2013 1 day on site per week * Full-time, Permanent * Competitive salary plus benefits Medlock Partners are partnering with a leading organisation to recruit an experienced SAP SuccessFactors & People Systems Manager to lead the ongoing development, support and optimisation of its HR technology landscape. Managing a small specialist team, you'll take ownership of SAP SuccessFactors and associated people systems, ensuring they d\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "3fe9fa045aa9",
+      "title": "SAP SuccessFactors & People Analytics Manager",
+      "company": "Medlock Partners Ltd",
+      "location": "Rusholme, Manchester",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5792544113?se=FA8L_fCL8RGZmYFlEP0Odw&utm_medium=api&utm_source=638f9cc6&v=EB08F5E23E0E14B2395CB8211550609CFD8FC05F",
       "posted": "2026-07-08",
       "description": "SAP SuccessFactors & People Systems Manager * South Manchester/Cheshire \u2013 1 day on site per week * Full-time, Permanent * Competitive salary plus benefits Medlock Partners are partnering with a leading organisation to recruit an experienced SAP SuccessFactors & People Systems Manager to lead the ongoing development, support and optimisation of its HR technology landscape. Managing a small specialist team, you'll take ownership of SAP SuccessFactors and associated people systems, ensuring they d\u2026",
       "source": "adzuna",
@@ -32356,220 +34162,6 @@
       "country": "CA",
       "tags": [
         "ex"
-      ]
-    },
-    {
-      "id": "4496ff682901",
-      "title": "Customer Experience Manager",
-      "company": "talentpluto",
-      "location": "New York City, New York",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5781087692?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-29",
-      "description": "Location: New York, NY Work Model: In-office Industry: Payroll & back-office software (FinTech) Compensation: Competitive base, commensurate with experience About the Company Our partner is a fast-growing FinTech building a payroll and back-office software suite for startups. The customer experience organization spans support, account management, activations, and tax, and it is scaling quickly alongside the rest of the business. This is a chance to step into a high-growth, high-priority team an\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "7fc34491a92e",
-      "title": "Sr. Director Customer Experience - Erlanger, KY",
-      "company": "Archer Daniels Midland",
-      "location": "Erlanger, Kenton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5780856327?se=rhfxVapz8RG5wqNxUkLhAA&utm_medium=api&utm_source=638f9cc6&v=6453886EDE6C6C3926C268E07054EEBB8909277C",
-      "posted": "2026-06-29",
-      "description": "Sr. Director Customer Experience - Erlanger, KY This is an exempt level position. Position Summary: The Director, Customer Experience will lead how the organization engages with and supports Flavors customers across the business. This role will drive a consistent, high-quality customer experience across key touchpoints and help shape customer-centric processes aligned to the Flavors strategy. This leader will be responsible for advancing a seamless and effective customer experience by contribut\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "fed8c6374da0",
-      "title": "Data Analyst V - CX or VoC",
-      "company": "BC Forward",
-      "location": "Indianapolis, Marion County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5781055668?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-29",
-      "description": "Job Title: Data Analyst V - CX or VoC Location: Remote Duration: Contract - 12 months Pay Range: $58/hr - $65/hr on W2 Job ID: 374024 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across North America and India, we take pride in building lon\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "99b5ef9e8309",
-      "title": "Customer Experience Technical Team Lead",
-      "company": "Orion180 Insurance Services",
-      "location": "Draper, Salt Lake County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5780964735?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-29",
-      "description": "We have an exciting opportunity for a Customer Experience Technical Team Lead to join our growing Customer Experience Team! The Technical Team Lead for AWTOS and PryzmIQ plays a critical role in delivering a seamless, technology-driven experience for customers, contractors, and internal teams. This position combines hands-on technical expertise with leadership responsibilities to support, develop, and guide a high-performing technical support team. As a Technical Team Lead, you will oversee dai\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9c36da072d1e",
-      "title": "Sr. Director Customer Experience - Erlanger, KY",
-      "company": "Archer Daniels Midland",
-      "location": "Erlanger, Kenton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5780856327?se=RGGXV6pz8RG5wqNxUkLhAA&utm_medium=api&utm_source=638f9cc6&v=6453886EDE6C6C3926C268E07054EEBB8909277C",
-      "posted": "2026-06-29",
-      "description": "Sr. Director Customer Experience - Erlanger, KY This is an exempt level position. Position Summary: The Director, Customer Experience will lead how the organization engages with and supports Flavors customers across the business. This role will drive a consistent, high-quality customer experience across key touchpoints and help shape customer-centric processes aligned to the Flavors strategy. This leader will be responsible for advancing a seamless and effective customer experience by contribut\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "3dd9d7f08ae1",
-      "title": "Employee Experience Manager",
-      "company": "CLO Virtual Fashion",
-      "location": "Los Angeles, Los Angeles County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5780796173?se=nu2-WKpz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=638f9cc6&v=CCF1B0B95757D73376BA8741A730C2C046C0F3A9",
-      "posted": "2026-06-29",
-      "description": "Job Description Job Description Founded in 2009, CLO Virtual Fashion is creating a new ecosystem for digital fashion based on its unrivaled technology in 3D clothing simulation algorithms. CLO Virtual Fashion provides all clothing-related services from concept to design, manufacturing, marketing, fitting, and styling based on 3D clothing simulation algorithms. Along with 3d garment design software CLO, Marvelous Designer, and Jinny, we are involved in the entire costume journey with platforms s\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "45eb14f7ccca",
-      "title": "DIRECTOR, CUSTOMER INSIGHTS",
-      "company": "Zydus Therapeutics Inc.",
-      "location": "Pennington, Mercer County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5780797534?se=PJ1ZXKpz8RG1Ec3-_UvSsA&utm_medium=api&utm_source=638f9cc6&v=C3B3E0969166C1B65CB793D13DA80030ECD69253",
-      "posted": "2026-06-29",
-      "description": "Job Description Job Description Description: COMPANY SUMMARY Zydus Therapeutics is a clinical-stage, specialty-focused bio-pharmaceutical company dedicated to developing transformative treatments for rare and serious liver diseases. Our lead drug candidate, Saroglitazar, is a dual PPAR alpha / gamma agonist that has received FDA Fast Track and Orphan Drug designations for the treatment of Primary Biliary Cholangitis (PBC). As a subsidiary of Zydus Lifesciences, we leverage a global network of 1\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "1a16fc66bcd0",
-      "title": "Advisor Employee Experience Analytics Jobs in USA, TN, Memphis | Rose International Job",
-      "company": "Rose International",
-      "location": "Memphis, DeSoto County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5781059534?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-29",
-      "description": "Education: Bachelor\u2019s degree in HR, Business, Analytics, Information Systems, Finance, or a related quantitative field. Required Skills & Experience 3-5 years of experience in HR analytics, people analytics, or a related data-driven role. Experience working with HRIS platforms (e.g., Workday) and analytics/reporting tools. Familiarity with employee listening platforms (e.g., Qualtrics) and survey analytics. Demonstrated ability to analyze data, build reports/dashboards, and communicate insights\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "xm",
-        "insights"
-      ]
-    },
-    {
-      "id": "3e91a95af7a7",
-      "title": "Assistant Store Manager - Lead Customer Experience",
-      "company": "JD Sports",
-      "location": "Rockingham, Rockingham Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5780627614?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-29",
-      "description": "JD Sports in Rockingham is seeking an Assistant Store Manager dedicated to enhancing the customer experience and achieving business goals. In this role, you will collaborate with the Store Manager to lead your team in delivering exceptional service and driving store performance. Your responsibilities will include nurturing a positive store environment, managing day-to-day operations, and ensuring financial targets are met. Join JD Sports and engage with leading brands while advancing your caree\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "43e8683eda45",
-      "title": "Customer Experience Officer",
-      "company": "Queensland Government",
-      "location": "Cairns Region, Queensland",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5780443991?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-29",
-      "description": "About TAFE Queensland TAFE Queensland is proud to be the largest and most experienced Vocational Education and Training (VET) provider in the State. For more than 140 years, TAFE Queensland has delivered practical and industry-relevant training to provide students with the skills and experience they need to build lifelong careers. Our award-winning training is delivered on campus, online, and in the workplace to give people the skills they need to enrich their communities, support their industr\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "06b0ce27ed21",
-      "title": "Sr. Director Customer Experience - Erlanger, KY",
-      "company": "Archer Daniels Midland",
-      "location": "Erlanger, Kenton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5780856327?se=xqnrymd08RGKPek4uKnP-g&utm_medium=api&utm_source=638f9cc6&v=6453886EDE6C6C3926C268E07054EEBB8909277C",
-      "posted": "2026-06-29",
-      "description": "Sr. Director Customer Experience - Erlanger, KY This is an exempt level position. Position Summary: The Director, Customer Experience will lead how the organization engages with and supports Flavors customers across the business. This role will drive a consistent, high-quality customer experience across key touchpoints and help shape customer-centric processes aligned to the Flavors strategy. This leader will be responsible for advancing a seamless and effective customer experience by contribut\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "7f50a20d9887",
-      "title": "Principal Engineering Lead (Customer Experience)",
-      "company": "ASOS",
-      "location": "London, UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5781274254?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-29",
-      "description": "Job Description As the Principal Engineering Lead within the Michelangelo team, you will provide senior technical and organisational leadership across the Michelangelo workstream, shaping how we build, scale and evolve customer-facing experiences across the ASOS apps and website. This role goes beyond the scope of a single squad: you will help define the technical direction across multiple teams, create alignment where there are dependencies and trade-offs, and ensure engineering decisions supp\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "90949881d1d6",
-      "title": "Customer Insights & CX Programme Manager (B2B)",
-      "company": "Kingspan Data Solutions",
-      "location": "London, UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5781282300?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-06-29",
-      "description": "Customer Insights & CX Programme Manager (B2B) About Us Kingspan Data Solutions is a global leader in mission-critical data centre infrastructure, delivering innovative solutions that support the performance, efficiency, and scalability of today's high-performing data centres. As one of the fastest-growing divisions within Kingspan Group plc, Kingspan Data Solutions operates across Europe, the Americas, the Middle East, and Asia-Pacific. We bring together specialist businesses with deep experti\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "8d833eaffdbc",
-      "title": "Sr. Director Customer Experience - Erlanger, KY",
-      "company": "Archer Daniels Midland",
-      "location": "Erlanger, Kenton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5780856327?se=RCW8jzJ18RGZkatXJwJhtg&utm_medium=api&utm_source=638f9cc6&v=6453886EDE6C6C3926C268E07054EEBB8909277C",
-      "posted": "2026-06-29",
-      "description": "Sr. Director Customer Experience - Erlanger, KY This is an exempt level position. Position Summary: The Director, Customer Experience will lead how the organization engages with and supports Flavors customers across the business. This role will drive a consistent, high-quality customer experience across key touchpoints and help shape customer-centric processes aligned to the Flavors strategy. This leader will be responsible for advancing a seamless and effective customer experience by contribut\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
       ]
     }
   ]
