@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-27T17:29:22Z",
-  "count": 2841,
+  "updated": "2026-08-28T18:22:24Z",
+  "count": 2897,
   "jobs": [
+    {
+      "id": "6e852fb7d9d7",
+      "title": "Customer Experience/Warehouse Specialist",
+      "company": "eBay",
+      "location": "Sydney, Sydney Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5859738476?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-29",
+      "description": "At eBay, we're more than a global ecommerce leader \u2014 we\u2019re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We\u2019re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts. Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work \u2014 every day. We're in this together, sustaining the futur\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
     {
       "id": "67a8c2bd694d",
       "title": "Customer Service - Customer Experience Officer",
@@ -76,6 +91,266 @@
       "tags": [
         "ex",
         "insights"
+      ]
+    },
+    {
+      "id": "5cbd6d8f3e0b",
+      "title": "Assistant Store Director, Customer Experience and Workforce Management",
+      "company": "Saks",
+      "location": "Boca Raton, Palm Beach County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5859561928?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-28",
+      "description": "Salary Range $61,666 - $77,082* Job Description: WHO WE ARE: Saks OFF 5TH is a leading destination for luxury off-price fashion. In our stores across the U.S., we offer a compelling assortment of high-end designers and everyday favorites at the best prices. We lead with the customer, empower our team and drive accountability within the business. We welcome creativity and embrace individuality and think that fashion is the ultimate form of self-expression. Saks OFF 5TH is part of Saks Global\u2019s p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1e13fc905b18",
+      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
+      "company": "Amazon",
+      "location": "Bellevue, King County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5859428118?se=xhy0_Ayj8RGXG9dJDaHT3g&utm_medium=api&utm_source=638f9cc6&v=BA7B186E2FFA9FFFC470B90EFD13F03019F4BAE1",
+      "posted": "2026-08-28",
+      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ff63614f7930",
+      "title": "Aquatics Experience Lead",
+      "company": "Diventures",
+      "location": "Springfield, Greene County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5859896602?se=RvTn_Qyj8RGZHZO0p4ff-g&utm_medium=api&utm_source=638f9cc6&v=DB260B4C5603F2D7D980F7E5BFABA6B1B5A2E92E",
+      "posted": "2026-08-28",
+      "description": "Job Description Job Description Aquatics Experience LeadAbout DiventuresAt Diventures, safety is our number one priority and fun is our number one goal. We are in the relationship business, committed to creating positive, personalized experiences for every customer we serve. The Aquatics Experience Lead plays a vital role in delivering exceptional swim experiences while supporting the daily operations of our aquatics programming.Position SummaryThe Aquatics Experience Lead contributes to the su\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "bea3cb2b5557",
+      "title": "Employee Experience Advisor",
+      "company": "Sanford Health",
+      "location": "Fargo, Cass County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5859670123?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-28",
+      "description": "Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America\u2019s heartland. &xa;&xa; Work Shift: &xa;&xa; Scheduled Weekly Hours: 40&xa;&xa; Compensation: Salary Range: $31.00 - $49.50&xa;&xa;&xa;&xa; Union Position: No&xa;&xa; Department Details This role serves as the primary Employee Experience partner for leaders and employees across the Fargo, Bismarck, and Bemidji regi\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "313191c0bed8",
+      "title": "Director, Employee Experience",
+      "company": "National Wildlife Federation",
+      "location": "Reston, Fairfax County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5859900930?se=FOczAA2j8RGxSf1iGXKoQA&utm_medium=api&utm_source=638f9cc6&v=F7CA693741D485A1045A55137343A3ED9E751EFA",
+      "posted": "2026-08-28",
+      "description": "Job Description Job Description:\\n\\nThe National Wildlife Federation is on an essential journey to become a durable organization that champions belonging, where we act as bridge-builders to unite people to do big things for wildlife and the communities we serve. By honoring our essence, living our core values and committing to this vision, the Federation can become the model wildlife organization that fully welcomes, retains, and celebrates staff, volunteers, and supporters from all backgrounds\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "05747f86cee6",
+      "title": "Sr. Product & Customer Insights Manager, Customer Experience and Business Trends",
+      "company": "Amazon",
+      "location": "Seattle, King County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5859716390?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-28",
+      "description": "Amazon is looking for a Sr. Product & Customer Insights Manager to join our Customer Experience and Business Trends team. Our team\u2019s mission is to deeply understand and improve customer experiences globally. As a Sr. Product & Customer Insights manager on the team, you will play a crucial role in shaping the future of our selling partners' experience. The right candidate will have a passion for understanding the competitive landscape, assessing the end to end experience of selling partners, and\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "ef5b0ae7fd4e",
+      "title": "Sr. Product & Customer Insights Manager, Customer Experience and Business Trends",
+      "company": "Amazon",
+      "location": "International, King County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5859428161?se=IHOFAg2j8RGXG9dJDaHT3g&utm_medium=api&utm_source=638f9cc6&v=1B0A0C6DFB0B19696B7D0DD48B3578DCF0255787",
+      "posted": "2026-08-28",
+      "description": "Description Amazon is looking for a Sr. Product & Customer Insights Manager to join our Customer Experience and Business Trends team. Our team's mission is to deeply understand and improve customer experiences globally. As a Sr. Product & Customer Insights manager on the team, you will play a crucial role in shaping the future of our selling partners' experience. The right candidate will have a passion for understanding the competitive landscape, assessing the end to end experience of selling p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "2ef5172a4d7a",
+      "title": "Senior Manager, People Analytics, Insights and AI",
+      "company": "Becton Dickinson & Company",
+      "location": "Franklin Lakes, Bergen County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5859892297?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-28",
+      "description": "We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health\u2122 is our Purpose, and it\u2019s no small feat. It takes the imagination and passion of all of us\u2014from design and engineering to the manufacturing and marketing of our billions of MedTech products per year\u2014to look at the impossible and find transformative solutions that turn dreams into possibilities. Job Description Summary: The Senior Manager of Pe\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "2aeec227470a",
+      "title": "Director, Employee Experience",
+      "company": "National Wildlife Federation",
+      "location": "Reston, Fairfax County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5859900930?se=Uml8Bg2j8RGzfINLZYBFTw&utm_medium=api&utm_source=638f9cc6&v=F7CA693741D485A1045A55137343A3ED9E751EFA",
+      "posted": "2026-08-28",
+      "description": "Job Description Job Description:\\n\\nThe National Wildlife Federation is on an essential journey to become a durable organization that champions belonging, where we act as bridge-builders to unite people to do big things for wildlife and the communities we serve. By honoring our essence, living our core values and committing to this vision, the Federation can become the model wildlife organization that fully welcomes, retains, and celebrates staff, volunteers, and supporters from all backgrounds\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "e370aabd56b7",
+      "title": "Sr. Manager, CX Research",
+      "company": "Pfizer",
+      "location": "Queensborough, Snohomish County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5859437124?se=PDCgDg2j8RGXG9dJDaHT3g&utm_medium=api&utm_source=638f9cc6&v=EFDD8E1A9762CE9EDACD341453F43C670783D462",
+      "posted": "2026-08-28",
+      "description": "The Sr. Manager, CX Research, within the CX Research department, plays a pivotal role in shaping colleague-centric product development within Pfizer Digital & Technology, reporting to the Director, CX Research. This role leads moderately complex qualitative research, experimentation, and usability studies, manages cross-functional collaborations, and translates colleague insights into actionable product recommendations. This is a hands-on role: the Sr. Manager personally designs, executes, and \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "b73156d7391b",
+      "title": "Director, CX Research",
+      "company": "Pfizer",
+      "location": "Queensborough, Snohomish County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5859437121?se=PDCgDg2j8RGXG9dJDaHT3g&utm_medium=api&utm_source=638f9cc6&v=E9F864AB3A8E119BDB80FDA4C732F7A5357B36DB",
+      "posted": "2026-08-28",
+      "description": "About the role At Pfizer, our mission is to create breakthroughs that change patients' lives.As part of the Customer Experience function in the Chief Technologist Organization, we are seeking a Director, CX Research to own the evidence behind Pfizer's AI experience, and to build and lead the research team that produces it. Pfizer is putting AI in front of 80,000 colleagues. This roleownsthe answer to whether it works: whether colleagues adopt it, whether they trust it, and whathas tochange when\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "429094466f31",
+      "title": "Customer Experience Manager",
+      "company": "Sainsbury's",
+      "location": "Edinburgh, Scotland",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5859686967?se=2rpnDw2j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=638f9cc6&v=962A8DA4225FCD350A5D6C7DDD0690468CF61A9D",
+      "posted": "2026-08-28",
+      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "90692595cdce",
+      "title": "Director of Customer Experience",
+      "company": "Metropolitan Thames Valley",
+      "location": "Boulevard Industrial Park, Beeston",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5859524069?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-28",
+      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "19bfdd327e9b",
+      "title": "Customer Experience Coordinator",
+      "company": "Recruiter",
+      "location": "Reading, Berkshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5859090060?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-28",
+      "description": "This is a high-profile customer and stakeholder-facing role supporting the delivery of our Biggest Ever Upgrade in 150 years, built within our capital delivery programme AMP8. As well as engaging with customers about our projects, the successful candidate will also be promoting these to public figures such as elected councillors. What you\u2019ll be doing as a Customer Experience Coordinator Lead the engagement and communication on each project from beginning to end. Stakeholders will include Local \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e5dbb6bd7faa",
+      "title": "Advisor, Employee Experience",
+      "company": "Parkland County",
+      "location": "Stony Plain, Edmonton region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5859647912?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-28",
+      "description": "Job Description Job Description Now Hiring: Advisor, Employee Experience Join a team that prioritizes public service and where your work will make a meaningful impact within the community. Parkland County believes in the power of teamwork, approaching challenges with a solution-focused mindset, demonstrating a commitment to respect in all we do and a focus on safety for employees and all those we serve. If you share these values and are ready to contribute to a dynamic organization, we encourag\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "3b9ed79f9feb",
+      "title": "Service Lead Customer Experience",
+      "company": "City of Cockburn",
+      "location": "White Gum Valley, Fremantle Area",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5858901309?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-28",
+      "description": "An opportunity to drive transformation Flexible work options, super up to 16%  employee perks Free Cockburn ARC gym membership and wellness programs About Us The City of Cockburn is centrally located in the southern suburbs of Perth, on Whadjuk country. We\u2019re a place of experiences, just 20 minutes\u2019 from Perth city, with everything from pristine beaches and wetlands to theme parks and world-class recreation facilities. At the City of Cockburn, we\u2019re more than just a local government \u2013 we\u2019re a v\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "fc1848faf35c",
+      "title": "Service Lead Customer Experience",
+      "company": "City of Cockburn",
+      "location": "White Gum Valley, Fremantle Area",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5858900210?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-28",
+      "description": "An opportunity to drive transformation Flexible work options, super up to 16%  employee perks Free Cockburn ARC gym membership and wellness programs About Us The City of Cockburn is centrally located in the southern suburbs of Perth, on Whadjuk country. We\u2019re a place of experiences, just 20 minutes\u2019 from Perth city, with everything from pristine beaches and wetlands to theme parks and world-class recreation facilities. At the City of Cockburn, we\u2019re more than just a local government \u2013 we\u2019re a v\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
       ]
     },
     {
@@ -582,6 +857,269 @@
       ]
     },
     {
+      "id": "3587ad9297a9",
+      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
+      "company": "Amazon",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5859171231?se=xhy0_Ayj8RGXG9dJDaHT3g&utm_medium=api&utm_source=638f9cc6&v=5B4DAE2535B8B40165BB2CD8542083637197A5B8",
+      "posted": "2026-08-27",
+      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "bfd9a50b6e08",
+      "title": "Digital Client Experience (CX) Lead - Wealth Management",
+      "company": "Northern Trust",
+      "location": "Schiller Park, Cook County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5857932480?se=6HAaAg2j8RGxSf1iGXKoQA&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
+      "posted": "2026-08-27",
+      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a1f970651f2a",
+      "title": "Sr. Product & Customer Insights Manager, Customer Experience and Business Trends",
+      "company": "Amazon",
+      "location": "Fort Myer, Arlington County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5859058909?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-27",
+      "description": "Description Amazon is looking for a Sr. Product & Customer Insights Manager to join our Customer Experience and Business Trends team. Our team's mission is to deeply understand and improve customer experiences globally. As a Sr. Product & Customer Insights manager on the team, you will play a crucial role in shaping the future of our selling partners' experience. The right candidate will have a passion for understanding the competitive landscape, assessing the end to end experience of selling p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "cf769e832d7b",
+      "title": "Manager, Customer Insights & Reporting",
+      "company": "Bank of Montreal",
+      "location": "Chicago, Cook County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5858213091?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-27",
+      "description": "Application Deadline: 09/10/2026 Address: 320 S Canal Street Job Family Group: Data Analytics & Reporting This is a hybrid role in Chicago Key Responsibilities Hands\u2011On Analytics & Data Preparation Independently extract, transform, and analyze data using Python, SQL, and SAS . Perform data quality checks, reconciliation, and validation to ensure analytical accuracy. Analyze customer, product, and performance data across multiple US Banking segments. Apply sound analytical techniques to identify\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "b8eea21f4055",
+      "title": "Manager, People Analytics Insight Partner",
+      "company": "Gilead Sciences, Inc.",
+      "location": "Belmont, San Mateo County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5858930744?se=spS7BA2j8RGzfINLZYBFTw&utm_medium=api&utm_source=638f9cc6&v=70604363C39354B05871D33A3D1B054EBF457A32",
+      "posted": "2026-08-27",
+      "description": "Onsite - Hybrid Eligible United States - California - Foster City Full time R0054824 At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a rel\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "4dce0727fe12",
+      "title": "Manager, People Analytics & Insights",
+      "company": "CSL",
+      "location": "King of Prussia, Montgomery County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5858887413?se=spS7BA2j8RGzfINLZYBFTw&utm_medium=api&utm_source=638f9cc6&v=3F2161756C1C5E2F31400DE3CF94072A527B06E4",
+      "posted": "2026-08-27",
+      "description": "CSL is seeking a Manager, People Analytics & Insights to lead the development and delivery of data-driven workforce insights that advance our patient-focused mission. In this role, you will shape CSL\u2019s people analytics strategy, building dashboards, models, and reports that inform talent, engagement, and organizational decisions across our global biotechnology business. Partnering closely with HR, business leaders, and data teams, you will translate complex HR data into clear, actionable recomm\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "0a115454b474",
+      "title": "Senior Manager, Customer Experience (Service & Arftermarket Senior Manager)",
+      "company": "Nordson Corporation",
+      "location": "Carlsbad, San Diego County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5859123041?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-27",
+      "description": "Nordson Electronics Solutions, a global leader in assembly and advanced packaging stage solutions, is seeking an experienced and highly motivated individual to join our team. We are committed to creating a diverse and inclusive workplace, and we are looking for candidates who share that same commitment. Summary of the role As a member of our team, you will have the opportunity to work in a dynamic and collaborative environment, where your ideas and contributions will be valued and respected. Jo\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c9a2e40cf570",
+      "title": "Sr. Business Manager, People Analytics",
+      "company": "Capital One",
+      "location": "Tysons Corner, Fairfax County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5859061701?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-27",
+      "description": "Sr. Business Manager, People Analytics As a Senior Manager, Business Analysis at Capital One, you will apply your strategic and analytical skills to one of the company's most important challenges: how our workforce evolves in the age of AI. You will lead a team with world-class professionals to develop, test, and scale strategies that shape how Capital One attracts, develops, and retains talent. And you'll do it all in a collaborative environment that values your insight, encourages you to take\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "b5998564c818",
+      "title": "Sr. Business Manager, People Analytics",
+      "company": "Capital One",
+      "location": "Capitol, Richmond",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5859061736?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-27",
+      "description": "Sr. Business Manager, People Analytics As a Senior Manager, Business Analysis at Capital One, you will apply your strategic and analytical skills to one of the company's most important challenges: how our workforce evolves in the age of AI. You will lead a team with world-class professionals to develop, test, and scale strategies that shape how Capital One attracts, develops, and retains talent. And you'll do it all in a collaborative environment that values your insight, encourages you to take\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "6ebf31a079f5",
+      "title": "Manager, People Analytics Insight Partner",
+      "company": "Gilead Sciences, Inc.",
+      "location": "Belmont, San Mateo County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5858930744?se=2L41DQ2j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=638f9cc6&v=70604363C39354B05871D33A3D1B054EBF457A32",
+      "posted": "2026-08-27",
+      "description": "Onsite - Hybrid Eligible United States - California - Foster City Full time R0054824 At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a rel\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "796bae89268d",
+      "title": "Manager, People Analytics & Insights",
+      "company": "CSL",
+      "location": "King of Prussia, Montgomery County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5858887413?se=2L41DQ2j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=638f9cc6&v=3F2161756C1C5E2F31400DE3CF94072A527B06E4",
+      "posted": "2026-08-27",
+      "description": "CSL is seeking a Manager, People Analytics & Insights to lead the development and delivery of data-driven workforce insights that advance our patient-focused mission. In this role, you will shape CSL\u2019s people analytics strategy, building dashboards, models, and reports that inform talent, engagement, and organizational decisions across our global biotechnology business. Partnering closely with HR, business leaders, and data teams, you will translate complex HR data into clear, actionable recomm\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "ebcb8eb4bce8",
+      "title": "Digital Client Experience (CX) Lead - Wealth Management",
+      "company": "Northern Trust",
+      "location": "Schiller Park, Cook County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5857932480?se=DI_0DQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
+      "posted": "2026-08-27",
+      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "775ef3d24081",
+      "title": "Director of Customer Experience",
+      "company": "Metropolitan Thames Valley",
+      "location": "Nottingham, Nottinghamshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5858680840?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-27",
+      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7b79215213bd",
+      "title": "Customer Experience Manager",
+      "company": "Hays Specialist Recruitment Limited",
+      "location": "Leeds, West Yorkshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5858625756?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-27",
+      "description": "Your new company An exciting opportunity for an experienced Customer Experience Manager, Customer Success Manager or Account Manager to join a growing business and take ownership of key customer relationships. This role reports directly to the Customer Experience Director and includes line management of 1 direct report. Your new role You'll be responsible for building stronger existing customer relationships, improving the customer experience, coordinating customer projects and working with int\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "393d97f662a1",
+      "title": "Customer Experience Manager",
+      "company": "Hays Business Support",
+      "location": "Hyde Park, Leeds",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5858597516?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-27",
+      "description": "Your new company An exciting opportunity for an experienced Customer Experience Manager, Customer Success Manager or Account Manager to join a growing business and take ownership of key customer relationships. This role reports directly to the Customer Experience Director and includes line management of 1 direct report. Your new role You'll be responsible for building stronger existing customer relationships, improving the customer experience, coordinating customer projects and working with int\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9f04b16c63f8",
+      "title": "Advisor, Employee Experience",
+      "company": "Parkland County",
+      "location": "Parkland, Edmonton region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5858817240?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-27",
+      "description": "Now Hiring: Advisor, Employee Experience Join a team that prioritizes public service and where your work will make a meaningful impact within the community. Parkland County believes in the power of teamwork, approaching challenges with a solution-focused mindset, demonstrating a commitment to respect in all we do and a focus on safety for employees and all those we serve. If you share these values and are ready to contribute to a dynamic organization, we encourage you to consider this opportuni\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "de163e56b1f7",
+      "title": "Voice of Customer Manager",
+      "company": "Themis Solutions",
+      "location": "Vancouver, Greater Vancouver",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5858056365?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-27",
+      "description": "Clio is the global leader in legal AI technology, empowering legal professionals and law firms of every size to work smarter, faster, and more securely. We are transforming the legal experience for all by bettering the lives of legal professionals while increasing access to justice . Summary: We are currently seeking a Voice of Customer Manager to join our Customer Success team in Toronto , Vancouver , or Calgary on a 12-18 month fixed term contract. What your team does: As the Voice of Custome\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "7c344454afca",
       "title": "Director, CX Research",
       "company": "Pfizer",
@@ -1085,6 +1623,21 @@
       ]
     },
     {
+      "id": "f901b389b751",
+      "title": "Manager, Data Science, Customer Experience",
+      "company": "Home Depot",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5857822432?se=2L41DQ2j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=638f9cc6&v=E713172C641A0FA549640C163C3A91D7303E957A",
+      "posted": "2026-08-26",
+      "description": "Position Purpose: The Data Science Manager is responsible for leading a team of data scientists (individual contributors), ensuring that their efforts drive business profitability, increased efficiencies and improved customer experience. This role leads overall programs, maximizing resources, partnering with project teams and business partners, and supports problem solving efforts. Data Science Managers provide leadership, mentoring, and coaching to team members, along with supporting their dev\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "0b5ef036607b",
       "title": "Sales Associate - Guest Experience Specialist",
       "company": "Bob's Discount Furniture",
@@ -1531,6 +2084,83 @@
       ]
     },
     {
+      "id": "7c1d5b2f11b2",
+      "title": "Business Analyst - Customer Experience",
+      "company": "Siemens",
+      "location": "Five Points, Wake County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5856307254?se=xhy0_Ayj8RGXG9dJDaHT3g&utm_medium=api&utm_source=638f9cc6&v=1F6220EED9BF37E508691C64DBEFB2D55155ED7F",
+      "posted": "2026-08-25",
+      "description": "Job Family: Electrification & Automation Req ID: 518143 Business Analyst - Customer Experience Data & Insights Here at Siemens, we take pride in enabling sustainable progress through technology. We do this by empowering customers and combining the real and digital worlds. Improving how we live, work, and move today and for the next generation starts with our people. We know a business thrives when its people are thriving, and our global, diverse team is ready to support you and challenge you to\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "aab743005d35",
+      "title": "IT Director - Digital Employee Experience",
+      "company": "Zimmer Biomet",
+      "location": "Winona Lake, Kosciusko County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5856220187?se=FOczAA2j8RGxSf1iGXKoQA&utm_medium=api&utm_source=638f9cc6&v=0910674221542606331E46E475D787B7AF92175C",
+      "posted": "2026-08-25",
+      "description": "At Zimmer Biomet, we believe in pushing the boundaries of innovation and driving our mission forward. As a global medical technology leader for nearly 100 years, a patient's mobility is enhanced by a Zimmer Biomet product or technology every 8 seconds. As a Zimmer Biomet team member, you will share in our commitment to providing mobility and renewed life to people around the world. To support our talented team, we focus on development opportunities, robust employee resource groups (ERGs), a fle\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "ad85da303455",
+      "title": "Business Analyst - Customer Experience",
+      "company": "Siemens",
+      "location": "Five Points, Wake County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5856307254?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=1F6220EED9BF37E508691C64DBEFB2D55155ED7F",
+      "posted": "2026-08-25",
+      "description": "Job Family: Electrification & Automation Req ID: 518143 Business Analyst - Customer Experience Data & Insights Here at Siemens, we take pride in enabling sustainable progress through technology. We do this by empowering customers and combining the real and digital worlds. Improving how we live, work, and move today and for the next generation starts with our people. We know a business thrives when its people are thriving, and our global, diverse team is ready to support you and challenge you to\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "f5720865fe99",
+      "title": "Interim Customer Experience (CX) Lead (3-month)",
+      "company": "Goodman Masson",
+      "location": "Norfolk, Eastern England",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5855352228?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-25",
+      "description": "Interim Customer Experience Lead Location: Norfolk (full-time, office-based) Contract: 3 months (with potential to extend) Hours: Full-time, 37 hours per week We are partnering with a well-established housing association in Norfolk seeking an Interim Customer Experience Lead to provide senior leadership and stability to their Customer Experience team during a period of change and high operational demand. This is a hands-on interim leadership role focused on steadying a relatively new team, main\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9a63f910ca29",
+      "title": "Accountant \u2013 Customer Experience & Assets (FTC 18\u201324 Months)",
+      "company": "Seymour John",
+      "location": "Telford, Shropshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5855352149?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-08-25",
+      "description": "Accountant \u2013 Customer Experience & Assets (FTC 18\u201324 Months) Organisation: Housing Plus Group Salary: \u00a349,200 per annum Location: Telford / Hybrid Working (minimum one day per week in the office) Working Pattern: 36 hours per week This is an exciting time to join Housing Plus Group. Following the merger of The Wrekin Housing Group and Housing Plus Group, the organisation has created a broader, strengthened group structure and is continuing to develop a modern, customer-focused and resilient Fin\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "abef66331c5c",
       "title": "Customer Experience Specialist II",
       "company": "ThermoFisher Scientific",
@@ -1780,6 +2410,21 @@
       "location": "Herndon, Fairfax County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5854960932?se=YpENXzyi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=638f9cc6&v=DA984025C00ED24F202248959D459C441874E8CD",
+      "posted": "2026-08-24",
+      "description": "R-00188387 Description Leidos Digital Intel IT sector is seeking a Program Analyst \u2013 Communications & Customer Experience (CX) to support the U.S. Coast Guard programs by leading communications, stakeholder engagement, and customer experience initiatives across mission, technical, and operational teams. This role focuses on translating complex program activities into clear, actionable communications while improving service delivery, user satisfaction, and program transparency. The analyst works\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "8da6bf04fdab",
+      "title": "Program Analyst - Communication and Customer Experience with Security Clearance",
+      "company": "Leidos",
+      "location": "Herndon, Fairfax County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5854960932?se=xhy0_Ayj8RGXG9dJDaHT3g&utm_medium=api&utm_source=638f9cc6&v=DA984025C00ED24F202248959D459C441874E8CD",
       "posted": "2026-08-24",
       "description": "R-00188387 Description Leidos Digital Intel IT sector is seeking a Program Analyst \u2013 Communications & Customer Experience (CX) to support the U.S. Coast Guard programs by leading communications, stakeholder engagement, and customer experience initiatives across mission, technical, and operational teams. This role focuses on translating complex program activities into clear, actionable communications while improving service delivery, user satisfaction, and program transparency. The analyst works\u2026",
       "source": "adzuna",
@@ -2548,6 +3193,51 @@
       ]
     },
     {
+      "id": "7c23af797426",
+      "title": "Associate Director, Global Customer Experience (Onsite)",
+      "company": "RTX Corporation",
+      "location": "Cedar Rapids, Linn County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5854088924?se=Thng-wyj8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=B148EC632669861092A6980241F39485B8FBF18C",
+      "posted": "2026-08-23",
+      "description": "Date Posted: 2026-08-21 Country: United States of America Location: US-MD-ANNAPOLIS-906 ~ 2551 Riva Rd ~ BLDG 906 Position Role Type: Onsite U.S. Citizen, U.S. Person, or Immigration Status Requirements: U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract. Security Clearance Type: None/Not Required Security Clearance Status: Not Required At RTX, the world's largest aerospace and defense company, 185,000 great minds are united by p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "4fc6a6043298",
+      "title": "Associate Director, Global Customer Experience (Onsite)",
+      "company": "RTX Corporation",
+      "location": "Annapolis, Anne Arundel County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5853962148?se=Thng-wyj8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=D0593121D0061BE947FB7EF59D6614A125258E4E",
+      "posted": "2026-08-23",
+      "description": "Date Posted: 2026-08-21 Country: United States of America Location: US-MD-ANNAPOLIS-906 ~ 2551 Riva Rd ~ BLDG 906 Position Role Type: Onsite U.S. Citizen, U.S. Person, or Immigration Status Requirements: U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract. Security Clearance Type: None/Not Required Security Clearance Status: Not Required At RTX, the world's largest aerospace and defense company, 185,000 great minds are united by p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "273f13aa4736",
+      "title": "Accessibility Director - Employee Experience",
+      "company": "JPMorgan Chase",
+      "location": "Grandview Heights, Franklin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5854116050?se=FOczAA2j8RGxSf1iGXKoQA&utm_medium=api&utm_source=638f9cc6&v=0DC4F317D556AE389FFEA33C6811DFC05F3DFD14",
+      "posted": "2026-08-23",
+      "description": "Job Description We are reimagining the future of work at JPMorganChase and building digital products that fundamentally change the way our employees interact with the firm. From engaging with content and building community, to accessing essential services, information, and tools - we are redefining what it means to work in the modern workplace. Our employee products are at the center of every employee's day, and we're expanding our team focused on the digital employee experience (EX). As an Emp\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
       "id": "0ca7781b1247",
       "title": "Customer Experience Manager",
       "company": "Five Below",
@@ -3274,6 +3964,21 @@
       "description": "Pay Range: $60,000 - $90,000 At The Home Depot Canada, we want you to feel valued and supported. The pay range you see represents base salary only. In addition, your total rewards may include: semi-annual bonuses tied to business performance; Deferred Profit-Sharing Program to assist with retirement savings; comprehensive paid benefits; a 15% discount on Home Depot stock purchases; and merit-based salary increases. We are committed to recognizing your efforts and supporting your growth with us.\u2026",
       "source": "adzuna",
       "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "3e9328ed1054",
+      "title": "Sr. Director, Program Management - CX",
+      "company": "Home Depot",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5853247626?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=D48CBB445CECD97DE215B32C2A8E4477D14670E3",
+      "posted": "2026-08-22",
+      "description": "Position Purpose: The Senior Director of Operations will be responsible for the daily activities of driving change, process improvements and implementation of Store Operations (SSC) projects into a Division. (NOTE:This does not include Pro, Tool Rental, At Home Services, H Key Responsibilities:  Review project plans for completeness and sustainability, socialize the implementation plans, including all aspects of change management and ensure the completeness and accuracy of projects and initiati\u2026",
+      "source": "adzuna",
+      "country": "US",
       "tags": [
         "cx"
       ]
@@ -5257,6 +5962,101 @@
       ]
     },
     {
+      "id": "37fa06ea2335",
+      "title": "Director, Global Customer Insights & Experience",
+      "company": "Cummins Inc.",
+      "location": "Nashville, Davidson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5850430478?se=1l0dAQ2j8RGzfINLZYBFTw&utm_medium=api&utm_source=638f9cc6&v=91ECD49C1B5A52BA9EBC53C60335C4F0EBCC54AC",
+      "posted": "2026-08-20",
+      "description": "Director, Global Customer Insights & Experience The Director, Global Customer Insights and Experience is responsible for leading the enterprise strategy, governance, and execution of customer and employee listening programs, Voice of the Customer (VoC), customer experience transformation, and global language translation services. This role serves as the organization's champion for customer and employee insights, leveraging data, feedback, and analytics to improve satisfaction, engagement, loyal\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "dd7f7256d396",
+      "title": "Senior Director, Business Strategy and Customer Insights - Walmart Business",
+      "company": "Walmart",
+      "location": "Bentonville, Benton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5850433827?se=SuJAAw2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=A24C61C973DACE91D2993BC878176CC6F390FC7F",
+      "posted": "2026-08-20",
+      "description": "Position Summary About Walmart Business Walmart Business is a new omnichannel experience to save businesses, nonprofits and governments time, money, and hassle so they can focus on their missions. We leverage existing Walmart assets and build new capabilities to better serve B2B customers. We're bringing together the Every Day Low Prices (EDLP), assortment, delivery speed and omni capabilities of Walmart with new experiences and functionality tailored to the unique needs of organizations. We ar\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "a78df4508c30",
+      "title": "Director, Global Customer Insights & Experience",
+      "company": "Cummins Inc.",
+      "location": "Nashville, Davidson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5850430478?se=SuJAAw2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=91ECD49C1B5A52BA9EBC53C60335C4F0EBCC54AC",
+      "posted": "2026-08-20",
+      "description": "Director, Global Customer Insights & Experience The Director, Global Customer Insights and Experience is responsible for leading the enterprise strategy, governance, and execution of customer and employee listening programs, Voice of the Customer (VoC), customer experience transformation, and global language translation services. This role serves as the organization's champion for customer and employee insights, leveraging data, feedback, and analytics to improve satisfaction, engagement, loyal\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "005dc4fb49cc",
+      "title": "Program Manager, Airports & Venues CX",
+      "company": "Uber",
+      "location": "Phoenix, Maricopa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5850442545?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=F6511C4B3743A9B8D6D98F4DF4B686B33999D710",
+      "posted": "2026-08-20",
+      "description": "About the Role Airports and venues are Uber's highest-stakes customer experience moments. Airports alone account for approximately 15% of Uber's Mobility Gross Bookings globally - a disproportionate share driven by our premium portfolio, high-value riders, and the structural complexity of airport operations across 100 priority hubs worldwide. On a platform completing more than 40 million trips every day, airport journeys punch well above their weight: they disproportionately shape how business \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "78f9654546eb",
+      "title": "Program Manager, Airports & Venues CX",
+      "company": "Uber",
+      "location": "Grand Central, Manhattan",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5850438998?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=37A3FAACCC3FCE68770D333E315B5548F0C4572E",
+      "posted": "2026-08-20",
+      "description": "About the Role Airports and venues are Uber's highest-stakes customer experience moments. Airports alone account for approximately 15% of Uber's Mobility Gross Bookings globally - a disproportionate share driven by our premium portfolio, high-value riders, and the structural complexity of airport operations across 100 priority hubs worldwide. On a platform completing more than 40 million trips every day, airport journeys punch well above their weight: they disproportionately shape how business \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b826bbb55176",
+      "title": "Program Manager, Airports & Venues CX",
+      "company": "Uber",
+      "location": "SoMa, San Francisco",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5850179933?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=00C62E2C3C1B21349BCEFF70E877F426D0A40492",
+      "posted": "2026-08-20",
+      "description": "About the Role Airports and venues are Uber's highest-stakes customer experience moments. Airports alone account for approximately 15% of Uber's Mobility Gross Bookings globally - a disproportionate share driven by our premium portfolio, high-value riders, and the structural complexity of airport operations across 100 priority hubs worldwide. On a platform completing more than 40 million trips every day, airport journeys punch well above their weight: they disproportionately shape how business \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "452be2cf3dc0",
       "title": "Azure Customer Experience Engineer (ACE)",
       "company": "Microsoft",
@@ -6427,6 +7227,38 @@
       "description": "Banking | Customer Experience | NPS | Strategic Research | Client Management Join Australia's leading provider of business intelligence and market insights for the financial services industry, a consultancy trusted by major banking brands to turn complex data into strategic clarity. Combining deep sector expertise with high-quality research and consulting, they help clients improve customer experience, strengthen advocacy and make smarter commercial decisions. This is an outstanding opportunity\u2026",
       "source": "adzuna",
       "country": "AU",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "466e154393d0",
+      "title": "Associate Director, Customer Insights & Engagement Analytics,- Immunology",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5849239067?se=SuJAAw2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=0CA3CE7CC80EE811C676626E510A8FAA9EBCC2B8",
+      "posted": "2026-08-19",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "d466f298ea8c",
+      "title": "Senior Director, Customer Insights & Engagement - Cardiovascular",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5849238761?se=SuJAAw2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=A13172FE8931D3DDE4127DAF337B3A16CA977D43",
+      "posted": "2026-08-19",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
       "tags": [
         "cx",
         "insights"
@@ -8321,6 +9153,22 @@
       "location": "The City, Central London",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5846672752?se=kEW6fzyi8RGyBrVynUzDwQ&utm_medium=api&utm_source=638f9cc6&v=18A87A7C09BD17FB1F347242F67F3EE26D2B7D21",
+      "posted": "2026-08-18",
+      "description": "Product & Customer Experience Officer Location: Moorgate, London Salary: \u00a335,000 - \u00a340,000 per annum Employment Type: Permanent Working Pattern: Office-based, 5 days per week About the Role We are looking for a Product & Customer Experience Officer to join our Products & Analytics team in London. This is an exciting opportunity for an analytical and customer-focused professional to play a key role in using customer insights, data and market intelligence to improve products, services and the ove\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "97a233c5b61d",
+      "title": "Product and Customer Experience",
+      "company": "LJ Recruitment",
+      "location": "The City, Central London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5846672752?se=-lhHHA2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=18A87A7C09BD17FB1F347242F67F3EE26D2B7D21",
       "posted": "2026-08-18",
       "description": "Product & Customer Experience Officer Location: Moorgate, London Salary: \u00a335,000 - \u00a340,000 per annum Employment Type: Permanent Working Pattern: Office-based, 5 days per week About the Role We are looking for a Product & Customer Experience Officer to join our Products & Analytics team in London. This is an exciting opportunity for an analytical and customer-focused professional to play a key role in using customer insights, data and market intelligence to improve products, services and the ove\u2026",
       "source": "adzuna",
@@ -10335,6 +11183,21 @@
       ]
     },
     {
+      "id": "83d7237ab3d4",
+      "title": "Customer Experience Specialist Program Manager",
+      "company": "TEKsystems",
+      "location": "Wellston, Saint Louis County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5843931723?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=92DC34084ADEB02A078FC936155792E395DB4CA1",
+      "posted": "2026-08-15",
+      "description": "Description Description: As a Specialist in CX (Consumer Experience) Project/Program Management, you are responsible for management and execution of projects and programs to effectively deliver North American PetFood, Treats, Golden Products, and ProPlan Veterinary Diets business results across Development and CX Campaigns. The Specialist in Program Management is responsible for leading projects and cross functional teams to deliver projects and processes to meet business requirements. You will\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "81727fc7e3e0",
       "title": "Customer Experience Manager",
       "company": "Five Below",
@@ -12093,6 +12956,22 @@
       "country": "CA",
       "tags": [
         "cx"
+      ]
+    },
+    {
+      "id": "179dd94b1ab1",
+      "title": "UX/CX Program Manager",
+      "company": "Insight Global",
+      "location": "Stamford, Fairfield County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5841185471?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=D1ACEC9862EB9784A9880981F289B5825407B539",
+      "posted": "2026-08-13",
+      "description": "Job Description $48-54/hr Insight Global is seeking a UX/CX Program Manager for a top, telecommunications client. This program manager will be working on RCS (rich communication services). RCS allows you to interact from text rather than needing to go onto the website resulting in enhanced communication. This program manager will help keep customer experience and design projects organized and moving forward. This person will work closely with design, research, product, engineering, and business\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
       ]
     },
     {
@@ -21102,6 +21981,241 @@
       "location": "Montpelier, Washington County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5832965019?se=_knTbDyi8RGhLffPfv7Txw&utm_medium=api&utm_source=638f9cc6&v=18DA937C695F10C653DAF2F829AAD12BC4830EFA",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As the Technical Program Manager for CX Intelligence & AI (CXI), you'll be the embedded program management owner for all of CX, driving cross-functional execution across CX Ops, CX Programs, Product/Engineering, and Analytics. CXI is responsible for transforming Coinbase Customer Support from a reactive operations center into a highly effective, AI-powered support experience that is better for customers and \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "17306c46b1ae",
+      "title": "Staff Technical Program Manager, CX Agent Experience",
+      "company": "Coinbase",
+      "location": "Tumwater, Thurston County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5833041602?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=0C2882B4F18B479E8909F21940A2C51C254502A8",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. The Enterprise Applications & Architecture (EAA) Business Unit Delivery team builds and operates the internal platforms that help Coinbase scale. Within EAA, the Compliance CX Agent Experience team owns Agent Cockpit, the primary internal platform used by Coinbase's compliance agents and investigators to review cases, communicate with customers, access account and transaction data, and resolve compliance-rel\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "70384617d3f4",
+      "title": "Senior Data Scientist, CX Analytics",
+      "company": "Coinbase",
+      "location": "Tumwater, Thurston County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5833041580?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=7AB54736E4D604C3588C32D4CBC4571297F90940",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As a Senior Data Scientist on the CX Consumer Analytics team, you will serve as the foundational link between CX operations and top-line financial impact, owning the revenue calibration models, experimentation frameworks, and behavioral intelligence that connect every customer support interaction to Coinbase's asset accumulation flywheel. You will partner closely with CX Analytics Engineers, Program Managers\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "0bb6f30b040f",
+      "title": "Technical Program Manager, CX Intelligence & AI",
+      "company": "Coinbase",
+      "location": "Tumwater, Thurston County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5833041545?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=85D8451EB0A9C2EBED79BB11664A68AD899CC01D",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As the Technical Program Manager for CX Intelligence & AI (CXI), you'll be the embedded program management owner for all of CX, driving cross-functional execution across CX Ops, CX Programs, Product/Engineering, and Analytics. CXI is responsible for transforming Coinbase Customer Support from a reactive operations center into a highly effective, AI-powered support experience that is better for customers and \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "4ed48352363c",
+      "title": "Technical Program Manager, CX Intelligence & AI",
+      "company": "Coinbase",
+      "location": "Madison, Dane County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5833039759?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=9FD5C1A88D7544144829673385A01253289B5EF6",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As the Technical Program Manager for CX Intelligence & AI (CXI), you'll be the embedded program management owner for all of CX, driving cross-functional execution across CX Ops, CX Programs, Product/Engineering, and Analytics. CXI is responsible for transforming Coinbase Customer Support from a reactive operations center into a highly effective, AI-powered support experience that is better for customers and \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "f4c24ac177a5",
+      "title": "Senior Data Scientist, CX Analytics",
+      "company": "Coinbase",
+      "location": "Madison, Dane County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5833039718?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=663864FDCD5C7D60070837204E0B3F44CEDADB80",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As a Senior Data Scientist on the CX Consumer Analytics team, you will serve as the foundational link between CX operations and top-line financial impact, owning the revenue calibration models, experimentation frameworks, and behavioral intelligence that connect every customer support interaction to Coinbase's asset accumulation flywheel. You will partner closely with CX Analytics Engineers, Program Managers\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "b8fa73c756ab",
+      "title": "Staff Technical Program Manager, CX Agent Experience",
+      "company": "Coinbase",
+      "location": "Madison, Dane County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5833039701?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=AAA96C0AECF537F7DB94D744ADEAD5E70772B5A1",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. The Enterprise Applications & Architecture (EAA) Business Unit Delivery team builds and operates the internal platforms that help Coinbase scale. Within EAA, the Compliance CX Agent Experience team owns Agent Cockpit, the primary internal platform used by Coinbase's compliance agents and investigators to review cases, communicate with customers, access account and transaction data, and resolve compliance-rel\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "287a55f1c18c",
+      "title": "Staff Technical Program Manager, CX Agent Experience",
+      "company": "Coinbase",
+      "location": "Bonnie, Utah County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5833038575?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=01AD581C8CADAE8CA29F97C1F9F74AF55A1200CB",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. The Enterprise Applications & Architecture (EAA) Business Unit Delivery team builds and operates the internal platforms that help Coinbase scale. Within EAA, the Compliance CX Agent Experience team owns Agent Cockpit, the primary internal platform used by Coinbase's compliance agents and investigators to review cases, communicate with customers, access account and transaction data, and resolve compliance-rel\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "77d75c8b6ef3",
+      "title": "Senior Data Scientist, CX Analytics",
+      "company": "Coinbase",
+      "location": "Bonnie, Utah County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5833038576?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=E952F1FC0C6BB25EEB6FE0DEEE306E645D89BDC1",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As a Senior Data Scientist on the CX Consumer Analytics team, you will serve as the foundational link between CX operations and top-line financial impact, owning the revenue calibration models, experimentation frameworks, and behavioral intelligence that connect every customer support interaction to Coinbase's asset accumulation flywheel. You will partner closely with CX Analytics Engineers, Program Managers\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "a03b1df5c6c6",
+      "title": "Technical Program Manager, CX Intelligence & AI",
+      "company": "Coinbase",
+      "location": "Bonnie, Utah County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5833038574?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=B52F03FD9CA1720C56978659B6BAFDA66B3BF9AC",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As the Technical Program Manager for CX Intelligence & AI (CXI), you'll be the embedded program management owner for all of CX, driving cross-functional execution across CX Ops, CX Programs, Product/Engineering, and Analytics. CXI is responsible for transforming Coinbase Customer Support from a reactive operations center into a highly effective, AI-powered support experience that is better for customers and \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "ecdd0451dd97",
+      "title": "Technical Program Manager, CX Intelligence & AI",
+      "company": "Coinbase",
+      "location": "Charleston, Kanawha County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5832966007?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=1A67DDB45C4FD836BB2763FEB7BA81A7ED0050B0",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As the Technical Program Manager for CX Intelligence & AI (CXI), you'll be the embedded program management owner for all of CX, driving cross-functional execution across CX Ops, CX Programs, Product/Engineering, and Analytics. CXI is responsible for transforming Coinbase Customer Support from a reactive operations center into a highly effective, AI-powered support experience that is better for customers and \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "121bb537b2c5",
+      "title": "Staff Technical Program Manager, CX Agent Experience",
+      "company": "Coinbase",
+      "location": "Charleston, Kanawha County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5832965972?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=9657708256823DD4706925A01AD2833C59D92886",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. The Enterprise Applications & Architecture (EAA) Business Unit Delivery team builds and operates the internal platforms that help Coinbase scale. Within EAA, the Compliance CX Agent Experience team owns Agent Cockpit, the primary internal platform used by Coinbase's compliance agents and investigators to review cases, communicate with customers, access account and transaction data, and resolve compliance-rel\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a52c76698e74",
+      "title": "Senior Data Scientist, CX Analytics",
+      "company": "Coinbase",
+      "location": "Charleston, Kanawha County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5832965996?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=1EA00E6DC6CB384EEC0935BF981A12C979D88607",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As a Senior Data Scientist on the CX Consumer Analytics team, you will serve as the foundational link between CX operations and top-line financial impact, owning the revenue calibration models, experimentation frameworks, and behavioral intelligence that connect every customer support interaction to Coinbase's asset accumulation flywheel. You will partner closely with CX Analytics Engineers, Program Managers\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "13634f6fe8c2",
+      "title": "Senior Data Scientist, CX Analytics",
+      "company": "Coinbase",
+      "location": "Montpelier, Washington County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5832965086?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=9E6841D7C2205A69ED38DC69025DEEE3B288E134",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As a Senior Data Scientist on the CX Consumer Analytics team, you will serve as the foundational link between CX operations and top-line financial impact, owning the revenue calibration models, experimentation frameworks, and behavioral intelligence that connect every customer support interaction to Coinbase's asset accumulation flywheel. You will partner closely with CX Analytics Engineers, Program Managers\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "7244e0836fa9",
+      "title": "Staff Technical Program Manager, CX Agent Experience",
+      "company": "Coinbase",
+      "location": "Montpelier, Washington County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5832965040?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=59B32CFDC8B39D6CB6F0D3FA018FB09267829F1A",
+      "posted": "2026-08-08",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. The Enterprise Applications & Architecture (EAA) Business Unit Delivery team builds and operates the internal platforms that help Coinbase scale. Within EAA, the Compliance CX Agent Experience team owns Agent Cockpit, the primary internal platform used by Coinbase's compliance agents and investigators to review cases, communicate with customers, access account and transaction data, and resolve compliance-rel\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "df511d82ab07",
+      "title": "Technical Program Manager, CX Intelligence & AI",
+      "company": "Coinbase",
+      "location": "Montpelier, Washington County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5832965019?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=18DA937C695F10C653DAF2F829AAD12BC4830EFA",
       "posted": "2026-08-08",
       "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As the Technical Program Manager for CX Intelligence & AI (CXI), you'll be the embedded program management owner for all of CX, driving cross-functional execution across CX Ops, CX Programs, Product/Engineering, and Analytics. CXI is responsible for transforming Coinbase Customer Support from a reactive operations center into a highly effective, AI-powered support experience that is better for customers and \u2026",
       "source": "adzuna",
@@ -30478,6 +31592,115 @@
       ]
     },
     {
+      "id": "937552978b76",
+      "title": "Staff Technical Program Manager, CX Agent Experience",
+      "company": "Coinbase",
+      "location": "Trenton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5832893507?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=53871BFC4A020FD7849E9BCC97679E234CE50BBE",
+      "posted": "2026-08-07",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. The Enterprise Applications & Architecture (EAA) Business Unit Delivery team builds and operates the internal platforms that help Coinbase scale. Within EAA, the Compliance CX Agent Experience team owns Agent Cockpit, the primary internal platform used by Coinbase's compliance agents and investigators to review cases, communicate with customers, access account and transaction data, and resolve compliance-rel\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "8f9a048f25d6",
+      "title": "Technical Program Manager, CX Intelligence & AI",
+      "company": "Coinbase",
+      "location": "Trenton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5832893491?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=E93DB5BAF5D2A6F07E1D231D5D19B9D4CC9B8221",
+      "posted": "2026-08-07",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As the Technical Program Manager for CX Intelligence & AI (CXI), you'll be the embedded program management owner for all of CX, driving cross-functional execution across CX Ops, CX Programs, Product/Engineering, and Analytics. CXI is responsible for transforming Coinbase Customer Support from a reactive operations center into a highly effective, AI-powered support experience that is better for customers and \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "c5e04c4226ac",
+      "title": "Senior Data Scientist, CX Analytics",
+      "company": "Coinbase",
+      "location": "Trenton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5832893448?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=38495AC4F536260127FF4B03B2953C293B08FC03",
+      "posted": "2026-08-07",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As a Senior Data Scientist on the CX Consumer Analytics team, you will serve as the foundational link between CX operations and top-line financial impact, owning the revenue calibration models, experimentation frameworks, and behavioral intelligence that connect every customer support interaction to Coinbase's asset accumulation flywheel. You will partner closely with CX Analytics Engineers, Program Managers\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "4599c372d0b3",
+      "title": "Senior Data Scientist, CX Analytics",
+      "company": "Coinbase",
+      "location": "Cedar, Cole County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5832893361?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=B7D4216416E44DAAD627FFF14CA415C9DEBC2BCE",
+      "posted": "2026-08-07",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As a Senior Data Scientist on the CX Consumer Analytics team, you will serve as the foundational link between CX operations and top-line financial impact, owning the revenue calibration models, experimentation frameworks, and behavioral intelligence that connect every customer support interaction to Coinbase's asset accumulation flywheel. You will partner closely with CX Analytics Engineers, Program Managers\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "4951e01cd967",
+      "title": "Technical Program Manager, CX Intelligence & AI",
+      "company": "Coinbase",
+      "location": "Cedar, Cole County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5832893308?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=9BDC897D50BF880E1FF9E92D465547F53D7340B6",
+      "posted": "2026-08-07",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. As the Technical Program Manager for CX Intelligence & AI (CXI), you'll be the embedded program management owner for all of CX, driving cross-functional execution across CX Ops, CX Programs, Product/Engineering, and Analytics. CXI is responsible for transforming Coinbase Customer Support from a reactive operations center into a highly effective, AI-powered support experience that is better for customers and \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "3efc818dd0ca",
+      "title": "Staff Technical Program Manager, CX Agent Experience",
+      "company": "Coinbase",
+      "location": "Cedar, Cole County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5832893396?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=604908166FEB3AD86622C40C4BF452DD6B33D208",
+      "posted": "2026-08-07",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. The Enterprise Applications & Architecture (EAA) Business Unit Delivery team builds and operates the internal platforms that help Coinbase scale. Within EAA, the Compliance CX Agent Experience team owns Agent Cockpit, the primary internal platform used by Coinbase's compliance agents and investigators to review cases, communicate with customers, access account and transaction data, and resolve compliance-rel\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2f78b52f842b",
+      "title": "Staff Technical Program Manager, CX Agent Experience",
+      "company": "Coinbase",
+      "location": "Topeka, Shawnee County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5832892363?se=dAiGCQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=8F37B5F937D2015658F87906C5709BE4CB270105",
+      "posted": "2026-08-07",
+      "description": "Ready to do the most impactful work of your career? Athttps://www.coinbase.com/careers. The Enterprise Applications & Architecture (EAA) Business Unit Delivery team builds and operates the internal platforms that help Coinbase scale. Within EAA, the Compliance CX Agent Experience team owns Agent Cockpit, the primary internal platform used by Coinbase's compliance agents and investigators to review cases, communicate with customers, access account and transaction data, and resolve compliance-rel\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "aeb761b1dcf2",
       "title": "Customer Experience Manager",
       "company": "Five Below",
@@ -35013,6 +36236,38 @@
       "location": "Princeton, Mercer County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5826291208?se=POuWZTyi8RGyBrVynUzDwQ&utm_medium=api&utm_source=638f9cc6&v=CC2DAA1416CC27121AF6DB1671EC083EDD7B781A",
+      "posted": "2026-08-02",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "c9cbca26eab2",
+      "title": "Associate Director, Customer Insights & Engagement, Immunology",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5826291198?se=SuJAAw2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=F3EEBFA0AFAAD83196959EFCAF7C3FC79E6A1332",
+      "posted": "2026-08-02",
+      "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "87a9ffc206ba",
+      "title": "Director - Customer Insights and Engagement- Neuroscience",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5826291208?se=SuJAAw2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=CC2DAA1416CC27121AF6DB1671EC083EDD7B781A",
       "posted": "2026-08-02",
       "description": "Working with Us Challenging. Meaningful. Life-changing. Those aren't words that are usually associated with a job. But working at Bristol Myers Squibb is anything but usual. Here, uniquely interesting work happens every day, in every department. From optimizing a production line to the latest breakthroughs in cell therapy, this is work that transforms the lives of patients, and the careers of those who do it. You'll get the chance to grow and thrive through opportunities uncommon in scale and s\u2026",
       "source": "adzuna",
@@ -43311,391 +44566,6 @@
       "tags": [
         "cx",
         "insights"
-      ]
-    },
-    {
-      "id": "6e3195b7f282",
-      "title": "Salon Customer Experience Specialist - Central Mall",
-      "company": "JCPenney",
-      "location": "Fort Smith, Sebastian County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5818019761?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Salon Customer Experience Specialist The Customer Sales and Experience Specialist is the first and last impression of the salon, responsible for creating a welcoming, professional, and elevated experience for every guest. This role ensures smooth front desk operations, accurate appointment scheduling, and prompt, courteous service. In addition to supporting the salon team and resolving client concerns, the Customer Sales and Experience Specialist plays a key role in driving salon success by con\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "93eee6ad6c37",
-      "title": "Vice President, Customer Experience  Innovation",
-      "company": "Marriott",
-      "location": "West Bethesda, Montgomery County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5818011857?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Additional Information Job Number 26055726 Job Category Sales & Marketing Location 7750 Wisconsin Ave, Bethesda, Maryland, United States, 20814 VIEW ON MAP (https://www.google.com/maps?q=7750%20Wisconsin%20Ave%2C%20Bethesda%2C%20Maryland%2C%20United%20States%2C%2020814) Schedule Full Time Located Remotely? N Position Type Management Pay Range: $182,100-$325,300 annually Bonus Eligible: Y Stock Package: Y JOB SUMMARY The Vice President, Customer Experience Design  Innovation leads Marriott's ent\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "efceec8c6b92",
-      "title": "Customer Experience Manager (Logistics)",
-      "company": "Ultimate Staffing",
-      "location": "Aberdeen, Harford County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5818009520?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Customer Experience Manager Location: Belcamp, MD (LOCAL CANDIDATE ONLY at this time) Schedule: Full-Time | Monday-Friday Salary: $80,000 - $90,000 (depending on experience) Position Summary Our client is seeking a Customer Experience Manager to serve as the primary point of contact for international customers while coordinating export orders, international shipments, logistics communication, and documentation management. This role combines customer service, international logistics, and supply \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "6d21370d5b22",
-      "title": "Customer Experience Lead - Full Time",
-      "company": "Burlington Stores",
-      "location": "Raytown, Jackson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5818005705?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Full-Time Customer Experience Lead If you want an exciting job with one of the largest off-price retailers in the nation, join the Burlington Stores team as a Full-Time Customer Experience Lead! As a Customer Experience Lead, you'll play a key role in delivering a positive and engaging shopping experience for our customers. You'll help drive front-end operations, support associates during your shift, and ensure the sales floor is organized, stocked, and ready to serve our customers. This is a h\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "37d61320cde3",
-      "title": "Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Epsom, Surrey",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5817728184?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a9bee57c952c",
-      "title": "Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Glasgow, Scotland",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5817724453?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Leading in our stores: Our management teams don&rsquo;t just run stores - they&rsquo;re the driving force behind our business. With bold leadership, a passion for service and an eye for opportunity, they empower teams to raise the bar every single day for our customers. Whether it's product availability, safety standards, or delivering seamless daily operations, they&rsquo;re hands-on, sleeves-rolled-up changemakers. And the impact? Work becomes more rewarding for our colleagues, and shopping b\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "b1b4dd1778fa",
-      "title": "Head of Customer Experience and Journey Design",
-      "company": "Hackajob Ltd",
-      "location": "South West London, London",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5817731654?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Why loveholidays? At loveholidays - we trailblaze together . We're on a mission to open the world to everyone, giving our customers' unlimited choice, unmatched ease and unmissable value for their next getaway. Our team is the driving force behind our role as our customers' personal holiday expert - the smart way to get away. Here, we're doing things differently to open the world to everyone, and our Customer Experience team is at the forefront of driving cutting-edge innovation . Join our fast\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "f7bdc07d24a3",
-      "title": "Director, Customer Experience, Women's Health & Rare Disease",
-      "company": "Natera",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5819249284?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "POSITION TITLE: Director, Customer Experience, Women\u2019s Health & Rare Disease POSITION SUMMARY: This position is a leadership role responsible for the end-to-end Women\u2019s Health & Rare Disease customer experience at Natera ensuring timely and accurate sample processing as well as overall customer success. All inbound support channels, and regionally aligned support and success agents will report into this leader. The Director sets the vision for customer experience excellence, owns department-wid\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "acf455e30093",
-      "title": "Data Analyst IV (Customer Experience and Support Analyst)",
-      "company": "BC Forward",
-      "location": "Indianapolis, Marion County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5818208615?se=SJ-6lymL8RGCrekkC7WOOQ&utm_medium=api&utm_source=638f9cc6&v=952CBBCD847CA292EAB7F49ABE778A302398CA75",
-      "posted": "2026-07-28",
-      "description": "Job Title: Data Analyst IV (Customer Experience and Support Analyst) Location: Remote (PST or CST Preferred) Duration: Contract - 12 months Pay Range: $59/hr $67/hr (W2) Job ID: 406693 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across Nor\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "d523fcdc9d26",
-      "title": "Manager Customer Insights",
-      "company": "Tyson Foods",
-      "location": "Springdale, Washington County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5819299389?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Job Details: SUMMARY: This position is responsible for assisting Senior Customer Development Manager in managing prepared business at Sam's Club. This position will leveraging syndicated data to conduct market assessments and develop category recommendations with regard to assortment pricing and merchandising. Other duties include: Develop and publish weekly reports for use both internally and externally Utilize syndicated data insights in preparation for frequent interface with the buyers to b\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "39b2afc34113",
-      "title": "Customer Experience Manager",
-      "company": "RELX INC",
-      "location": "Oakwood, Montgomery County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5819226188?se=6GupqimL8RGbLL45Ug83Nw&utm_medium=api&utm_source=638f9cc6&v=1FB90BB676318159F1D64BBC44D90EBF22F6E9AD",
-      "posted": "2026-07-28",
-      "description": "Are you passionate about transforming customer experiences through data, innovation, and AI? Do you enjoy leading cross-functional initiatives that drive measurable impact for customers and the business? About our Team LexisNexis Legal & Professional, which serves customers in more than 150 countries with 11,800 employees worldwide, is part of RELX ( http://www.relx.com ), a global provider of information-based analytics and decision tools for professional and business customers. Our company ha\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "8d53ab2c84e4",
-      "title": "Customer Experience Manager",
-      "company": "RELX INC",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5819223526?se=6GupqimL8RGbLL45Ug83Nw&utm_medium=api&utm_source=638f9cc6&v=5FED87C6070B0C4876B7B3C7E4CD9D1181AEFC35",
-      "posted": "2026-07-28",
-      "description": "Are you passionate about transforming customer experiences through data, innovation, and AI? Do you enjoy leading cross-functional initiatives that drive measurable impact for customers and the business? About our Team LexisNexis Legal & Professional, which serves customers in more than 150 countries with 11,800 employees worldwide, is part of RELX ( http://www.relx.com ), a global provider of information-based analytics and decision tools for professional and business customers. Our company ha\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "b2d6977c97ca",
-      "title": "Customer Experience Manager",
-      "company": "RELX INC",
-      "location": "Five Points, Wake County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5819222810?se=6GupqimL8RGbLL45Ug83Nw&utm_medium=api&utm_source=638f9cc6&v=30EF5720C57ECAEDAD74F5B204A2924411E95118",
-      "posted": "2026-07-28",
-      "description": "Are you passionate about transforming customer experiences through data, innovation, and AI? Do you enjoy leading cross-functional initiatives that drive measurable impact for customers and the business? About our Team LexisNexis Legal & Professional, which serves customers in more than 150 countries with 11,800 employees worldwide, is part of RELX ( http://www.relx.com ), a global provider of information-based analytics and decision tools for professional and business customers. Our company ha\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "8533d94797b0",
-      "title": "Customer Experience Manager",
-      "company": "RELX INC",
-      "location": "Lansing, Ingham County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5819214752?se=6GupqimL8RGbLL45Ug83Nw&utm_medium=api&utm_source=638f9cc6&v=06C657454E154240A7AED7A99B7258D139BDD3D7",
-      "posted": "2026-07-28",
-      "description": "Are you passionate about transforming customer experiences through data, innovation, and AI? Do you enjoy leading cross-functional initiatives that drive measurable impact for customers and the business? About our Team LexisNexis Legal & Professional, which serves customers in more than 150 countries with 11,800 employees worldwide, is part of RELX ( http://www.relx.com ), a global provider of information-based analytics and decision tools for professional and business customers. Our company ha\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "e7edd36a3e46",
-      "title": "Customer Experience Manager",
-      "company": "RELX INC",
-      "location": "William Penn Annex East, Philadelphia County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5819144623?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Are you passionate about transforming customer experiences through data, innovation, and AI? Do you enjoy leading cross-functional initiatives that drive measurable impact for customers and the business? About our Team LexisNexis Legal & Professional, which serves customers in more than 150 countries with 11,800 employees worldwide, is part of RELX ( http://www.relx.com ), a global provider of information-based analytics and decision tools for professional and business customers. Our company ha\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "1105a22912df",
-      "title": "Customer Experience Manager",
-      "company": "RELX INC",
-      "location": "Boca Raton, Palm Beach County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5819132068?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Are you passionate about transforming customer experiences through data, innovation, and AI? Do you enjoy leading cross-functional initiatives that drive measurable impact for customers and the business? About our Team LexisNexis Legal & Professional, which serves customers in more than 150 countries with 11,800 employees worldwide, is part of RELX ( http://www.relx.com ), a global provider of information-based analytics and decision tools for professional and business customers. Our company ha\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "a1220139f913",
-      "title": "Customer Experience Manager",
-      "company": "RELX INC",
-      "location": "Old Sixth Ward, Houston",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5819129617?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Are you passionate about transforming customer experiences through data, innovation, and AI? Do you enjoy leading cross-functional initiatives that drive measurable impact for customers and the business? About our Team LexisNexis Legal & Professional, which serves customers in more than 150 countries with 11,800 employees worldwide, is part of RELX ( http://www.relx.com ), a global provider of information-based analytics and decision tools for professional and business customers. Our company ha\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "a9b78453f632",
-      "title": "Customer Experience Manager",
-      "company": "RELX INC",
-      "location": "Springfield, Sangamon County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5819127819?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Are you passionate about transforming customer experiences through data, innovation, and AI? Do you enjoy leading cross-functional initiatives that drive measurable impact for customers and the business? About our Team LexisNexis Legal & Professional, which serves customers in more than 150 countries with 11,800 employees worldwide, is part of RELX ( http://www.relx.com ), a global provider of information-based analytics and decision tools for professional and business customers. Our company ha\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "ac0fae6f9fbd",
-      "title": "Customer Experience Business Analyst",
-      "company": "Hull City Council",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5818629245?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Number of Vacancies: 1 Time Type: Part time Worker Type: Fixed Term (Fixed Term) Proposed Interview Date: Monday, September 7, 2026 Hours of Work: 30 Hiring Manager: Angeline Evans Contact Number: 01482 612186 Job Description Summary: Customer Experience Business Analyst - Grade 6 - Pro Rata Salary \u00a323,951 - \u00a325,995. This is a Fixed Term, Part Time position to cover Maternity Leave up until 2nd May 2027. Proposed interview date: Week Commencing 7th September 2026. Hull City Council is looking f\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "fd87866e6da9",
-      "title": "Accountant Investment & Growth (Customer Experience)",
-      "company": "Seymour John Public Services  Limited",
-      "location": "Telford, Shropshire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5818969509?se=ktApsimL8RGRUZLah8DS3A&utm_medium=api&utm_source=638f9cc6&v=7B7E2F0695FF98F98785DFA94C32139C89E91D03",
-      "posted": "2026-07-28",
-      "description": "Accountant Investment & Growth (Customer Experience) Organisation: Housing Plus Group Salary: \u00a349,200 per annum Location: Telford / Hybrid Working (minimum one day per week in the office) Working Pattern: 36 hours per week Closing Date: Friday 7 August 2026 Final Interviews: Wednesday 26 August 2026 This is an exciting time to join Housing Plus Group. Following the merger of The Wrekin Housing Group and Housing Plus Group, the organisation has created a broader, strengthened group structure and\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "4a3166a29527",
-      "title": "Manager, Customer Experience Trainee - Montreal-Ouest",
-      "company": "TD",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5818999905?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Work Location: Dollard-des-Ormeaux, Quebec, Canada Hours: 37.5 Line of Business: Personal & Commercial Banking Pay Details: 59 500 $ / $59,500 - 84 000 $ / $84,000 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they pro\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "3aab02522cc1",
-      "title": "Customer Experience & Inbound Operations Manager",
-      "company": "Harvest Prime",
-      "location": "Niagara on the Lake, Niagara",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5818996644?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Location Hudson Valley, NY (Remote) About The Role Harvest Prime is a growing food distribution platform built from the merger of three established Northeast brands. We\u2019re looking for a hands-on, tech-savvy CX & Inbound Operations Manager to own the full inbound customer journey\u2014from first inquiry through onboarding and ongoing account health. You\u2019ll build and run the systems that route, qualify, and manage every inbound touchpoint so our sales team can focus on selling. This is a management-le\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "97c4b91e4d40",
-      "title": "Customer Experience Leader",
-      "company": "Indigo Books & Music",
-      "location": "Edmonton, Edmonton region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5818371612?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Job Description The Customer Experience Leader is the execution lead of all customer programs and results. This position role models and coaches to create a high-performance, customer-focused environment where employees build their capabilities, contribute to team success, and bring the Indigo brand to life through meaningful business outcomes. KEY PERFORMANCE METRICS Net Promoter Score (NPS) Net sales and profitability Loyalty (plum and email acquisition) Promotional execution Store engagement\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "2d628e8bdebb",
-      "title": "Performance and Customer Experience Manager",
-      "company": "Lacroix m\u00e9decine priv\u00e9e",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5818270159?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "Work Location Primarily Laval and Montreal, with regular travel throughout the clinic network, including Quebec City and Gatineau (vehicle required). Compensation Annual Salary: $90,000 to $100,000 Annual Bonus of up to 30% Total Compensation of up to $130,000 and more Clinic Division Join an organization that is redefining private healthcare. The Lacroix Medical Group is one of the largest private healthcare networks in Quebec. Thanks to sustained growth, a passionate team, and a constant driv\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "ef92c1731062",
-      "title": "Director, Chief of Staff - Employee Experience",
-      "company": "LabCorp",
-      "location": "Durham, Durham County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5818328700?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-07-28",
-      "description": "At Labcorp, you are part of a journey to accelerate life-changing healthcare breakthroughs and improve the delivery of care for all. You\u2019ll be inspired to discover more, develop new skills and pursue career-building opportunities as we help solve some of today\u2019s biggest health challenges around the world. Together, let\u2019s embrace possibilities and change lives! Labcorp is seeking a hybrid Director, Chief of Staff - Employee Experience to join our team at 10 Moore Drive, Durham, NC. This schedule\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
       ]
     }
   ]
