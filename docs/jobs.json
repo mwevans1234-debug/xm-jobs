@@ -1,7 +1,538 @@
 {
-  "updated": "2026-09-26T11:03:45Z",
-  "count": 1704,
+  "updated": "2026-09-27T11:41:27Z",
+  "count": 1654,
   "jobs": [
+    {
+      "id": "0b6eb4ed8c14",
+      "title": "Customer Experience Manager",
+      "company": "Five Below",
+      "location": "Danbury, Fairfield County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5900593914?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "At Five Below our growth is a result of the people who embrace our purpose: We know life is way better when you are free to Let Go & Have Fun in an amazing experience, filled with unlimited possibilities, priced so low, you can always say yes to the newest, coolest stuff! Just ask any of our over 20,000 associates who work at Five Below and they\u2019ll tell you there\u2019s no other place like it. It all starts with our purpose and then, The Five Below Way, which is our values and behaviors that each an\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "fabd9d68a1a1",
+      "title": "Director of Customer Experience & Commercial Operations",
+      "company": "Omni Force",
+      "location": "Humble, Harris County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5900455753?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "Job Description Our client is redefining how the world builds reliable energy infrastructure. They design and manufacture advanced composite utility poles that are lighter, stronger, and longer-lasting than traditional materials such as wood, steel, and concrete. Our poles are engineered for superior performance in the most demanding environments, providing utilities with a durable, low-maintenance, and sustainable solution for a more resilient grid. With operations in North America and custome\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e0c357a8b470",
+      "title": "Customer Experience Intern - Year round - Green Bay, WI",
+      "company": "Schreiber Foods",
+      "location": "Green Bay, Brown County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5900463649?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "Job Category: Temporary/Other Job Family: Intern Job Description: Are you eager to begin a career, but can't get started because you don't have experience? Schreiber Foods is seeking a high energy intern to assist the Customer Experience Analyst team. Working within Customer Experience allows interns to build a solid foundation as they work closely and build relationships with several Business Units throughout the company. This is a great opportunity that will give students exposure to the cust\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7a844d241d55",
+      "title": "Sr. People Experience Specialist",
+      "company": "Ayar Labs",
+      "location": "San Jose, Santa Clara County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5900576377?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "Sr. People Experience Specialist Location: On-site - San Jose, CA Ayar Labs is shattering AI data bottlenecks by moving data at the speed of light. As pioneers of co-packaged optics (CPO), we are using light instead of electricity to move data faster, further, and with a fraction of the energy needed to fuel the explosive growth of AI models. Backed by industry giants like NVIDIA, AMD and Intel and manufactured in partnership with the world\u2019s leading semiconductor ecosystem, Ayar Labs\u2019 co-packa\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "cd0ef74d46e7",
+      "title": "Voice of the Customer Intelligence (VOC) Manager, Customer Experience and Engagement",
+      "company": "JLL",
+      "location": "Arlington, Arlington County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900354219?se=DBWYA2i68RGGQ9u1mQKVdw&utm_medium=api&utm_source=638f9cc6&v=FF27305EB6862DD91F2090EFBE7A301856826A68",
+      "posted": "2026-09-27",
+      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "069ac4f1c07c",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Oakwood, Montgomery County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900576189?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=735589FAA25F6ACB519C79737FC61ECAE7909198",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "2ac7b43620e4",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Grandview Heights, Franklin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900576180?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=B505493487AF0B58C7BEEF059D91922EFC3A6CD3",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "f29582ba64fe",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Saint Bernard, Hamilton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900576171?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=C1B99BFC60E7FF9B8BD0B15B51C30098167647CF",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "10e9b45e289f",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Cloverdale, Shelby County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900567372?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=7FAD802F074A48AC66B28A6B61C26089F495515C",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "a2b1d4ac1fca",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Kansas City, Jackson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900560431?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=E9BD116656125BB710CAEC082D9F4C95E39784EE",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "2a7555ae85e4",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Wellston, Saint Louis County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900560439?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=9DB00D7511A6D2C1195BFF80C0EFE590B773CE57",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "22d4a0ead444",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Grand Rapids, Kent County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900560202?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=9BD35A39343F2EBD71A4F350A032C5B4533F39A4",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "ca8cc15fbb52",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Uptown, Marion County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900556475?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=C15D2DAE1F0FAFC5C9E20F69B5D700929CE7B795",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "76bef6580835",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Tampa, Hillsborough County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5900555587?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "c2042ad90216",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Tallahassee, Leon County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5900555614?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "3ec12ad3c6d7",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Jacksonville, Duval County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5900555608?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "6c7e485f1838",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Strathmoor Manor, Jefferson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900547764?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=69DC491B4F1FDF295451B8621A25115EA1139444",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "07bec8906391",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Wichita, Sedgwick County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900546276?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=3B0CC8373BB4242D93415C6B7C2EE37133996D98",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "6af3e025b6b1",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Birmingham, Jefferson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900544453?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=2C26C23DF256C5E669C1816BCAB96241F2B27B1D",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "6157b9799d1f",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Des Moines, Polk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900541750?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=9121D6E225D01BADD578D0A157AFB2ABFC09DE22",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "6d133b432fb8",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Davenport, Scott County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900541722?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=1664D7F17BF191DA70D09BDCDFD3204A8B47B6DB",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "518658f94838",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Pittsburgh, Allegheny County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5900537624?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "2c6d52058def",
+      "title": "Division Programs & Contracts/CX Manager",
+      "company": "Parker Hannifin Internal Careers",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5900465503?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "This position is subject to meeting U.S. export compliance and/or U.S. Government contracting citizenship eligibility requirements. At Parker Aerospace, we develop technologies and innovative solutions that enable reliable, efficient and increasingly sustainable flight for the lifecycle of the aircraft, including aftermarket support. Our passionate people with deep engineering expertise, together with our breadth of differentiated technologies, ensure that we make the extraordinary happen and c\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a305825dc524",
+      "title": "Customer Experience Manager",
+      "company": "Cloudflare",
+      "location": "San Francisco, California",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5900407737?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "About Us At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "92386e80ca43",
+      "title": "People Insights Analyst",
+      "company": "Pax8",
+      "location": "Denver, Colorado",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5900576168?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": " People Insights Analyst | Denver, Colorado (Hybrid) Join Pax8 as our People Insights Analyst and help transform people data into meaningful decisions that shape the future of our business, culture, and employee experience. Shape the Future of People Intelligence This is not a traditional analyst role. At Pax8, we're building an AI-native organization where data, insights, and technology help leaders make smarter, faster, and more impactful people decisions. As our People Insights Analyst, you'\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "7771f8425823",
+      "title": "Voice of the Customer Intelligence (VOC) Manager, Customer Experience and Engagement",
+      "company": "JLL",
+      "location": "Arlington, Arlington County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900354219?se=KO-lDmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=FF27305EB6862DD91F2090EFBE7A301856826A68",
+      "posted": "2026-09-27",
+      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "de1b674b9f1f",
+      "title": "Workplace Experience Manager",
+      "company": "ADAPTABLE RECRUITMENT LTD",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5900502696?se=wFC1FGi68RGGQ9u1mQKVdw&utm_medium=api&utm_source=638f9cc6&v=82AAD70A9624F4F83A8680FF7A0D8606F2E63EBA",
+      "posted": "2026-09-27",
+      "description": "Workplace Experience Manager Liverpool City Centre | \u00a327,000 - \u00a332,000 | Full Time Are you passionate about creating exceptional workplace experiences? Our client is seeking a proactive and people-focused Workplace Experience Mana ger to become the driving force behind a modern, professional and engaging office environment. This is a fantastic opportunity to join a well-established organisation where",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "49e52c3523d1",
+      "title": "Software Development Manager, Promotions Customer Experience (PCX)",
+      "company": "Amazon",
+      "location": "Greater Vancouver, British Columbia",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5900446069?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "Are you energized by building systems that shape how hundreds of millions of customers discover savings? We are looking for a Software Development Manager to lead a team at the core of Amazon's promotions and deals platform. You will own the systems that determine which promotions surface to which customers and how, powering customer-facing experiences across search, detail pages, cart, and checkout during every major shopping event globally. This is a role where your technical strategy directl\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "edd953cc1483",
+      "title": "Customer Insights Analyst",
+      "company": "Assurant",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5900457927?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "Join the Canada Experience team as a Customer Insights Analyst, turning customer and employee data into actionable insights that improve experiences across Canada. You will use SQL, Power BI, AI tools, and Voice of Customer data to identify trends, strengthen reporting, and support experience improvements with partners across business, customer service, claims, digital, product, and technology. What makes us different? Build practical experience at the intersection of customer experience, analy\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "9fec9462c573",
+      "title": "Customer Insights Analyst",
+      "company": "Canadian Branch of American Bankers Insurance Company of Florida",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5900457854?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "Join the Canada Experience team as a Customer Insights Analyst, turning customer and employee data into actionable insights that improve experiences across Canada. You will use SQL, Power BI, AI tools, and Voice of Customer data to identify trends, strengthen reporting, and support experience improvements with partners across business, customer service, claims, digital, product, and technology. What makes us different? Build practical experience at the intersection of customer experience, analy\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "889052285da2",
+      "title": "Manager, People Analytics",
+      "company": "Jobgether",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5900434145?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Manager, People Analytics based in Canada. This is a strategic leadership opportunity at the intersection of people analytics, data science, software engineering, and product development. You will lead a multidisciplinary team building data-driven products that help organizations make better workforce decisions. The role goes beyond traditional reporting, using predi\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "df7db5a768d8",
+      "title": "Customer Experience & Service Support Officer",
+      "company": "VDI Australia",
+      "location": "Redcliffe, Belmont Area",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5899782421?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "Do you love creating outstanding customer experiences and building lasting relationships? As our business continues to grow, we are looking for an enthusiastic and customer-focused Customer Experience Representative to join our dynamic WA Service team based in Perth. Are you energized by environments where every interaction matters and where your communication, organisation and attention to detail can make a real difference? If you\u2019re passionate about helping customers, solving problems, and de\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "35c31d7a7fc8",
+      "title": "Customer Experience Director",
+      "company": "CoStar Group",
+      "location": "Sydney, Sydney Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5900494892?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "Customer Experience Director Job Description About the Role As the CX Director of Domain Workflow Solutions (DWS), you will lead the end-to-end customer experience and operational service model across our Realhub, Campaigntrack, Engage and Real Time Agent (RTA) platforms. Reporting to the General Manager, DWS, you'll oversee a large, distributed CX and Operations function across Australia and the Philippines, ensuring customers receive a consistent, reliable and high-quality experience across e\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f8427e6a9ff8",
+      "title": "Customer Experience Director",
+      "company": "CoStar Group",
+      "location": "Australia",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5899778277?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-27",
+      "description": "Customer Experience Director Job Description About the Role As the CX Director of Domain Workflow Solutions (DWS), you will lead the end-to-end customer experience and operational service model across our Realhub, Campaigntrack, Engage and Real Time Agent (RTA) platforms. Reporting to the General Manager, DWS, you'll oversee a large, distributed CX and Operations function across Australia and the Philippines, ensuring customers receive a consistent, reliable and high-quality experience across e\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
     {
       "id": "0d184990ce4d",
       "title": "Director HR Employee Customer Experience",
@@ -181,6 +712,219 @@
       "description": "Description At AustralianSuper, we truly care about our colleagues.\u200b We know work and life are intertwined. That\u2019s why we support the diverse needs of everyone and have policies that enable us all to thrive and be truly flexible. We ensure diversity is celebrated for the opportunity it provides us all to learn and grow and deliver better outcomes for members. We are dedicated to building a high-performance environment underpinned by a strong risk culture, ensuring we deliver the best outcomes f\u2026",
       "source": "adzuna",
       "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "bd91065972fd",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "San Antonio, Bexar County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5899820851?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-26",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "6066d9d579ba",
+      "title": "Temporary Customer Experience Operations Supervisor",
+      "company": "Percepta",
+      "location": "Houston, Harris County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5899339926?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-26",
+      "description": "Temporary Customer Experience Operations Supervisor At Percepta, we bring first-class service across each market we support. As Customer Experience Operations Supervisor working on-site in Houston, TX, you\u2019ll be a part of creating and delivering amazing customer experiences, while also enjoying the satisfaction of being part of a unique culture. What You\u2019ll Be Doing The Temporary Customer Experience Operations Supervisor is responsible for the supervision of the Customer Experience teams and pr\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "8acff83a1d60",
+      "title": "Manager - People Analytics",
+      "company": "Home Depot",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5899592951?se=YOCCDWi68RG63oIUyXV-jw&utm_medium=api&utm_source=638f9cc6&v=C0AF0C3ED477F677684B0C1B0ACC89117D4E7FB3",
+      "posted": "2026-09-26",
+      "description": "Position Purpose: The Manager of HR Analytics manages the day to day activities and develop the competencies of the HR Analytics team. The team's primary purpose is to conduct advanced modeling and analytics of HR and financial data in order to provide strategic and actionable insights. The team consults with internal HR clients to identify strategic information needs, conduct data and process analyses, provide actionable recommendations, and to manage and execute analytical projects that suppo\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "5614b47b9f01",
+      "title": "Manager, Customer Insights - Lowe's Media Network",
+      "company": "Lowe's",
+      "location": "Doolie, Iredell County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5899626991?se=KO-lDmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=76E8F9DE5283D1621E25DAF525D8895AF3A42AA7",
+      "posted": "2026-09-26",
+      "description": "Innovate Remotely This position is fully remote, allowing you to enjoy the flexibility of working from home while collaborating with skilled team members and contributing to groundbreaking solutions. Your Impact As the Manager, Client Insights on the Lowe's Media Network (LMN), you will lead a team of analysts responsible for delivering strategic insights and measurement solutions for LMN clients. You will serve as the connective link between Sales, Account Management, Media Planning teams to e\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "e355a02780cc",
+      "title": "New Business Specialist - Customer Experience",
+      "company": "Rightmove",
+      "location": "Milton Keynes, Buckinghamshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5899757522?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-26",
+      "description": "About Rightmove Our vision is to give everyone the belief they can make their move. We aim to make moving simpler, by giving everyone the best place to turn to and return to for access to the tools, expertise, trust, and belief to make it happen. We\u2019re home to the UK\u2019s largest choice of properties and are the go-to destination for millions of people planning their next move, reading the latest industry news, or just browsing what\u2019s on the market. New Business Specialist Location: Milton Keynes \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "8b9fe457fd2b",
+      "title": "Customer Experience Consultant",
+      "company": "Maersk",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5899751384?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-26",
+      "description": "Looking for your next challenge with Maersk? Do you enjoy building strong customer relationships, solving complex logistics challenges and delivering commercially focused solutions? We are looking for an ambitious Customer Experience Consultant to join our team in Derby and help deliver reliable, high-quality logistics solutions for our customers. Whether you are already part of Maersk or bring relevant experience from another organisation, this opportunity will allow you to manage important cu\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2d7f656d5608",
+      "title": "Experience Manager",
+      "company": "Diageo",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5899749332?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-26",
+      "description": "Job Description : Experience Manager Blair Athol Visitor Centre Full-time, permanent Closing date: 30th September 2026 About us With over 200 brands sold in nearly 180 countries, Diageo is home to some of the world\u2019s most iconic drinks. From Johnnie Walker and Guinness to Tanqueray, Smirnoff and Don Julio, we craft brands chosen for life\u2019s moments \u2014 from everyday connections to landmark celebrations. Bring your talent, curiosity and ambition, and strive for your personal best alongside people w\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "80401c55d6b5",
+      "title": "Experience Manager",
+      "company": "Diageo",
+      "location": "Pitlochry, Perth & Kinross",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5899016018?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-26",
+      "description": "Pitlochry, Scotland Full time JR1129938 Job Description : Experience Manager Blair Athol Visitor Centre Full-time, permanent Closing date: 30th September 2026 About us With over 200 brands sold in nearly 180 countries, Diageo is home to some of the world's most iconic drinks. From Johnnie Walker and Guinness to Tanqueray, Smirnoff and Don Julio, we craft brands chosen for life's moments - from everyday connections to landmark celebrations. Bring your talent, curiosity and ambition, and strive f\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "c865b2ba6f5d",
+      "title": "Global Program Manager, Product / CX / Automation",
+      "company": "Deliveroo",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5899760635?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-26",
+      "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team. About the team As one of DoorDash's core operations teams, Customer Experience ensures that when there are bumps in the last mile, there's always someone there to help make things right. Our team design\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "67e04ce96a0e",
+      "title": "Customer Experience Associate - Future Opportunities",
+      "company": "TD",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5900042621?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-26",
+      "description": "Work Location: Belleville, Ontario, Canada Hours: 15 Line of Business: Personal & Commercial Banking Pay Details: $22.00 - $27.21 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f361b49609a9",
+      "title": "Community & Customer Feedback Operations Specialist",
+      "company": "NearSource",
+      "location": "Toronto, Ontario",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5899650905?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-26",
+      "description": "Job Title: Community & Customer Feedback Operations Specialist Job Location: 100% Remote, Canada Job Type: T4 Contract Experience: 4 Years Rate: CAD 55 - 62 per hour Role Summary: NearSource is seeking a Community & Customer Feedback Operations Specialist to support customer engagement, Voice of Customer initiatives, and community operations for a Fortune 500 enterprise software organization. This role combines community management, customer feedback operations, and cross-functional program coo\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7b7331c8fdb4",
+      "title": "Community & Customer Feedback Operations Specialist",
+      "company": "NearSource",
+      "location": "Toronto, Ontario",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5899644266?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-26",
+      "description": "Job Description Job Description Job Title: Community & Customer Feedback Operations Specialist Job Location: 100% Remote, Canada Job Type: T4 Contract Experience: 4 Years Rate: CAD 55 - 62 per hour Role Summary: NearSource is seeking a Community & Customer Feedback Operations Specialist to support customer engagement, Voice of Customer initiatives, and community operations for a Fortune 500 enterprise software organization. This role combines community management, customer feedback operations, \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "bf2333ca045e",
+      "title": "Analyst Online Customer Experience (Contract) \u2013 Future Opportunities",
+      "company": "Home Depot",
+      "location": "Canada",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5899460094?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-26",
+      "description": "Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If you\u2019re also naturally curious and eager to keep learning, consider starting or growing your career with us at The Home Depot. Position Overview: We are seeking an analytical, customer-obsessed Analyst to own the online shopping experience for an assigned category portfolio on HomeDepot.ca. This role is accountable for the customer's p\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "4b10d4b33af0",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Quispamsis, Kings",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5899902640?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-26",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
       "tags": [
         "cx"
       ]
@@ -732,6 +1476,113 @@
       "url": "https://www.adzuna.ca/details/5898843558?utm_medium=api&utm_source=638f9cc6",
       "posted": "2026-09-25",
       "description": "Work Location: Saint-L\u00c3\u00a9onard, Quebec, Canada Hours: 37.5 Line of Business: Personal & Commercial Banking Pay Details: 59 500 $ / $59,500 - 84 000 $ / $84,000 CAD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e32dc39aa250",
+      "title": "Manager - People Analytics",
+      "company": "Home Depot",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5898364450?se=YOCCDWi68RG63oIUyXV-jw&utm_medium=api&utm_source=638f9cc6&v=61597D959BD7F6F0BAEA8BCB1B18ABF7BABF8149",
+      "posted": "2026-09-25",
+      "description": "With a career at The Home Depot, you can be yourself and also be part of something bigger. Position Purpose: The Manager of HR Analytics manages the day to day activities and develop the competencies of the HR Analytics team. The team's primary purpose is to conduct advanced modeling and analytics of HR and financial data in order to provide strategic and actionable insights. The team consults with internal HR clients to identify strategic information needs, conduct data and process analyses, p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "4eb856dc83ef",
+      "title": "Technical Lead, CX Insights & Analytics",
+      "company": "Johnson and Johnson",
+      "location": "Jacksonville, Duval County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5898813434?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-25",
+      "description": "At Johnson & Johnson,we believe health is everything. Our strength in healthcare innovation empowers us to build aworld where complex diseases are prevented, treated, and cured,where treatments are smarter and less invasive, andsolutions are personal.Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity.Learn more a\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "1061f9402e5e",
+      "title": "Workplace Experience Director",
+      "company": "JLL",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5898369361?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-25",
+      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "e8060a1c9704",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Bouctouche, Kent",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5898566975?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-25",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "57cf3f7d93a2",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Campbellton, Restigouche",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5898567001?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-25",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e5d68fbd556f",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Dalhousie, Restigouche",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5898566973?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-25",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "45f7aaa4454a",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Miramichi, Northumberland",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5898566964?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-25",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
       "source": "adzuna",
       "country": "CA",
       "tags": [
@@ -3222,6 +4073,21 @@
       ]
     },
     {
+      "id": "6e6237989cb6",
+      "title": "Human Resources Director, Employee Experience - Revised",
+      "company": "CUNY",
+      "location": "Kew Gardens, Queens",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5895071977?se=TlP1Ami68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=E10A5C90690D3CAAD3FF9D447C311ECDA181887D",
+      "posted": "2026-09-23",
+      "description": "Human Resources Director, Employee Experience - Revised POSITION DETAILS The Human Resources Director of Employee Experience provides strategic leadership and operational oversight for the Human Resources Department. Reporting to and working closely with the Executive Director of Human Resources, the Director will help advance a service-oriented HR operation in alignment with the Human Resources Strategic Plan, the College's strategic priorities and CUNY policies. The department's work is cente\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
       "id": "217e77130397",
       "title": "Customer Experience Manager",
       "company": "Five Below",
@@ -4890,6 +5756,22 @@
       "location": "New Brunswick, Middlesex County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5891655133?se=tICxZJm58RGGQ9u1mQKVdw&utm_medium=api&utm_source=638f9cc6&v=AFE4251A1742021470E14BE34FB948815B6A2A33",
+      "posted": "2026-09-20",
+      "description": "At Johnson & Johnson,?we believe health is everything. Our strength in healthcare innovation empowers us to build a?world where complex diseases are prevented, treated, and cured,?where treatments are smarter and less invasive, and?solutions are personal.?Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity.?Learn \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "aac6d894df7c",
+      "title": "Senior Manager, People Insights Advisory",
+      "company": "J&J Family of Companies",
+      "location": "New Brunswick, Middlesex County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5891655133?se=_Ol1Bmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=AFE4251A1742021470E14BE34FB948815B6A2A33",
       "posted": "2026-09-20",
       "description": "At Johnson & Johnson,?we believe health is everything. Our strength in healthcare innovation empowers us to build a?world where complex diseases are prevented, treated, and cured,?where treatments are smarter and less invasive, and?solutions are personal.?Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity.?Learn \u2026",
       "source": "adzuna",
@@ -8532,6 +9414,37 @@
       ]
     },
     {
+      "id": "2f3665160fd3",
+      "title": "Associate Director, Customer Experience Measurements & Insights",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5887555083?se=JktBBWi68RGGQ9u1mQKVdw&utm_medium=api&utm_source=638f9cc6&v=09ED997F704966843EC6CCEF48B7CDB91BCFC366",
+      "posted": "2026-09-17",
+      "description": "At Bristol Myers Squibb, our employees often ask, \"Who are you working for?\"-a question that fuels collaboration, accountability, and urgency in our work. Our purpose-driven culture inspires us to discover, develop, and deliver innovative medicines to prevail over serious diseases. We offer uniquely interesting and meaningful work, opportunities for growth, and a supportive environment that values inclusion, wellbeing, flexibility, and comprehensive benefits. This is work that transforms the li\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "88b2c0e1e80d",
+      "title": "CX Solution Architect (Gemini)",
+      "company": "Purple Drive Technologies LLC",
+      "location": "Highland Park, Dallas",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5888163962?se=3rtUCmi68RG3jpCv9xpWmA&utm_medium=api&utm_source=638f9cc6&v=202E4486DF0FE35F197584B931A5AD2DAD74789B",
+      "posted": "2026-09-17",
+      "description": "About the job you re considering As a Gemini Enterprise Customer Experience (CX) Solution Lead, you will lead the technical strategy, solution architecture, and execution alignment for AI-powered CX transformations. You will be responsible for designing scalable architectures, securing technical wins, and ensuring successful delivery outcomes across complex enterprise environments. This role is the technical counterpart to the Practice Lead, focused on translating strategy into robust, producti\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "d3c628e75636",
       "title": "Customer Experience & Content Analyst - The Toro Company",
       "company": "The Toro Company",
@@ -10788,6 +11701,37 @@
       ]
     },
     {
+      "id": "8bfd13506236",
+      "title": "SCS Business & Customer Insights Analyst II",
+      "company": "REI",
+      "location": "Alderton, Pierce County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5883543993?se=YitTBGi68RG3jpCv9xpWmA&utm_medium=api&utm_source=638f9cc6&v=687E57B4A799E1A91AEB33BE3455452050DFD830",
+      "posted": "2026-09-14",
+      "description": "Overview The SCS (Sales & Customer Support) CX Insights Analyst II contributes to REI's success by providing critical data insights, trends and analysis to enable data driven decision making, improve customer experiences across all SCS touchpoints, and support the evolution of the SCS team as we leverage technology to provide a seamless blend of expert human guidance and technology enabled solutions. The role acts a relentless advocate for our customers across their journey, identifying frictio\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "d773ce63ae80",
+      "title": "Customer Experience Director",
+      "company": "SE Trains Ltd",
+      "location": "Tower Bridge, East London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5883963280?se=fuKSD2i68RG3jpCv9xpWmA&utm_medium=api&utm_source=638f9cc6&v=602BECE806BF6CB464AA5329282B99E0D2C8A418",
+      "posted": "2026-09-14",
+      "description": "Are you ready to shape the future of customer experience on one of the UKs largest and most visible railway networks? Were seeking a Customer Experience Director to lead our customer strategy and operational delivery, based at our head office in London Bridge. This is a rare opportunity to shape the future of customer experience on one of the UK's largest and most visible railway networks. Southeastern serves 181 stations across London, Kent and East Sussex, operating more than 1,700 services e\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "33f76f98a560",
       "title": "Senior Associate, Product Management - Partnerships Customer Experience",
       "company": "Capital One",
@@ -12679,6 +13623,22 @@
       "location": "Castlewood, Centennial",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5879560673?se=XvUVZJm58RGGQ9u1mQKVdw&utm_medium=api&utm_source=638f9cc6&v=9F5B1DB0BC1217F49D9666E79F6BDE62C5625302",
+      "posted": "2026-09-11",
+      "description": "Salary: $83950 - $119900/Yearly Company Summary EchoStar builds solutions that help families and communities stay connected. We'll launch your career and empower you to change lives. Our brands include Boost Mobile, DISH TV, Gen Mobile, Hughes and Sling TV. We serve millions of customers with offerings ranging from satellite to streaming services and global to personal networking solutions. In Human Resources, we collaborate with the innovators who drive DISH's creative ambition. From recognizi\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "04e8ad1e5cf8",
+      "title": "Employee Insights Program Manager",
+      "company": "EchoStar",
+      "location": "Castlewood, Centennial",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5879560673?se=HKIHBmi68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=9F5B1DB0BC1217F49D9666E79F6BDE62C5625302",
       "posted": "2026-09-11",
       "description": "Salary: $83950 - $119900/Yearly Company Summary EchoStar builds solutions that help families and communities stay connected. We'll launch your career and empower you to change lives. Our brands include Boost Mobile, DISH TV, Gen Mobile, Hughes and Sling TV. We serve millions of customers with offerings ranging from satellite to streaming services and global to personal networking solutions. In Human Resources, we collaborate with the innovators who drive DISH's creative ambition. From recognizi\u2026",
       "source": "adzuna",
@@ -18970,6 +19930,36 @@
       ]
     },
     {
+      "id": "711c10ade8ad",
+      "title": "Planning Analyst - Customer Experience",
+      "company": "Hays Business Support",
+      "location": "Grangetown, Cardiff",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5869461101?se=_gbuD2i68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=0DAB6132F27C7B22FDB8DAA6711F8978917E42D3",
+      "posted": "2026-09-03",
+      "description": "Your new role Produce forecasts and resource plans for specific business areas to assist in the delivery of departmental targets. Develop and effectively utilise bespoke planning and forecasting models to ensure that departments can achieve their KPIs in the most cost-effective manner. Maintain and operate workflow systems for forecasting and scheduling purposes. Analysis of various Contact Centre metrics and trends to continuously improve the plans and forecasts. What you'll need to succeed Ex\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "479b413cd6e7",
+      "title": "Planning Analyst - Customer Experience",
+      "company": "Hays Specialist Recruitment Limited",
+      "location": "Cardiff County, Wales",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5869122342?se=_gbuD2i68RGCw6kuTDrJlg&utm_medium=api&utm_source=638f9cc6&v=EBA826C5CAB5ACA1FECAF268E802F5FE3AC910E5",
+      "posted": "2026-09-03",
+      "description": "Your new role Produce forecasts and resource plans for specific business areas to assist in the delivery of departmental targets. Develop and effectively utilise bespoke planning and forecasting models to ensure that departments can achieve their KPIs in the most cost-effective manner. Maintain and operate workflow systems for forecasting and scheduling purposes. Analysis of various Contact Centre metrics and trends to continuously improve the plans and forecasts. What you'll need to succeed Ex\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "534125b7cc15",
       "title": "Customer Experience & Service Transformation Management Advisory Consultant",
       "company": "Accenture",
@@ -24261,1745 +25251,6 @@
       "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
       "source": "adzuna",
       "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "16255ba36409",
-      "title": "Engineering Manager, Customer Experience",
-      "company": "Whatnot",
-      "location": "Grand Central, Manhattan",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858562449?se=MtqbXTyi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=638f9cc6&v=B17DD1CD9C71CD93BB70B6BF4A013E566467BB8E",
-      "posted": "2026-08-27",
-      "description": "Whatnot is the largest livestream shopping platform in North America and Europe to buy, sell, and discover the things you love. Whether its trading cards, fashion, electronics, or live plants, our sellers are building real businesses across hundreds of categories. Were building live commerce at a scale thats never been done in the West, and theres no playbook to copy. The people here are shaping how an entirely new industry develops. As a remote co-located team, were inspired by our values and \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "54b72bc23e38",
-      "title": "Director Customer Experience",
-      "company": "TelyRx",
-      "location": "Dunedin, Pinellas County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858489292?se=RrVbXjyi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=638f9cc6&v=05B4718351A6CC32EF4266AC7B5A2BC213EBE88C",
-      "posted": "2026-08-27",
-      "description": "Job Description We're looking for a Director of Customer Experience to own and elevate the end-to-end customer journey. You'll lead a cross-functional effort to understand customer needs, close experience gaps, and turn insights into action - partnering closely with Support, Product, Marketing, and Sales to make every touchpoint feel intentional and consistent. \\n \\n This is a hands-on leadership role: part strategist, part team builder, part voice of the customer inside the company. \\n \\n Work\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "5acde4485bb2",
-      "title": "Director of Customer Experience",
-      "company": "Nordic Naturals",
-      "location": "Watsonville, Santa Cruz County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5857875556?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Location - Remote Salary - 136K - 158K POSITION SUMMARY The Director of Customer Experience is a key operational leadership role responsible for the execution, delivery, and continuous improvement of customer service across our D2C, B2B, and B2C environments. This role leads day-to-day service operations, ensuring effective processes, systems, and team performance to achieve defined service standards and customer experience objectives. The Director of Customer Experience drives operational exce\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "d9e9e462b75e",
-      "title": "Customer Experience Analyst",
-      "company": "AIT Global, Inc.",
-      "location": "Hampton Roads, Hampton City",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858491672?se=YpENXzyi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=638f9cc6&v=CD9D2B0205652187E9976BE4A9437AA9E2567A51",
-      "posted": "2026-08-27",
-      "description": "Job Title: Customer Experience Analyst Location: Newport News, VA (Onsite) Key Responsibilities: Lead end end mapping of the member journey across account opening, servicing, lending, and communications touchpoints, creating current-state and future-state journey maps Conduct branch visits, shadowing sessions, and staff interviews to observe member interactions firsthand and surface friction points Facilitate member and staff feedback sessions to validate journey pain points and test proposed i\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "8afa1f16965b",
-      "title": "Senior Analyst, Customer Experience Analytics",
-      "company": "Snowflake",
-      "location": "Menlo Park, San Mateo County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5858184978?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don\u2019t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset \u2014 who r\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "4873243632e0",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5858180241?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across our surface \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "0dc0b4456834",
-      "title": "Coordinating Manager - Customer Experience",
-      "company": "U. S. Steel",
-      "location": "Pittsburgh, Allegheny County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5858020609?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "The Manager-Customer Experience is responsible for teams of Customer Experience Analysts and close cooperation with Regional Sales Manager(s), for the overall customer service effectiveness for assigned industry group(s). Understands current business challenges and works towards resolving recurring problems and issues. Additional responsibilities include the following: Provides oversight and guidance to assigned teams of Customer Experience Analysts to ensure high quality, efficient customer se\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "89014a8b34f6",
-      "title": "Director Customer Experience",
-      "company": "TelyRx",
-      "location": "Dunedin, Pinellas County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858489292?se=UiYtYDyi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=638f9cc6&v=05B4718351A6CC32EF4266AC7B5A2BC213EBE88C",
-      "posted": "2026-08-27",
-      "description": "Job Description We're looking for a Director of Customer Experience to own and elevate the end-to-end customer journey. You'll lead a cross-functional effort to understand customer needs, close experience gaps, and turn insights into action - partnering closely with Support, Product, Marketing, and Sales to make every touchpoint feel intentional and consistent. \\n \\n This is a hands-on leadership role: part strategist, part team builder, part voice of the customer inside the company. \\n \\n Work\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "ce7098f1e98c",
-      "title": "Employee Experience & HR Programs Manager",
-      "company": "Wheeler Staffing Partners",
-      "location": "Highland Park, Dallas",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5858489971?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Job Description Job Title: Employee Experience & HR Programs Manager \\n Location: Dallas, TX \\n Employment Type: Direct Hire \\n Work Arrangement: 100% Onsite \\n Schedule: Monday\u2013Friday | 8:00 AM\u20135:00 PM (flexibility available as business needs allow) \\n Salary: $115,000\u2013$125,000 annually \\n Bonus: Discretionary performance-based bonus eligible \\n Travel: Up to 25% (approximately once per quarter) \\n \\n Position Overview \\n Wheeler Staffing Partners is seeking a strategic and hands-on Employee E\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "ed51755374a9",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=CLlsZDyi8RGhLffPfv7Txw&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "87425172b021",
-      "title": "Manager of Loyalty & Customer Experience Programs",
-      "company": "ButcherBox",
-      "location": "Watertown, Middlesex County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5858239424?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Who We Are ButcherBox is a certified B Corp headquartered in Boston, and honored to be celebrating our fourth year in a row on Inc.'s list of Best Workplaces. At ButcherBox, we believe in better. That\u2019s why we deliver 100% grass-fed, grass-finished beef, free-range organic chicken, pork raised crate-free, and wild-caught seafood directly to our members\u2019 doors. All of our products are humanely raised or wild-caught and never given antibiotics or added hormones ever. We\u2019re working to build a worl\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "xm"
-      ]
-    },
-    {
-      "id": "ed850f5c9c60",
-      "title": "Member Experience Manager",
-      "company": "Industrious",
-      "location": "Highland Park, Dallas",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858562727?se=qItKbjyi8RGyBrVynUzDwQ&utm_medium=api&utm_source=638f9cc6&v=4BDE08B9B2E3FE60447CFCF0E189602E480FC400",
-      "posted": "2026-08-27",
-      "description": "Industrious is the largest premium workplace-as-a-service provider and home to the highest-rated workplaces in the industry. Everything we do comes down to creating great days for teams of all sizes and stages, including our own. We believe that what makes a great day at work is the people on your team and the problems you get to solve together. We\u2019re looking for people who love thinking outside the box and thrive in a truly collaborative setting. As teammates, we encourage new ideas and toast \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "2fa85261d602",
-      "title": "Member Experience Manager",
-      "company": "Industrious",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858562740?se=qItKbjyi8RGyBrVynUzDwQ&utm_medium=api&utm_source=638f9cc6&v=FB2D02055C2207915BCA73EAB93943731BEAD330",
-      "posted": "2026-08-27",
-      "description": "Industrious is the largest premium workplace-as-a-service provider and home to the highest-rated workplaces in the industry. Everything we do comes down to creating great days for teams of all sizes and stages, including our own. We believe that what makes a great day at work is the people on your team and the problems you get to solve together. We\u2019re looking for people who love thinking outside the box and thrive in a truly collaborative setting. As teammates, we encourage new ideas and toast \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "a0160524497f",
-      "title": "Member Experience Manager",
-      "company": "Industrious",
-      "location": "Northlake, DeKalb County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858562618?se=qItKbjyi8RGyBrVynUzDwQ&utm_medium=api&utm_source=638f9cc6&v=C8134A1D610DB8E33635086C2DD9755CD217E07D",
-      "posted": "2026-08-27",
-      "description": "Industrious is the largest premium workplace-as-a-service provider and home to the highest-rated workplaces in the industry. Everything we do comes down to creating great days for teams of all sizes and stages, including our own. We believe that what makes a great day at work is the people on your team and the problems you get to solve together. We\u2019re looking for people who love thinking outside the box and thrive in a truly collaborative setting. As teammates, we encourage new ideas and toast \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "5f38ad6c410f",
-      "title": "Member Experience Manager",
-      "company": "Industrious",
-      "location": "Phoenix, Maricopa County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858562640?se=qItKbjyi8RGyBrVynUzDwQ&utm_medium=api&utm_source=638f9cc6&v=8811F592543591981BDE7E3DD9A8BECD0E5F4E59",
-      "posted": "2026-08-27",
-      "description": "Industrious is the largest premium workplace-as-a-service provider and home to the highest-rated workplaces in the industry. Everything we do comes down to creating great days for teams of all sizes and stages, including our own. We believe that what makes a great day at work is the people on your team and the problems you get to solve together. We\u2019re looking for people who love thinking outside the box and thrive in a truly collaborative setting. As teammates, we encourage new ideas and toast \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "63dea0c79754",
-      "title": "Member Experience Manager",
-      "company": "Industrious",
-      "location": "Trammells, Harris County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858562615?se=qItKbjyi8RGyBrVynUzDwQ&utm_medium=api&utm_source=638f9cc6&v=7AF84A8E1DB6CCB22893DF8520E04F12EA2ACC8F",
-      "posted": "2026-08-27",
-      "description": "Industrious is the largest premium workplace-as-a-service provider and home to the highest-rated workplaces in the industry. Everything we do comes down to creating great days for teams of all sizes and stages, including our own. We believe that what makes a great day at work is the people on your team and the problems you get to solve together. We\u2019re looking for people who love thinking outside the box and thrive in a truly collaborative setting. As teammates, we encourage new ideas and toast \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "212324431c04",
-      "title": "Sr. Business Manager, People Analytics",
-      "company": "Capital One",
-      "location": "Mc Lean, Fairfax County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5858266794?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Sr. Business Manager, People Analytics As a Senior Manager, Business Analysis at Capital One, you will apply your strategic and analytical skills to one of the company's most important challenges: how our workforce evolves in the age of AI. You will lead a team with world-class professionals to develop, test, and scale strategies that shape how Capital One attracts, develops, and retains talent. And you'll do it all in a collaborative environment that values your insight, encourages you to take\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "dbbcc92a4afb",
-      "title": "Manager, Data Science, Customer Experience",
-      "company": "Home Depot",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5858179328?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "With a career at The Home Depot, you can be yourself and also be part of something bigger. Position Purpose: The Data Science Manager is responsible for leading a team of data scientists (individual contributors), ensuring that their efforts drive business profitability, increased efficiencies and improved customer experience. This role leads overall programs, maximizing resources, partnering with project teams and business partners, and supports problem solving efforts. Data Science Managers p\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "f80e828ba7f7",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=VpadcTyi8RGhLffPfv7Txw&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a27f09fe0012",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=Wq9wcjyi8RGyBrVynUzDwQ&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "cba6ad5118fa",
-      "title": "Customer Experience Manager",
-      "company": "Softcat",
-      "location": "Bisham, Marlow",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5858507276?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Would you like to kick start your career in a supportive, collaborative and innovative company? Do you enjoy working as part of an enthusiastic, passionate, and collaborative team? Join our Customer Experience Team The Customer Experience (CX) team delivers Softcat's customer experience strategy through key programmes including Voice of the Customer, Softcat Cares, Continual Improvement and Customer Communities. These initiatives help us listen to customers, understand their experiences, resolv\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "c5f65159fa0c",
-      "title": "Lead Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Bocking, Braintree",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858376434?se=Ug-Vczyi8RGhLffPfv7Txw&utm_medium=api&utm_source=638f9cc6&v=D9C06F523DFDE8B53FD36FE0FD82B1F6E3A38A95",
-      "posted": "2026-08-27",
-      "description": "Description What you\u2019ll be doing: Lead a team of managers to make sure every single one of our customers has a great experience in store everywhere from the checkouts to the petrol station. Planning for upcoming key trading activity and events by working closely with the rest of the store leadership team Regularly taking full accountability for the store in the absence of a store manager, role modelling and coaching for high standards and efficiency across the store. Running operations at our c\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "47b6965308f0",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5858559728?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "25e40ad32807",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Farringdon, Central London",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5858408104?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "bc7c852be095",
-      "title": "Head Of Customer Experience",
-      "company": "Lookers",
-      "location": "Chelmsford, Essex",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5858396010?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "About us : We are one of the top three automotive retailers in the UK, proudly representing 32 manufacturer brands, selling a huge range of new and used vehicles from over 150 dealerships across the UK and Ireland. We believe our people are our greatest asset, and we\u2019re committed to recognising the valuable contribution each person makes. That\u2019s why we continue to invest in a leading rewards and benefits package designed to support your career, wellbeing, and life outside of work. Head of Custo\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "b3abd11ba495",
-      "title": "Lead Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Bocking, Braintree",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858376434?se=bgPtdDyi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=638f9cc6&v=D9C06F523DFDE8B53FD36FE0FD82B1F6E3A38A95",
-      "posted": "2026-08-27",
-      "description": "Description What you\u2019ll be doing: Lead a team of managers to make sure every single one of our customers has a great experience in store everywhere from the checkouts to the petrol station. Planning for upcoming key trading activity and events by working closely with the rest of the store leadership team Regularly taking full accountability for the store in the absence of a store manager, role modelling and coaching for high standards and efficiency across the store. Running operations at our c\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "ce4c78a9d169",
-      "title": "Customer Insights Executive - Temporary Contract (f/m/d)",
-      "company": "Awin",
-      "location": "London, UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5858263349?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Purpose of Position As a Customer Insights & Strategy Executive you will be responsible for supporting the Customer Insights & Strategy Leads and Client Director in delivering insights and strategy to our top performing clients, for industry events and as part of commercial opportunities. This role is offered on a one-year temporary contract. Key Tasks Data provisioning \u2013 transforming and formatting data into a usable format ready for analysis Analysis \u2013 providing key datapoints from large data\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "8495e99f2f00",
-      "title": "Customer Experience (CX) Research Intern",
-      "company": "Canlan Sports",
-      "location": "North York, Toronto",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5858158666?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Job Description Job Description Canlan Sports exists to create experiences where people find their people through the power of play, because we believe everyone deserves a team. As North America's largest private sector owner and operator off recreational sports complexes, Canlan Sports brings that belief to life across 15 multi-sport complexes and more than 70 playing surfaces spanning Canada and the United States. From ice and court to turf and digital, we offer a wide array of recreational s\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "59cd661d0840",
-      "title": "Bilingual Customer Experience Specialist",
-      "company": "Amynta Agency",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5858055907?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "We\u2019re thrilled that you are interested in joining us here at the Amynta Group! Position Summary: Reporting to the Manager, Customer Experience, this position provides support to Dealer clients and the National Sales Team. Position Functions: Provide best in class customer service to external clients/support and assistance to internal departments. Assist in corresponding with members of the sales team via phone or email. Daily administration and coordination of customer service activities. Liais\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "8707dc3f0ba2",
-      "title": "Order Management & Customer Experience Coordinator",
-      "company": "Hyne Timber",
-      "location": "Australia",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5858276847?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Your Next Role We're looking for a Customer Experience Coordinator to join our team and play a key role in ensuring our customers receive a seamless experience from order through to delivery. As the central point of coordination between customers and our internal teams, you'll manage the end-to-end order fulfilment process, ensuring orders are accurately processed, planned and delivered safely, accurately and on time. Working closely with Sales, Production, Warehousing and Freight, you'll balan\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "bd25a94300ec",
-      "title": "Customer Experience Manager",
-      "company": "Frontline Recruitment",
-      "location": "Leederville, Vincent Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5857621038?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Permanent opportunity to build and develop your IT support career Hands-on exposure across a range of systems, applications and users Structured IT environment with clear processes, support and escalation pathways Our client is a global luxury retailer renowned for exceptional customer experiences within a beautifully designed boutique in the heart of Leederville . Known for personalised styling, attention to detail and making every client feel valued, the brand has built a strong presence in t\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "46c932413267",
-      "title": "Service Experience Manager",
-      "company": "First Focus",
-      "location": "Mascot, Rockdale Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5857619272?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Whether you are grabbing your first coffee in Sydney, trying to beat Brisbane traffic, or just pretending your inbox is not already judging you, the job is the same. Great customer experience does not happen by accident. Our customers do not judge us by one ticket, one project or one interaction. They judge us by the overall experience of working with First Focus. We are looking for someone who can turn customer feedback and insight into meaningful improvements that make that experience easier,\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "824971969952",
-      "title": "People Insights & Engagement Partner",
-      "company": "BaptistCare",
-      "location": "Sydney, Sydney Region",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5856910713?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "12-month maximum term full-time opportunity | Based in Sydney or Melbourne Enjoy the flexibility of a hybrid work arrangement designed to support your success Lead employee listening, engagement and workforce insights initiatives across a national organisation About the role: We are seeking an experienced People Insights & Engagement Partner to join our People Team and lead BaptistCare's employee listening and engagement initiatives. In this role, you will design and deliver engagement programs\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "3587ad9297a9",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5859171231?se=xhy0_Ayj8RGXG9dJDaHT3g&utm_medium=api&utm_source=638f9cc6&v=5B4DAE2535B8B40165BB2CD8542083637197A5B8",
-      "posted": "2026-08-27",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "bfd9a50b6e08",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=6HAaAg2j8RGxSf1iGXKoQA&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a1f970651f2a",
-      "title": "Sr. Product & Customer Insights Manager, Customer Experience and Business Trends",
-      "company": "Amazon",
-      "location": "Fort Myer, Arlington County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5859058909?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Description Amazon is looking for a Sr. Product & Customer Insights Manager to join our Customer Experience and Business Trends team. Our team's mission is to deeply understand and improve customer experiences globally. As a Sr. Product & Customer Insights manager on the team, you will play a crucial role in shaping the future of our selling partners' experience. The right candidate will have a passion for understanding the competitive landscape, assessing the end to end experience of selling p\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "cf769e832d7b",
-      "title": "Manager, Customer Insights & Reporting",
-      "company": "Bank of Montreal",
-      "location": "Chicago, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5858213091?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Application Deadline: 09/10/2026 Address: 320 S Canal Street Job Family Group: Data Analytics & Reporting This is a hybrid role in Chicago Key Responsibilities Hands\u2011On Analytics & Data Preparation Independently extract, transform, and analyze data using Python, SQL, and SAS . Perform data quality checks, reconciliation, and validation to ensure analytical accuracy. Analyze customer, product, and performance data across multiple US Banking segments. Apply sound analytical techniques to identify\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "b8eea21f4055",
-      "title": "Manager, People Analytics Insight Partner",
-      "company": "Gilead Sciences, Inc.",
-      "location": "Belmont, San Mateo County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858930744?se=spS7BA2j8RGzfINLZYBFTw&utm_medium=api&utm_source=638f9cc6&v=70604363C39354B05871D33A3D1B054EBF457A32",
-      "posted": "2026-08-27",
-      "description": "Onsite - Hybrid Eligible United States - California - Foster City Full time R0054824 At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a rel\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "4dce0727fe12",
-      "title": "Manager, People Analytics & Insights",
-      "company": "CSL",
-      "location": "King of Prussia, Montgomery County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858887413?se=spS7BA2j8RGzfINLZYBFTw&utm_medium=api&utm_source=638f9cc6&v=3F2161756C1C5E2F31400DE3CF94072A527B06E4",
-      "posted": "2026-08-27",
-      "description": "CSL is seeking a Manager, People Analytics & Insights to lead the development and delivery of data-driven workforce insights that advance our patient-focused mission. In this role, you will shape CSL\u2019s people analytics strategy, building dashboards, models, and reports that inform talent, engagement, and organizational decisions across our global biotechnology business. Partnering closely with HR, business leaders, and data teams, you will translate complex HR data into clear, actionable recomm\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "0a115454b474",
-      "title": "Senior Manager, Customer Experience (Service & Arftermarket Senior Manager)",
-      "company": "Nordson Corporation",
-      "location": "Carlsbad, San Diego County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5859123041?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Nordson Electronics Solutions, a global leader in assembly and advanced packaging stage solutions, is seeking an experienced and highly motivated individual to join our team. We are committed to creating a diverse and inclusive workplace, and we are looking for candidates who share that same commitment. Summary of the role As a member of our team, you will have the opportunity to work in a dynamic and collaborative environment, where your ideas and contributions will be valued and respected. Jo\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "c9a2e40cf570",
-      "title": "Sr. Business Manager, People Analytics",
-      "company": "Capital One",
-      "location": "Tysons Corner, Fairfax County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5859061701?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Sr. Business Manager, People Analytics As a Senior Manager, Business Analysis at Capital One, you will apply your strategic and analytical skills to one of the company's most important challenges: how our workforce evolves in the age of AI. You will lead a team with world-class professionals to develop, test, and scale strategies that shape how Capital One attracts, develops, and retains talent. And you'll do it all in a collaborative environment that values your insight, encourages you to take\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "b5998564c818",
-      "title": "Sr. Business Manager, People Analytics",
-      "company": "Capital One",
-      "location": "Capitol, Richmond",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5859061736?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Sr. Business Manager, People Analytics As a Senior Manager, Business Analysis at Capital One, you will apply your strategic and analytical skills to one of the company's most important challenges: how our workforce evolves in the age of AI. You will lead a team with world-class professionals to develop, test, and scale strategies that shape how Capital One attracts, develops, and retains talent. And you'll do it all in a collaborative environment that values your insight, encourages you to take\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "6ebf31a079f5",
-      "title": "Manager, People Analytics Insight Partner",
-      "company": "Gilead Sciences, Inc.",
-      "location": "Belmont, San Mateo County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858930744?se=2L41DQ2j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=638f9cc6&v=70604363C39354B05871D33A3D1B054EBF457A32",
-      "posted": "2026-08-27",
-      "description": "Onsite - Hybrid Eligible United States - California - Foster City Full time R0054824 At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a rel\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "796bae89268d",
-      "title": "Manager, People Analytics & Insights",
-      "company": "CSL",
-      "location": "King of Prussia, Montgomery County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858887413?se=2L41DQ2j8RGEeLI7Dotn4Q&utm_medium=api&utm_source=638f9cc6&v=3F2161756C1C5E2F31400DE3CF94072A527B06E4",
-      "posted": "2026-08-27",
-      "description": "CSL is seeking a Manager, People Analytics & Insights to lead the development and delivery of data-driven workforce insights that advance our patient-focused mission. In this role, you will shape CSL\u2019s people analytics strategy, building dashboards, models, and reports that inform talent, engagement, and organizational decisions across our global biotechnology business. Partnering closely with HR, business leaders, and data teams, you will translate complex HR data into clear, actionable recomm\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "ebcb8eb4bce8",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=DI_0DQ2j8RGMv-NeZQ_K3g&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "775ef3d24081",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Nottingham, Nottinghamshire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5858680840?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "7b79215213bd",
-      "title": "Customer Experience Manager",
-      "company": "Hays Specialist Recruitment Limited",
-      "location": "Leeds, West Yorkshire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5858625756?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Your new company An exciting opportunity for an experienced Customer Experience Manager, Customer Success Manager or Account Manager to join a growing business and take ownership of key customer relationships. This role reports directly to the Customer Experience Director and includes line management of 1 direct report. Your new role You'll be responsible for building stronger existing customer relationships, improving the customer experience, coordinating customer projects and working with int\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "393d97f662a1",
-      "title": "Customer Experience Manager",
-      "company": "Hays Business Support",
-      "location": "Hyde Park, Leeds",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5858597516?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Your new company An exciting opportunity for an experienced Customer Experience Manager, Customer Success Manager or Account Manager to join a growing business and take ownership of key customer relationships. This role reports directly to the Customer Experience Director and includes line management of 1 direct report. Your new role You'll be responsible for building stronger existing customer relationships, improving the customer experience, coordinating customer projects and working with int\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9f04b16c63f8",
-      "title": "Advisor, Employee Experience",
-      "company": "Parkland County",
-      "location": "Parkland, Edmonton region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5858817240?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Now Hiring: Advisor, Employee Experience Join a team that prioritizes public service and where your work will make a meaningful impact within the community. Parkland County believes in the power of teamwork, approaching challenges with a solution-focused mindset, demonstrating a commitment to respect in all we do and a focus on safety for employees and all those we serve. If you share these values and are ready to contribute to a dynamic organization, we encourage you to consider this opportuni\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "de163e56b1f7",
-      "title": "Voice of Customer Manager",
-      "company": "Themis Solutions",
-      "location": "Vancouver, Greater Vancouver",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5858056365?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Clio is the global leader in legal AI technology, empowering legal professionals and law firms of every size to work smarter, faster, and more securely. We are transforming the legal experience for all by bettering the lives of legal professionals while increasing access to justice . Summary: We are currently seeking a Voice of Customer Manager to join our Customer Success team in Toronto , Vancouver , or Calgary on a 12-18 month fixed term contract. What your team does: As the Voice of Custome\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "0a0e3e477b39",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5859171231?se=YMzgBqWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=638f9cc6&v=5B4DAE2535B8B40165BB2CD8542083637197A5B8",
-      "posted": "2026-08-27",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "fff36ecfed0a",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=_HI1C6Wj8RGAD-anx9tglg&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a2749646d908",
-      "title": "Manager, People Analytics Insight Partner",
-      "company": "Gilead Sciences, Inc.",
-      "location": "Belmont, San Mateo County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858930744?se=gFuZDaWj8RG3Z8l1COYoHQ&utm_medium=api&utm_source=638f9cc6&v=70604363C39354B05871D33A3D1B054EBF457A32",
-      "posted": "2026-08-27",
-      "description": "Onsite - Hybrid Eligible United States - California - Foster City Full time R0054824 At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a rel\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "640b6909da84",
-      "title": "Manager, People Analytics & Insights",
-      "company": "CSL",
-      "location": "King of Prussia, Montgomery County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858887413?se=gFuZDaWj8RG3Z8l1COYoHQ&utm_medium=api&utm_source=638f9cc6&v=3F2161756C1C5E2F31400DE3CF94072A527B06E4",
-      "posted": "2026-08-27",
-      "description": "CSL is seeking a Manager, People Analytics & Insights to lead the development and delivery of data-driven workforce insights that advance our patient-focused mission. In this role, you will shape CSL\u2019s people analytics strategy, building dashboards, models, and reports that inform talent, engagement, and organizational decisions across our global biotechnology business. Partnering closely with HR, business leaders, and data teams, you will translate complex HR data into clear, actionable recomm\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "a88ee04d59dd",
-      "title": "Manager, People Analytics Insight Partner",
-      "company": "Gilead Sciences, Inc.",
-      "location": "Belmont, San Mateo County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858930744?se=8onDFaWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=638f9cc6&v=70604363C39354B05871D33A3D1B054EBF457A32",
-      "posted": "2026-08-27",
-      "description": "Onsite - Hybrid Eligible United States - California - Foster City Full time R0054824 At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a rel\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "37f20036a422",
-      "title": "Manager, People Analytics & Insights",
-      "company": "CSL",
-      "location": "King of Prussia, Montgomery County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858887413?se=8onDFaWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=638f9cc6&v=3F2161756C1C5E2F31400DE3CF94072A527B06E4",
-      "posted": "2026-08-27",
-      "description": "CSL is seeking a Manager, People Analytics & Insights to lead the development and delivery of data-driven workforce insights that advance our patient-focused mission. In this role, you will shape CSL\u2019s people analytics strategy, building dashboards, models, and reports that inform talent, engagement, and organizational decisions across our global biotechnology business. Partnering closely with HR, business leaders, and data teams, you will translate complex HR data into clear, actionable recomm\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "39d7586cf76c",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=NkhhFqWj8RGAD-anx9tglg&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "fdcd385cb896",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5859171231?se=oExi_mWk8RGf1rbwV-jGNg&utm_medium=api&utm_source=638f9cc6&v=5B4DAE2535B8B40165BB2CD8542083637197A5B8",
-      "posted": "2026-08-27",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "fdf79d54b3a5",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=GpJ-BGak8RGxSf1iGXKoQA&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "3f459511f006",
-      "title": "Manager, People Analytics Insight Partner",
-      "company": "Gilead Sciences, Inc.",
-      "location": "Belmont, San Mateo County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858930744?se=3iABB2ak8RGcfKYe_cIpvA&utm_medium=api&utm_source=638f9cc6&v=70604363C39354B05871D33A3D1B054EBF457A32",
-      "posted": "2026-08-27",
-      "description": "Onsite - Hybrid Eligible United States - California - Foster City Full time R0054824 At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a rel\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "5a3e09d3c463",
-      "title": "Manager, People Analytics & Insights",
-      "company": "CSL",
-      "location": "King of Prussia, Montgomery County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858887413?se=3iABB2ak8RGcfKYe_cIpvA&utm_medium=api&utm_source=638f9cc6&v=3F2161756C1C5E2F31400DE3CF94072A527B06E4",
-      "posted": "2026-08-27",
-      "description": "CSL is seeking a Manager, People Analytics & Insights to lead the development and delivery of data-driven workforce insights that advance our patient-focused mission. In this role, you will shape CSL\u2019s people analytics strategy, building dashboards, models, and reports that inform talent, engagement, and organizational decisions across our global biotechnology business. Partnering closely with HR, business leaders, and data teams, you will translate complex HR data into clear, actionable recomm\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "4abd126b0fe1",
-      "title": "Manager, People Analytics Insight Partner",
-      "company": "Gilead Sciences, Inc.",
-      "location": "Belmont, San Mateo County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858930744?se=5O6hD2ak8RGJzL2iR6FzJg&utm_medium=api&utm_source=638f9cc6&v=70604363C39354B05871D33A3D1B054EBF457A32",
-      "posted": "2026-08-27",
-      "description": "Onsite - Hybrid Eligible United States - California - Foster City Full time R0054824 At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a rel\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "c1c58f6f6892",
-      "title": "Manager, People Analytics & Insights",
-      "company": "CSL",
-      "location": "King of Prussia, Montgomery County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858887413?se=5O6hD2ak8RGJzL2iR6FzJg&utm_medium=api&utm_source=638f9cc6&v=3F2161756C1C5E2F31400DE3CF94072A527B06E4",
-      "posted": "2026-08-27",
-      "description": "CSL is seeking a Manager, People Analytics & Insights to lead the development and delivery of data-driven workforce insights that advance our patient-focused mission. In this role, you will shape CSL\u2019s people analytics strategy, building dashboards, models, and reports that inform talent, engagement, and organizational decisions across our global biotechnology business. Partnering closely with HR, business leaders, and data teams, you will translate complex HR data into clear, actionable recomm\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "f0be8de60789",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=MMSJEGak8RGf1rbwV-jGNg&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "8884f2b8364e",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5859171231?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "d30c4a1386e7",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=eGPdCDyl8RGEeLI7Dotn4Q&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5a8b926dc23a",
-      "title": "Manager, People Analytics Insight Partner",
-      "company": "Gilead Sciences, Inc.",
-      "location": "Belmont, San Mateo County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5858930744?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Onsite - Hybrid Eligible United States - California - Foster City Full time R0054824 At Gilead, we're creating a healthier world for all people. For more than 35 years, we've tackled diseases such as HIV, viral hepatitis, COVID-19 and cancer - working relentlessly to develop therapies that help improve lives and to ensure access to these therapies across the globe. We continue to fight against the world's biggest health challenges, and our mission requires collaboration, determination and a rel\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "259552ecb9a0",
-      "title": "Manager, People Analytics & Insights",
-      "company": "CSL",
-      "location": "King of Prussia, Montgomery County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858887413?se=gATzEjyl8RGEeLI7Dotn4Q&utm_medium=api&utm_source=638f9cc6&v=3F2161756C1C5E2F31400DE3CF94072A527B06E4",
-      "posted": "2026-08-27",
-      "description": "CSL is seeking a Manager, People Analytics & Insights to lead the development and delivery of data-driven workforce insights that advance our patient-focused mission. In this role, you will shape CSL\u2019s people analytics strategy, building dashboards, models, and reports that inform talent, engagement, and organizational decisions across our global biotechnology business. Partnering closely with HR, business leaders, and data teams, you will translate complex HR data into clear, actionable recomm\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "69707d294a0d",
-      "title": "Manager, People Analytics & Insights",
-      "company": "CSL",
-      "location": "King of Prussia, Montgomery County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858887413?se=1jxjLTyl8RGv3uRr_ymPCQ&utm_medium=api&utm_source=638f9cc6&v=3F2161756C1C5E2F31400DE3CF94072A527B06E4",
-      "posted": "2026-08-27",
-      "description": "CSL is seeking a Manager, People Analytics & Insights to lead the development and delivery of data-driven workforce insights that advance our patient-focused mission. In this role, you will shape CSL\u2019s people analytics strategy, building dashboards, models, and reports that inform talent, engagement, and organizational decisions across our global biotechnology business. Partnering closely with HR, business leaders, and data teams, you will translate complex HR data into clear, actionable recomm\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "cbcee110e14a",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=xLnxLjyl8RGxSf1iGXKoQA&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "7d7fed65f279",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5859171231?se=9qIfvPal8RGGYI73n1NTOA&utm_medium=api&utm_source=638f9cc6&v=5B4DAE2535B8B40165BB2CD8542083637197A5B8",
-      "posted": "2026-08-27",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "8051db09ff3a",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=Mqtnwfal8RG5mLqcbh9jLA&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "685953f43c07",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=YJm2zval8RGQfIbB36i6Lg&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "032df3f0df3c",
-      "title": "Customer Experience Manager",
-      "company": "Hays Specialist Recruitment Limited",
-      "location": "Leeds, West Yorkshire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858625756?se=ALfO0Pal8RGv1rlAOULmew&utm_medium=api&utm_source=638f9cc6&v=B522FB7B0ED31F0362DAAF772C27FD5F7BFB166E",
-      "posted": "2026-08-27",
-      "description": "Your new company An exciting opportunity for an experienced Customer Experience Manager, Customer Success Manager or Account Manager to join a growing business and take ownership of key customer relationships. This role reports directly to the Customer Experience Director and includes line management of 1 direct report. Your new role You'll be responsible for building stronger existing customer relationships, improving the customer experience, coordinating customer projects and working with int\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "58322b86dc4b",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858559728?se=ALfO0Pal8RGv1rlAOULmew&utm_medium=api&utm_source=638f9cc6&v=A6EE9D20A7F716E95696DBC3E119B27B719C2336",
-      "posted": "2026-08-27",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "489d62a18ed9",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858559728?se=0qab0_al8RG5mLqcbh9jLA&utm_medium=api&utm_source=638f9cc6&v=A6EE9D20A7F716E95696DBC3E119B27B719C2336",
-      "posted": "2026-08-27",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "350782e367d4",
-      "title": "Customer Insights Executive - Temporary Contract (f/m/d)",
-      "company": "Awin",
-      "location": "London, UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858263349?se=6GMS1fal8RGd69sxu3nAaQ&utm_medium=api&utm_source=638f9cc6&v=7F4AF7052AAAEF8A9D22851C2014B9D793465125",
-      "posted": "2026-08-27",
-      "description": "Purpose of Position As a Customer Insights & Strategy Executive you will be responsible for supporting the Customer Insights & Strategy Leads and Client Director in delivering insights and strategy to our top performing clients, for industry events and as part of commercial opportunities. This role is offered on a one-year temporary contract. Key Tasks Data provisioning \u2013 transforming and formatting data into a usable format ready for analysis Analysis \u2013 providing key datapoints from large data\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "64c18db539cf",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5859171231?se=-gwXRbym8RGiHujJjqzZMA&utm_medium=api&utm_source=638f9cc6&v=5B4DAE2535B8B40165BB2CD8542083637197A5B8",
-      "posted": "2026-08-27",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "2051e4b78b86",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=dkbKSrym8RGWysaNsaW8vw&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "cad29fadf26c",
-      "title": "Manager, People Analytics & Insights",
-      "company": "CSL",
-      "location": "King of Prussia, Montgomery County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5858887413?se=booxTbym8RG-feZT2Vw-_w&utm_medium=api&utm_source=638f9cc6&v=3F2161756C1C5E2F31400DE3CF94072A527B06E4",
-      "posted": "2026-08-27",
-      "description": "CSL is seeking a Manager, People Analytics & Insights to lead the development and delivery of data-driven workforce insights that advance our patient-focused mission. In this role, you will shape CSL\u2019s people analytics strategy, building dashboards, models, and reports that inform talent, engagement, and organizational decisions across our global biotechnology business. Partnering closely with HR, business leaders, and data teams, you will translate complex HR data into clear, actionable recomm\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "d897afb87390",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=7oh2V7ym8RG-feZT2Vw-_w&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "f62335447847",
-      "title": "Customer Experience Manager",
-      "company": "Hays Specialist Recruitment Limited",
-      "location": "Leeds, West Yorkshire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858625756?se=si7TWbym8RG-feZT2Vw-_w&utm_medium=api&utm_source=638f9cc6&v=B522FB7B0ED31F0362DAAF772C27FD5F7BFB166E",
-      "posted": "2026-08-27",
-      "description": "Your new company An exciting opportunity for an experienced Customer Experience Manager, Customer Success Manager or Account Manager to join a growing business and take ownership of key customer relationships. This role reports directly to the Customer Experience Director and includes line management of 1 direct report. Your new role You'll be responsible for building stronger existing customer relationships, improving the customer experience, coordinating customer projects and working with int\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a2757a771b48",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858559728?se=si7TWbym8RG-feZT2Vw-_w&utm_medium=api&utm_source=638f9cc6&v=A6EE9D20A7F716E95696DBC3E119B27B719C2336",
-      "posted": "2026-08-27",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "4f1ebdd6e7ab",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858559728?se=-KBtXLym8RGiHujJjqzZMA&utm_medium=api&utm_source=638f9cc6&v=A6EE9D20A7F716E95696DBC3E119B27B719C2336",
-      "posted": "2026-08-27",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "b9a9f3e3ccd5",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5859171231?se=vnhHa4Wn8RGKh_IuZydufA&utm_medium=api&utm_source=638f9cc6&v=5B4DAE2535B8B40165BB2CD8542083637197A5B8",
-      "posted": "2026-08-27",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "446231e4f596",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=FIRFcIWn8RGYPeNUtjqvZg&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "74d55facf4d3",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=pHJ5fIWn8RGjltCl2FkJqg&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "46538b1d8ae1",
-      "title": "Customer Experience Manager",
-      "company": "Hays Specialist Recruitment Limited",
-      "location": "Leeds, West Yorkshire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858625756?se=yAu_foWn8RGKh_IuZydufA&utm_medium=api&utm_source=638f9cc6&v=B522FB7B0ED31F0362DAAF772C27FD5F7BFB166E",
-      "posted": "2026-08-27",
-      "description": "Your new company An exciting opportunity for an experienced Customer Experience Manager, Customer Success Manager or Account Manager to join a growing business and take ownership of key customer relationships. This role reports directly to the Customer Experience Director and includes line management of 1 direct report. Your new role You'll be responsible for building stronger existing customer relationships, improving the customer experience, coordinating customer projects and working with int\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "0ff6741ed8a9",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858559728?se=yAu_foWn8RGKh_IuZydufA&utm_medium=api&utm_source=638f9cc6&v=A6EE9D20A7F716E95696DBC3E119B27B719C2336",
-      "posted": "2026-08-27",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "642144f9a14c",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858559728?se=7r6_gYWn8RG374tWD5Donw&utm_medium=api&utm_source=638f9cc6&v=A6EE9D20A7F716E95696DBC3E119B27B719C2336",
-      "posted": "2026-08-27",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "88a92c8d4c61",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5859171231?se=NMKGdU6o8RGIRMDBhRKYEg&utm_medium=api&utm_source=638f9cc6&v=5B4DAE2535B8B40165BB2CD8542083637197A5B8",
-      "posted": "2026-08-27",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "fe0cee3e5ffa",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=kua9ek6o8RGLDKK8amMM3w&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "279a9235f85c",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=zBu_h06o8RGIRMDBhRKYEg&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "41011e26734a",
-      "title": "Customer Experience Manager",
-      "company": "Hays Specialist Recruitment Limited",
-      "location": "Leeds, West Yorkshire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858625756?se=MirpiU6o8RGpTs1Lc1il5g&utm_medium=api&utm_source=638f9cc6&v=B522FB7B0ED31F0362DAAF772C27FD5F7BFB166E",
-      "posted": "2026-08-27",
-      "description": "Your new company An exciting opportunity for an experienced Customer Experience Manager, Customer Success Manager or Account Manager to join a growing business and take ownership of key customer relationships. This role reports directly to the Customer Experience Director and includes line management of 1 direct report. Your new role You'll be responsible for building stronger existing customer relationships, improving the customer experience, coordinating customer projects and working with int\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "e8afa0d77671",
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "company": "Amazon",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5859171231?se=LCvM2BGp8RGWbsaxPmrwUA&utm_medium=api&utm_source=638f9cc6&v=5B4DAE2535B8B40165BB2CD8542083637197A5B8",
-      "posted": "2026-08-27",
-      "description": "Description Amazon's North America Surface Transportation Customer Experience team is seeking a Business Analyst to support data-driven decision making that improves the delivery experience for millions of customers. In this role, you will be responsible for designing, building, and maintaining analytical frameworks, products, and deep-dive analyses that illuminate customer experience trends, identify root causes of defects, and quantify the impact of product and operational initiatives across \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "11a97c8da02d",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=Eniy3RGp8RGogquEo3zAlQ&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "03bb3b407fd9",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=Yk9T6BGp8RGlI_dq_IL75Q&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "433ae677184e",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=0jNA892p8RGmJ9oCO1yGtw&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "2a6d908f86cc",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=GjgS_d2p8RG6Hsi0JJAacQ&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "ff3d8da8f0e0",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=XICWpbKq8RGogquEo3zAlQ&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5497238d018f",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=2GPfsbKq8RGS9tX3gPU9Ng&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a48a10b13ebe",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=NgVu_nKr8RGl-_JRamYmYw&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "904f0ef39a91",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=lFgJDHOr8RGl-_JRamYmYw&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "fdb19c3e9abd",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=lmPqAj2s8RGSz9paFWx5qA&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "1b56d87bc64a",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=8nrtDj2s8RGYuL8ZOQetuQ&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "559fbad3c3ba",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=CklnqQWt8RGdEJHwSOIALw&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "40b9709b3243",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=gOKvtQWt8RGOIORqSfiafA&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5d37c5c14a7d",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=aAzzX86t8RGoW8Db9bGFzQ&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5b5c0612e369",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=EpxJcM6t8RGKhrN6RT1scQ&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "1022fe54d42d",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley Housing",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5858691968?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-27",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "32b11ba83e6d",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=TNERKJOu8RGuc42MGaSpcg&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a09a213005e2",
-      "title": "Digital Client Experience (CX) Lead - Wealth Management",
-      "company": "Northern Trust",
-      "location": "Schiller Park, Cook County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5857932480?se=hGNFvGSv8RGq8Y7sX9WIrQ&utm_medium=api&utm_source=638f9cc6&v=D39D1D9DA04D88F00A3F3D812211A3420F7F9EA7",
-      "posted": "2026-08-27",
-      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "51c1a1be39d5",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Farringdon, Central London",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858408104?se=BKGsywm48RGaVc0dtuTNNA&utm_medium=api&utm_source=638f9cc6&v=F374D46B0BF59B33FB0EB4577F1A2C377EE7073C",
-      "posted": "2026-08-27",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "d3f77edcdf95",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Farringdon, Central London",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5858408104?se=LNSpzQm48RGnue_PVod2KQ&utm_medium=api&utm_source=638f9cc6&v=F374D46B0BF59B33FB0EB4577F1A2C377EE7073C",
-      "posted": "2026-08-27",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
       "tags": [
         "cx"
       ]
