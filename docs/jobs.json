@@ -1,7 +1,1020 @@
 {
-  "updated": "2026-09-29T12:24:29Z",
-  "count": 1677,
+  "updated": "2026-09-30T12:10:27Z",
+  "count": 1749,
   "jobs": [
+    {
+      "id": "9adf1956cd5d",
+      "title": "Retail Lead Associate (Reduced-Time), Customer Experience Operations",
+      "company": "Amazon",
+      "location": "New York City, New York",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903879618?se=_s0tXMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=BCA72F6DDEE03F9AE9CBCCAEB6C99980B1ECA3D3",
+      "posted": "2026-09-30",
+      "description": "Pay starts at $20.25 per hour with benefits available. Reduced Time Hours: Average work between 30-39 hrs per week. This role requires open availability BH 3:30pm-10:15pm As a Retail Lead Associate, you will be the face of Amazon and contribute to the culture based on customer obsession, trust, respect, integrity, continuous learning, and fun. You possess strong attention to detail, the ability to quickly prioritize tasks, the willingness to learn new things, and a commitment to delighting our \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "6b864216fe1d",
+      "title": "Customer Experience Manager - Splunk (remote)",
+      "company": "Cisco",
+      "location": "Chicago, Cook County",
+      "remote": true,
+      "url": "https://www.adzuna.com/details/5903872949?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "The application window is expected to close on: 10/26/2026 This job can be performed anywhere in the United States. In order to be considered for this role you must be a citizen of the United States. Meet the Team The Customer Success team at Splunk, a Cisco company, partners directly with enterprise organizations to accelerate digital resilience and maximize the business value of their technology investments. We serve as trusted strategic advisors, guiding customers through transformative adop\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "14f9c5398b7c",
+      "title": "Retail Lead Associate (Reduced-Time), Customer Experience Operations",
+      "company": "Amazon",
+      "location": "Santa Clarita, Los Angeles County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903869321?se=_s0tXMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=49B02272E2B641AE40A63CDB653EEC7443F9C850",
+      "posted": "2026-09-30",
+      "description": "Pay starts at $21.35 per hour with benefits available. Reduced Time Hours: Average work between 30-39 hrs per week. This role requires open availability FH 6:45-1:15 As a Retail Lead Associate, you will be the face of Amazon and contribute to the culture based on customer obsession, trust, respect, integrity, continuous learning, and fun. You possess strong attention to detail, the ability to quickly prioritize tasks, the willingness to learn new things, and a commitment to delighting our custo\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "5c3355d97c9d",
+      "title": "Retail Lead Associate (Reduced-Time), Customer Experience Operations",
+      "company": "Amazon",
+      "location": "Phoenix, Maricopa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903868583?se=_s0tXMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=252ECEAC18474849B742144CE6A8E6EE998AC0EE",
+      "posted": "2026-09-30",
+      "description": "Pay starts at $17.25 per hour with benefits available. Reduced Time Hours: Average work between 30-39 hrs per week. This role requires open availability BH Open 6:45-1:15 As a Retail Lead Associate, you will be the face of Amazon and contribute to the culture based on customer obsession, trust, respect, integrity, continuous learning, and fun. You possess strong attention to detail, the ability to quickly prioritize tasks, the willingness to learn new things, and a commitment to delighting our \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f11759bfa80f",
+      "title": "Director Customer Experience",
+      "company": "Diver5ify",
+      "location": "West Virginia, US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903767411?se=_Fh6Xse88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=1F00129DAD44AD6D80C2FA39526699122200D30C",
+      "posted": "2026-09-30",
+      "description": "Job Description Customer Experience Director | Fully Remote, US \\n \\n I'm looking for a rare profile: a senior CX / Customer Success leader who can actually BUILD AI bots. \\n \\n Not scope them. Not write the requirements. Not brief an engineer or manage a vendor. Build them \u2014 prompts, workflows, integrations, testing, and shipping to production. \\n \\n Plenty of CX leaders talk about AI. This company wants someone who has done it, and who will keep doing it while leading the function. \\n \\n The \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "fcdcabf714d9",
+      "title": "Customer Experience Specialist",
+      "company": "CRAFTS GROUP",
+      "location": "Parkrose, Multnomah County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5903612456?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "Job Title: Customer Service Specialist Location: Fully Remote Reports To: Director of Customer Experience The Team At Local Crafts, we believe in saying \u201cYES\u201d to our customers whenever we can. Great customer service means being friendly, knowledgeable, and accurate - setting the right expectations while creating a welcoming, supportive experience for our diverse community of makers. At Local Crafts, we\u2019re dedicated to helping our customers create with joy. If you\u2019re passionate about problem-sol\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e61382245dd4",
+      "title": "Contract IT Customer Experience Analyst",
+      "company": "Kaman",
+      "location": "Middletown, Middlesex County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5903855037?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "IT Customer Experience Analyst (6-12 month contract) Precision Fusing and Sensors is actively hiring for a IT Customer Experience Analyst in Middletown, CT. This role is responsible for providing end-to-end IT customer care including providing hardware and software support on client devices including installation, troubleshooting, upgrades, and removal. This position reports to both the IT Customer Experience Team Lead and to the IT Customer Experience Manager. Responsibilities Provide end-to-e\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ffdd15c69731",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Topeka, Shawnee County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597172?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=039C59A01B726820D403830C6ECE37AC343D1FE1",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "531e08592a4c",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Danbury, Fairfield County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597169?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=60E103927B48B93AC0CE58B26974EA1D472EB176",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "91f0f5724df6",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Rochester, Olmsted County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597138?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=C74AC70675EDDED518D2882228B67E9CE5565227",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "37ab85a11137",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Kennesaw, Cobb County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597149?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=2599705BE12286B1D3E1DB55B12BF9E400F4BA88",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "55ac5f5cdd34",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Greeley, Weld County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597147?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=E255CA30E17768A7CCB9D88A4246A98662E9B52A",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7cac75a20322",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Orem, Utah County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597150?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=9848438DC3B2AF43ECA3B67234E7C0753D813436",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "70f6fd6bad8e",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Lansing, Ingham County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597155?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=C9C7A23834CE57ECE937FEBBD3E5D57107F3A366",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "38e71b713897",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Honolulu, Hawaii",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597142?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=B0CD050458C95F78547B44BC11FADDDA7BFFD6B4",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ee626c205150",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Gary, Lake County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597144?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=8FC5C2E9AF09C1C959375BC4127069F88A937A14",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "af3643d188e6",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Missoula, Missoula County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597140?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=4B11BA146F41658BAAF1748B4D522DA427678633",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7765a11eb3d9",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Huntington, Cabell County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597164?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=62126215936EE9D897B3D275962D8C6B9D515014",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7ddb9af5fbb3",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Rochester, Strafford County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597151?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=4EE685594999299911B9200FFB4806F0DAB60EA3",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2c2c3d814338",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Norwalk, Fairfield County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597160?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=E73F2233C82F9E98047E8F9F557A9D33C368A549",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "126936677ed9",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Fort Collins, Larimer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597159?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=78749DA8CAAB2BDA6E9D2B80E28A376148D8B368",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d54d04d09ef8",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Kenner, Jefferson Parish",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597163?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=C0EA3D7732CA95326AB58341022BF87E9C0A1243",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d82f7039259f",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Annandale, Fairfax County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597146?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=79CBCB4272342A42F1463DEACA257B34B718024C",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7f6c1f876dc6",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Buffalo, Erie County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597152?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=2B87FDD15829B94466AD6C3FC1ACA74B806C5FFE",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ad47f350417b",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Burlington, Chittenden County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597166?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=74A2D332C63D22D022B699AC6A11AD7F0FD48CAE",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "290c2997388f",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Los Angeles, Los Angeles County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597139?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=7451EFE2B665D36C0ED7A87FD353290AD4358629",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ddf4ee0925a1",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Norfolk, Norfolk City",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597156?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=5C84DA257E7803ACC976E1C3026FDFFB71BAFE43",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "41e0dbd72dbf",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "High Point, Guilford County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597141?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=E9BBC040F71763BF1F46FC90CCB7606835407677",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "3b9969b58741",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Jacksonville, Duval County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597136?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=F2B70F4DC6D0CA486B16F79A858140C97889466A",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e9e1c3a11481",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Joliet, Will County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597148?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=81263E1891F9F8DB3A3E05CEF0D52848D4D9421A",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "882016d0313d",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Valdosta, Lowndes County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597157?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=0275ABA83D70A0863B3A99F0D84B3648E57E2F40",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "0511e22e2bcb",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Clinton, Clinton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597143?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=907189483F71434747E0DF09D0A8F4FC76FA508A",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "eba12defabb8",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Rexburg, Madison County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597145?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=3E6D0902AAC99493AF740ED9C91EBA6798AF6164",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a57d9864cdbf",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Paterson, Passaic County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597128?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=5E5526C74FA28EDAE8181E3335E955A5A36D59F9",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "abfa0444d620",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Rock Hill, York County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597112?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=FB9E66C5770D1DC4F453665988DE9D81F1C47085",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ffbd8eaf1884",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Colorado Springs, El Paso County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597123?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=AECEDC45D5C5AE183CECD5F45B23A3601A7131FF",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "3ed861afe605",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "South Bend, St. Joseph County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597127?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=42BD06576A2D2948C7242FFE249B83BA0863E7AB",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "271665727257",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Anchorage, Alaska",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597132?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=7312749541654839D8591143724EFB89A2CE4F6A",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "4c758f72f2a8",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Stamford, Fairfield County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597120?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=938ED6CD7406DD1187FB6FDD78B67206E72EBE89",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "59679b27a660",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Bozeman, Gallatin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597125?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=0388DD556D676A74BB6E930738BB5F8F88E7A5E0",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7ff988bf4be8",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Virginia Beach, Virginia Beach City",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903597130?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=04961AAC70F975E71EFF91B8822A05AB1CE23CE4",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "4af9dc9eb5a0",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Lake Charles, Calcasieu Parish",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903595604?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=C95B876ED90E6AE75CEE7FEC3C1BCF265A5E9377",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ee297a5f6d02",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Conway, Horry County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903595609?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=F9AC6506A1A53A9E3ED85D3D3C710D8B59C1A4DF",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "0061e6c53b46",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Beaumont, Jefferson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903595616?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=BBF709655370C1F168B69832CC0334089F43EB45",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "973b7cef8f89",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Wheeling, Ohio County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903595602?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=BCA7D0501AD28DCC55282C5A542E5C27B3AC6CE3",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "735b42c24f67",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Broken Arrow, Tulsa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903595605?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=81748F69F709BF89183562660F31A34922F32D50",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2c3d534d32ff",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Springfield, Hampden County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903595639?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=49DA64BEEEA20384AEDD8D4DE799B46595AEB7CD",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "5802b61d4efc",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "West Jordan, Salt Lake County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903595596?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=74E638CF39F308A87000DC288189BE7FD6C3D38E",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f98843fcec69",
+      "title": "Customer Experience Operations Analyst",
+      "company": "World Wide Technology",
+      "location": "Sterling Heights, Macomb County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903595360?se=InbkYMe88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=23BC3CE52A13BC7A83F0E7C810FB3749B13FEF75",
+      "posted": "2026-09-30",
+      "description": "Why WWT? World Wide Technology (WWT) strives to make a new world happen. WWT's work benefits clients and partners as much as it does its people and community across the globe. Founded in 1990, WWT brings together strategy, deep technical expertise and world-class partnerships to help public and private sector organizations design, build and scale intelligent AI, digital, cybersecurity, cloud and infrastructure solutions. Through its Advanced Technology Center (ATC)\u2014a collaborative ecosystem fea\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d64168b90e1d",
+      "title": "Customer Experience Manager",
+      "company": "Work With Your Handz",
+      "location": "Galena Park, Harris County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5903703645?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "Customer Experience Manager Location: Houston, TX Job Title: Customer Experience Manager Base Salary: $65,000 - $75,000 depending on experience  Annual Bonus Position Overview We are seeking a hands-on Customer Experience Manager to lead the day-to-day performance of our customer service and dispatch operations. This individual will oversee a team of approximately five direct reports and will be responsible for ensuring customers receive an exceptional experience from their initial phone call t\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "caa7286b2b01",
+      "title": "Senior Analyst Customer Insights",
+      "company": "OUTFRONT Media",
+      "location": "Mundelein, Lake County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903772928?se=fquxice88RGCt5eLEqQsQg&utm_medium=api&utm_source=638f9cc6&v=00A65302A01F163C9CD137EAF6AE985565372D2B",
+      "posted": "2026-09-30",
+      "description": "Job Description Overview \\n The Senior Analyst, Customer Insights is responsible for designing, building, and operationalizing customer feedback programs using Qualtrics to capture insights across key touchpoints in the customer journey. This role will partner closely with Sales, Operations, Marketing, and Client Success teams to develop actionable insights that improve onboarding, campaign execution, and post-campaign performance, ultimately driving customer satisfaction, retention, and revenu\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "83264596cb10",
+      "title": "Customer Experience Manager",
+      "company": "24 Seven Talent",
+      "location": "Mount Rainier, Prince George's County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903769395?se=fquxice88RGCt5eLEqQsQg&utm_medium=api&utm_source=638f9cc6&v=83E17F96AC9C99D4266623F79DED9D4002EEFA69",
+      "posted": "2026-09-30",
+      "description": "Job Description We\u2019re partnering with an established media organization to identify a Customer Experience Manager who will help shape and improve the experience of its readers, subscribers, and members. \\n \\n This role will oversee day-to-day customer support and community interactions while serving as an important voice of the customer across the organization. The Customer Experience Manager will monitor customer feedback and sentiment, identify recurring issues and opportunities, and partner \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "8c74eda2ad0f",
+      "title": "Customer Experience Advocate / Customer Relations Agent",
+      "company": "Westbury Jeep Chrysler Dodge",
+      "location": "New Cassel, Nassau County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5903681564?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": " CUSTOMER EXPERIENCE ADVOCATE / CUSTOMER RELATIONS AGENT Westbury Jeep Chrysler Dodge Ram | VIP Automotive Group  Westbury, NY  Full-Time | Monday \u2013 Friday | 9:00 AM \u2013 6:00 PM  $42,000 \u2013 $59,000 Per Year | Based on Experience  JOIN THE SERVICE TEAM AT WESTBURY JEEP! Westbury Jeep Chrysler Dodge Ram , a proud member of the VIP Automotive Group , is seeking a Customer Experience Advocate / Customer Relations Agent to join our busy and growing Automotive Service Department . This is a customer-foc\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ede59c3511f6",
+      "title": "Customer Experience Manager - Hebrew Speaking",
+      "company": "Cloudflare",
+      "location": "San Francisco, California",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5903509449?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "About Us At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2fb1165b6040",
+      "title": "Senior Analyst Customer Insights",
+      "company": "OUTFRONT Media",
+      "location": "Mundelein, Lake County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903772928?se=nBNujce88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=00A65302A01F163C9CD137EAF6AE985565372D2B",
+      "posted": "2026-09-30",
+      "description": "Job Description Overview \\n The Senior Analyst, Customer Insights is responsible for designing, building, and operationalizing customer feedback programs using Qualtrics to capture insights across key touchpoints in the customer journey. This role will partner closely with Sales, Operations, Marketing, and Client Success teams to develop actionable insights that improve onboarding, campaign execution, and post-campaign performance, ultimately driving customer satisfaction, retention, and revenu\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "7668960bb52d",
+      "title": "Senior Analyst Customer Insights",
+      "company": "OUTFRONT Media",
+      "location": "Mundelein, Lake County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903772928?se=rFpcjse88RGCt5eLEqQsQg&utm_medium=api&utm_source=638f9cc6&v=00A65302A01F163C9CD137EAF6AE985565372D2B",
+      "posted": "2026-09-30",
+      "description": "Job Description Overview \\n The Senior Analyst, Customer Insights is responsible for designing, building, and operationalizing customer feedback programs using Qualtrics to capture insights across key touchpoints in the customer journey. This role will partner closely with Sales, Operations, Marketing, and Client Success teams to develop actionable insights that improve onboarding, campaign execution, and post-campaign performance, ultimately driving customer satisfaction, retention, and revenu\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "5b0465ea6a6a",
+      "title": "Multilingual Customer Experience Consultant",
+      "company": "Konecta",
+      "location": "Cubitt Town, East London",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5903814922?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "ROLE: Multilingual Customer Experience Consultant REPORTS TO: Team Manager DEPARTMENT: Zeal Location: Konecta \u2013 Ringwood/London. (Hybrid) Hours: 40 paid hours per week. Shifts: 40 paid hours per week. A rota is supplied every month with your working hours. Shifts between 8.00am and 8.00pm Monday to Saturday. WHO WE ARE Konecta is a leading innovative global service provider in customer management business process and digital outsourcing, with 120,000 passionate employees working in 30 languages\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7da6b3bcaa40",
+      "title": "Customer Experience and Complaints Manager",
+      "company": "Hays",
+      "location": "Oldham, Greater Manchester",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5903703614?se=yIFPj8e88RGCt5eLEqQsQg&utm_medium=api&utm_source=638f9cc6&v=BDB1574F005DE28F8F2DE95D85A7CA66E833CDC5",
+      "posted": "2026-09-30",
+      "description": "Your new company A well-established and customer-focused organisation is seeking a Customer Experience & Complaints Manager to join its customer service function. Operating within a fast-paced environment, the business prides itself on delivering high levels of service and continually improving the customer journey.This is an opportunity to play a key role in ensuring customer concerns are handled professionally, thoroughly and fairly, while driving improvements that enhance the overall custome\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c48901859504",
+      "title": "Customer Experience and Complaints Manager",
+      "company": "Hays Business Support",
+      "location": "Chadderton, Oldham",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5903643968?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "Your new company A well-established and customer-focused organisation is seeking a Customer Experience & Complaints Manager to join its customer service function. Operating within a fast-paced environment, the business prides itself on delivering high levels of service and continually improving the customer journey.This is an opportunity to play a key role in ensuring customer concerns are handled professionally, thoroughly and fairly, while driving improvements that enhance the overall custome\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1393d02e25f1",
+      "title": "Customer Experience Manager",
+      "company": "Sainsbury's",
+      "location": "Thornhill, Cardiff",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5903630208?se=yIFPj8e88RGCt5eLEqQsQg&utm_medium=api&utm_source=638f9cc6&v=95D64CBF7809E776F5DF711AF9525C4E8695EF9D",
+      "posted": "2026-09-30",
+      "description": "Description What you\u2019ll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "41b68fe7189b",
+      "title": "frog - Director - Customer Experience & Service Transformation (Financial Services)",
+      "company": "Capgemini",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5903489862?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "Why join frog? frog is part of Capgemini Invent and partners with customer-centric enterprises to drive sustainable growth, by building and orchestrating experiences at scale, while harnessing the power of data and technology. We're inventing the future of customer experience by delivering market-defining business models, products, services, brand engagements and communications. Joining frog means you'll be joining the \"pond,\" a global network of studios, each with a thriving in-person and vibr\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "337b595566bd",
+      "title": "Customer Experience Coordinator (Secondment until 31st March 2027)",
+      "company": "mhs homes",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5903634547?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "We are looking for an experienced and customer-focused colleague to join our Customer Experience Team as a Customer Experience Coordinator on a secondment basis until 31 March 2027. As our Customer Experience Coordinator, you\u2019ll play a vital role in being the voice of our customers \u2014 ensuring every piece of feedback helps us improve services and deliver an outstanding customer journey. We are formalising our centralised approach to handling complaints and are looking for someone who can confide\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "1bd62daf70c3",
+      "title": "People Insights Manager (12 month FTC)",
+      "company": "HeliosX",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5903624968?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "Ready to revolutionize healthcare, making it faster and more accessible than ever before? How we started: Founded in 2013 by Dwayne D\u2019Souza, HeliosX was built on a simple but powerful idea: healthcare should be easier to access, faster to receive, and centred around the individual. From day one, we\u2019ve grown without external funding; scaling profitably through technology, disciplined execution, and deep medical expertise. What started as a challenger idea has become one of the most significant h\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "0bd5e899965b",
+      "title": "Customer Experience Manager - Dan Murphy's Epping",
+      "company": "Dan Murphy's",
+      "location": "Epping, Whittlesea Area",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5903674517?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "About the Role Customer Experience Manager | Dan Murphy's Epping | Share your spirit If customer satisfaction was a competition, you\u2019d be the winner. As one of our Customer Experience Managers, you\u2019ll channel your engagement and entrepreneurial spirit to create tailored in store customer experiences and inspiring merchandising that keep our community returning to Dan\u2019s! We\u2019re looking for a passionate people leader who has a genuine desire to make better happen; for themselves and others around \u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7df1f85afdc5",
+      "title": "Customer Insights Manager",
+      "company": "CoStar Group",
+      "location": "Sydney, Sydney Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5903352854?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "Customer Insights Manager Job Description Job Summary Lead the delivery of customer insights that inform strategic decision-making, marketing effectiveness and business growth. Partnering with stakeholders across Marketing, Product, Sales and Leadership, you'll translate customer and agent research into actionable recommendations, champion a customer-centric culture, and ensure insights are embedded into key business decisions. Responsible for managing insight programs, research partnerships an\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "bafcfd02ddef",
+      "title": "Customer Listening Lead (Voice of Customer)",
+      "company": "Australian Retirement Trust",
+      "location": "Red Hill, Brisbane",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5902989108?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "Job Description We\u2019re all about helping our members make the most of their money. And while they go after their goals, you can too. As a Customer Listening Lead, you\u2019ll play an important role in transforming our current Voice of Customer program into a world-class, enterprise-wide customer listening capability. You\u2019ll bring together feedback from surveys, complaints, chat logs, call transcripts, reviews and operational data, helping our teams listen, learn and take meaningful action. You\u2019ll pro\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b7438ae6abe8",
+      "title": "Customer Experience Officer - Full-Time",
+      "company": "Transit Systems NSW",
+      "location": "Bankstown, Bankstown Area",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5903777357?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-30",
+      "description": "Transit Systems is one of Australia\u2019s leading public transport operators, connecting communities across Sydney every day. We are seeking a proactive and customer-focused Customer Experience Officer to join our team in a full-time role based in Bankstown. This is an excellent opportunity for someone who enjoys helping people, thrives in a fast-paced operational environment and takes pride in delivering positive customer service outcomes. About the Role As part of the Customer Experience team, yo\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
     {
       "id": "367c86005845",
       "title": "Manager, Customer Experience Platforms",
@@ -243,6 +1256,353 @@
       "description": "Do you speak fashion? We're hiring, Let\u2019s Chat! Born in Australia, loved around the world. At Cotton On, we know good style goes well beyond what's in your wardrobe. We\u2019re here to inspire, spark joy and bolster self-expression and creativity. We want our community to feel seen, heard and celebrated, and as a brand, we want to use our voice to make a positive difference in people's lives. We\u2019re playfully rebellious and always optimistic. Join our world and let's do good things together. The Role\u2026",
       "source": "adzuna",
       "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b478a5806adf",
+      "title": "Manager, Customer Experience Platforms",
+      "company": "GD Information Technology",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5902715862?se=nI9XjMe88RGNc_hKohi8Ew&utm_medium=api&utm_source=638f9cc6&v=169711E8493F9A5E02C069765FD24AD6D03530D2",
+      "posted": "2026-09-29",
+      "description": "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: Secret Public Trust/Other Required: None Job Family: IT Infrastructure and Operations Job Qualifications: Skills: Call Center, Customer Experience (CX), Innovation Certifications: None Experience: 5  years of related experience US Citizenship Required: Yes Job Description: GDIT seeks a full-time Information Systems Manager to lead Customer Experience (CX) Platforms . With increasing\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "ef90b46d6f5a",
+      "title": "Survey Programmer II - social science survey research",
+      "company": "NORC at the University of Chicago",
+      "location": "Chicago, Cook County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5903247673?se=rFpcjse88RGCt5eLEqQsQg&utm_medium=api&utm_source=638f9cc6&v=EBFF9094859FF63C436750C4B29BCB0FCB205CEA",
+      "posted": "2026-09-29",
+      "description": "JOB SUMMARY: NORC at the University of Chicago is seeking a Survey Programmer II to join our IT Data, Architecture, and Intelligent Systems Department and take a role in the technical design and programming of NORC questionnaires. The Survey Programmer II will also be involved in code reviews, walk-throughs, and work on cross-functional teams. This role will be dedicated to working on NORC's client projects. Location: This is a hybrid role based in our Chicago Loop office, with a minimum of six\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "insights"
+      ]
+    },
+    {
+      "id": "fd39183cb090",
+      "title": "Sr People Analytics Analyst",
+      "company": "Uber",
+      "location": "SoMa, San Francisco",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5902762457?se=rFpcjse88RGCt5eLEqQsQg&utm_medium=api&utm_source=638f9cc6&v=20B490FA05FDD57006A6E8B414C28F56490C093E",
+      "posted": "2026-09-29",
+      "description": "About the role and team At Uber, People Analytics drives business performance by translating employee insights into action. We partner with senior leaders to improve organizational effectiveness, employee engagement, and workforce outcomes across the full talent lifecycle-from hiring to retention. We are looking for a senior data analyst who is passionate about using data to answer business questions and influence decisions. This role sits at the intersection of business analytics consulting an\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "adcdcf8a6a7e",
+      "title": "Customer Experience Coordinator",
+      "company": "mhs homes",
+      "location": "Chatham, Kent",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5902908491?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "We are looking for an experienced and customer-focused colleague to join our Customer Experience Team as a Customer Experience Coordinator on a secondment basis until 31 March 2027. As our Customer Experience Coordinator, you\u2019ll play a vital role in being the voice of our customers \u2014 ensuring every piece of feedback helps us improve services and deliver an outstanding customer journey. We are formalising our centralised approach to handling complaints and are looking for someone who can confide\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c081c26972d8",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Memramcook, Westmorland",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968727?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "154a1c0b0add",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Saint John region, New Brunswick",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968730?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "582e2752ae27",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Bouctouche, Kent",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968733?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "28f4680c2d97",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Edmundston, Madawaska region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968714?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ac630878339e",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Dalhousie, Restigouche",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968710?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e18a8c17e01e",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Shediac, Westmorland",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968683?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "42ccb3d23cba",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Campbellton, Restigouche",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968689?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e0009a12c3d6",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Oromocto, Sunbury",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968698?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f484e7e02615",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Quispamsis, Kings",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968634?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2b4f066eb6b1",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Fredericton, York region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968656?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "522465c88248",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Caraquet, Gloucester region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968666?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "bc774c723830",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Miramichi, Northumberland",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968678?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "e220d5452e4c",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Cocagne, Dundas",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968641?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ea23d87a1a48",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Neguac, Northumberland",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968669?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "7e5ea9b4d5ec",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Brunswick Mines, Bathurst",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968663?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b8a04fad000b",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Tracadie-Sheila, Gloucester region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968662?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "63fd3333805b",
+      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
+      "company": "Nordia Inc.",
+      "location": "Grand Falls, Victoria region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902968631?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2afa8da6fb4d",
+      "title": "Manager, Employee Listening and Engagement",
+      "company": "KPMG",
+      "location": "Toronto, Ontario",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5903153979?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Overview At KPMG in Canada, our people bring their unique perspectives to Canada's most important challenges. Here, you can build momentum that reaches beyond our business, develop skills for the future, and take ownership of your career with support at every stage. Join a firm where your career can make a difference. As part of the National HR team, the Employee Experience Centre of Excellence (COE) focuses on key moments that matter through the talent development lifecycle including performan\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "d41da2df2fd5",
+      "title": "Community & Customer Feedback Operations Specialist",
+      "company": "NearSource",
+      "location": "Toronto, Ontario",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5902790673?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-09-29",
+      "description": "Job Title: Community & Customer Feedback Operations Specialist Job Location: 100% Remote, Canada Job Type: T4 Contract Experience: 4 Years Rate: CAD 55 - 62 per hour Role Summary: NearSource is seeking a Community & Customer Feedback Operations Specialist to support customer engagement, Voice of Customer initiatives, and community operations for a Fortune 500 enterprise software organization. This role combines community management, customer feedback operations, and cross-functional program coo\u2026",
+      "source": "adzuna",
+      "country": "CA",
       "tags": [
         "cx"
       ]
@@ -900,6 +2260,22 @@
       "country": "CA",
       "tags": [
         "cx"
+      ]
+    },
+    {
+      "id": "43f630e6bbcc",
+      "title": "Program Director, Voice of the Customer (VoC) Insights",
+      "company": "Elevance Health",
+      "location": "Mason, Warren County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5901520644?se=rFpcjse88RGCt5eLEqQsQg&utm_medium=api&utm_source=638f9cc6&v=9F78A712C4A88623F972E389ECC7030F239773C8",
+      "posted": "2026-09-28",
+      "description": "Program Director, Voice of the Customer (VOC) Location: This role requires associates to be in-office 3 days per week , fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Alternate locations may be considered if candidates reside within a commuting distance from an office _Please note that per our po\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
       ]
     },
     {
@@ -2203,6 +3579,276 @@
       ]
     },
     {
+      "id": "3313ec15b3b4",
+      "title": "Digital Client Experience (CX) Lead - Wealth Management",
+      "company": "Northern Trust",
+      "location": "Schiller Park, Cook County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900875025?se=3k18cce88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=61B5917AC174037A0096320881F6328D182CF51B",
+      "posted": "2026-09-27",
+      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9484558b0874",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Grandview Heights, Franklin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900576180?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=B505493487AF0B58C7BEEF059D91922EFC3A6CD3",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "27b983c0c9d2",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Saint Bernard, Hamilton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900576171?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=C1B99BFC60E7FF9B8BD0B15B51C30098167647CF",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "389e9f151159",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Oakwood, Montgomery County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900576189?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=735589FAA25F6ACB519C79737FC61ECAE7909198",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "37a8c5392059",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Newburgh Heights, Cuyahoga County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900576153?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=8B89D9B92606D833DE49BEAC70DEE21DF4F65407",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "89b2c0e8dd40",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Cloverdale, Shelby County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900567372?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=7FAD802F074A48AC66B28A6B61C26089F495515C",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "04a2c58ee71c",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Hermitage, Davidson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900567376?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=2AAF03F23E376C6090810261A2D8ABA3BC0E8D27",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "8b29cc570a51",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Kansas City, Jackson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900560431?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=E9BD116656125BB710CAEC082D9F4C95E39784EE",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "a285293394bb",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Wellston, Saint Louis County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900560439?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=9DB00D7511A6D2C1195BFF80C0EFE590B773CE57",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "89b4e4a1ca35",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Grand Rapids, Kent County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900560202?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=9BD35A39343F2EBD71A4F350A032C5B4533F39A4",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "69959c973c8a",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Uptown, Marion County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900556475?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=C15D2DAE1F0FAFC5C9E20F69B5D700929CE7B795",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "823aec486cb4",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Strathmoor Manor, Jefferson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900547764?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=69DC491B4F1FDF295451B8621A25115EA1139444",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "ec18e95b5fe8",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Wichita, Sedgwick County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900546276?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=3B0CC8373BB4242D93415C6B7C2EE37133996D98",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "245528ca58c5",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Birmingham, Jefferson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900544453?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=2C26C23DF256C5E669C1816BCAB96241F2B27B1D",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "e32e937a1592",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Des Moines, Polk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900541750?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=9121D6E225D01BADD578D0A157AFB2ABFC09DE22",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "9d0583bb9aa2",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Davenport, Scott County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900541722?se=vCVxe8e88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=1664D7F17BF191DA70D09BDCDFD3204A8B47B6DB",
+      "posted": "2026-09-27",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "fa3df7bf7920",
+      "title": "Digital Client Experience (CX) Lead - Wealth Management",
+      "company": "Northern Trust",
+      "location": "Schiller Park, Cook County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5900875025?se=nBNujce88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=61B5917AC174037A0096320881F6328D182CF51B",
+      "posted": "2026-09-27",
+      "description": "About Northern Trust As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world's most successful individuals, families, corporations and institutions. Since 1889, we have aligned our efforts with our three guiding Principles That Endure: Service, Expertise, and Integrity. Together, they reflect the three cornerstones of business conduct which we strive to instill in our employees, whom we\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "0d184990ce4d",
       "title": "Director HR Employee Customer Experience",
       "company": "University Of Texas Southwestern Medical Cent ",
@@ -2653,6 +4299,22 @@
       "location": "Atlanta, Fulton County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5899592951?se=eOSxVQC88RGQguK4I3PIXQ&utm_medium=api&utm_source=638f9cc6&v=C0AF0C3ED477F677684B0C1B0ACC89117D4E7FB3",
+      "posted": "2026-09-26",
+      "description": "Position Purpose: The Manager of HR Analytics manages the day to day activities and develop the competencies of the HR Analytics team. The team's primary purpose is to conduct advanced modeling and analytics of HR and financial data in order to provide strategic and actionable insights. The team consults with internal HR clients to identify strategic information needs, conduct data and process analyses, provide actionable recommendations, and to manage and execute analytical projects that suppo\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "8210ec5e782c",
+      "title": "Manager - People Analytics",
+      "company": "Home Depot",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5899592951?se=nI9XjMe88RGNc_hKohi8Ew&utm_medium=api&utm_source=638f9cc6&v=C0AF0C3ED477F677684B0C1B0ACC89117D4E7FB3",
       "posted": "2026-09-26",
       "description": "Position Purpose: The Manager of HR Analytics manages the day to day activities and develop the competencies of the HR Analytics team. The team's primary purpose is to conduct advanced modeling and analytics of HR and financial data in order to provide strategic and actionable insights. The team consults with internal HR clients to identify strategic information needs, conduct data and process analyses, provide actionable recommendations, and to manage and execute analytical projects that suppo\u2026",
       "source": "adzuna",
@@ -3407,6 +5069,22 @@
       "location": "US",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5898364450?se=eOSxVQC88RGQguK4I3PIXQ&utm_medium=api&utm_source=638f9cc6&v=61597D959BD7F6F0BAEA8BCB1B18ABF7BABF8149",
+      "posted": "2026-09-25",
+      "description": "With a career at The Home Depot, you can be yourself and also be part of something bigger. Position Purpose: The Manager of HR Analytics manages the day to day activities and develop the competencies of the HR Analytics team. The team's primary purpose is to conduct advanced modeling and analytics of HR and financial data in order to provide strategic and actionable insights. The team consults with internal HR clients to identify strategic information needs, conduct data and process analyses, p\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "644e0646dd2a",
+      "title": "Manager - People Analytics",
+      "company": "Home Depot",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5898364450?se=nI9XjMe88RGNc_hKohi8Ew&utm_medium=api&utm_source=638f9cc6&v=61597D959BD7F6F0BAEA8BCB1B18ABF7BABF8149",
       "posted": "2026-09-25",
       "description": "With a career at The Home Depot, you can be yourself and also be part of something bigger. Position Purpose: The Manager of HR Analytics manages the day to day activities and develop the competencies of the HR Analytics team. The team's primary purpose is to conduct advanced modeling and analytics of HR and financial data in order to provide strategic and actionable insights. The team consults with internal HR clients to identify strategic information needs, conduct data and process analyses, p\u2026",
       "source": "adzuna",
@@ -6003,6 +7681,21 @@
       "country": "GB",
       "tags": [
         "cx"
+      ]
+    },
+    {
+      "id": "71b286c64502",
+      "title": "Human Resources Director, Employee Experience - Revised",
+      "company": "CUNY",
+      "location": "Kew Gardens, Queens",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5895071977?se=lM-vase88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=E10A5C90690D3CAAD3FF9D447C311ECDA181887D",
+      "posted": "2026-09-23",
+      "description": "Human Resources Director, Employee Experience - Revised POSITION DETAILS The Human Resources Director of Employee Experience provides strategic leadership and operational oversight for the Human Resources Department. Reporting to and working closely with the Executive Director of Human Resources, the Director will help advance a service-oriented HR operation in alignment with the Human Resources Strategic Plan, the College's strategic priorities and CUNY policies. The department's work is cente\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
       ]
     },
     {
@@ -11472,6 +13165,22 @@
       ]
     },
     {
+      "id": "db7b7943e9d6",
+      "title": "Associate Director, Customer Experience Measurements & Insights",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5887555083?se=bGuAdse88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=09ED997F704966843EC6CCEF48B7CDB91BCFC366",
+      "posted": "2026-09-17",
+      "description": "At Bristol Myers Squibb, our employees often ask, \"Who are you working for?\"-a question that fuels collaboration, accountability, and urgency in our work. Our purpose-driven culture inspires us to discover, develop, and deliver innovative medicines to prevail over serious diseases. We offer uniquely interesting and meaningful work, opportunities for growth, and a supportive environment that values inclusion, wellbeing, flexibility, and comprehensive benefits. This is work that transforms the li\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
       "id": "d3c628e75636",
       "title": "Customer Experience & Content Analyst - The Toro Company",
       "company": "The Toro Company",
@@ -13806,6 +15515,22 @@
       ]
     },
     {
+      "id": "8e8fb97bca59",
+      "title": "SCS Business & Customer Insights Analyst II",
+      "company": "REI",
+      "location": "Alderton, Pierce County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5883543993?se=3k18cce88RGk_77PwR7Psw&utm_medium=api&utm_source=638f9cc6&v=687E57B4A799E1A91AEB33BE3455452050DFD830",
+      "posted": "2026-09-14",
+      "description": "Overview The SCS (Sales & Customer Support) CX Insights Analyst II contributes to REI's success by providing critical data insights, trends and analysis to enable data driven decision making, improve customer experiences across all SCS touchpoints, and support the evolution of the SCS team as we leverage technology to provide a seamless blend of expert human guidance and technology enabled solutions. The role acts a relentless advocate for our customers across their journey, identifying frictio\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
       "id": "33f76f98a560",
       "title": "Senior Associate, Product Management - Partnerships Customer Experience",
       "company": "Capital One",
@@ -15745,6 +17470,22 @@
       "location": "Castlewood, Centennial",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5879560673?se=LI_-SgC88RGQguK4I3PIXQ&utm_medium=api&utm_source=638f9cc6&v=9F5B1DB0BC1217F49D9666E79F6BDE62C5625302",
+      "posted": "2026-09-11",
+      "description": "Salary: $83950 - $119900/Yearly Company Summary EchoStar builds solutions that help families and communities stay connected. We'll launch your career and empower you to change lives. Our brands include Boost Mobile, DISH TV, Gen Mobile, Hughes and Sling TV. We serve millions of customers with offerings ranging from satellite to streaming services and global to personal networking solutions. In Human Resources, we collaborate with the innovators who drive DISH's creative ambition. From recognizi\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "266a5f114cee",
+      "title": "Employee Insights Program Manager",
+      "company": "EchoStar",
+      "location": "Castlewood, Centennial",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5879560673?se=Ph8fese88RGEKO3QssVymg&utm_medium=api&utm_source=638f9cc6&v=9F5B1DB0BC1217F49D9666E79F6BDE62C5625302",
       "posted": "2026-09-11",
       "description": "Salary: $83950 - $119900/Yearly Company Summary EchoStar builds solutions that help families and communities stay connected. We'll launch your career and empower you to change lives. Our brands include Boost Mobile, DISH TV, Gen Mobile, Hughes and Sling TV. We serve millions of customers with offerings ranging from satellite to streaming services and global to personal networking solutions. In Human Resources, we collaborate with the innovators who drive DISH's creative ambition. From recognizi\u2026",
       "source": "adzuna",
@@ -25008,641 +26749,6 @@
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5862862165?se=lEDUugWt8RG7Mr5GC-A8cg&utm_medium=api&utm_source=638f9cc6&v=3DDE374AF8A5C0532AB4140CE96B8942EFC22981",
       "posted": "2026-08-31",
       "description": "The role Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an ex\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "93b4e380d980",
-      "title": "E-Commerce Customer Experience Manager",
-      "company": "Kith",
-      "location": "Brooklyn, New York City",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862198578?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Location: HQ - Williamsburg, Brooklyn Status: Full-time / 100% on-site Compensation: $85,000 - $105,000 annually Position Summary: The E-Commerce Customer Experience Manager in this role is responsible for supporting and directly supervising the Ecommerce customer service team lead and representatives. RESPONSIBILITIES Lead eCommerce customer service offshore team lead and representatives. Define and monitor team performance against agreed Key Performance indicators (KPI\u2019s) and foster a continu\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "c77c9d813637",
-      "title": "Senior Program Manager, Customer Experience",
-      "company": "Kikoff",
-      "location": "San Francisco, California",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862196690?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Kikoff: The Fintech Powering Financial Security at Scale Kikoff is a profitable, pre-IPO fintech company on a mission to empower everyone to achieve financial security. With record revenue growth in 2025 and a unicorn valuation, we've built a suite of products that help millions of people build credit, access liquidity, and save money. We're scaling fast. Join us if you want to build something meaningful and help millions of people move forward financially. Why Kikoff: This is a consumer fintec\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a6750153f06f",
-      "title": "Senior Customer Experience Program Manager",
-      "company": "Microsoft",
-      "location": "Redmond, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862178247?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Overview As part of the Windows and Windows Cloud product group, the Windows Cloud Customer Acceleration Team engages with Windows in the Cloud\u2019s most strategic customers via a data-driven customer/engineering feedback loop as part of their adoption of the service. We are looking for customer-obsessed individuals to drive positive product change through influencing product priorities, using customer listening and technical knowledge. Come join a team focused on learning from deep technical enga\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "xm"
-      ]
-    },
-    {
-      "id": "5198c57b818a",
-      "title": "Customer Experience Manager",
-      "company": "Five Below",
-      "location": "Houston, Harris County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862177871?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "At Five Below our growth is a result of the people who embrace our purpose: We know life is way better when you are free to Let Go & Have Fun in an amazing experience, filled with unlimited possibilities, priced so low, you can always say yes to the newest, coolest stuff! Just ask any of our over 20,000 associates who work at Five Below and they\u2019ll tell you there\u2019s no other place like it. It all starts with our purpose and then, The Five Below Way, which is our values and behaviors that each an\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "524005cdc223",
-      "title": "Regional Customer Experience Field Lead - Independent Contractor",
-      "company": "TransPro Consulting",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862135584?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "TransPro Consulting is seeking Regional Customer Experience Field Leads to lead onsite customer research projects for transit agencies across the country. This hands-on role is responsible for coordinating field survey teams, ensuring quality data collection and project targets are met, resolving real-time field issues, and serving as TransPro\u2019s primary onsite representative with transit agency staff. What You'll Do Train and onboard field surveyors on survey procedures, safety, technology, and\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "71a73f0adf1d",
-      "title": "Director Customer Experience and Engagement",
-      "company": "Nscale",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862197540?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "About Nscale Nscale is the GPU cloud engineered for AI. We provide cost-effective, high-performance infrastructure for AI start-ups and large enterprise customers. Nscale enables AI-focused companies to achieve superior results by reducing the complexity of AI development. Our GPU cloud supports strategic business outcomes including cost management, rapid innovation, and environmental responsibility. We thrive on a culture of relentless innovation, ownership, and accountability, where every tea\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "cff3dd9b767a",
-      "title": "Director, Digital Customer Experience and Innovation",
-      "company": "KDS Kohl's",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862182364?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Role Specific Information Job Description About the Role As Director, Digital Customer Experience and Innovation, you will lead the strategy and innovation agenda for Kohl\u2019s digital customer experience, defining how customers discover, engage with, and experience Kohl\u2019s across digital touchpoints. You will drive the experience vision, CX/UX strategy, and innovation portfolio with a focus on expanding discovery on and off Kohl\u2019s properties, delivering intelligent and personalized experiences, an\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "55dffc38b740",
-      "title": "Director of Customer Experience Operations",
-      "company": "Headway",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862097749?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway\u2019s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to care: insurance. The admin work - credentialing, claims, payment reconciliation - is a nightmare. We've automated that. But we're going further. Over 75,000 providers across all 50 states run their prac\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "08e783c1b357",
-      "title": "Software Development Manager, Devices & Services Trust CX Innovations",
-      "company": "Amazon",
-      "location": "Bellevue, King County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862027510?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "About the Team Amazon's Devices & Services Trust CX Innovations team is building the future of responsible AI for consumer devices. We deliver privacy-first, accessible, and trustworthy AI experiences that millions of customers use daily across Amazon's device ecosystem\u2014including Alexa, Echo, and other ambient computing products. Our mission is to ensure that as we push the boundaries of generative AI innovation, we maintain Amazon's high bar for customer trust, privacy, inclusion, and accessib\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "0face12faaf6",
-      "title": "Employee Listening Design & Delivery Lead",
-      "company": "Wilson",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5861920372?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Description and Requirements Work Location: Remote Position Type: Contract, 11 months (potential for extension) Location: Mountain View, California, USA Compensation Range: $ per hour USD Our Fortune 500 client is seeking an Employee Listening Design & Delivery Lead. Responsibilities Program Strategy & Design Lead employee listening and Voice of the Employee (VOE) strategy and key design decisions. Assess needs, benchmark, and stay ahead of industry trends and best practices, leveraging employe\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "6aa0ea2c863e",
-      "title": "People Partner & People Operations Manager \u2013 Revenue & Customer Experience Functions",
-      "company": "vivenu",
-      "location": "New York City, New York",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862086144?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Redefine the future of live entertainment tech Welcome to vivenu, the global leader in event ticketing tech and one of the world\u2019s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golden Globes, Stanford University and the Hockenheimring turning what was once a simple transaction into a strategic business advantage. Backed by over $65 million in funding, our platform empowers event organizers to own their brand experienc\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "ea9380dc7cee",
-      "title": "Manager III Organization & People Analytics",
-      "company": "Andersen Corporation",
-      "location": "Oak Park, Benton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862197165?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "ANDERSEN CORPORATION SUMMARY: At Andersen, we see possibility everywhere, every day and in everything we do. The possibility for our employees to achieve their full potential, for our communities to be stronger and for everyone to have a healthier, happier place to live. Our portfolio of brands \u2014 Andersen Windows & Doors, Renewal by Andersen and Fenetres MQ \u2014 is crafted to serve customers across the new residential, home improvement and light commercial building sector. Join our more than 13,00\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "0401e739e36e",
-      "title": "CX Insights - Data Analyst II",
-      "company": "American National",
-      "location": "League City, Galveston County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862001662?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "We are seeking a Data Analyst II to join our Client Experience (CX) team in League City, TX. This position actively designs, integrates, and maintains client data systems and analytical deliverables within the Client Experience (CX) Analytics & Operations function. The Data Analyst II executes data ingestion, hygiene, and reporting activities; supports the operation of client data infrastructure and connected systems including the Voice of Client (VOC) platform; and contributes to test, brand, \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "e6dd8632109d",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5862029002?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "The role Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an ex\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "85c6ca08b082",
-      "title": "Customer Experience Representative",
-      "company": "Air Liquide",
-      "location": "Edmonton, Edmonton region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5862015640?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "How will you CONTRIBUTE and GROW? the CEC rep main responsibility is to provide an excellent customer experience to the customers according to Air Liquide Canada\u2019s 3C\u2019s of Customer Service and work as a team member in the Customer Experience Centre. In this capacity, he/she is responsible to respond to all customers inquiries (orders, general support, web requests, invoicing and technical) in order to promote and deliver profitable sales growth. 1. Ensures excellent customer experience: Receive\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "da66648eb7bd",
-      "title": "Customer Experience Administrator",
-      "company": "Building and Plumbing Commission",
-      "location": "Melbourne, Melbourne Region",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5861945072?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "About the Role: We are seeking multiple fixed-term Customer Experience Administrators to join the BPC until 30 June 2027. Opportunities are available for both a full-time basis and part-time basis (0.6 FTE, equivalent to 3 days per week). As the BPC's role continues to grow, we are seeking Customer Experience Administrators to support the Consumer & Practitioner Service Centre. This frontline team plays a critical role in delivering a professional and supportive experience by providing phone an\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "757543c54928",
-      "title": "Swim School Customer Experience Manager",
-      "company": "Carlile Swim Operations",
-      "location": "Perth CBD, Perth",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5861725201?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Customer Experience Manager \u2013 Carlile Swim  Perth, WA  Full Time  Join Australia\u2019s leading swim school \u2b50 Lead People. Create Great Experiences. Make an Impact. \u2b50 We're currently looking for a Customer Experience Manager to join our team in Perth, with an immediate opportunity at Harrisdale Carlile Swim. As Carlile Swim continues to grow across WA, we're also keen to hear from experienced leaders who may be a great fit for opportunities across our wider Perth network. This is a hands-on leadersh\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "dc8e7530c133",
-      "title": "Swim School Customer Experience Manager - Mount Ommaney",
-      "company": "Carlile Swim Operations Pty Ltd",
-      "location": "Brisbane CBD, Brisbane",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5861360622?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Description Customer Experience Manager \u2013 Carlile Swim Mount Ommaney, QLD Full Time Join Australia\u2019s most respected swim school network Be Part of an Established Centre with a Growing Team Carlile Swim Mount Ommaney is a thriving and well-established swim school, and we\u2019re looking for a Customer Experience Manager to join our leadership team and support the centre\u2019s continued growth. This is a fantastic opportunity for someone ready to step into, or grow, their leadership while playing a key ro\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "d03ace428996",
-      "title": "Customer Experience Process Analyst",
-      "company": "Asahi",
-      "location": "Melbourne, Melbourne Region",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5861189818?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Your Impact Help reimagine how our customers interact with Asahi Beverages. As Customer Experience Process Analyst within Digital, you will focus on the end-to-end customer journey, order management, and service quality. Working within the Business Process Efficiency team, you will analyse customer touchpoints, eliminate friction, and design practical process improvements that elevate the overall customer experience. Key Responsibilities Analyse end-to-end customer-facing processes, customer or\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "63cfcd5faae5",
-      "title": "Manager, AI Search Strategy and Customer Experience",
-      "company": "CVS Health",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862218406?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "We\u2019re building a world of health around every individual \u2014 shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you\u2019ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger \u2013 helping to simplify health care one person, one family and one community at a time. Position Summary AI-Generated search is altering the way\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "e6f50a2d1ade",
-      "title": "Senior Customer Insights Analyst",
-      "company": "Fullstory",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862203804?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "This is a hybrid position requiring in-office attendance 1 day per week at our Atlanta office. Candidates must reside within a commutable distance to be considered. In a typical day, you might: Serve as a consultant and advisor, building and maintaining relationships with customers who trust our data and recommendations, and derive clear business value from our partnership Engage deeply with new customers to help them deliver specific business initiatives and improve overall product value and a\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "bcc92869533c",
-      "title": "PMGH-Program Manager (PM) - GH & VOC",
-      "company": "West Mont",
-      "location": "Helena, Lewis and Clark County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5861916084?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Description WEST MONT JOB DESCRIPTION JOB TITLE: Program Manager HOURS/WEEK: 40 hr per week DEPARTMENT: Operations IMMEDIATE SUPERVISOR: Program Coordinator WORK SCHEDULE (HOURS): Hours and days may vary; typically hours are 8AM to 4PM but there will be a requirement to work different shifts and work areas to complete job functions. FLSA: Nonexempt Revised date: 11/17/2022 JOB SUMMARY: Responsible for all aspects of assigned residential or vocational program including health, safety, cleanlines\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "d3c76ef9ac48",
-      "title": "People Partner & People Operations Manager \u2013 Global Revenue & Customer Experience Functions",
-      "company": "vivenu",
-      "location": "New York City, New York",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5862202611?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "In order to be considered for this role, after clicking \"Apply Now\" above and being redirected, you must fully complete the application process on the follow-up screen. Redefine the future of live entertainment tech Welcome to vivenu, the global leader in event ticketing tech and one of the world\u2019s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golden Globes, Stanford University and the Hockenheimring turning what was \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "3700e811c0b6",
-      "title": "Lead Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "London, UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5862238298?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "What you'll be doing: Lead a team of managers to make sure every single one of our customers has a great experience in store everywhere from the checkouts to the petrol station. Planning for upcoming key trading activity and events by working closely with the rest of the store leadership team Regularly taking full accountability for the store in the absence of a store manager, role modelling and coaching for high standards and efficiency across the store. Running operations at our checkout area\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "f885987fd3a8",
-      "title": "Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Dartford, Kent",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5862238262?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "What you'll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling and pay are\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "6bbba9829b3d",
-      "title": "Customer Experience Team Leader (FTC)",
-      "company": "Sopra Steria",
-      "location": "Newport, Wales",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5862238032?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Are you someone who enjoys leading people, making confident decisions and keeping services running smoothly - even when things get busy or outside standard hours? Join our CXM Hub as a Team Leader and play a key role in the day-to-day running of a busy contact centre supporting the Prisons Enquiry Centre. You'll work alongside a supportive group of Team Leaders and colleagues, where collaboration, accountability and a strong team culture are at the heart of what we do. This is a hands-on leader\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "0070c2080b92",
-      "title": "Customer Experience Associate",
-      "company": "TD",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5862541968?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Work Location: Burnaby, British Columbia, Canada Hours: 15 Line of Business: Personal & Commercial Banking Pay Details: We're committed to providing fair and equitable compensation to all our colleagues. As a candidate, we encourage you to have an open dialogue with a member of our HR Team and ask compensation related questions, including pay details for this role. Job Description: KEY ACCOUNTABILITIES CUSTOMER Create an exceptional customer experience with every customer interaction and contri\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9298776ab051",
-      "title": "Customer Experience Associate",
-      "company": "TD",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5862542023?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Work Location: Burnaby, British Columbia, Canada Hours: 15 Line of Business: Personal & Commercial Banking Pay Details: We're committed to providing fair and equitable compensation to all our colleagues. As a candidate, we encourage you to have an open dialogue with a member of our HR Team and ask compensation related questions, including pay details for this role. Job Description: KEY ACCOUNTABILITIES CUSTOMER Create an exceptional customer experience with every customer interaction and contri\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "2fe20b9f707f",
-      "title": "Senior Manager, Digital Product - Customer Experience & Operations",
-      "company": "Samsung",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5862020902?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Position Summary At Samsung Electronics Canada, we take pride in the creativity and diversity of our talented people \u2013 they are at the forefront of everything we do. Their skillset and mindset drive our continued success. We want the best of the best at Samsung to join our team, not just those who fit into our Culture but those who will ADD to our Culture and make Samsung an even better place to work. Did we catch your attention yet? If you want to work for one of the most recognized brands in \u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "94000bd24360",
-      "title": "Expert Employee Experience",
-      "company": "CN",
-      "location": "Montr\u00e9al, Qu\u00e9bec",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5861984057?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "At CN, everyday brings new and exciting challenges. You can expect an interesting environment where you're part of making sure our business is running optimally and safely?helping keep the economy on track. We provide the kind of paid training and opportunities that long-term careers are built on and we recognize hard workers who strive to make a difference. You will be able to thrive in our close-knit, safety-focused culture working together as ONE TEAM. The careers we offer are meaningful bec\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "fa8e0d0336b4",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5862029002?se=ALfO0Pal8RGv1rlAOULmew&utm_medium=api&utm_source=638f9cc6&v=0B786CB11DC1B971074716892A6DEEC7F6D8D2B6",
-      "posted": "2026-08-30",
-      "description": "The role Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an ex\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "79329ac57229",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5862029002?se=0qab0_al8RG5mLqcbh9jLA&utm_medium=api&utm_source=638f9cc6&v=0B786CB11DC1B971074716892A6DEEC7F6D8D2B6",
-      "posted": "2026-08-30",
-      "description": "The role Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an ex\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "46d2d4aaab4e",
-      "title": "Customer Experience & Content Analyst - The Toro Company",
-      "company": "The Toro Company",
-      "location": "Bloomington, Hennepin County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5862729373?se=-gwXRbym8RGiHujJjqzZMA&utm_medium=api&utm_source=638f9cc6&v=DE2F7D52CC3404287DD190B8725262B794086A70",
-      "posted": "2026-08-30",
-      "description": "Applicants must be legally authorized to work in the United States. We are unable to sponsor or take over sponsorship of a school/employment or any other visa, regardless of expiration date, now or in the future. Who Are We??? ? The Toro Company is a homegrown, Minnesota-based company that has been in business since 1914. We pride ourselves on providing world-class equipment to help maintain the environment that we love, while putting an emphasis on giving back to the communities that surround \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "fe3c4f2f8a77",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5862029002?se=yAu_foWn8RGKh_IuZydufA&utm_medium=api&utm_source=638f9cc6&v=0B786CB11DC1B971074716892A6DEEC7F6D8D2B6",
-      "posted": "2026-08-30",
-      "description": "The role Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an ex\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "6d9f521d9d5a",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5862029002?se=7r6_gYWn8RG374tWD5Donw&utm_medium=api&utm_source=638f9cc6&v=0B786CB11DC1B971074716892A6DEEC7F6D8D2B6",
-      "posted": "2026-08-30",
-      "description": "The role Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an ex\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "e39a0ed9806c",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5862221959?se=MirpiU6o8RGpTs1Lc1il5g&utm_medium=api&utm_source=638f9cc6&v=E1F93DC5FFB96ABA2E0BC040D28060CA44E282C4",
-      "posted": "2026-08-30",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "aa8d646a2538",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5862029002?se=MirpiU6o8RGpTs1Lc1il5g&utm_medium=api&utm_source=638f9cc6&v=0B786CB11DC1B971074716892A6DEEC7F6D8D2B6",
-      "posted": "2026-08-30",
-      "description": "The role Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an ex\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "4a0ca8bc8031",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5862221959?se=fNNDjE6o8RGOhLO7H1xbMQ&utm_medium=api&utm_source=638f9cc6&v=E1F93DC5FFB96ABA2E0BC040D28060CA44E282C4",
-      "posted": "2026-08-30",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "b362fe58457f",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5862029002?se=fNNDjE6o8RGOhLO7H1xbMQ&utm_medium=api&utm_source=638f9cc6&v=0B786CB11DC1B971074716892A6DEEC7F6D8D2B6",
-      "posted": "2026-08-30",
-      "description": "The role Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an ex\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "3289852a8c55",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5862221959?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-08-30",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "12d28d6a04ec",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5862221959?se=Egr0twWt8RG7Mr5GC-A8cg&utm_medium=api&utm_source=638f9cc6&v=E1F93DC5FFB96ABA2E0BC040D28060CA44E282C4",
-      "posted": "2026-08-30",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "4cc34451de70",
-      "title": "Director of Customer Experience",
-      "company": "Metropolitan Thames Valley",
-      "location": "Boulevard Industrial Park, Beeston",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5862221959?se=lEDUugWt8RG7Mr5GC-A8cg&utm_medium=api&utm_source=638f9cc6&v=E1F93DC5FFB96ABA2E0BC040D28060CA44E282C4",
-      "posted": "2026-08-30",
-      "description": "Director of Customer Experience Location: Hybrid working with travel across MTVH's operating regions London/Nottingham Salary: Competitive Executive Package Contract Type: Permanent Reimagine Customer Experience at One of the UK's Leading Housing Providers At Metropolitan Thames Valley Housing (MTVH), we are delivering our Fit for the Future transformation, modernising services, investing in technology and reshaping the way customers experience housing services. We're looking for an exceptional\u2026",
       "source": "adzuna",
       "country": "GB",
       "tags": [
