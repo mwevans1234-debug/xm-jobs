@@ -1,7 +1,343 @@
 {
-  "updated": "2026-10-18T10:37:18Z",
-  "count": 2334,
+  "updated": "2026-10-19T12:33:34Z",
+  "count": 2355,
   "jobs": [
+    {
+      "id": "73755fddfd78",
+      "title": "Manager, Customer Experience Strategy & Operations",
+      "company": "Tempus AI",
+      "location": "Chicago, Cook County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5934188270?se=DHU5r7jL8RGxeaYH0VCqrA&utm_medium=api&utm_source=638f9cc6&v=075D5C927CC62332BC6F5278E9809AF46BCCA86A",
+      "posted": "2026-10-19",
+      "description": "Passionate about precision medicine and advancing the healthcare industry? Recent advancements in underlying technology have finally made it possible for AI to impact clinical care in a meaningful way. Tempus' proprietary platform connects an entire ecosystem of real-world evidence to deliver real-time, actionable insights to physicians, providing critical information about the right treatments for the right patients, at the right time. We are seeking a Manager of Customer Experience Strategy &\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "df8cb557be5d",
+      "title": "Director of Customer Experience",
+      "company": "Capital One",
+      "location": "Capitol, Richmond",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5934127560?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "Director of Customer Experience As the Director of Customer Experience, you will occupy a critical leadership position tasked with architecting, executing, and scaling the holistic customer acceptance journey across the Discover Network. Within the multifaceted global payments ecosystem, our clientele encompasses issuing institutions, merchant acquirers, enterprise partners, and cardholders. Serving as the principal advocate for the Voice of the Customer (VoC), you will synthesize advanced data\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d38b0bb4d810",
+      "title": "Director of Customer Experience",
+      "company": "Capital One",
+      "location": "Bannockburn, Lake County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5934127359?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "Director of Customer Experience As the Director of Customer Experience, you will occupy a critical leadership position tasked with architecting, executing, and scaling the holistic customer acceptance journey across the Discover Network. Within the multifaceted global payments ecosystem, our clientele encompasses issuing institutions, merchant acquirers, enterprise partners, and cardholders. Serving as the principal advocate for the Voice of the Customer (VoC), you will synthesize advanced data\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "99f3a5378e0a",
+      "title": "Director of Customer Experience",
+      "company": "Capital One",
+      "location": "Illinois Medical District, Chicago",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5934127341?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "Director of Customer Experience As the Director of Customer Experience, you will occupy a critical leadership position tasked with architecting, executing, and scaling the holistic customer acceptance journey across the Discover Network. Within the multifaceted global payments ecosystem, our clientele encompasses issuing institutions, merchant acquirers, enterprise partners, and cardholders. Serving as the principal advocate for the Voice of the Customer (VoC), you will synthesize advanced data\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a7d4faa33ae2",
+      "title": "Journey Specialist, Customer Experience - AWS Integrated Demand Center",
+      "company": "Amazon",
+      "location": "Grand Central, Manhattan",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5934144058?se=UgyGsrjL8RGxeaYH0VCqrA&utm_medium=api&utm_source=638f9cc6&v=72B93D52E953A9A33EC59B46E26DBF9C742EC6E2",
+      "posted": "2026-10-19",
+      "description": "Description AWS Marketing is seeking a talented Journey Specialist to join our Customer Experience (CX) team within the Integrated Demand Center (IDC). In this role, you will lead the implementation of customer journeys in Adobe Experience Platform (AEP) while supporting the strategic design of customer-centric marketing experiences. You'll play a critical role in translating journey frameworks into technical reality, orchestrating data-driven, personalized experiences that help AWS customers a\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "d007d8a18654",
+      "title": "Journey Architect, Customer Experience - AWS Integrated Demand Center",
+      "company": "Amazon",
+      "location": "Grand Central, Manhattan",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5934144050?se=UgyGsrjL8RGxeaYH0VCqrA&utm_medium=api&utm_source=638f9cc6&v=3745FDB30ECC023D65B040F2C140CA39445655D1",
+      "posted": "2026-10-19",
+      "description": "Description AWS Marketing is seeking a talented Journey Architect to join our Customer Experience (CX) team within the Integrated Demand Center (IDC). In this role, you will lead the implementation of customer journeys in Adobe Experience Platform (AEP) while supporting the strategic design of customer-centric marketing experiences. You'll play a critical role in translating journey frameworks into technical reality, orchestrating data-driven, personalized experiences that help AWS customers ad\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "039822701188",
+      "title": "Journey Architect, Customer Experience - AWS Integrated Demand Center",
+      "company": "Amazon",
+      "location": "International, King County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5934130178?se=UgyGsrjL8RGxeaYH0VCqrA&utm_medium=api&utm_source=638f9cc6&v=2AA4A09075D42BCC45169960BEFDA11BCD297D22",
+      "posted": "2026-10-19",
+      "description": "Description AWS Marketing is seeking a talented Journey Architect to join our Customer Experience (CX) team within the Integrated Demand Center (IDC). In this role, you will lead the implementation of customer journeys in Adobe Experience Platform (AEP) while supporting the strategic design of customer-centric marketing experiences. You'll play a critical role in translating journey frameworks into technical reality, orchestrating data-driven, personalized experiences that help AWS customers ad\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "5d7740c9f98f",
+      "title": "Journey Specialist, Customer Experience - AWS Integrated Demand Center",
+      "company": "Amazon",
+      "location": "International, King County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5934130148?se=UgyGsrjL8RGxeaYH0VCqrA&utm_medium=api&utm_source=638f9cc6&v=60338F92114CE29B7375489FD4C1AA00B2CAF9B7",
+      "posted": "2026-10-19",
+      "description": "Description AWS Marketing is seeking a talented Journey Specialist to join our Customer Experience (CX) team within the Integrated Demand Center (IDC). In this role, you will lead the implementation of customer journeys in Adobe Experience Platform (AEP) while supporting the strategic design of customer-centric marketing experiences. You'll play a critical role in translating journey frameworks into technical reality, orchestrating data-driven, personalized experiences that help AWS customers a\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "be9d277505e2",
+      "title": "Senior Manager, Employee Listening",
+      "company": "Mondelez International",
+      "location": "Illinois Medical District, Chicago",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5934147966?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "Global Headquarters - Chicago, USA Full time R-179785 Job Description The Opportunity Mondel\u0113z International is transforming its People Analytics function from the ground up, building the data foundations, capabilities, and culture needed to make MDLZ a truly insight-driven organization. Employee listening is a critical pillar of that transformation. We are looking for a Sr. Manager, Employee Listening to own the vision, strategy, and execution of our employee listening program. This is not a c\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "e82144d498c0",
+      "title": "Senior Manager, Customer Experience - Corp Admin",
+      "company": "The Second City",
+      "location": "Chicago, Cook County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5934114440?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "About The Second City: Dedicated to entertaining, inspiring, and transforming through innovative live experiences, The Second City is the premier brand in improv and sketch comedy. With sold-out shows playing on resident stages in Chicago and Toronto, Second City\u2019s Touring Theatrical companies also entertain an additional one million theatergoers a year around the globe. The Second City Training Centre is the largest school of improvisation-based arts on the planet, with brick-and-mortar locati\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b4ec4b40fa40",
+      "title": "Workplace Experience Manager",
+      "company": "*US AMR-Jones Lang LaSalle Americas, Inc.",
+      "location": "San Carlos, San Mateo County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5934051614?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "f17bea8eeb33",
+      "title": "Employee Experience Coordinator",
+      "company": "CrowdStrike",
+      "location": "Sunnyvale, Santa Clara County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5933995722?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn\u2019t changed \u2014 we\u2019re here to stop breaches, and we\u2019ve redefined modern security with the world\u2019s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers span all industries, and they count on CrowdStrike to keep their businesses\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "6601a0f4ed88",
+      "title": "Director, Strategy & Operations-Employee Experience Group",
+      "company": "ServiceNow, Inc.",
+      "location": "Mountain View, Santa Clara County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5934127408?se=FjZAtbjL8RGdyeIfwUvJGw&utm_medium=api&utm_source=638f9cc6&v=FAF0CCA8E9FD2AF2D4B08CFC2B9E38A9A26E219F",
+      "posted": "2026-10-19",
+      "description": "It all started when engineer Fred Luddy wrote code that automated a tedious task for his coworker, Phyllis. She cried tears of joy. That moment inspired Fred to build a company that could do that for everyone-freeing people from busywork so they could focus on meaningful work. Today, ServiceNow is the AI control tower for business reinvention. Our ServiceNow AI platform brings together any AI, any data, and any workflow- helping 85% of the Fortune 500\u00ae work smarter, faster, and better. We're bu\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "0ef06ced3067",
+      "title": "Voice of the Customer Intelligence (VOC) Manager, Customer Experience and Engagement",
+      "company": "*US AMR-Jones Lang LaSalle Americas, Inc.",
+      "location": "Crystal, Arlington County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5934051589?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "31a4a20e6a92",
+      "title": "Assistant Store Leader, Customer Experience & Outreach",
+      "company": "Crate & Barrel",
+      "location": "Corte Madera, Marin County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933975049?se=-NJNxLjL8RGxeaYH0VCqrA&utm_medium=api&utm_source=638f9cc6&v=69D2194F2C80AD02ECE3FFE4EFCB587CE6744983",
+      "posted": "2026-10-19",
+      "description": "Strategic and service-driven, the Assistant Store Leader \u2013 Customer Experience & Outreach drives sales and engagement through hands-on leadership and a passion for delivering results. In this role, you lead sales and service programs, train and coach associates, and implement engagement initiatives that boost customer acquisition, retention, and loyalty. You oversee the performance of key programs such as Design Services, Trade, Registry, and in-store events\u2014driving traffic, conversion, and lon\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "29e9a3f92db7",
+      "title": "Customer Experience Data Intern",
+      "company": "Prologis",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5934058006?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "At Prologis, we don\u2019t just lead the industry\u2014we define it with a 1.3 billion square foot portfolio and an annual throughput of approximately $3.2 trillion. We create the intelligent infrastructure that powers global commerce, seamlessly connecting the digital and physical worlds. From agile supply chains to energy solutions, our ecosystems help your business move faster, operate smarter and grow sustainably. With unmatched scale, innovation and expertise, Prologis is a category of one\u2014not just \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "4b86acb48ab8",
+      "title": "Customer Experience Lead - Merivale Place, Nepean ON",
+      "company": "Laura",
+      "location": "Nepean, Ottawa region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5934058237?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "How will you support the team? As a Team Leader, you possess a passion for fashion and customer service. You will be part of a winning team that provides a unique and memorable shopping experience to every customer. You will be joining a Company focused on the development and career growth of its employees. Act as a stylist to build a personalized wardrobe to the customer. Develop and train the sales team on exemplary customer service, the promotion of different programs, product knowledge and \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f8affe923b90",
+      "title": "Customer Experience Lead",
+      "company": "Laura",
+      "location": "Mississauga, Peel region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5934057738?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "How will you support the team? As a Team Leader, you possess a passion for fashion and customer service. You will be part of a winning team that provides a unique and memorable shopping experience to every customer. You will be joining a Company focused on the development and career growth of its employees. Act as a stylist to build a personalized wardrobe to the customer. Develop and train the sales team on exemplary customer service, the promotion of different programs, product knowledge and \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d1b2d2b4afd5",
+      "title": "Assistant Manager / Customer Experience Lead",
+      "company": "Laura",
+      "location": "Kelowna, Central Okanagan",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5934056385?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "How will you support the team? As a Team Leader, you possess a passion for fashion and customer service. You will be part of a winning team that provides a unique and memorable shopping experience to every customer. You will be joining a Company focused on the development and career growth of its employees. Act as a stylist to build a personalized wardrobe to the customer. Develop and train the sales team on exemplary customer service, the promotion of different programs, product knowledge and \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a3463e6b1ff2",
+      "title": "Customer Experience Lead",
+      "company": "Laura",
+      "location": "Winnipeg region, Manitoba",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5934056048?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "How will you support the team? As a Team Leader, you possess a passion for fashion and customer service. You will be part of a winning team that provides a unique and memorable shopping experience to every customer. You will be joining a Company focused on the development and career growth of its employees. Act as a stylist to build a personalized wardrobe to the customer. Develop and train the sales team on exemplary customer service, the promotion of different programs, product knowledge and \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d85f4e3210e0",
+      "title": "Customer experience lead - Laura (Women's fashion) Burloak",
+      "company": "Laura",
+      "location": "Oakville, Halton",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5934055744?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "How will you support the team? As a Team Leader, you possess a passion for fashion and customer service. You will be part of a winning team that provides a unique and memorable shopping experience to every customer. You will be joining a Company focused on the development and career growth of its employees. Act as a stylist to build a personalized wardrobe to the customer. Develop and train the sales team on exemplary customer service, the promotion of different programs, product knowledge and \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2d802870aeeb",
+      "title": "Customer Experience Manager",
+      "company": "Laura",
+      "location": "Laval, Laval region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5934061012?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-19",
+      "description": "How will you support the team? As part of Management, the Store Assistant Manager possesses a passion for fashion and customer service. They recruit and lead a winning team that provides a unique and memorable shopping experience to every customer. They foster a vibrant, fun, energetic and enjoyable store environment. Act as a stylist to build a personalized wardrobe to the customer. Develop and coach a team on exemplary customer service, the promotion of different programs, product knowledge a\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
     {
       "id": "efb0f94f1a0e",
       "title": "Customer Experience Coordinator",
@@ -241,6 +577,585 @@
       "country": "AU",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "id": "a58e6cfdcb41",
+      "title": "Associate Manager, Retail Customer Experience",
+      "company": "New York Botanical Garden",
+      "location": "Bronx, New York City",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5933393297?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "NYBG J ob Description Title Reports t o Associ a te Manager, Retail Customer Experience Director, Retail, NYBG Shop Position Summary : The Associate Manager, Retail Customer Experienc e support s and continuously improves the Shop's visitor experience by enhancing the customer journey, establishing and delivering on service standards and behaviors that support business objectives , and the visitor-facing education and engagement programming that brings the Shop's assortment to life. Working und\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "81ebe652bb68",
+      "title": "CX Workplace and Revenue Manager",
+      "company": "Highwoods Careers",
+      "location": "Raleigh, Wake County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5933365929?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "CX Manager Position Summary At Highwoods, we're in the work-placemaking business, creating environments where people can connect, collaborate, and thrive. The CX Workplace & Revenue Manager is responsible for the operational performance, utilization, and revenue growth of Highwoods' customer-facing amenities, parking operations, placemaking initiatives, and The Commons flexible workspace platform. Reporting to the Director of Customer Experience, this role focuses on transforming shared spaces \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "9b6e53d2cb98",
+      "title": "Customer Experience Program Manager - West Region",
+      "company": "Honeywell Technologies",
+      "location": "Charlotte, Mecklenburg County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933255118?se=qn8wsLjL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=00F594036947708A3452FDE7D6CF81A55C3A23BA",
+      "posted": "2026-10-18",
+      "description": "As a Customer Experience Program Management Manager here at Honeywell, you will have the opportunity to shape the customer experience strategy and drive initiatives that enhance customer satisfaction and loyalty. You will report directly to our Director Customer Experience Program Management, and you'll work out of our West Region location. Honeywell Building Solutions installs, integrates, and maintains building systems that help customers operate connected, safe, secure, comfortable, producti\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "e0b8cabb0de6",
+      "title": "Customer Experience Program Manager -Northeast Region",
+      "company": "Honeywell Technologies",
+      "location": "Trenton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933240242?se=qn8wsLjL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=F62719DDEA27FC96961DDE62A41D8F595F630757",
+      "posted": "2026-10-18",
+      "description": "As a Customer Experience Program Management Manager here at Honeywell, you will have the opportunity to shape the customer experience strategy and drive initiatives that enhance customer satisfaction and loyalty. You will report directly to our Director Customer Experience Program Management and you'll work out of our Northeast Region location. Honeywell Building Solutions installs, integrates, and maintains building systems that help customers operate connected, safe, secure, comfortable, prod\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "34bf645631fa",
+      "title": "Customer Experience Program Manager - West Region",
+      "company": "Honeywell Technologies",
+      "location": "Phoenix, Maricopa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933233448?se=qn8wsLjL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=225D928AFC043EF83599AD1CF81E5EEB774CA11F",
+      "posted": "2026-10-18",
+      "description": "As a Customer Experience Program Management Manager here at Honeywell, you will have the opportunity to shape the customer experience strategy and drive initiatives that enhance customer satisfaction and loyalty. You will report directly to our Director Customer Experience Program Management, and you'll work out of our West Region location. Honeywell Building Solutions installs, integrates, and maintains building systems that help customers operate connected, safe, secure, comfortable, producti\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm"
+      ]
+    },
+    {
+      "id": "48cdddbbb207",
+      "title": "Senior Customer Insights Manager",
+      "company": "CVS Health",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5933393540?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "We\u2019re building a world of health around every individual \u2014 shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you\u2019ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger \u2013 helping to simplify health care one person, one family and one community at a time. Position Summary The Senior Customer Insights Manage r w\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "eb520aba11af",
+      "title": "Senior Customer Insights Manager",
+      "company": "CVS Health",
+      "location": "Boston, Suffolk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933231822?se=cO0NuLjL8RGdyeIfwUvJGw&utm_medium=api&utm_source=638f9cc6&v=0D2E35E19696A31E4A51DDA4EA107D90257D5FA7",
+      "posted": "2026-10-18",
+      "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary The Senior Customer Insights Manage r w\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "42da87298561",
+      "title": "Voice of Customer Strategic Consultant",
+      "company": "MassMutual",
+      "location": "Springfield, Hampden County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933885640?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=C15B024B333D5C64D2EB8475240C7E187AAFA67B",
+      "posted": "2026-10-18",
+      "description": "Voice of Customer Strategic Consultant Voice of Customer & Experience Analytics Full-time, Springfield, MA The Opportunity As a VOC Strategic Consultant, you will help MassMutual turn customer feedback into clear, actionable insights that strengthen the experiences we deliver to customers, advisors, and internal partners. This role sits within the Voice of Customer function and plays an important part in connecting what customers are telling us to the decisions, priorities, and improvements tha\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "ca441d67b902",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Grand Central, Manhattan",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933265894?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=C7003C47BA9D53A4E169733A885AB06609635A22",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "3bd8145821ba",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Williamsville, Erie County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933265909?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=21138C85128AADB9CC1FD673491D15D20FD9292D",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "8c7aa07894e7",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Rochester, Monroe County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933265928?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=244927A057A43693C07FF41058380B6F61E9447E",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "d4409b7d95fd",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Jericho, Nassau County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933265903?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=03DC6FCD8DBC481839BBB2F8D2A0100457EE7349",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "2ec04a6e4848",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Capitol, Richmond",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5933244163?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "4f5fbccdfc91",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Tysons Corner, Fairfax County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5933244144?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "49ee66d883fe",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Rosslyn, Arlington County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5933244142?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "8053d2d2dff2",
+      "title": "Technical Delivery Senior Consultant, Qualtrics (CX / XM)",
+      "company": "Deloitte",
+      "location": "Charlotte, Mecklenburg County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933241117?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=F6090182DB0C59A26B0F75EE3BF0BE7AF8C172B0",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "06d283506b24",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Boston, Suffolk County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933232281?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=4D90BCFD090D00F348E5CBBCD03A690A74B648D3",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "1f40c9935ce2",
+      "title": "Technical Delivery Senior Consultant, Qualtrics (CX / XM)",
+      "company": "Deloitte",
+      "location": "Williams Grv, Cumberland County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5933232260?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "73ddd1078e2a",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Pittsburgh, Allegheny County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5933232266?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "ae58ca1dcd8e",
+      "title": "Technical Delivery Senior Consultant, Qualtrics (CX / XM)",
+      "company": "Deloitte",
+      "location": "William Penn Annex East, Philadelphia County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5933232263?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "7907fe88afa5",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Williams Grv, Cumberland County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5933232265?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "58cec6009147",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "William Penn Annex East, Philadelphia County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5933232267?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "a2989e2e70a9",
+      "title": "Technical Delivery Senior Consultant, Qualtrics (CX / XM)",
+      "company": "Deloitte",
+      "location": "Lake Mary, Seminole County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5933229785?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "74db424ebae3",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933228052?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=AB719CF92D7778ED77E2B5A1F89D052C5B968AE3",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "96aaa96a59cd",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Morristown, Morris County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933228046?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=10158849E3E1D98409D9FD8FF05AE6FE414813BB",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "17ab39afe505",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Tyler Park, Hudson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933228041?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=CFEABD24D7D750A79FF7D418783EAB8B9F409434",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "3361cd9a2023",
+      "title": "Technical Delivery Senior Consultant, Qualtrics (CX / XM)",
+      "company": "Deloitte",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933224521?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=C7DCD8361896A855328734BE84DB1F600556A2FC",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "9f3f613eae8f",
+      "title": "Technical Delivery Senior Consultant, Qualtrics (CX / XM)",
+      "company": "Deloitte",
+      "location": "Higley, Maricopa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933216347?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=4C600E48A394959B7A176755E9A19DC753A7FEDB",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "9ea88eb91ca5",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Druid, Baltimore",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933215404?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=9C82C1C9C2F0E9B4C3CEA0EE84337A1B2ED496CC",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "9b22c187694b",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Washington, D.C., US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933212434?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=49CC8B8476467E6E6C3E9000180E8EF302801A7D",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "201bf378c69a",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Stamford, Fairfield County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933209865?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=A932C37F392DE8C027FAE2CCE0FC1A4C4C50033B",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "646207b16ff6",
+      "title": "Qualtrics Analytics and Insights Engineer III (CX / XM)",
+      "company": "Deloitte",
+      "location": "Talcott Village, Hartford County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5933209851?se=3HL4x7jL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=C8077EDB4CF2742363C9D718BD20568873D9CD4B",
+      "posted": "2026-10-18",
+      "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "xm",
+        "insights"
+      ]
+    },
+    {
+      "id": "10002a97bee3",
+      "title": "Customer Experience Representative",
+      "company": "BGLi",
+      "location": "Sunderland Enterprise Park, Sunderland",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5933223549?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "Customer Experience Representative We are recruiting for experienced Customer Service professionals to work for a well-known, established insurance company! If you have at least one year\u2019s customer service experience, excellent keyboard skills and the ability to work in a fast-paced environment\u2026 this could be the role for you! We have roles available in Sunderland for a start date of 4th January 2027 This is a full time position, working a shift pattern covering the opening hours of 8am \u2013 8:30p\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "98e2d7461809",
+      "title": "Director of Customer Experience & Success",
+      "company": "Trade Mastermind",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5933635541?se=NhZeybjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=EAA3A25F9C3101F90510BBC5F550E5FD086BC4E9",
+      "posted": "2026-10-18",
+      "description": "Director of Customer Experience & Success Salary: \u00a3100,000 \u00a3120,000 per annum Location: Peterborough \u2013 Full-Time, Office-Based Job Type: Full-Time, Permanent About Trade Mastermind Trade Mastermind is a leading UK business education and coaching organisation supporting ambitious business owners to build stronger, more profitable and scalable businesses. Through our Academy programmes, business mentoring",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "580f2f4175e8",
+      "title": "Customer Experience Lead - British Airways",
+      "company": "Menzies Aviation",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5933517998?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-18",
+      "description": "Overview People. Passion. Pride. This is what has driven our teams since 1833. Since that time, we have developed to become a critical partner in the global aviation industry, delivering time-critical logistics services at over 250 locations in 58 countries, across 6 continents. But at the heart of our business is our people. Role Purpose Assist the Duty Management Team in planning and managing the operation through clerical, manual, mechanical and computerized methods, ensuring customer servic\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
       ]
     },
     {
@@ -937,6 +1852,188 @@
       "tags": [
         "cx",
         "insights"
+      ]
+    },
+    {
+      "id": "c76c218bc645",
+      "title": "Director, Customer Experience & Digital Marketing",
+      "company": "A&A Search Staffing",
+      "location": "Middlesex, Middlesex County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5932605218?se=qn8wsLjL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=D244E9ED2FAEA612E282EE40E591355D5CB2AB24",
+      "posted": "2026-10-17",
+      "description": "Job Description Director, Customer Experience & Digital Marketing \\n \\n Position Summary \\n The Director of Customer Experience & Digital Marketing will lead the development and execution of a comprehensive customer experience strategy designed to deliver fast, transparent, personalized, and effortless interactions across all customer touchpoints. \\n This is fundamentally a customer experience leadership role, with digital marketing, CRM, eCommerce, and artificial intelligence serving as key en\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "282944070b1a",
+      "title": "Director, Customer Experience & Digital Marketing (Middlesex County)",
+      "company": "A&A Search Staffing",
+      "location": "Middlesex, Middlesex County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5932532231?se=qn8wsLjL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=5F8504FB250450F7D71AA3A9FCAE22FD307710CF",
+      "posted": "2026-10-17",
+      "description": "Director, Customer Experience & Digital Marketing Position Summary The Director of Customer Experience & Digital Marketing will lead the development and execution of a comprehensive customer experience strategy designed to deliver fast, transparent, personalized, and effortless interactions across all customer touchpoints. This is fundamentally a customer experience leadership role, with digital marketing, CRM, eCommerce, and artificial intelligence serving as key enablers. The primary objectiv\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "237e450e9679",
+      "title": "Wholesale Operations & Customer Experience Coordinator (New York)",
+      "company": "Afform ",
+      "location": "Grand Central, Manhattan",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5932531499?se=qn8wsLjL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=A7410F5A3786BF24327885882EDB91EC5A5FA203",
+      "posted": "2026-10-17",
+      "description": "Wholesale Operations & Customer Experience Coordinator Full-time/Onsite New York, NY Company Overview At AFFORM, we believe organization is an art, one where function and form are never in competition, but in conversation. Formerly known as Parallelle, AFFORM recently entered an exciting new chapter as our brand continues to grow beyond where we began. Our new name is rooted in our design philosophy: A Functional Form, reflecting our belief that beauty and utility should always work together. O\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b532605701f0",
+      "title": "Director, Customer Experience & Digital Marketing",
+      "company": "A&A Search Staffing",
+      "location": "Middlesex County, New Jersey",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5932243138?se=qn8wsLjL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=9AFFA21C409E6B40F85E5678F3265ADE1953E3C1",
+      "posted": "2026-10-17",
+      "description": "Director, Customer Experience & Digital Marketing Position Summary The Director of Customer Experience & Digital Marketing will lead the development and execution of a comprehensive customer experience strategy designed to deliver fast, transparent, personalized, and effortless interactions across all customer touchpoints. This is fundamentally a customer experience leadership role, with digital marketing, CRM, eCommerce, and artificial intelligence serving as key enablers. The primary objectiv\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "985fdbea0fde",
+      "title": "Wholesale Operations & Customer Experience Coordinator",
+      "company": "Afform ",
+      "location": "New York, US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5932227236?se=qn8wsLjL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=DD29C17C5E3A60DE29F1A238A3F4A42B5B828C9C",
+      "posted": "2026-10-17",
+      "description": "Wholesale Operations & Customer Experience Coordinator Full-time/Onsite New York, NY Company Overview At AFFORM, we believe organization is an art, one where function and form are never in competition, but in conversation. Formerly known as Parallelle, AFFORM recently entered an exciting new chapter as our brand continues to grow beyond where we began. Our new name is rooted in our design philosophy: A Functional Form, reflecting our belief that beauty and utility should always work together. O\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "69304b3112d5",
+      "title": "Director, Customer Experience Strategy",
+      "company": "Genentech",
+      "location": "South San Francisco, San Mateo County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5932006307?se=qn8wsLjL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=BA95D326554427DF052EA09ACD7F1915FEF72AC4",
+      "posted": "2026-10-17",
+      "description": "The Position The Opportunity As the Director, Customer Experience (CX) Strategy, you will lead the transformation of how Genentech connects with patients, healthcare providers, and caregivers across our Commercial, Medical Affairs, and Public Affairs & Access (CMG) organizations. Joining our Digital Experience organization, you will lead and scale a high-impact team of CX Strategists, integrating human-centered design, cutting-edge digital engagement, and omnichannel solutions into the fabric o\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "3bfd0a87f839",
+      "title": "SR ANALYST - ONLINE CUSTOMER EXPERIENCE",
+      "company": "Home Depot",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5932076144?se=ELZHsbjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=FBC2A93A41D79D51C6032C61870C67DADD305208",
+      "posted": "2026-10-17",
+      "description": "Position Purpose: The Sr. Analyst, Site Operations is part of The Home Depot's (THD) Digital Experience team and plays a lead role in managing and monitoring the health of the website. The purpose of this position is to provide an effective link between Business, Call Center and product vendors, providing the best experience for the customer. This position requires experience with 24/7 monitoring of an eCommerce site, automation of tools to identify customer issues, ability to manage, triage, a\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "52d9881312c5",
+      "title": "Sr Analyst - Online Customer Experience",
+      "company": "Home Depot",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5931794684?se=ELZHsbjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=41EFFCC023FEE2CAA8EAE4E48098A6C272267817",
+      "posted": "2026-10-17",
+      "description": "With a career at The Home Depot, you can be yourself and also be part of something bigger. Position Purpose: The Sr. Analyst, Site Operations is part of The Home Depot's (THD) Digital Experience team and plays a lead role in managing and monitoring the health of the website. The purpose of this position is to provide an effective link between Business, Call Center and product vendors, providing the best experience for the customer. This position requires experience with 24/7 monitoring of an eC\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "32570d3dc49c",
+      "title": "VOC (Voice of Customer) Insights Manager",
+      "company": "HSAD North America",
+      "location": "Englewood Cliffs, Bergen County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5932604131?se=xHZVtrjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=A2B4D45CC6F66482617E168E0F455D89E912084B",
+      "posted": "2026-10-17",
+      "description": "Job Description Voice of Customer (VOC) Insights Manager \\n \\n Job Summary \\n Join HSAD, supporting LGE, a global leader in innovation and technology, as our VOC Insights Manager! In this dynamic role, you will be at the forefront of transforming consumer feedback into actionable insights that drive our business forward. The VOC Insights Manager is responsible for managing LG\u2019s Voice of Customer (VOC) ecosystem\u2014transforming structured and unstructured feedback into actionable insights that impr\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "6cedaf6f1bf5",
+      "title": "Director, Customer Experience & Digital Marketing (Middlesex County)",
+      "company": "A&A Search Staffing",
+      "location": "Middlesex, Middlesex County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5932532231?se=xHZVtrjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=5F8504FB250450F7D71AA3A9FCAE22FD307710CF",
+      "posted": "2026-10-17",
+      "description": "Director, Customer Experience & Digital Marketing Position Summary The Director of Customer Experience & Digital Marketing will lead the development and execution of a comprehensive customer experience strategy designed to deliver fast, transparent, personalized, and effortless interactions across all customer touchpoints. This is fundamentally a customer experience leadership role, with digital marketing, CRM, eCommerce, and artificial intelligence serving as key enablers. The primary objectiv\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2fe40656b71d",
+      "title": "VOC (Voice of Customer) Insights Manager",
+      "company": "HSAD North America",
+      "location": "Englewood Cliffs, Bergen County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5932254601?se=xHZVtrjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=2293964D9F94EFD4CD54EB64EB733C2F32AACA0A",
+      "posted": "2026-10-17",
+      "description": "Voice of Customer (VOC) Insights Manager Job Summary Join HSAD, supporting LGE, a global leader in innovation and technology, as our VOC Insights Manager! In this dynamic role, you will be at the forefront of transforming consumer feedback into actionable insights that drive our business forward. The VOC Insights Manager is responsible for managing LG\u2019s Voice of Customer (VOC) ecosystem\u2014transforming structured and unstructured feedback into actionable insights that improve LG.com and the broade\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "02a146ae7628",
+      "title": "Director, Customer Experience & Digital Marketing",
+      "company": "A&A Search Staffing",
+      "location": "Middlesex County, New Jersey",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5932243138?se=xHZVtrjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=9AFFA21C409E6B40F85E5678F3265ADE1953E3C1",
+      "posted": "2026-10-17",
+      "description": "Director, Customer Experience & Digital Marketing Position Summary The Director of Customer Experience & Digital Marketing will lead the development and execution of a comprehensive customer experience strategy designed to deliver fast, transparent, personalized, and effortless interactions across all customer touchpoints. This is fundamentally a customer experience leadership role, with digital marketing, CRM, eCommerce, and artificial intelligence serving as key enablers. The primary objectiv\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
       ]
     },
     {
@@ -1795,6 +2892,97 @@
       "tags": [
         "ex",
         "insights"
+      ]
+    },
+    {
+      "id": "dd0211ba738e",
+      "title": "Executive Director, Customer Experience Core Product - Benefits Platform",
+      "company": "J.P. Morgan",
+      "location": "New York City, New York",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5931559254?se=qn8wsLjL8RGb-ay6knl-lw&utm_medium=api&utm_source=638f9cc6&v=3D0D2BDDF23D804FF3AC0E4E03864A59BB1DBAC1",
+      "posted": "2026-10-16",
+      "description": "hackajob is collaborating with J.P. Morgan to connect them with exceptional professionals for this role. JOB DESCRIPTION Job Description Shape the future of Chase's Benefits Platform, the foundational product ecosystem that powers how benefits are defined, made available, personalized, enrolled, tracked, and communicated across customer experiences. Lead the strategy, roadmap, and transformation of core platform domains including Benefit Catalog, Eligibility, Enrollment, Tracking, Personalizati\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "4f0ea832b6d2",
+      "title": "Executive Director, Customer Experience Core Product - Benefits Platform",
+      "company": "JPMorgan Chase Bank, N.A.",
+      "location": "Chelsea and Clinton, Manhattan",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5931352065?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-16",
+      "description": "Job Description Shape the future of Chase's Benefits Platform, the foundational product ecosystem that powers how benefits are defined, made available, personalized, enrolled, tracked, and communicated across customer experiences. Lead the strategy, roadmap, and transformation of core platform domains including Benefit Catalog, Eligibility, Enrollment, Tracking, Personalization, Communications, and the API and data capabilities that connect these services to customer-facing experiences. Build a\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a41d107e7ad8",
+      "title": "Customer Experience Analyst",
+      "company": "Insight Global",
+      "location": "Stamford, Fairfield County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5930649977?se=ELZHsbjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=38BF5267267C6FBA79651F1752F578DE292BEAFB",
+      "posted": "2026-10-16",
+      "description": "Contract to hire, 4x week onsite in Stamford, CT Must-Haves: 3 years of business analysis experience Requirements gathering/writing and customer journey mapping experience Project management experience, including managing multiple priorities and cross-functional initiatives Strong data analysis, presentation, and stakeholder communication skills Plusses: Cable, Mobile, or telecommunications billing experience Customer Experience (CX) analytics, including customer feedback, verbatims, KPIs, and \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "3459ee05cc75",
+      "title": "Director Employee Relations and Organizational Development (Director, Employee Experience)",
+      "company": "Loyola University Maryland",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5930647542?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-16",
+      "description": "Position Title Director Employee Relations and Organizational Development (Director, Employee Experience) Employee Type Regular Office/Department Office of People and Culture Work Environment Remote and hybrid positions are open to applicants based in states identified here : Work at Loyola | Loyola University Maryland . Loyola University Maryland Main Campus Job Type Full time Benefits at Loyola https://www.loyola.edu/department/people-culture/benefits/ Compensation Range Final compensation of\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "a970953ed3b0",
+      "title": "Director of Customer Experience & Success",
+      "company": "Trade Mastermind",
+      "location": "Orton Southgate, Peterborough",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5930339558?se=NhZeybjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=E0510B259EDBFB76BE3888F40BA1D51ADF77421C",
+      "posted": "2026-10-16",
+      "description": "Director of Customer Experience & Success Salary: \u00a3100,000 \u00a3120,000 per annum Location: Peterborough \u2013 Full-Time, Office-Based Job Type: Full-Time, Permanent About Trade Mastermind Trade Mastermind is a leading UK business education and coaching organisation supporting ambitious business owners to build stronger, more profitable and scalable businesses. Through our Academy programmes, business mentoring, live training, events and specialist support, we provide business owners with the knowledge\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "5f25147d8258",
+      "title": "Customer Experience & Insight Manager - Woking",
+      "company": "KFC",
+      "location": "Woking, Surrey",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5930320448?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-16",
+      "description": "Customer Experience & Insight Manager - Woking WELCOME TO KFC, HOME OF THE REAL ONES. We sell the world's best chicken. Seriously. And we've done it since 1939, when the idea of crispy, original recipe chicken took Kentucky by storm. Now, we're proud to serve 1000 communities across the UK and Ireland, bringing the grit, pride and iconic reputation that we started with, all those years ago. Across the Restaurant Support Centre (RSC), we come to work to be ourselves, and to make something of our\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
       ]
     },
     {
@@ -3138,6 +4326,36 @@
       ]
     },
     {
+      "id": "36631852af0c",
+      "title": "CX Analyst",
+      "company": "Insight Global",
+      "location": "Stamford, Fairfield County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5929011986?se=ELZHsbjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=EB2D0F66806F5A8846959A6C347BD4F966C1AD6E",
+      "posted": "2026-10-15",
+      "description": "Duration: Ongoing contract, intent to convert full-time Bill Rate: $38-$41 Location: Hybrid, 4 days onsite / 1 day remote Interview: 3 interviews FTE Salary: $92K upon conversion Must-Haves: 3 years of business analysis experience Requirements gathering/writing and customer journey mapping experience Project management experience, including managing multiple priorities and cross-functional initiatives Strong data analysis, presentation, and stakeholder communication skills Plusses: Cable, Mobil\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "0154fff60fc5",
+      "title": "Business Analyst (Customer Experience)",
+      "company": "Insight Global",
+      "location": "Stamford, Fairfield County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5928843616?se=ELZHsbjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=477DC5B3B396A56F7F34385F345679BEA6444522",
+      "posted": "2026-10-15",
+      "description": "Job Description 40-43/hr Insight Global is seeking a CX Analyst for a top telecommunications client supporting its Digital Services Customer Experience team. This analyst will focus on the Billing Journey across Cable and Mobile, spending approximately 40% of their time writing requirements, 20% journey mapping, 20% data analysis, and 20% on ad hoc initiatives. Responsibilities include gathering and documenting business requirements, creating customer journey maps and workflows, analyzing CX da\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "cef35373544b",
       "title": "Customer Service Manager, Airport Customer Experience Administration",
       "company": "American Airlines",
@@ -4331,6 +5549,53 @@
       "country": "US",
       "tags": [
         "cx"
+      ]
+    },
+    {
+      "id": "c057e79415bb",
+      "title": "SAP Functional Analyst (Customer Experience) (Meridian)",
+      "company": "Woodgrain",
+      "location": "Meridian, Ada County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5927939630?se=ELZHsbjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=33E0A581E555C2A6CB62C94F9EF569B6C7B05416",
+      "posted": "2026-10-14",
+      "description": "Job Title: SAP Functional Analyst (Customer Experience) Location(s): St. Louis, MO | Lawrenceville, GA | Meridian, ID Starting Salary: $85,000 - $120,000 (depending on experience) Employment Type: Full-Time, Salary Work Environment: Hybrid (4 days in-office, 1 day remote) Summary of Company Benefits: Health, Dental, and Vision Insurance Health Savings Account (HSA) Flexible Spending Account (FSA) 401(k) with an Employer Match Group Term Life Insurance and AD&D Employer Paid Long-Term & Short-Te\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d18bbeafac17",
+      "title": "Employee Experience and Insights Program Manager",
+      "company": "Zayo",
+      "location": "Glendale, Denver",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5927377876?se=_jYRurjL8RGdyeIfwUvJGw&utm_medium=api&utm_source=638f9cc6&v=DF393EABD1A51F4679EA30BA2F476F83FC952FD1",
+      "posted": "2026-10-14",
+      "description": "CO - Denver Full time R0017409 Company Description Zayo provides mission-critical bandwidth to the world's most impactful companies, fueling the innovations that are transforming our society. Zayo's 141,000-mile network in North America and Europe includes extensive metro connectivity to thousands of buildings and data centers. Zayo's communications infrastructure solutions include dark fiber, private data networks, wavelengths, Ethernet, and dedicated Internet access. Zayo serves wireless and \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "b98eada0c2c2",
+      "title": "People Insights Visier Platform Manager (New York)",
+      "company": "Conexess Group",
+      "location": "Grand Central, Manhattan",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5927900886?se=JpDQurjL8RGdyeIfwUvJGw&utm_medium=api&utm_source=638f9cc6&v=5231812FB1C00E30DFF3E48E66B971F311144446",
+      "posted": "2026-10-14",
+      "description": "Job description & Roles and responsibilities The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and governance, to diagnose issues, predict trends, measure outcomes, and drive adoption of data driven solutions across People & Operations. The Visier Platform Manager is responsible, in partnership \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
       ]
     },
     {
@@ -5543,6 +6808,22 @@
       "location": "Leeds, West Yorkshire",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5925725086?se=CDKKjt_K8RGx-Mna7pQh_w&utm_medium=api&utm_source=638f9cc6&v=2E9C048B478101CBA803A28DD106AA985A24E21F",
+      "posted": "2026-10-13",
+      "description": "Job Title Customer Insights Manager Location Asda House Employment Type Full time Contract Type Permanent Hours Per Week 37.5 Salary Competitive salary plus benefits Category Category Management - SF Closing Date 26 October 2026 Working within the Customer Planning and Insights team, you will combine customer behaviour, market intelligence and internal performance data to deliver clear, commercially relevant insight. You will help customer & commercial teams act with pace and confidence, ensuri\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "9833b2397f69",
+      "title": "Customer Insights Manager",
+      "company": "Asda",
+      "location": "Leeds, West Yorkshire",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5925725086?se=7iHszLjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=2E9C048B478101CBA803A28DD106AA985A24E21F",
       "posted": "2026-10-13",
       "description": "Job Title Customer Insights Manager Location Asda House Employment Type Full time Contract Type Permanent Hours Per Week 37.5 Salary Competitive salary plus benefits Category Category Management - SF Closing Date 26 October 2026 Working within the Customer Planning and Insights team, you will combine customer behaviour, market intelligence and internal performance data to deliver clear, commercially relevant insight. You will help customer & commercial teams act with pace and confidence, ensuri\u2026",
       "source": "adzuna",
@@ -8548,6 +9829,36 @@
       ]
     },
     {
+      "id": "8d5f7700d0ae",
+      "title": "Customer Experience Analyst",
+      "company": "Robert Half",
+      "location": "San Ramon, Contra Costa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5922012969?se=ELZHsbjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=70F863046F4586F6C935C812387A4471B116E918",
+      "posted": "2026-10-10",
+      "description": "Who We Are Robert Half, one of FORTUNE's World's Most Admired Companies and a Fortune 100 Best Companies to Work For is hiring for a Customer Experience Analyst to join the Marketing Customer Experience department. The Customer Experience Analyst manages the day-to-day execution and analysis of Robert Half's customer experience listening programs across client and candidate journeys. Responsibilities include administering surveys and feedback channels, analyzing quantitative and qualitative dat\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "11843ed5b403",
+      "title": "Customer Experience Analyst",
+      "company": "Robert Half",
+      "location": "San Ramon, Contra Costa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5921922475?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-10-10",
+      "description": "Who We Are Robert Half, one of FORTUNE\u2019s World\u2019s Most Admired Companies and a Fortune 100 Best Companies to Work For is hiring for a Customer Experience Analyst to join the Marketing Customer Experience department. The Customer Experience Analyst manages the day-to-day execution and analysis of Robert Half\u2019s customer experience listening programs across client and candidate journeys. Responsibilities include administering surveys and feedback channels, analyzing quantitative and qualitative dat\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "75378ac930fe",
       "title": "Senior Manager, Patient & Customer Experience",
       "company": "Northwell Health",
@@ -9915,6 +11226,38 @@
       ]
     },
     {
+      "id": "65369c5e85bb",
+      "title": "Retail and Customer Experience Data Analyst",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5921100941?se=Jq35ybjL8RGxeaYH0VCqrA&utm_medium=api&utm_source=638f9cc6&v=0D8C46D58902E05517DCAAF586EDD5BA71C46E5C",
+      "posted": "2026-10-09",
+      "description": "Retail & Customer Experience Data Analyst Luxury Fashion Brand | \u00a350,000 | Hybrid (West London) | 12-Month FTC Join a fast-growing premium retail brand undergoing significant UK and international expansion. We're looking for a commercially minded Data Analyst to help drive decisions across retail operations, customer experience, and customer insights. Working closely with senior stakeholders, you'll analyse customer, retail and commercial performance data to uncover actionable insights that imp\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "afc3b578e4c2",
+      "title": "Retail and Customer Experience Data Analyst - 12-month FTC",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5921100710?se=Jq35ybjL8RGxeaYH0VCqrA&utm_medium=api&utm_source=638f9cc6&v=51B896F8E773481D1628C795D5CB95C9172128D4",
+      "posted": "2026-10-09",
+      "description": "Data Analyst 12 Month FTC London (hybrid) | up to \u00a350,000 This is an excellent opportunity for a commercially focused Data Analyst to join a growing retail business and play a key role in shaping customer, retail, and commercial strategy. Working across multiple teams, you will turn complex datasets into actionable insights that influence decision-making, customer experience, and business performance. The Company They are a well-established consumer-focused organisation with a strong presence a\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
       "id": "e4d64992909e",
       "title": "Customer and Digital Experience Specialist",
       "company": "Nissan",
@@ -10895,6 +12238,22 @@
       "location": "Phoenix, Maricopa County",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5918871793?se=js48fd_K8RGjutuTSb6jOA&utm_medium=api&utm_source=638f9cc6&v=4645028FF85FF7CF857AA97670C77D6F5B89064B",
+      "posted": "2026-10-08",
+      "description": "POSITION SUMMARY: The Senior Analyst Customer Insight is a highly analytical customer insights professional responsible for independently analyzing complex customer, operational and business data to identify actionable opportunities that improve the customer experience, loyalty and business performance. The ideal incumbents brings advanced statistical analytical skills, customer and market research expertise, executive storytelling and would hold cross-functional partnerships to synthesize cust\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "7d92c83794b0",
+      "title": "VOC Program Manager",
+      "company": "Republic Services",
+      "location": "Phoenix, Maricopa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5918871793?se=ZrSht7jL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=4645028FF85FF7CF857AA97670C77D6F5B89064B",
       "posted": "2026-10-08",
       "description": "POSITION SUMMARY: The Senior Analyst Customer Insight is a highly analytical customer insights professional responsible for independently analyzing complex customer, operational and business data to identify actionable opportunities that improve the customer experience, loyalty and business performance. The ideal incumbents brings advanced statistical analytical skills, customer and market research expertise, executive storytelling and would hold cross-functional partnerships to synthesize cust\u2026",
       "source": "adzuna",
@@ -14496,6 +15855,67 @@
       ]
     },
     {
+      "id": "33add56589d4",
+      "title": "Director of Benefits & Employee Experience",
+      "company": "Blue Signal Search",
+      "location": "Phoenix, Maricopa County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5914081139?se=FjZAtbjL8RGdyeIfwUvJGw&utm_medium=api&utm_source=638f9cc6&v=8C57C6F98041EF5063DEBC92987AC33E6A386BF2",
+      "posted": "2026-10-06",
+      "description": "Director of Benefits & Employee Experience Phoenix, AZ Our client is a growing organization seeking an HR leader who can turn benefits and employee programs into a meaningful competitive advantage for its workforce. This role offers the opportunity to influence how employees experience the organization throughout their careers, while leading a small team and improving programs that support wellbeing, engagement, and retention. The Director of Benefits & Employee Experience will combine hands-on\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "306a2df322b3",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Conexess Group",
+      "location": "New York, US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5914049905?se=JpDQurjL8RGdyeIfwUvJGw&utm_medium=api&utm_source=638f9cc6&v=2BE384E19B442F479336BAE3FE958B4E6AA9DD53",
+      "posted": "2026-10-06",
+      "description": "Job description & Roles and responsibilities The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and governance, to diagnose issues, predict trends, measure outcomes, and drive adoption of data driven solutions across People & Operations. The Visier Platform Manager is responsible, in partnership \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "e658aa1e9fff",
+      "title": "Customer Experience Analyst (CX)",
+      "company": "The Judge Group",
+      "location": "Chicago, Cook County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5914055161?se=ggfowLjL8RGxeaYH0VCqrA&utm_medium=api&utm_source=638f9cc6&v=4C2EBEE24A00E6BA13DAA53EC6FFB4AB5FE64F77",
+      "posted": "2026-10-06",
+      "description": "We are seeking an experienced Customer Experience (CX) Specialist This is a long term contract to start that is hybrid 3 days per week in Chicago Key Responsibilities: Conduct user interviews, contextual inquiry sessions, and surveys to understand how employees experience services day-to-day Facilitate complex workshops with senior stakeholders and cross-functional teams (e.g., journey mapping, service blueprinting, co-creation sessions) Design and manage CX measurement programs, including surv\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "4a71d795a359",
+      "title": "Director of Customer Experience & Success",
+      "company": "Trade Recruit",
+      "location": "Thorney, Peterborough",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5914210949?se=NhZeybjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=3B05506DE9CC1FE8EEF797E5B42F7027ABC68B84",
+      "posted": "2026-10-06",
+      "description": "Director of Customer Experience & Success Salary: \u00a3100,000 \u00a3120,000 per annum Location: Peterborough \u2013 Full-Time, Office-Based Job Type: Full-Time, Permanent About Trade Mastermind Trade Mastermind is a leading UK business education and coaching organisation supporting ambitious business owners to build stronger, more profitable and scalable businesses. Through our Academy programmes, business mentoring, live training, events and specialist support, we provide business owners with the knowledge\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "13b38470222a",
       "title": "Associate Director, Customer Experience",
       "company": "BD ",
@@ -17778,6 +19198,36 @@
       "location": "Wasdale Head, Seascale",
       "remote": false,
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5909698393?se=BHSki9_K8RGjutuTSb6jOA&utm_medium=api&utm_source=638f9cc6&v=77161E0E04823F7395E15BFBBF943D141FCE1B86",
+      "posted": "2026-10-03",
+      "description": "Job Role: Retail & Customer Experience Data Analyst Reporting to: Retail Director Location: Head Office, White City Place, West London Contract type: 12 month Fixed Term Contract - Full Time, 37.5 hours per wee k \u200b \u200b About Us: MEEM is one of the UK\u2019s fastest-growing luxury fashion brands, with a strong global digital presence and stores across the UK, including London and Edinburgh, alongside concessions within Harrods and Selfridges. We are also continuing our exciting international expansion \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f1a737886e7a",
+      "title": "Retail & Customer Experience Data Analyst",
+      "company": "Me+Em",
+      "location": "Wasdale Head, Seascale",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5909698393?se=NhZeybjL8RGRUIXd3bMO6Q&utm_medium=api&utm_source=638f9cc6&v=77161E0E04823F7395E15BFBBF943D141FCE1B86",
+      "posted": "2026-10-03",
+      "description": "Job Role: Retail & Customer Experience Data Analyst Reporting to: Retail Director Location: Head Office, White City Place, West London Contract type: 12 month Fixed Term Contract - Full Time, 37.5 hours per wee k \u200b \u200b About Us: MEEM is one of the UK\u2019s fastest-growing luxury fashion brands, with a strong global digital presence and stores across the UK, including London and Edinburgh, alongside concessions within Harrods and Selfridges. We are also continuing our exciting international expansion \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ee2b48d626fe",
+      "title": "Retail & Customer Experience Data Analyst",
+      "company": "Me+Em",
+      "location": "Wasdale Head, Seascale",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5909698393?se=Jq35ybjL8RGxeaYH0VCqrA&utm_medium=api&utm_source=638f9cc6&v=77161E0E04823F7395E15BFBBF943D141FCE1B86",
       "posted": "2026-10-03",
       "description": "Job Role: Retail & Customer Experience Data Analyst Reporting to: Retail Director Location: Head Office, White City Place, West London Contract type: 12 month Fixed Term Contract - Full Time, 37.5 hours per wee k \u200b \u200b About Us: MEEM is one of the UK\u2019s fastest-growing luxury fashion brands, with a strong global digital presence and stores across the UK, including London and Edinburgh, alongside concessions within Harrods and Selfridges. We are also continuing our exciting international expansion \u2026",
       "source": "adzuna",
@@ -34759,1090 +36209,6 @@
       "url": "https://www.adzuna.com.au/land/ad/5890586255?se=sEZFsYXB8RGQPPZw_iHagA&utm_medium=api&utm_source=638f9cc6&v=FD2F3858C8FE379AC3477A6F28DE76821AF296C4",
       "posted": "2026-09-19",
       "description": "Online Sales Consultant Location: Greystanes NSW Job Details: Full-Time Permanent Working Hours: Rotating Roster \u2013 Monday to Sunday (10-day fortnight, weekends WFH) Our Story At Inchcape, we are a global leader in automotive distribution and retail, representing some of the world's most recognised vehicle brands. Through our retail business, we are committed to delivering exceptional customer experiences at every stage of the vehicle ownership journey. About the role We are looking for a Online\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "e2c0b52e3058",
-      "title": "Customer Experience Manager",
-      "company": "Stord",
-      "location": "Hebron, Boone County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5889052394?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Stord is The Consumer Experience Company, powering seamless checkout through delivery for today's leading brands. Stord is rapidly growing and is on track to double our revenue in the next 18 months. To meet and exceed this target, Stord is strategically scaling teams across the entire company, and seeking energetic experts to help us achieve our mission. By combining comprehensive commerce-enablement technology with high-volume fulfillment services, Stord provides brands a platform to compete \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "765a946a0f44",
-      "title": "Customer Experience Manager",
-      "company": "Five Below",
-      "location": "Auburn, DeKalb County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5889051968?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "At Five Below our growth is a result of the people who embrace our purpose: We know life is way better when you are free to Let Go & Have Fun in an amazing experience, filled with unlimited possibilities, priced so low, you can always say yes to the newest, coolest stuff! Just ask any of our over 20,000 associates who work at Five Below and they\u2019ll tell you there\u2019s no other place like it. It all starts with our purpose and then, The Five Below Way, which is our values and behaviors that each an\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "7118ada8ff25",
-      "title": "Director, Customer Experience Operations",
-      "company": "Paperless Parts",
-      "location": "Boston, Suffolk County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5888874898?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Paperless Parts is the SaaS-based intelligence layer for modern manufacturing, enabling our customers to innovate faster in the physical world. From rockets to medical devices, we power the parts that move the world forward. Location: Boston, MA (Hybrid) Reports To: SVP of Customer Experience Employment Type: Full-Time Travel: N/A This position requires activities that are subject to US Export Control Laws and require US Citizenship or Green Card Holder. The Opportunity Paperless Parts is seeki\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "372a6d26c090",
-      "title": "Procurement Customer Experience Analyst (Ankeny, IA or Temple, TX)",
-      "company": "McLane",
-      "location": "Ankeny, Polk County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5888941898?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Take your career further with McLane! McLane teammates, the driving force behind our success, are diverse professionals who work together seamlessly to keep our operations running smoothly. As a teammate, you will pair your dedication, expertise, and collaborative spirit with your fellow teammates to serve America\u2019s most beloved brands. McLane leaders think long-term, act with purpose, and inspire high performance. They lead with accountability, communicate clearly, and drive results through co\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "1bd7a50c1add",
-      "title": "Customer Experience Engineer",
-      "company": "Abbott",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5888949225?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 122,000 colleagues serve people in more than 160 countries. JOB DESCRIPTION: Customer Experience Engineer Working at Abbott At Abbott, you can do work that matters, grow, and learn, care for yourself and your \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "03a27593b7d9",
-      "title": "Senior Program Manager, Customer Experience",
-      "company": "Ixopay",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5888947659?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "About IXOPAY IXOPAY is the enterprise-grade global payment infrastructure platform built for the era of agentic commerce. We equip merchants and enterprises with AI-driven intelligence, payment orchestration, advanced tokenization, and the tools to optimize every stage of the payments journey. From intelligent routing and compliance to customizable modules and enterprise-scale orchestration, IXOPAY helps businesses integrate faster, improve payment performance, and expand globally with confiden\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "e08089024831",
-      "title": "Sr. Technical Product manager (Conversational AI & Employee Experience)",
-      "company": "U.S. Bank",
-      "location": "Hopkins, Hennepin County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5888831647?se=kDBsGk6z8RGiX44HVGuNHQ&utm_medium=api&utm_source=638f9cc6&v=CF8B896BB8AF39FCE541F13238FF72E163457BCD",
-      "posted": "2026-09-18",
-      "description": "At U.S. Bank, we\u2019re on a journey to do our best. Helping the customers and businesses we serve to make better and smarter financial decisions and enabling the communities we support to grow and succeed. We believe it takes all of us to bring our shared ambition to life, and each person is unique in their potential. A career with U.S. Bank gives you a wide, ever-growing range of opportunities to discover what makes you thrive at every stage of your career. Try new things, learn new skills and di\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "fdec9d6f9d23",
-      "title": "Director, Employee Experience M&A",
-      "company": "Adobe",
-      "location": "San Jose, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5888689855?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "The Opportunity The Director, Employee Experience M&A leads the end-to-end people strategy for Adobe's transactions\u2014from early diligence through close and post-close integration. This is a senior, high-ownership individual-contributor role for someone who can run deals independently, from beginning to end, rather than support or coordinate a single workstream. You will serve as the people lead on assigned deals, translating deal rationale into an actionable EX integration strategy and owning th\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex"
-      ]
-    },
-    {
-      "id": "10b968c39ccf",
-      "title": "Senior Customer Insights Manager",
-      "company": "Axonify",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5888697741?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Axonify is the AI-Powered Frontline Enablement Platform that helps organizations close the gap between learning and execution. By unifying learning, execution and insights capabilities, Axonify drives real business impacts for the world\u2019s largest frontline organizations across retail, grocery, healthcare, and financial services. More than 4 million employees across 160 countries rely on Axonify today. It\u2019s an exciting time to join as we transform the company and build what\u2019s next. We\u2019re a team \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "724b66ada01c",
-      "title": "Customer Experience Manager Europe",
-      "company": "Harman Becker Automotive Systems Manufacturing Kft",
-      "location": "Worthing, West Sussex",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5889034203?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "A Career at HARMAN As a technology leader that is rapidly on the move, HARMAN is filled with people who are focused on making life better. Innovation, inclusivity and teamwork are a part of our DNA. When you add that to the challenges we take on and solve together, you\u2019ll discover that at HARMAN you can grow, make a difference and be proud of the work you do every day. Do you want to work for some of the world\u2019s leading audio brands? Become a part of the HARMAN team and get to work for our Soun\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9bb9350c285b",
-      "title": "Asset Experience Manager",
-      "company": "JLL",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5889030809?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "5a0c1d444dc2",
-      "title": "Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Christs Hospital, Horsham",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5889029354?se=-IdRKk6z8RGE9YFYFfLBig&utm_medium=api&utm_source=638f9cc6&v=5901234C6A6B55130B26360F06DBC7C9C6873D1F",
-      "posted": "2026-09-18",
-      "description": "Description What you\u2019ll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "ae844de11f21",
-      "title": "Asset Experience Manager \u2013 Community Deputy",
-      "company": "JLL",
-      "location": "London, UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5889027488?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you\u2019ve got deep experience in commercial real estate, skilled trades or technology, or you\u2019re looking to apply your relevant experience to a new \u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "8e3d6880936a",
-      "title": "Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Woodside Park, North London",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5889010197?se=-IdRKk6z8RGE9YFYFfLBig&utm_medium=api&utm_source=638f9cc6&v=3ED6E266D991FB2C230A78695FF3D8D98225FFD3",
-      "posted": "2026-09-18",
-      "description": "Description What you\u2019ll be doing: Taking responsibility for the overall customer experience across the store from the checkout to back of house ensuring we deliver on our customer commitments Managing the front-end checkout operation, ensuring all our customers are served in line with our expectations Managing operations in our petrol station (If your shop has one) People management is a big part of the role, managing performance and capability, conducting disciplinaries and ensuring scheduling\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "6953405cb5e7",
-      "title": "Director, Customer Experience",
-      "company": "OfficeRnD",
-      "location": "Victoria, South West London",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5889030539?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "The Role OfficeRnD is hiring a Director, Customer Experience to own Customer Success for our Flex product line: the retention number, the team that delivers it, and the quality of what customers experience after they buy. We compete in a market where product and price are closely matched, so experience is where we differentiate, and this role owns the largest part of it. This is a permanent leadership role with responsibility for Customer Success. Initially, you will directly manage the CSM and\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "01df818d13a2",
-      "title": "HR Programmes & People Analytics Manager (12 month FTC to cover maternity leave)",
-      "company": "DHL Global Forwarding  Limited",
-      "location": "Staines, Surrey",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5888336726?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Who is DHL Global Forwarding? DHL Global Forwarding (DGF) is part of the DHL Group. While the DHL Group employs more than 580,000 people globally, DGF has around 31,000 freight forwarding experts in more than 190 countries around the world, with around 1,000 of us based in the UK across 15 Sites. As the experts in Freight Forwarding since 1815, we are the global specialists in Air, Ocean and Rail Freight. You name it, we\u2019ve shipped it - from brown bears to aircraft engines, to lifesaving medici\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "b027f4a8b414",
-      "title": "Customer Experience Analyst",
-      "company": "Bank of Montreal",
-      "location": "Toronto, Ontario",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5888956708?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Application Deadline: 09/17/2026 Address: 33 Dundas Street West Job Family Group: Data Analytics & Reporting Understands and articulates the business case of business questions and the estimated value being delivered. Designs dashboards and analyses to be performed, and appropriate visualization and analytics tools to use. Identifies trends and patterns to address identified business questions and provide insights through reporting and data visualization techniques. Works with other data and an\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "dc181c0618a6",
-      "title": "Customer Experience Lead - Galeries de la Capitale",
-      "company": "Laura",
-      "location": "Qu\u00e9bec, Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5888948656?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "How will you support the team? As a Team Leader, you possess a passion for fashion and customer service. You will be part of a winning team that provides a unique and memorable shopping experience to every customer. You will be joining a Company focused on the development and career growth of its employees. Act as a stylist to build a personalized wardrobe to the customer. Develop and train the sales team on exemplary customer service, the promotion of different programs, product knowledge and \u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5e4cd9ce49a7",
-      "title": "Customer Experience Officer",
-      "company": "Cumberland Council",
-      "location": "Merrylands, Parramatta Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5889057646?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Located 20km west of Sydney on Dharug country, with a population of over 250,000 residents, Cumberland City Council is the fourth most populous Local Government Area in Greater Sydney. Cumberland boasts one of the most diverse communities in Australia, with people from many different backgrounds and cultures living alongside one another. Our people are focused on driving community outcomes, programs and services to innovate, inspire and deliver change for the community we represent and has work\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "3e7af75983f6",
-      "title": "Customer Experience Manager",
-      "company": "Spotlight Careers",
-      "location": "Victoria, Australia",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5889056616?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Iconic Australian owned and operated global retail brand Max Term Contract 12 months Hybrid role with Competitive Salary  Super  Profit Share  Team Discounts Spotlight Group Holdings is seeking a commercial, data-driven Customer Experience Manager to cover a 12-month parental leave contract. Operating across iconic Australian retail brands\u2014Spotlight, Anaconda, Mountain Designs, and Harris Scarfe\u2014you will act as the key business owner driving end-to-end customer journey optimisations, conversion\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "43323a5fa7dd",
-      "title": "Customer Experience Coordinator",
-      "company": "Ridley Corporation",
-      "location": "Queensland, Australia",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5888962910?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "What's on offer? We are looking for a motivated and customer-focused Customer Experience Coordinator to join our Incitec Pivot Fertilisers team in Brisbane CBD, based in our modern Edward Street office. In this role, you will support the delivery of a seamless customer experience by managing customer enquiries, processing orders and coordinating with internal teams to ensure orders are delivered accurately and on time. Working closely with Sales, Supply Chain and Logistics teams, you will play \u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "2c956fab6983",
-      "title": "Team Leader Customer Experience",
-      "company": "Cumberland Council",
-      "location": "Merrylands, Parramatta Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5888739826?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Located 20km west of Sydney on Dharug country, with a population of over 250,000 residents, Cumberland City Council is the fourth most populous Local Government Area in Greater Sydney. Cumberland boasts one of the most diverse communities in Australia, with people from many different backgrounds and cultures living alongside one another. Our people are focused on driving community outcomes, programs and services to innovate, inspire and deliver change for the community we represent and has work\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "b04677f9aa3b",
-      "title": "Customer Experience Analyst",
-      "company": "Milwaukee Tools",
-      "location": "Notting Hill, Monash Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5887746727?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Who we are: Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do. We are committed to ensuring our people have a great experience at Milwaukee, so in addition to\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "379238542254",
-      "title": "Airline Lounge Experience Manager",
-      "company": "Compass Group",
-      "location": "Mascot, Rockdale Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5888739830?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Lead one of Australia's most prestigious aviation hospitality partnerships, delivering exceptional guest experiences across premium lounge environments. Join a global organisation offering outstanding career development opportunities while working alongside high-performing hospitality teams. Shape service excellence and operational success within a world-class aviation hospitality setting. From executive dining and contemporary restaurants through to stylish coffee shops, delis and onsite retai\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "id": "42b4d6fa02dc",
-      "title": "Director, Customer Experience & Logistics",
-      "company": "Stone Alliance Group Career Page",
-      "location": "Charlotte, Clinton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5889203049?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Director, Customer Experience & Logistics Location: Miami, FL or Remote Reports to: SVP of Operations About the Role Our client, a fast-growing consumer products company, is seeking a strategic and execution-focused Director, Customer Experience & Logistics to lead its Customer Service, Customer Logistics, and Distribution Planning and Execution functions. This leader will develop scalable, sustainable processes that support continued growth, improve the customer experience, and strengthen the \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9c9393341a33",
-      "title": "Director, Customer Experience & Logistics",
-      "company": "Stone Alliance Group Career Page",
-      "location": "Houston, Houston County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5889202997?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Director, Customer Experience & Logistics Location: Miami, FL or Remote Reports to: SVP of Operations About the Role Our client, a fast-growing consumer products company, is seeking a strategic and execution-focused Director, Customer Experience & Logistics to lead its Customer Service, Customer Logistics, and Distribution Planning and Execution functions. This leader will develop scalable, sustainable processes that support continued growth, improve the customer experience, and strengthen the \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a9700a5a5463",
-      "title": "Director Experience Management",
-      "company": "Sunrise Senior Living",
-      "location": "Tysons Corner, Fairfax County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5889173813?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Why Join Sunrise Senior Living At Sunrise Senior Living, we believe meaningful work starts with purpose. Our team members are passionate about making a positive difference in the lives of residents every day. What You'll Do  Lead Sunrise's enterprise Experience Management (XM) program, using team member and customer feedback to improve engagement, satisfaction, retention, and measurable business performance.  Own and optimize the XM/Voice of Customer platform-such as Qualtrics-including survey \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "xm",
-        "insights"
-      ]
-    },
-    {
-      "id": "2245a39b0cb2",
-      "title": "Director Experience Management",
-      "company": "Sunrise Senior Living Mgmt",
-      "location": "Mc Lean, Fairfax County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5889155308?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Why Join Sunrise Senior Living At Sunrise Senior Living, we believe meaningful work starts with purpose. Our team members are passionate about making a positive difference in the lives of residents every day. What You\u2019ll Do Lead Sunrise\u2019s enterprise Experience Management (XM) program, using team member and customer feedback to improve engagement, satisfaction, retention, and measurable business performance. Own and optimize the XM/Voice of Customer platform\u2014such as Qualtrics\u2014including survey de\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "xm",
-        "insights"
-      ]
-    },
-    {
-      "id": "3a0808f7723c",
-      "title": "Business Analyst - Capital Markets / Customer Experience - Richardson, TX",
-      "company": "Qualis1 Inc.",
-      "location": "Texas, US",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5889693768?se=UprGCBW08RGk6dCvHcHp9g&utm_medium=api&utm_source=638f9cc6&v=34F93B4A2568BA0DF1C7CFDC4D58B51905B7CE2D",
-      "posted": "2026-09-18",
-      "description": "Senior Business Analyst Capital Markets / Customer Experience - Richardson, TX 75082 - Onsite Job Title: Senior Business Analyst Capital Markets / Customer Experience Work Location: Richardson, TX 75082 Contract duration: 12 Months Job Details: Must Have Skills Data analysis Data mapping Data governance Detailed Job Description Has done B2C Customer Experience work such as defining Investor experiences. Analyze, document, and validate functional and nonfunctional requirements for Capital Market\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5bc6aae391d0",
-      "title": "Senior Group Manager, Customer Experience and Insights (US)-CCUL Partnerships",
-      "company": "TD Bank",
-      "location": "US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5889296603?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Work Location: Wilmington, Delaware, United States of America Hours: 40 Pay Details: $115,440 - $186,160 USD TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "8b1400b3e629",
-      "title": "People Insights Visier Platform Manager",
-      "company": "APN Consulting Inc",
-      "location": "Grand Central, Manhattan",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5889898321?se=krcWEBW08RGSI57gYuD12g&utm_medium=api&utm_source=638f9cc6&v=1850CCE065F2E6CB92D8026AEE7816F3E2CE82D6",
-      "posted": "2026-09-18",
-      "description": "APN Consulting, Inc. is a progressive IT staffing and services company offering innovative business solutions to improve client business outcomes. We focus on high impact technology solutions in ServiceNow, Fullstack, Cloud & Data, and AI / ML. Due to our globally expanding service offerings we are seeking top-talent to join our teams and grow with us. Direct Client Requirement Contract Remote Job description & Roles and responsibilities The People Insights team turns workforce data into clear,\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "6432d2386030",
-      "title": "Customer Experience Officer",
-      "company": "Leeds Federated Housing Association",
-      "location": "Leeds, West Yorkshire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5889786511?se=fiN7JhW08RGm1alvctyjWA&utm_medium=api&utm_source=638f9cc6&v=740BA2DB3EA959A729FB61F916C736FC2CB374E8",
-      "posted": "2026-09-18",
-      "description": "Customer Experience Officer \u00a330,000 Leeds Temporary Fixed Term (contracted until 31/03/2029) Internally referred to as 'Customer Experience Repairs Aftercare Officer' We\u2019re looking for a Customer Experience Repairs Aftercare Officer to join our Customer Experience team. This is a new role at Leeds Federated, to help make sure customers receive the service and support they need following a repair. You\u2019ll contact customers after their repairs to check everything has been completed properly, under\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "7f65dedf15ef",
-      "title": "Customer Experience Officer",
-      "company": "Leeds Federated Housing",
-      "location": "Leeds, West Yorkshire",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5889778358?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Customer Experience Officer \u00a330,000 Leeds Temporary Fixed Term (contracted until 31/03/2029) Internally referred to as 'Customer Experience Repairs Aftercare Officer' Were looking for a Customer Experience Repairs Aftercare Officer to join our Customer Experience team. This is a new role at Leeds Federated, to help make sure customers receive the service and support they need following a repair. Youll contact customers after their repairs to check everything has been completed properly, underst\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "49621b66750c",
-      "title": "Customer Experience Manager",
-      "company": "Laura Canada",
-      "location": "Laval, Laval region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889707510?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "How will you support the team?As part of Management, the Store Assistant Manager possesses a passion for fashion and customer service. They recruit and lead a winning team that provides a unique and memorable shopping experience to every customer. They foster a vibrant, fun, energetic and enjoyable store environment. Act as a stylist to build a personalized wardrobe to the customer.Develop and coach a team on exemplary customer service, the promotion of different programs, product knowledge and\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "8f9f2ca2da6e",
-      "title": "Sr. CX and Market Insights Manager - 074 EN",
-      "company": "Export Development Canada | Exportation et d\u00e9veloppement Canada",
-      "location": "Halifax, Halifax region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889252276?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Job Description Job Description:\\n\\nApplication deadline: October 1, 2026 at 12:00PM ET\\nJoin the EDC Team!\\nAt EDC, we support Canadian businesses to succeed globally. We provide the financial tools and expertise they need to explore new markets, reduce risks, all towards the goal of making Canada and the world better through trade. \\nPosition: Sr. CX and Market Insights Manager\\nEmployment Type: PermanentCompensation Details:\\n\\n Customer Experience 18: Salaries typically range from $96,557 t\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "ed06c4e19fff",
-      "title": "Sr. CX and Market Insights Manager - 074 EN",
-      "company": "Export Development Canada | Exportation et d\u00e9veloppement Canada",
-      "location": "Montr\u00e9al, Qu\u00e9bec",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889252155?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Job Description Job Description:\\n\\nApplication deadline: October 1, 2026 at 12:00PM ET\\nJoin the EDC Team!\\nAt EDC, we support Canadian businesses to succeed globally. We provide the financial tools and expertise they need to explore new markets, reduce risks, all towards the goal of making Canada and the world better through trade. \\nPosition: Sr. CX and Market Insights Manager\\nEmployment Type: PermanentCompensation Details:\\n\\n Customer Experience 18: Salaries typically range from $96,557 t\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "e3ca52064d0a",
-      "title": "Sr. CX and Market Insights Manager - 074 EN",
-      "company": "Export Development Canada | Exportation et d\u00e9veloppement Canada",
-      "location": "Ottawa, Ottawa region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889251072?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Job Description Job Description:\\n\\nApplication deadline: October 1, 2026 at 12:00PM ET\\nJoin the EDC Team!\\nAt EDC, we support Canadian businesses to succeed globally. We provide the financial tools and expertise they need to explore new markets, reduce risks, all towards the goal of making Canada and the world better through trade. \\nPosition: Sr. CX and Market Insights Manager\\nEmployment Type: PermanentCompensation Details:\\n\\n Customer Experience 18: Salaries typically range from $96,557 t\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "c575597cfeec",
-      "title": "Sr. CX and Market Insights Manager - 074 EN",
-      "company": "Export Development Canada | Exportation et d\u00e9veloppement Canada",
-      "location": "Vancouver, Greater Vancouver",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889231802?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Job Description Job Description:\\n\\nApplication deadline: October 1, 2026 at 12:00PM ET\\nJoin the EDC Team!\\nAt EDC, we support Canadian businesses to succeed globally. We provide the financial tools and expertise they need to explore new markets, reduce risks, all towards the goal of making Canada and the world better through trade. \\nPosition: Sr. CX and Market Insights Manager\\nEmployment Type: PermanentCompensation Details:\\n\\n Customer Experience 18: Salaries typically range from $96,557 t\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "e6205155bc38",
-      "title": "Sr. CX and Market Insights Manager - 074 EN",
-      "company": "Export Development Canada | Exportation et d\u00e9veloppement Canada",
-      "location": "Toronto, Ontario",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889179233?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Job Description Job Description:\\n\\nApplication deadline: October 1, 2026 at 12:00PM ET\\nJoin the EDC Team!\\nAt EDC, we support Canadian businesses to succeed globally. We provide the financial tools and expertise they need to explore new markets, reduce risks, all towards the goal of making Canada and the world better through trade. \\nPosition: Sr. CX and Market Insights Manager\\nEmployment Type: PermanentCompensation Details:\\n\\n Customer Experience 18: Salaries typically range from $96,557 t\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "06df3f82e768",
-      "title": "Sr. CX and Market Insights Manager - 074 EN",
-      "company": "Export Development Canada | Exportation et d\u00e9veloppement Canada",
-      "location": "Calgary, Calgary region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889173060?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Job Description Job Description:\\n\\nApplication deadline: October 1, 2026 at 12:00PM ET\\nJoin the EDC Team!\\nAt EDC, we support Canadian businesses to succeed globally. We provide the financial tools and expertise they need to explore new markets, reduce risks, all towards the goal of making Canada and the world better through trade. \\nPosition: Sr. CX and Market Insights Manager\\nEmployment Type: PermanentCompensation Details:\\n\\n Customer Experience 18: Salaries typically range from $96,557 t\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "5f424330aa66",
-      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
-      "company": "Nordia Inc.",
-      "location": "Caraquet, Gloucester region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889603307?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "4a25ad05e337",
-      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
-      "company": "Nordia Inc.",
-      "location": "Oromocto, Sunbury",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889602553?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "36ba666663ab",
-      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
-      "company": "Nordia Inc.",
-      "location": "Tracadie-Sheila, Gloucester region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889602536?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "5c42746de5ca",
-      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
-      "company": "Nordia Inc.",
-      "location": "Saint John region, New Brunswick",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889602517?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "4b954c802bfb",
-      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
-      "company": "Nordia Inc.",
-      "location": "Memramcook, Westmorland",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889602555?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "3c230300c37d",
-      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
-      "company": "Nordia Inc.",
-      "location": "Dalhousie, Restigouche",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889602499?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "23d89174b5f3",
-      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
-      "company": "Nordia Inc.",
-      "location": "Cap-Pele, Westmorland",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889602472?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a801f48318fb",
-      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
-      "company": "Nordia Inc.",
-      "location": "Edmundston, Madawaska region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889602205?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "0839c22b67ea",
-      "title": "Work from Home - Customer Experience Specialist (contract), Bilingual",
-      "company": "Nordia Inc.",
-      "location": "Neguac, Northumberland",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889602123?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Every day at NQX, thousands of us are building trusted connections and advanced solutions to deliver outstanding customer experience for leading brands across Canada. Are you interested in high quality outwear, luxury-forward design, aesthetic innovation and looking for a position that lets you work from home? We're seeking talented individuals like you to join our 100% remote team of bilingual Customer experience Representatives within New Brunswick. In this role, you'll provide white glove so\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "dff4f730cfd3",
-      "title": "Customer Experience Lead",
-      "company": "Pressbooks",
-      "location": "Canada",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889171894?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Job Description Job Description About Pressbooks: We are a small team working together to build and share software that supports new models for book publishing with an emphasis on supporting open educational resources (aka free digital textbooks) and other types of educational innovation powered by digital content. We are passionate about open source, open content, open knowledge, and the intersection of books and the web. We\u2019re a self-sustaining open source / SaaS business with a growing list \u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "80f7dfb6f32d",
-      "title": "Customer Experience Lead; Westridge Shopping Centre, Woodbridge ON",
-      "company": "Laura",
-      "location": "Woodbridge, York region",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5888944967?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "How will you support the team? As a Team Leader, you possess a passion for fashion and customer service. You will be part of a winning team that provides a unique and memorable shopping experience to every customer. You will be joining a Company focused on the development and career growth of its employees. Act as a stylist to build a personalized wardrobe to the customer. Develop and train the sales team on exemplary customer service, the promotion of different programs, product knowledge and \u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "beb9d6bb673e",
-      "title": "Customer Experience Representative",
-      "company": "Avenir Energy",
-      "location": "Grande Prairie region, Alberta",
-      "remote": false,
-      "url": "https://www.adzuna.ca/details/5889864019?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "About Avenir Energy Ltd. Avenir Energy Ltd. is one of Canada\u2019s largest and fastest-growing propane distribution companies. We are a fast-paced, customer-focused, field-based business with operations across the country and a commitment to excellence. With over 400 dedicated team members, we are driven to become the propane distributor of choice in North America. At Avenir Energy, we offer a dynamic, respectful, and collaborative work environment where every team member plays a key role in our su\u2026",
-      "source": "adzuna",
-      "country": "CA",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "60a949ee055c",
-      "title": "Customer Experience Analyst",
-      "company": "Milwaukee Tools",
-      "location": "Notting Hill, Monash Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/land/ad/5887746727?se=lOdLOhW08RGTQZduHdfBRg&utm_medium=api&utm_source=638f9cc6&v=F067E112C4266AF8E149CBB515405F79BC967A1A",
-      "posted": "2026-09-18",
-      "description": "Who we are: Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do. We are committed to ensuring our people have a great experience at Milwaukee, so in addition to\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "54fc016e1b1c",
-      "title": "Customer Experience Manager",
-      "company": "Accor",
-      "location": "Sydney, Sydney Region",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/land/ad/5889058181?se=uoiYOhW08RGm1alvctyjWA&utm_medium=api&utm_source=638f9cc6&v=D185056A28E5C83AAA1404C82D40B4CF01B954D5",
-      "posted": "2026-09-18",
-      "description": "Purpose As the Customer Experience Manager, you are responsible for overseeing and coordinating all activities related to customer experience within a designated portfolio. Your task is to ensure the efficient execution and communication of customer activities within established budgets. Additionally, your goal is to establish a reputation of excellence, and delivering on Accor's client promise. Primary Responsibilities Manage end-to-end Quarterly and Annual Customer Engagement plans, ensuring \u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "df62b6b0860b",
-      "title": "Business Analyst - Capital Markets / Customer Experience - Richardson, TX",
-      "company": "Qualis1 Inc.",
-      "location": "Texas, US",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5889693768?se=blIWbeG08RGk6dCvHcHp9g&utm_medium=api&utm_source=638f9cc6&v=34F93B4A2568BA0DF1C7CFDC4D58B51905B7CE2D",
-      "posted": "2026-09-18",
-      "description": "Senior Business Analyst Capital Markets / Customer Experience - Richardson, TX 75082 - Onsite Job Title: Senior Business Analyst Capital Markets / Customer Experience Work Location: Richardson, TX 75082 Contract duration: 12 Months Job Details: Must Have Skills Data analysis Data mapping Data governance Detailed Job Description Has done B2C Customer Experience work such as defining Investor experiences. Analyze, document, and validate functional and nonfunctional requirements for Capital Market\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "03d860cf84c4",
-      "title": "People Insights Visier Platform Manager",
-      "company": "APN Consulting Inc",
-      "location": "Grand Central, Manhattan",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5889898321?se=kogJdeG08RGm1alvctyjWA&utm_medium=api&utm_source=638f9cc6&v=1850CCE065F2E6CB92D8026AEE7816F3E2CE82D6",
-      "posted": "2026-09-18",
-      "description": "APN Consulting, Inc. is a progressive IT staffing and services company offering innovative business solutions to improve client business outcomes. We focus on high impact technology solutions in ServiceNow, Fullstack, Cloud & Data, and AI / ML. Due to our globally expanding service offerings we are seeking top-talent to join our teams and grow with us. Direct Client Requirement Contract Remote Job description & Roles and responsibilities The People Insights team turns workforce data into clear,\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "b51699ad4d6c",
-      "title": "Customer Experience Analyst",
-      "company": "Milwaukee Tools",
-      "location": "Notting Hill, Monash Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/land/ad/5887746727?se=ft9Jl-G08RGSI57gYuD12g&utm_medium=api&utm_source=638f9cc6&v=F067E112C4266AF8E149CBB515405F79BC967A1A",
-      "posted": "2026-09-18",
-      "description": "Who we are: Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do. We are committed to ensuring our people have a great experience at Milwaukee, so in addition to\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "46a10d3432f7",
-      "title": "Business Analyst - Capital Markets / Customer Experience - Richardson, TX",
-      "company": "Qualis1 Inc.",
-      "location": "Texas, US",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5889693768?se=vGIkWLa18RGjFuDh_Mk4eQ&utm_medium=api&utm_source=638f9cc6&v=34F93B4A2568BA0DF1C7CFDC4D58B51905B7CE2D",
-      "posted": "2026-09-18",
-      "description": "Senior Business Analyst Capital Markets / Customer Experience - Richardson, TX 75082 - Onsite Job Title: Senior Business Analyst Capital Markets / Customer Experience Work Location: Richardson, TX 75082 Contract duration: 12 Months Job Details: Must Have Skills Data analysis Data mapping Data governance Detailed Job Description Has done B2C Customer Experience work such as defining Investor experiences. Analyze, document, and validate functional and nonfunctional requirements for Capital Market\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "116f4932cffa",
-      "title": "People Insights Visier Platform Manager",
-      "company": "APN Consulting Inc",
-      "location": "Grand Central, Manhattan",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5889898321?se=tHkVZ7a18RGjFuDh_Mk4eQ&utm_medium=api&utm_source=638f9cc6&v=1850CCE065F2E6CB92D8026AEE7816F3E2CE82D6",
-      "posted": "2026-09-18",
-      "description": "APN Consulting, Inc. is a progressive IT staffing and services company offering innovative business solutions to improve client business outcomes. We focus on high impact technology solutions in ServiceNow, Fullstack, Cloud & Data, and AI / ML. Due to our globally expanding service offerings we are seeking top-talent to join our teams and grow with us. Direct Client Requirement Contract Remote Job description & Roles and responsibilities The People Insights team turns workforce data into clear,\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "09f1455bb1a7",
-      "title": "Customer Experience Analyst",
-      "company": "Milwaukee Tools",
-      "location": "Notting Hill, Monash Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/land/ad/5887746727?se=2sUXk7a18RGCR7z_AFvcaQ&utm_medium=api&utm_source=638f9cc6&v=F067E112C4266AF8E149CBB515405F79BC967A1A",
-      "posted": "2026-09-18",
-      "description": "Who we are: Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do. We are committed to ensuring our people have a great experience at Milwaukee, so in addition to\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "ea61265303e9",
-      "title": "Business Analyst - Capital Markets / Customer Experience - Richardson, TX",
-      "company": "Qualis1 Inc",
-      "location": "Texas, US",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5890033774?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-09-18",
-      "description": "Senior Business Analyst Capital Markets / Customer Experience - Richardson, TX 75082 - Onsite Job Title: Senior Business Analyst Capital Markets / Customer Experience Work Location: Richardson, TX 75082 Contract duration: 12 Months Job Details: Must Have Skills Data analysis Data mapping Data governance Detailed Job Description Has done B2C Customer Experience work such as defining Investor experiences. Analyze, document, and validate functional and nonfunctional requirements for Capital Market\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9d85df7aed06",
-      "title": "People Insights Visier Platform Manager",
-      "company": "APN Consulting Inc",
-      "location": "Grand Central, Manhattan",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5889898321?se=trN8HHa28RGStvf-5zP7mg&utm_medium=api&utm_source=638f9cc6&v=1850CCE065F2E6CB92D8026AEE7816F3E2CE82D6",
-      "posted": "2026-09-18",
-      "description": "APN Consulting, Inc. is a progressive IT staffing and services company offering innovative business solutions to improve client business outcomes. We focus on high impact technology solutions in ServiceNow, Fullstack, Cloud & Data, and AI / ML. Due to our globally expanding service offerings we are seeking top-talent to join our teams and grow with us. Direct Client Requirement Contract Remote Job description & Roles and responsibilities The People Insights team turns workforce data into clear,\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "446ab02e4a21",
-      "title": "Customer Experience Analyst",
-      "company": "Milwaukee Tools",
-      "location": "Notting Hill, Monash Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/land/ad/5887746727?se=kr7zO3a28RGVZJdJjupeeg&utm_medium=api&utm_source=638f9cc6&v=F067E112C4266AF8E149CBB515405F79BC967A1A",
-      "posted": "2026-09-18",
-      "description": "Who we are: Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do. We are committed to ensuring our people have a great experience at Milwaukee, so in addition to\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9534eadb79c9",
-      "title": "People Insights Visier Platform Manager",
-      "company": "APN Consulting Inc",
-      "location": "Grand Central, Manhattan",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5889898321?se=DEdS6j238RGf_djUbW4fNA&utm_medium=api&utm_source=638f9cc6&v=1850CCE065F2E6CB92D8026AEE7816F3E2CE82D6",
-      "posted": "2026-09-18",
-      "description": "APN Consulting, Inc. is a progressive IT staffing and services company offering innovative business solutions to improve client business outcomes. We focus on high impact technology solutions in ServiceNow, Fullstack, Cloud & Data, and AI / ML. Due to our globally expanding service offerings we are seeking top-talent to join our teams and grow with us. Direct Client Requirement Contract Remote Job description & Roles and responsibilities The People Insights team turns workforce data into clear,\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "96c3498a4aa4",
-      "title": "Customer Experience Analyst",
-      "company": "Milwaukee Tools",
-      "location": "Notting Hill, Monash Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/land/ad/5887746727?se=BtaiAT638RGC4YytmZ486A&utm_medium=api&utm_source=638f9cc6&v=F067E112C4266AF8E149CBB515405F79BC967A1A",
-      "posted": "2026-09-18",
-      "description": "Who we are: Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do. We are committed to ensuring our people have a great experience at Milwaukee, so in addition to\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "bbae5dea31fa",
-      "title": "Customer Experience Analyst",
-      "company": "Milwaukee Tools",
-      "location": "Notting Hill, Monash Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/land/ad/5887746727?se=9HdFqoXB8RGn8o_pc6ICYw&utm_medium=api&utm_source=638f9cc6&v=F067E112C4266AF8E149CBB515405F79BC967A1A",
-      "posted": "2026-09-18",
-      "description": "Who we are: Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do. We are committed to ensuring our people have a great experience at Milwaukee, so in addition to\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "056cd41010f1",
-      "title": "Customer Experience Analyst",
-      "company": "Milwaukee Tools",
-      "location": "Notting Hill, Monash Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/land/ad/5887746727?se=EnZZMaPE8RG_59bpLSVmjQ&utm_medium=api&utm_source=638f9cc6&v=F067E112C4266AF8E149CBB515405F79BC967A1A",
-      "posted": "2026-09-18",
-      "description": "Who we are: Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do. We are committed to ensuring our people have a great experience at Milwaukee, so in addition to\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "ab7cc59b51f3",
-      "title": "Customer Experience Analyst",
-      "company": "Milwaukee Tools",
-      "location": "Notting Hill, Monash Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/land/ad/5887746727?se=LvdJkEvG8RGDpKwQ_p2dtw&utm_medium=api&utm_source=638f9cc6&v=F067E112C4266AF8E149CBB515405F79BC967A1A",
-      "posted": "2026-09-18",
-      "description": "Who we are: Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do. We are committed to ensuring our people have a great experience at Milwaukee, so in addition to\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "ab026a2ee2ea",
-      "title": "Customer Experience Analyst",
-      "company": "Milwaukee Tools",
-      "location": "Notting Hill, Monash Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/land/ad/5887746727?se=xMk6rAzH8RGde-6MbVqpLg&utm_medium=api&utm_source=638f9cc6&v=F067E112C4266AF8E149CBB515405F79BC967A1A",
-      "posted": "2026-09-18",
-      "description": "Who we are: Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do. We are committed to ensuring our people have a great experience at Milwaukee, so in addition to\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "8937da4bf150",
-      "title": "Customer Experience Analyst",
-      "company": "Milwaukee Tools",
-      "location": "Notting Hill, Monash Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/land/ad/5887746727?se=wJ-B8cHH8RG6NrnR99aetw&utm_medium=api&utm_source=638f9cc6&v=F067E112C4266AF8E149CBB515405F79BC967A1A",
-      "posted": "2026-09-18",
-      "description": "Who we are: Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do. We are committed to ensuring our people have a great experience at Milwaukee, so in addition to\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "e04c09424034",
-      "title": "Customer Experience Analyst",
-      "company": "Milwaukee Tools",
-      "location": "Notting Hill, Monash Area",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/land/ad/5887746727?se=ag7We1DJ8RGBMbk-mPfQEA&utm_medium=api&utm_source=638f9cc6&v=F067E112C4266AF8E149CBB515405F79BC967A1A",
-      "posted": "2026-09-18",
-      "description": "Who we are: Milwaukee Tools is an industry leader in the manufacturing of cordless & electric power tools, accessories, and hand tools. We pride ourselves on an unrelenting strategic focus on powerful brands, innovative products and exceptional people. Our culture is centred around improving the lives of our users, something that not only drives our product development but underpins everything we do. We are committed to ensuring our people have a great experience at Milwaukee, so in addition to\u2026",
       "source": "adzuna",
       "country": "AU",
       "tags": [
