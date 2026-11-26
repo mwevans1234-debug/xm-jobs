@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T16:58:19Z",
-  "count": 2504,
+  "updated": "2026-11-26T16:36:16Z",
+  "count": 2566,
   "jobs": [
     {
       "id": "a2d1a0238290",
@@ -15,6 +15,740 @@
       "country": "AU",
       "tags": [
         "cx"
+      ]
+    },
+    {
+      "id": "a9aa8a218cb8",
+      "title": "CX Customer Solutions Specialist - Cooper Lighting Solutions",
+      "company": "Signify",
+      "location": "Peachtree City, Fayette County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5979805905?se=MF6EHLfp8RGWY9j5C4A84g&utm_medium=api&utm_source=638f9cc6&v=62CAD095A432F146D6EE00F15E7BFF3D90CC8469",
+      "posted": "2026-11-26",
+      "description": "About Signify Through bold discovery and cutting-edge innovation, we lead an industry that is vital for the future of our planet: lighting. Through our leadership in connected lighting and the Internet of Things, we're breaking new ground in data analytics, AI, and smart solutions for homes, offices, cities, and beyond. At Signify, you can shape tomorrow by building on our incredible 125 year legacy while working toward even bolder sustainability goals. Our culture of continuous learning, creat\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "325051f52b3d",
+      "title": "Senior Manager, Customer Insights",
+      "company": "Dow Jones & Company",
+      "location": "New York City, New York",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5979123307?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Job Description: About the Team: Dow Jones is a global provider of news and business information, delivering content to consumers and organizations around the world across multiple formats, including print, digital, mobile, and live events. Dow Jones has produced unrivaled quality content for more than 130 years and today has one of the world\u2019s largest news-gathering operations globally. It is home to leading publications and products including the flagship Wall Street Journal, Barron\u2019s, Market\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "cd57750a5bc6",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Grandview Heights, Franklin County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979714589?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=70C2C68BA41C44E3C76106E45E16271A0C5D3382",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "2f115a7091c2",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Five Points, Wake County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979712687?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=512AFB148395A918A625EE0114DFF79AB16B0572",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "e4ee51737c6d",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Atlanta, Fulton County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979712101?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=3ED499F6A32E0463357725F2C59895EAB420CF02",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "82aece6d3894",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Springfield, Sangamon County",
+      "remote": true,
+      "url": "https://www.adzuna.com/details/5979711452?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "f28d2b4f33b6",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Nashville, Davidson County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979707594?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=BBD5EFA28E5889D839E9F1D2CDAA4F9CDE1387EE",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "332f5b34d6ac",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Lansing, Ingham County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979706030?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=1FE42B7B6C60C23342614F8B6FE6E412F16CAE88",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "bb926f90bf1b",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Uptown, Marion County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979703655?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=D56BA2B10A97FC14167B2DF330540952BF241469",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "3874932bbd1e",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Tumwater, Thurston County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979702754?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=1108AD651691365FB35908BB0371014DB35FA557",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "1ab790588237",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Boston, Suffolk County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979702453?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=E1DB1B6B54F254EBF26CBFA754A3FBC8019DD73C",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "a9fad85f876d",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Cedar, Cole County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979690646?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=A19C406995BF1EC630D8F7BCF8BD0F64ACD30353",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "d255f9d55a67",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Edgewood, Richland County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979682836?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=372943F9DF5F598E6BF1B7F3C19E2199D024D5F3",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "93321fcfa722",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Saint Paul, Ramsey County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979682842?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=5EDB5596306FA7431A456A53F7364C6C7829DD79",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "2c94417ef24c",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Madison, Dane County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979682030?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=2488E8CC498898615CC94767BF4866D118F53569",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "ec6d0f172b56",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Annapolis, Anne Arundel County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979681578?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=021F584DF7ACB80903706FE937537BDDA2D27BF9",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "699a0c30e36b",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Trenton, Mercer County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979681257?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=D71E8E31DE9A6176619C00793041CFF2F87B50B8",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "c3a643137ef1",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Frankfort, Franklin County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979678567?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=EE5AACBFC5205D1B283447ADDDF78EA75F06C55C",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "92f332f0cda0",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Phoenix, Maricopa County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979678081?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=4B7C5DC4C969190100D00835E2ADF8F47A2EF7AA",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "12d14593dcb1",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Chisolm, Montgomery County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979675657?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=95E3B53817A5BD7B2F0D8A23F1A12DB4014DB086",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "f5eb47ea0e9f",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Jackson, Hinds County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979667908?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=63AD32CAB448528B44EE76531DED23C56ED530F0",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "10c8fc46017f",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Oklahoma City, Oklahoma County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979665736?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=5079B281B35794A5263F795919CBD3E88CC31797",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "f06ec8ea6e11",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Salem, Marion County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979659472?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=00A5ECAB8E2E343E07A81C861D0EADD81F08819C",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "43c79e85d971",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Baton Rouge, East Baton Rouge Parish",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979656089?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=6A1DBBA29F039BC23829CB162DE3A33CE8FD1F1D",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "dec08ed1a726",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Topeka, Shawnee County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979655850?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=DF1B8E19619132BAED2EE6A8878DBFBE65C94FCA",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "fb8bc92271c5",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "State House, Lancaster County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979654138?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=0C6CCDF7253CDBA23354CF95C52C7E47CBE19FE6",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "c9cced4c58ad",
+      "title": "Employee Listening & Insights Associate Analyst (Remote, US)",
+      "company": "Maximus",
+      "location": "Des Moines, Polk County",
+      "remote": true,
+      "url": "https://www.adzuna.com/land/ad/5979652960?se=1uGoI7fp8RGTBqd1GswT4A&utm_medium=api&utm_source=638f9cc6&v=18DABC8EEA1541A0792183D75557B97D063A06ED",
+      "posted": "2026-11-26",
+      "description": "The Employee Listening & Insights Associate Analyst is an entry point into the HR Strategy & Transformation career track at Maximus, developing foundational skills as a multi-skilled problem-solving resource deployed through engagements across the HRST. Reporting into the team's leadership layer, the Associate Analyst works under close supervision to support research, data gathering, and basic analysis across the five service lines, building broad exposure and foundational capability under the \u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "5642615c3539",
+      "title": "Program Manager - Carrier Transition Team (CX",
+      "company": "Phoenix Group of Virginia",
+      "location": "Hampton Roads, Hampton City",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5979844078?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Position Summary: Phoenix Group seeks an experienced Program Manager in Newport News, VA, to lead the Carrier Transition Team (CXT) supporting aircraft carrier RCOH. Oversees technical teams, contract performance, cost, schedule, staffing, and risk while coordinating with Navy leadership, Ship\u2019s Force, and shipyard personnel. Requires extensive Navy program management and CVN experience, U.S. citizenship, and SECRET clearance eligibility. Position Description: Phoenix Group is seeking a Program\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2780c3bc292d",
+      "title": "Content & Experience Analyst",
+      "company": "Stanley Black & Decker",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5979792053?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "The team works with cross-functional partners to improve customer experience and drive growth through content management. What you will do Manage new product development setup process at The Home Depot. Syndicate marketing data to distributors and third-party vendors. What they look for BA/BS in Marketing or related field with 2-3 years relevant experience. Demonstrated track record in meeting sales goals and problem solving. Experience with Microsoft Office Suite and market analysis.",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "99bfda5a1c98",
+      "title": "Customer Experience Specialist",
+      "company": "Global 4",
+      "location": "Horsham, West Sussex",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5979403550?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Role Purpose The Customer Experience Specialist serves as the primary point of contact and coordinator for unmanaged customers who require additional support, guidance or intervention, ensuring they receive a consistently high standard of service while their query, concern or complaint is being resolved throughout their journey with Global 4. Working closely with Customer Experience Managers, Billing, Projects, Credit Control, Sales Support, Sales and operational teams, the role is responsible \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "edffc92149b9",
+      "title": "Business Improvement and Customer Experience Manager",
+      "company": "Solihull Metropolitan Borough Council",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5979100142?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Business Improvement and Customer Experience Manager Property Services Band F \u00a346,579 - \u00a353,051 We're looking for a Business Improvement and Customer Experience Manager to join our Property Services management team and play a key role in driving performance, service improvement and innovation across a diverse and high-profile service area. This is an exciting opportunity for a proactive and solution-focused professional who can challenge existing ways of working, identify opportunities for impr\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "593116fa9155",
+      "title": "Customer Experience Analyst Bilingual",
+      "company": "GM Financial",
+      "location": "Toronto, Ontario",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5979430914?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Job Responsibility: Overview: Why GM Financial? GM Financial is the wholly owned captive finance subsidiary of General Motors. We are a global provider of auto finance solutions. We offer attractive retail financing and lease programs to meet the needs of each customer. We also offer commercial lending products to dealers to help them finance and grow their businesses. At GM Financial, we are looking for people who want to embark on an exciting career journey. Our team members define and shape \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ba779e18f26c",
+      "title": "Customer Experience and Process Improvement Analyst",
+      "company": "Hydro Ottawa",
+      "location": "Ottawa, Ottawa region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5979394747?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Please Note: If you are a current Hydro Ottawa employee with access to Workday, apply to this job via the Workday application. At Hydro Ottawa, we empower the lives of the people in the communities we serve. As the electricity distributor to the Nation\u2019s Capital, our work powers all the essential activities that make up our lives - at home, at work and at play. And as Ontario\u2019s largest municipally-owned producer of green power, we are leading the way to a greener tomorrow. We are looking for tr\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "f7b0a74ea30e",
+      "title": "Customer Experience Associate Clarenville Part Time",
+      "company": "Scotiabank",
+      "location": "Clarenville, Clarenville region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5979430971?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Job Responsibility: Requisition ID: 198971 Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture. About the role As a Customer Experience Associate, you are the face, character and heart of our branches. Scotiabank is a place where we put our customers first, and our priority is to help them achieve their financial goals. Our Customer Experience Associates are people-centric and connect with customers in a relatable way. As an essential member of \u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "d2214baa1f92",
+      "title": "Customer Experience Associate - Port Perry (15 hours/week)",
+      "company": "Scotiabank",
+      "location": "Port Perry, Durham region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5979213883?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Requisition ID: 280176 Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture. About the role As a Customer Experience Associate, you are the face, character and heart of our branches. Scotiabank is a place where we put our customers first, and our priority is to help them achieve their financial goals. Our Customer Experience Associates are people-centric and connect with customers in a relatable way. As an essential member of the Canadian Banking\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "c00019480101",
+      "title": "Customer Experience Associate - Lytton Branch, BC (26.25Hours/Week)",
+      "company": "Scotiabank",
+      "location": "Lytton, Thompson-Nicola",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5979213882?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Requisition ID: 275447 Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture. About the role As a Customer Experience Associate, you are the face, character and heart of our branches. Scotiabank is a place where we put our customers first, and our priority is to help them achieve their financial goals. Our Customer Experience Associates are people-centric and connect with customers in a relatable way. As an essential member of the Canadian Banking\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "6a7518835a20",
+      "title": "Customer Experience Associate - Brampton Main (15 Hours/Week)",
+      "company": "Scotiabank",
+      "location": "Brampton, Peel region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5979213887?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Requisition ID: 280421 Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture. About the role As a Customer Experience Associate, you are the face, character and heart of our branches. Scotiabank is a place where we put our customers first, and our priority is to help them achieve their financial goals. Our Customer Experience Associates are people-centric and connect with customers in a relatable way. As an essential member of the Canadian Banking\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "39aa082baec5",
+      "title": "Customer Experience Associate - Elgin Mills & Leslie (30 hours/week)",
+      "company": "Scotiabank",
+      "location": "Richmond Hill, York region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5979213885?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Requisition ID: 279993 Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture. About the role As a Customer Experience Associate, you are the face, character and heart of our branches. Scotiabank is a place where we put our customers first, and our priority is to help them achieve their financial goals. Our Customer Experience Associates are people-centric and connect with customers in a relatable way. As an essential member of the Canadian Banking\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "984ee4467761",
+      "title": "Customer Experience Associate - Yaletown, Vancouver, BC(30Hours/Week)",
+      "company": "Scotiabank",
+      "location": "Greater Vancouver, British Columbia",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5979213877?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Requisition ID: 276879 Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture. About the role As a Customer Experience Associate, you are the face, character and heart of our branches. Scotiabank is a place where we put our customers first, and our priority is to help them achieve their financial goals. Our Customer Experience Associates are people-centric and connect with customers in a relatable way. As an essential member of the Canadian Banking\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "94c1594da3cc",
+      "title": "Customer Experience Associate - Hazeldean, Kanata - 15 hours/week",
+      "company": "Scotiabank",
+      "location": "Kanata, Ottawa region",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5979213884?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Requisition ID: 280285 Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture. About the role As a Customer Experience Associate, you are the face, character and heart of our branches. Scotiabank is a place where we put our customers first, and our priority is to help them achieve their financial goals. Our Customer Experience Associates are people-centric and connect with customers in a relatable way. As an essential member of the Canadian Banking\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "29881f2933ee",
+      "title": "Customer Experience Associate - Langley Financial Centre, Langley BC (18.75hrs/week)",
+      "company": "Scotiabank",
+      "location": "Langley, Greater Vancouver",
+      "remote": false,
+      "url": "https://www.adzuna.ca/details/5979213889?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Requisition ID: 280404 Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture. About the role As a Customer Experience Associate, you are the face, character and heart of our branches. Scotiabank is a place where we put our customers first, and our priority is to help them achieve their financial goals. Our Customer Experience Associates are people-centric and connect with customers in a relatable way. As an essential member of the Canadian Banking\u2026",
+      "source": "adzuna",
+      "country": "CA",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "0bf6919ba7bb",
+      "title": "Customer Experience Administrator",
+      "company": "Building and Plumbing Commission",
+      "location": "Melbourne, Melbourne Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5979367359?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Play a role in helping consumers and practitioners get the support and information they need and the service they deserve! Multiple fixed term positions available, with varying contract durations. About the Role: We are seeking multiple fixed-term Customer Experience Administrators to join the BPC until 30 June 2027. Opportunities are available for both a full-time basis and part-time basis (0.6 FTE, equivalent to 3 days per week). As the BPC's role continues to grow, we are seeking Customer Ex\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "10460507b546",
+      "title": "Customer Communications & Experience Lead \u2014 12-Month Contract",
+      "company": "Westpac Group",
+      "location": "The Rocks, Sydney",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5979206824?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Westpac is seeking a Senior Manager, Customer Communications & Experience in Sydney to lead strategy and delivery of customer communications that build trust and improve experiences across channels. You will manage multiple initiatives, translate complex changes into clear messages, and drive CX-led communication while coaching the team for continuous improvement. The role emphasizes stakeholder management, data-driven decision making, and delivering high-quality customer outcomes in a regulate\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "744e34dd7ae7",
+      "title": "Customer Experience Administrator",
+      "company": "Building and Plumbing Commission",
+      "location": "Melbourne, Melbourne Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5979047561?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Multiple fixed term positions available, with varying contract durations. About the Role: We are seeking multiple fixed-term Customer Experience Administrators to join the BPC until 30 June 2027. Opportunities are available for both a full-time basis and part-time basis (0.6 FTE, equivalent to 3 days per week). As the BPC's role continues to grow, we are seeking Customer Experience Administrators to support the Consumer & Practitioner Service Centre. This frontline team plays a critical role in\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "293b62d98d1e",
+      "title": "Customer Experience Administrator",
+      "company": "Victorian Government",
+      "location": "Melbourne CBD, Melbourne",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5978985414?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Multiple fixed term positions available, with varying contract durations. About the Role: We are seeking multiple fixed-term Customer Experience Administrators to join the BPC until 30 June 2027. Opportunities are available for both a full-time basis and part-time basis (0.6 FTE, equivalent to 3 days per week). As the BPC's role continues to grow, we are seeking Customer Experience Administrators to support the Consumer & Practitioner Service Centre. This frontline team plays a critical role in\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "de10feaa16be",
+      "title": "People Analytics Manager",
+      "company": "BAE Systems",
+      "location": "Australia",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5978985486?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Job Location: We offer a range of hybrid and flexible working arrangements and with flexibility on working locations \u2013 please speak to your recruiter about the options for this particular role. Who we are: Join BAE Systems and you'll be part of something bigger. As a valued member of our global colleague network, you'll bring your unique skills and perspectives to help pioneer progress and protect what matters most. You'll be trusted to play your part in delivering the advanced, technology-led \u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "e1ac916222b2",
+      "title": "People Analytics Officer (Health Manager Level 2)",
+      "company": "Sydney Local Health District",
+      "location": "Inner West, Sydney Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5978744484?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-26",
+      "description": "Employment Type : Permanent Full Time; 38 hours per week Position Classification : Health Manager Level 2 Remuneration : $118,821 - $140,201 per annum  Superannuation Location : Concord Repatriation General Hospital Requisition ID : REQ709593 Join SLHD as a People Analytics Officer and turn complex workforce data into clear, actionable insights! Support innovation and strategic decisions across the District! About the Role The People Analytics Officer is responsible for providing reports, repor\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "ex",
+        "insights"
       ]
     },
     {
@@ -112,7 +846,7 @@
     },
     {
       "id": "ef76edf1c756",
-      "title": "Customer Experience Salesforce Service Cloud Analyst",
+      "title": "CX Salesforce Sales Cloud Analyst",
       "company": "Trimble",
       "location": "Alpharetta, Fulton County",
       "remote": false,
@@ -990,6 +1724,178 @@
       ]
     },
     {
+      "id": "59b4b9259ffe",
+      "title": "Insights Analyst (Customer & Employee Experience) - Hybrid",
+      "company": "M&T Bank",
+      "location": "Bridgeport, Fairfield County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5978337032?se=7HhZG7fp8RGeC7rP1w-cLw&utm_medium=api&utm_source=638f9cc6&v=3D2B59E145B5A69BF7624EEFB095626FDF8B2604",
+      "posted": "2026-11-25",
+      "description": "Overview: This Insights Analyst will join the Customer Advocacy team, helping turn customer and employee feedback into actionable insights that improve experiences across the organization. This role combines business analytics, reporting, governance, and continuous improvement. You will work with teams across the organization to strengthen how customer complaints and employee feedback are captured, documented, analyzed, and reported. You will help ensure information is complete, accurate, consi\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "5a3077fbe98e",
+      "title": "Insights Analyst (Customer & Employee Experience) - Hybrid",
+      "company": "M&T Bank",
+      "location": "Getzville, Erie County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5978321319?se=7HhZG7fp8RGeC7rP1w-cLw&utm_medium=api&utm_source=638f9cc6&v=0DE60A5DE342C0429E099146D47232E1857B56CC",
+      "posted": "2026-11-25",
+      "description": "Overview: This Insights Analyst will join the Customer Advocacy team, helping turn customer and employee feedback into actionable insights that improve experiences across the organization. This role combines business analytics, reporting, governance, and continuous improvement. You will work with teams across the organization to strengthen how customer complaints and employee feedback are captured, documented, analyzed, and reported. You will help ensure information is complete, accurate, consi\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "cf23cd953ad0",
+      "title": "Senior Director - Customer Experience and Quality",
+      "company": "Vontier",
+      "location": "Greensboro Ndc, Guilford County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5978416601?se=ZLvXHrfp8RGeC7rP1w-cLw&utm_medium=api&utm_source=638f9cc6&v=60F50A18A2FAF450E870241BE864A0762EF3AEAF",
+      "posted": "2026-11-25",
+      "description": "Job Overview The Sr. Director, Customer Experience & Quality owns the enterprise-wide direction and execution of Vontier Convenience Retails' global strategy for customer experience, product quality, and reliability. The role serves as the senior advocate for the customer, this leader establishes global standards, governance, and priorities across global functions. Translating customer feedback, field performance, warranty data, and quality insights into priorities that improve products, servic\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "492f26ae37a7",
+      "title": "People Insights Visier Platform Manager",
+      "company": "Deloitte",
+      "location": "Birmingham, Jefferson County",
+      "remote": false,
+      "url": "https://www.adzuna.com/details/5978941860?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-25",
+      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "650b1a4e4131",
+      "title": "Insights Analyst (Customer & Employee Experience) - Hybrid",
+      "company": "M&T Bank",
+      "location": "Bridgeport, Fairfield County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5978337032?se=6COqKLfp8RGKhqDbCdnEeA&utm_medium=api&utm_source=638f9cc6&v=3D2B59E145B5A69BF7624EEFB095626FDF8B2604",
+      "posted": "2026-11-25",
+      "description": "Overview: This Insights Analyst will join the Customer Advocacy team, helping turn customer and employee feedback into actionable insights that improve experiences across the organization. This role combines business analytics, reporting, governance, and continuous improvement. You will work with teams across the organization to strengthen how customer complaints and employee feedback are captured, documented, analyzed, and reported. You will help ensure information is complete, accurate, consi\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "ae32e133b71e",
+      "title": "Insights Analyst (Customer & Employee Experience) - Hybrid",
+      "company": "M&T Bank",
+      "location": "Getzville, Erie County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5978321319?se=6COqKLfp8RGKhqDbCdnEeA&utm_medium=api&utm_source=638f9cc6&v=0DE60A5DE342C0429E099146D47232E1857B56CC",
+      "posted": "2026-11-25",
+      "description": "Overview: This Insights Analyst will join the Customer Advocacy team, helping turn customer and employee feedback into actionable insights that improve experiences across the organization. This role combines business analytics, reporting, governance, and continuous improvement. You will work with teams across the organization to strengthen how customer complaints and employee feedback are captured, documented, analyzed, and reported. You will help ensure information is complete, accurate, consi\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "ff6f55ea1936",
+      "title": "Graduate Customer Experience (CX) Analyst Programme 2027",
+      "company": "Capgemini",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5978830819?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-25",
+      "description": "Graduate Customer Experience (CX) Analyst Prorgramme Location: Telford or Hove Intake: September 2027 About the job you're considering Be part of something bigger from day one, working on real projects, solving real challenges, and helping organisations improve the products, services and experiences they deliver to customers. As a Customer Experience (CX) Analyst, you'll begin your career developing core business analysis skills while gaining exposure to product management, Agile delivery and p\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "a7a179ad7900",
+      "title": "Customer Experience Data Intern",
+      "company": "Prologis Management LLC",
+      "location": "UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5978556400?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-25",
+      "description": "The team is working on a pilot project to organize customer insights using agentic AI, and the intern will help validate outputs and surface key themes. What you will do Test tagging logic and validate AI-generated outputs for accuracy. Analyze survey data and research external customer experience practices. Create dashboards or visual summaries to share findings with partners. What they look for Currently enrolled in an undergraduate or graduate program. Experience with Microsoft Office, espec\u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "54088ea12c0f",
+      "title": "Customer Experience Lead \u2013 Customer Journey",
+      "company": "Perth Airport Pty",
+      "location": "Perth, Perth Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5978110919?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-25",
+      "description": "It's fun to work in a company where people truly BELIEVE in what they're doing! Perth Airport is Australia\u2019s Western Hub connecting the people, businesses and communities of Western Australia with the rest of Australia and the world. Operating 24 hours a day, seven days a week throughout the year, Perth Airport plays a significant role in providing economic, social and cultural benefits to West Australians We are delivering a mulit-billion dollar infrastructure program to transform the airport,\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ba4acdd6985a",
+      "title": "Customer Experience Supervisor",
+      "company": "Work with Us",
+      "location": "Cranbourne, Casey Area",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5978110378?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-25",
+      "description": "About The Lost Dogs' Home At The Lost Dogs\u2019 Home, we give animals the best chance of a happy and healthy life. We care for lost dogs, cats and other companion animals, reunite pets with their families and find new homes for animals in need. We\u2019re looking for an accomplished Customer Experience Supervisor to lead an exceptional, compassionate and solution-focused service across our North Melbourne and Cranbourne locations. This is an opportunity to shape a contemporary customer experience functi\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "851cae73a950",
+      "title": "Senior Employee Experience Advisor",
+      "company": "John Holland",
+      "location": "New South Wales, Australia",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5978119261?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-25",
+      "description": "About the Role We have an opportunity for an experienced Senior Employee Experience Advisor to join our team based in Pyrmont. You\u2019ll play a key role in managing and strengthening our portfolio of organisational development and leadership programs. In this role, you\u2019ll work across leadership development, talent, culture and change initiatives, partnering with leaders and stakeholders to understand business needs, prioritise programs and deliver meaningful outcomes. You\u2019ll bring strong leadershi\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
       "id": "d1e3f88f5ae6",
       "title": "Assistant Customer Experience Manager - Call Center",
       "company": "Standard Heating & Air Conditioning",
@@ -1306,6 +2212,22 @@
       "country": "Remote",
       "tags": [
         "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "0406b48ebc62",
+      "title": "Manager, People Analytics & Insights",
+      "company": "CSL",
+      "location": "King of Prussia, Montgomery County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5976911021?se=8lsUIrfp8RGmY_K5w5BrLA&utm_medium=api&utm_source=638f9cc6&v=4B258B437587214F2F423682506637DFC737533E",
+      "posted": "2026-11-24",
+      "description": "The Manager, People Analytics & Insights leads the development and delivery of data-driven insights that inform workforce strategy and elevate organizational performance. This role sits at the intersection of HR, business strategy, and data analytics, transforming complex data into clear, actionable recommendations for senior leadership. Reporting to the Director of People Analytics & Insights, the role works with senior HR leaders, COE heads, and business stakeholders to lead complex, often am\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
         "insights"
       ]
     },
@@ -1792,6 +2714,22 @@
       "url": "https://www.adzuna.com/land/ad/5976332479?se=qHS-EPHo8RGCzaY2c7Xc0w&utm_medium=api&utm_source=638f9cc6&v=FC13FB4B3C01701B643C9F2A258B0916E3EB86CF",
       "posted": "2026-11-23",
       "description": "The Manager, People Analytics & Insights leads the development and delivery of data-driven insights that inform workforce strategy and elevate organizational performance. This role sits at the intersection of HR, business strategy, and data analytics, transforming complex data into clear, actionable recommendations for senior leadership. Reporting to the Director of People Analytics & Insights, the role works with senior HR leaders, COE heads, and business stakeholders to lead complex, often am\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex",
+        "insights"
+      ]
+    },
+    {
+      "id": "562922097046",
+      "title": "Manager, People Analytics & Insights",
+      "company": "CSL",
+      "location": "King of Prussia, Montgomery County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5976554397?se=8lsUIrfp8RGmY_K5w5BrLA&utm_medium=api&utm_source=638f9cc6&v=E83EF86783EFC1EAC322DADE0DAAF45503EC06BD",
+      "posted": "2026-11-23",
+      "description": "CSL is seeking a Manager, People Analytics & Insights to lead the development and delivery of data-driven workforce insights that advance our patient-focused mission. In this role, you will shape CSL\u2019s people analytics strategy, building dashboards, models, and reports that inform talent, engagement, and organizational decisions across our global biotechnology business. Partnering closely with HR, business leaders, and data teams, you will translate complex HR data into clear, actionable recomm\u2026",
       "source": "adzuna",
       "country": "US",
       "tags": [
@@ -2910,6 +3848,85 @@
       ]
     },
     {
+      "id": "229b322d22bd",
+      "title": "Customer Insights Analyst I, II or III",
+      "company": "Southern Company",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5975108986?se=7HhZG7fp8RGeC7rP1w-cLw&utm_medium=api&utm_source=638f9cc6&v=4CD21F1FF065FAF3AEAE33AD3A45BC9C99E46A1C",
+      "posted": "2026-11-22",
+      "description": "The Customer Insights Analyst I is responsible for supporting the development and maintenance of end-to-end customer journey views across Southern Company Gas and its affiliated LDCs. This role gathers and synthesizes information from multiple sources to provide insights that improve customer experience, operational effectiveness, and business outcomes. The Analyst I work closely with business partners, data analysts, and customer experience teams to identify performance trends, evaluate custom\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "1f19fb9fc97a",
+      "title": "Customer Insights Analyst I, II or III",
+      "company": "Southern Company",
+      "location": "Ridgeside, Hamilton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5975103497?se=7HhZG7fp8RGeC7rP1w-cLw&utm_medium=api&utm_source=638f9cc6&v=59A2334F45688B9523CD656FD13A32EE25BE6D60",
+      "posted": "2026-11-22",
+      "description": "The Customer Insights Analyst I is responsible for supporting the development and maintenance of end-to-end customer journey views across Southern Company Gas and its affiliated LDCs. This role gathers and synthesizes information from multiple sources to provide insights that improve customer experience, operational effectiveness, and business outcomes. The Analyst I work closely with business partners, data analysts, and customer experience teams to identify performance trends, evaluate custom\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "892140d388de",
+      "title": "Director, Customer Insights and Engagement - Neuroscience",
+      "company": "Bristol Myers Squibb",
+      "location": "Princeton, Mercer County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5975059740?se=mqnoILfp8RGQjZ23S7hStg&utm_medium=api&utm_source=638f9cc6&v=6814E7227B09E624985A4D46B21F25BD31BE563A",
+      "posted": "2026-11-22",
+      "description": "At Bristol Myers Squibb, our employees often ask, \"Who are you working for?\"-a question that fuels collaboration, accountability, and urgency in our work. Our purpose-driven culture inspires us to discover, develop, and deliver innovative medicines to prevail over serious diseases. We offer uniquely interesting and meaningful work, opportunities for growth, and a supportive environment that values inclusion, wellbeing, flexibility, and comprehensive benefits. This is work that transforms the li\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "95a7f32eeb4e",
+      "title": "Associate Program Manager, Customer Experience",
+      "company": "Kikoff",
+      "location": "San Francisco, California",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5974813845?se=_AF5Jrfp8RGWY9j5C4A84g&utm_medium=api&utm_source=638f9cc6&v=5C311DF5C15E2F4E7E5D2A3EACDC994B925BC2B9",
+      "posted": "2026-11-22",
+      "description": "Kikoff: The Fintech Powering Financial Security at Scale Kikoff is a profitable, pre-IPO fintech company on a mission to empower everyone to achieve financial security. With record revenue growth in 2025 and a unicorn valuation, we've built a suite of products that help millions of people build credit, access liquidity, and save money. We're scaling fast. Join us if you want to build something meaningful and help millions of people move forward financially. Why Kikoff: This is a consumer fintec\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "ca783b55facb",
+      "title": "Customer Insights Manager",
+      "company": "McDonald's",
+      "location": "London, UK",
+      "remote": false,
+      "url": "https://www.adzuna.co.uk/jobs/details/5974638988?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-22",
+      "description": "Job Description: About Us McDonalds has run its business in the UK since 1974 and currently operates over 1500 restaurants across the UK and Ireland, serving almost four million customers each day. McDonalds is one of the UKs largest private sector employers, employing over 170,000 people. Department Overview We are looking for a commercially minded Consumer Insight Manager to join the McDonald's UK & Ireland Customer Insight team. This is a high-impact, hands-on management role for an insight \u2026",
+      "source": "adzuna",
+      "country": "GB",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
       "id": "3ec47e896534",
       "title": "Manager, Charging & Energy Services - CX Home Power",
       "company": "Ford Motor Company",
@@ -3749,6 +4766,37 @@
       "location": "Sydney, Sydney Region",
       "remote": false,
       "url": "https://www.adzuna.com.au/land/ad/5973904687?se=SKavKvHo8RG2JOzGp8nzqA&utm_medium=api&utm_source=638f9cc6&v=FE80F1F0606EF32DA468188873680E4B37FED859",
+      "posted": "2026-11-21",
+      "description": "Description What\u2019s the role? We're looking for an intellectually curious, analytically minded leader who enjoys solving complex problems, challenging assumptions and turning data into meaningful commercial insights. As Director, you'll lead analytics, modelling and capital solutions across the Financial Institutions & Government (FIG) portfolio, combining quantitative rigour with commercial judgement to influence strategic, risk and capital decisions. You'll lead sophisticated quantitative scen\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "ddfa76d122f2",
+      "title": "Employee Experience Advisor",
+      "company": "Environment Protection Authority",
+      "location": "Melbourne, Melbourne Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5973904831?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-21",
+      "description": "2 x ongoing, full-time roles Salary: VPS 4 - $100,894 to $114,476  12% superannuation Location: 664 Collins Street, Docklands VIC 3008 About the Organisation EPA is currently transitioning to a new operating model, creating a range of opportunities across the organisation. We\u2019re looking for talented people to join us and contribute to EPA\u2019s important work protecting Victoria\u2019s environment and community. EPA works to prevent and reduce the harmful effect of pollution and waste on Victoria\u2019s envi\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "ce243b64cd9c",
+      "title": "Director, Customer Insights & Analytics",
+      "company": "Westpac Group",
+      "location": "Sydney, Sydney Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5973904687?utm_medium=api&utm_source=638f9cc6",
       "posted": "2026-11-21",
       "description": "Description What\u2019s the role? We're looking for an intellectually curious, analytically minded leader who enjoys solving complex problems, challenging assumptions and turning data into meaningful commercial insights. As Director, you'll lead analytics, modelling and capital solutions across the Financial Institutions & Government (FIG) portfolio, combining quantitative rigour with commercial judgement to influence strategic, risk and capital decisions. You'll lead sophisticated quantitative scen\u2026",
       "source": "adzuna",
@@ -5170,6 +6218,21 @@
       "location": "US",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5973081261?se=VrtYBPHo8RGH26GC7ViXyg&utm_medium=api&utm_source=638f9cc6&v=9CA228AC700C5CCF6E5718EBD4E3098E51B2FE49",
+      "posted": "2026-11-20",
+      "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary CVS Health is on a journey to become th\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "b73701444278",
+      "title": "Senior Analyst - Customer Experience and Reporting",
+      "company": "CVS Health",
+      "location": "US",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5973081261?se=7HhZG7fp8RGeC7rP1w-cLw&utm_medium=api&utm_source=638f9cc6&v=9CA228AC700C5CCF6E5718EBD4E3098E51B2FE49",
       "posted": "2026-11-20",
       "description": "We're building a world of health around every individual - shaping a more connected, convenient and compassionate health experience. At CVS Health\u00ae, you'll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger - helping to simplify health care one person, one family and one community at a time. Position Summary CVS Health is on a journey to become th\u2026",
       "source": "adzuna",
@@ -6964,6 +8027,37 @@
       ]
     },
     {
+      "id": "354f7b285ae0",
+      "title": "Principal Customer Experience Analytics Analyst",
+      "company": "INSPYR Solutions",
+      "location": "Fairfax, Fairfax County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5971887738?se=7HhZG7fp8RGeC7rP1w-cLw&utm_medium=api&utm_source=638f9cc6&v=C957A8ECF1410C28F7E34DDEA9D384D12EB29342",
+      "posted": "2026-11-19",
+      "description": "Title: Principal Customer Experience Analytics Analyst Location: Vienna, VA, Winchester, VA, or Pensacola, FL (HYBRID) Duration: Initial 6-month contract with possible extensions Compensation: $60/hour - $71/hour Work Requirements: , Holders or Authorized to Work in the U.S. Principal Customer Experience Analytics Analyst Must have: Tech stack: SQL, PowerBI (or similar [tableau]) Data storytelling via executive presentations - not just building a dashboard but extrapolating insights from establ\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "8ace20cacca7",
+      "title": "Customer Experience Representative",
+      "company": "Sydney Water",
+      "location": "Parramatta, Parramatta Area",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5971295839?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-19",
+      "description": "Join our February 2027 intake and kick-start your career with comprehensive training and support from day one 12\u2011month fixed term contract with potential to become permanent EA3E $81,494.94  Superannuation / 38-hour week Located in Parramatta Square conveniently located next to trains and bus services We\u2019re on the hunt for customer champions! Sydney Water is calling out to passionate Customer Service Representatives who pride themselves on helping people and creating great experiences. If you\u2019r\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "b6aee70be133",
       "title": "Customer Experience Manager",
       "company": "Five Below",
@@ -8263,6 +9357,36 @@
       ]
     },
     {
+      "id": "423c77141bd8",
+      "title": "Early Careers: Employee Experience Internship - Atlanta - Summer 2027",
+      "company": "WTW",
+      "location": "Atlanta, Fulton County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5970359312?se=xNd7Ibfp8RGmY_K5w5BrLA&utm_medium=api&utm_source=638f9cc6&v=312279E31AC671AB4F46D2A9B78257810663A767",
+      "posted": "2026-11-18",
+      "description": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
+      "id": "ef3ede5271cc",
+      "title": "Early Careers: Employee Experience Internship - New York - Summer 2027",
+      "company": "WTW",
+      "location": "Grand Central, Manhattan",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5970327082?se=xNd7Ibfp8RGmY_K5w5BrLA&utm_medium=api&utm_source=638f9cc6&v=A13FCDC7D39E24FB675E26822C58D7693CF45CB7",
+      "posted": "2026-11-18",
+      "description": "Description Employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity. We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future. Please note: student visas, CPT, OPT, H-1B, TN, and other temporary work authorizations are considered restricted forms of employment eligibility. Once these expire, the candidate must be able to present another valid for\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "ex"
+      ]
+    },
+    {
       "id": "c09a5998d93b",
       "title": "Business Analysis Manager, Customer Experience",
       "company": "T-Mobile USA",
@@ -9067,6 +10191,21 @@
       "tags": [
         "cx",
         "insights"
+      ]
+    },
+    {
+      "id": "0ce5014e84b3",
+      "title": "Customer Experience Specialist",
+      "company": "Babybee Prams Pty",
+      "location": "Yarraville, Maribyrnong Area",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5968639702?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-17",
+      "description": "Customer Service Specialist  Expos Yarraville, Melbourne VIC | Part Time, 6-Month Contract | Approx. 30.4 hours per week Salary guide: $75,000 \u2013 $80,000 pro rata, plus superannuation We\u2019re looking for an experienced, warm and solutions-focused Customer Service Specialist who genuinely loves helping customers, solving problems and making things better. Someone who can turn a tricky customer moment into a positive brand experience, while also asking, \u201cHow do we stop this from happening again?\u201d At\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
       ]
     },
     {
@@ -11769,6 +12908,36 @@
       ]
     },
     {
+      "id": "bdac363ba0c3",
+      "title": "Customer Experience Director",
+      "company": "CoStar Group",
+      "location": "Sydney, Sydney Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5964157874?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-13",
+      "description": "Customer Experience Director Job Description About the Role As the CX Director of Domain Workflow Solutions (DWS), you will lead the end-to-end customer experience and operational service model across our Realhub, Campaigntrack, Engage and Real Time Agent (RTA) platforms. Reporting to the General Manager, DWS, you'll oversee a large, distributed CX and Operations function across Australia and the Philippines, ensuring customers receive a consistent, reliable and high-quality experience across e\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "86245c4884fa",
+      "title": "Customer Experience Director",
+      "company": "CoStar Realty Information, Inc.",
+      "location": "Sydney, Sydney Region",
+      "remote": false,
+      "url": "https://www.adzuna.com.au/details/5964050422?utm_medium=api&utm_source=638f9cc6",
+      "posted": "2026-11-13",
+      "description": "Sydney (AU) - Pitt St Full time R39890 Customer Experience Director Job Description About the Role As the CX Director of Domain Workflow Solutions (DWS), you will lead the end-to-end customer experience and operational service model across our Realhub, Campaigntrack, Engage and Real Time Agent (RTA) platforms. Reporting to the General Manager, DWS, you'll oversee a large, distributed CX and Operations function across Australia and the Philippines, ensuring customers receive a consistent, reliab\u2026",
+      "source": "adzuna",
+      "country": "AU",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "27520e832730",
       "title": "Customer Experience Analyst",
       "company": "Scott & Associates, PC",
@@ -14315,6 +15484,81 @@
       "location": "Grand Central, Manhattan",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5963095742?se=mjyZDfHo8RGOAI2TaNxX1g&utm_medium=api&utm_source=638f9cc6&v=FC4450E5F0504D0BC6A1D2E35FA3D9A2D32EAC56",
+      "posted": "2026-11-12",
+      "description": "Description About the Role The Port Authority is seeking a strategic and innovative leader to join the Aviation leadership team as Assistant Director, Aviation Customer Experience. Reporting to the Deputy Director, Business, Finance & Customer Experience, this role is responsible for designing, leading, and executing enterprise-wide customer experience (CX) strategy for the Port Authority airport system (JFK, LGA, EWR, and SWF). The Assistant Director governs all aspects of customer experience,\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2036c5823a77",
+      "title": "Sr Analyst-Customer Experience",
+      "company": "Uniti",
+      "location": "Prichard, Mobile County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5963168863?se=7HhZG7fp8RGeC7rP1w-cLw&utm_medium=api&utm_source=638f9cc6&v=947E6DFC57FFED33A4E938B1F37F8B25A7D2DD96",
+      "posted": "2026-11-12",
+      "description": "Uniti is a premier insurgent fiber provider dedicated to enabling mission-critical connectivity across the United States. With a steadfast commitment to customer service, operational excellence, and superior network capabilities, Uniti builds, operates and delivers critical fiber-based communications services to connect and empower people and businesses . _________________________________________________________ About the Role: The Sr. Analyst - Customer Experience supports the day-to-day execu\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "0377f2e801af",
+      "title": "Sr Analyst-Customer Experience",
+      "company": "Uniti",
+      "location": "Cammack Village, Pulaski County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5963145925?se=7HhZG7fp8RGeC7rP1w-cLw&utm_medium=api&utm_source=638f9cc6&v=777D153F76B5C4808C390F3CE4D1F96F00983029",
+      "posted": "2026-11-12",
+      "description": "Uniti is a premier insurgent fiber provider dedicated to enabling mission-critical connectivity across the United States. With a steadfast commitment to customer service, operational excellence, and superior network capabilities, Uniti builds, operates and delivers critical fiber-based communications services to connect and empower people and businesses . _________________________________________________________ About the Role: The Sr. Analyst - Customer Experience supports the day-to-day execu\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "0ab9dca18423",
+      "title": "Sr Analyst-Customer Experience",
+      "company": "Uniti",
+      "location": "Prichard, Mobile County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5963168863?se=_AF5Jrfp8RGWY9j5C4A84g&utm_medium=api&utm_source=638f9cc6&v=947E6DFC57FFED33A4E938B1F37F8B25A7D2DD96",
+      "posted": "2026-11-12",
+      "description": "Uniti is a premier insurgent fiber provider dedicated to enabling mission-critical connectivity across the United States. With a steadfast commitment to customer service, operational excellence, and superior network capabilities, Uniti builds, operates and delivers critical fiber-based communications services to connect and empower people and businesses . _________________________________________________________ About the Role: The Sr. Analyst - Customer Experience supports the day-to-day execu\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "83a08bfb59f6",
+      "title": "Sr Analyst-Customer Experience",
+      "company": "Uniti",
+      "location": "Cammack Village, Pulaski County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5963145925?se=_AF5Jrfp8RGWY9j5C4A84g&utm_medium=api&utm_source=638f9cc6&v=777D153F76B5C4808C390F3CE4D1F96F00983029",
+      "posted": "2026-11-12",
+      "description": "Uniti is a premier insurgent fiber provider dedicated to enabling mission-critical connectivity across the United States. With a steadfast commitment to customer service, operational excellence, and superior network capabilities, Uniti builds, operates and delivers critical fiber-based communications services to connect and empower people and businesses . _________________________________________________________ About the Role: The Sr. Analyst - Customer Experience supports the day-to-day execu\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "41b0d018117e",
+      "title": "Assistant Director, Aviation Customer Experience",
+      "company": "Port Authority of New York and New Jersey",
+      "location": "Grand Central, Manhattan",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5963095742?se=_AF5Jrfp8RGWY9j5C4A84g&utm_medium=api&utm_source=638f9cc6&v=FC4450E5F0504D0BC6A1D2E35FA3D9A2D32EAC56",
       "posted": "2026-11-12",
       "description": "Description About the Role The Port Authority is seeking a strategic and innovative leader to join the Aviation leadership team as Assistant Director, Aviation Customer Experience. Reporting to the Deputy Director, Business, Finance & Customer Experience, this role is responsible for designing, leading, and executing enterprise-wide customer experience (CX) strategy for the Port Authority airport system (JFK, LGA, EWR, and SWF). The Assistant Director governs all aspects of customer experience,\u2026",
       "source": "adzuna",
@@ -19531,6 +20775,22 @@
       "url": "https://www.adzuna.com/land/ad/5958180927?se=5ioPCPHo8RGH26GC7ViXyg&utm_medium=api&utm_source=638f9cc6&v=64F84DB9F39BE1BAE53D6B4BB8B5892CB584E57D",
       "posted": "2026-11-08",
       "description": "Voice of the Customer Insights Analyst Apply (https://caresource.wd1.myworkdayjobs.com/en-US/CareSource/job/Ohio-WFH/Voice-of-the-Customer-Insights-Analyst\\_R14351/apply) remote type Remote locations Ohio WFH time type Full time posted on Posted 18 Days Ago job requisition id R14351 Job Summary: The Voice of the Customer (VOC) Insights Analyst collaborates with leadership to identify and outline deliverables that will improve the experience for our customers (Member and Provider), driving innov\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx",
+        "insights"
+      ]
+    },
+    {
+      "id": "e2c4c6d737de",
+      "title": "Voice of the Customer Insights Analyst",
+      "company": "CareSource",
+      "location": "Oakwood, Montgomery County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5958180927?se=3KuWH7fp8RGmY_K5w5BrLA&utm_medium=api&utm_source=638f9cc6&v=64F84DB9F39BE1BAE53D6B4BB8B5892CB584E57D",
+      "posted": "2026-11-08",
+      "description": "Voice of the Customer Insights Analyst Apply (https://caresource.wd1.myworkdayjobs.com/en-US/CareSource/job/Ohio-WFH/Voice-of-the-Customer-Insights-Analyst\\_R14351/apply) remote type Remote locations Ohio WFH time type Full time posted on Posted 19 Days Ago job requisition id R14351 Job Summary: The Voice of the Customer (VOC) Insights Analyst collaborates with leadership to identify and outline deliverables that will improve the experience for our customers (Member and Provider), driving innov\u2026",
       "source": "adzuna",
       "country": "US",
       "tags": [
@@ -25350,6 +26610,51 @@
       "location": "Glendale, Denver",
       "remote": false,
       "url": "https://www.adzuna.com/land/ad/5954225170?se=mjyZDfHo8RGOAI2TaNxX1g&utm_medium=api&utm_source=638f9cc6&v=28C0060CAC5C2B8547F7B8D52A974E21F48633E5",
+      "posted": "2026-11-05",
+      "description": "Description Application deadline: Nov 23, 2026 AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we're the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply c\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "dfdc9cb9392d",
+      "title": "Commissioning Program Technical Manager, Global Cx Program, AWS Commissioning",
+      "company": "Amazon",
+      "location": "Denver, Colorado",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5954299023?se=_AF5Jrfp8RGWY9j5C4A84g&utm_medium=api&utm_source=638f9cc6&v=DA2E70D721BBFC2FEFB2FFB4CE0BBA2914BCF163",
+      "posted": "2026-11-05",
+      "description": "Application deadline: Nov 28, 2026 AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we\u2019re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain \u2014 and w\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "720aeacde861",
+      "title": "Commissioning Program Technical Manager, Global Cx Program, AWS Commissioning",
+      "company": "Amazon",
+      "location": "Mcnary, Umatilla County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5954230077?se=_AF5Jrfp8RGWY9j5C4A84g&utm_medium=api&utm_source=638f9cc6&v=7CF45F8E7C25E3BF0D6B50D5B09F3408B8628CF3",
+      "posted": "2026-11-05",
+      "description": "Description Application deadline: Nov 23, 2026 AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we're the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply c\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
+      "id": "2913685f303c",
+      "title": "Commissioning Program Technical Manager, Global Cx Program, AWS Commissioning",
+      "company": "Amazon",
+      "location": "Glendale, Denver",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5954225170?se=_AF5Jrfp8RGWY9j5C4A84g&utm_medium=api&utm_source=638f9cc6&v=28C0060CAC5C2B8547F7B8D52A974E21F48633E5",
       "posted": "2026-11-05",
       "description": "Description Application deadline: Nov 23, 2026 AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we're the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply c\u2026",
       "source": "adzuna",
@@ -37805,6 +39110,21 @@
       ]
     },
     {
+      "id": "339252c8cd01",
+      "title": "Senior CX Program Manager",
+      "company": "Microsoft Corporation",
+      "location": "Redmond, King County",
+      "remote": false,
+      "url": "https://www.adzuna.com/land/ad/5944506504?se=_AF5Jrfp8RGWY9j5C4A84g&utm_medium=api&utm_source=638f9cc6&v=80AA6D629EF164F19335F8AE8602756C54871D78",
+      "posted": "2026-10-28",
+      "description": "Overview The next generation of cloud and AI innovation depends on getting the right computing capacity to customers when and where they need it. Azure is transforming that experience for enterprise customers and fast-growing AI teams, moving from complex, reactive processes toward a simpler, more predictable, and scalable way to plan and deliver capacity. You will join a transformation team working across some of Azure's most complex operational and customer challenges. The team identifies fri\u2026",
+      "source": "adzuna",
+      "country": "US",
+      "tags": [
+        "cx"
+      ]
+    },
+    {
       "id": "f16c88a75c9c",
       "title": "Director, Performance & Experience Management",
       "company": "Vail Resorts",
@@ -38297,357 +39617,6 @@
       "source": "adzuna",
       "country": "US",
       "tags": [
-        "xm"
-      ]
-    },
-    {
-      "id": "068efd6b9ed6",
-      "title": "Customer Experience Lead - Full Time",
-      "company": "Burlington",
-      "location": "Brookfield, Waukesha County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5942155258?se=MMCHozjR8RGE2f1okUosWA&utm_medium=api&utm_source=638f9cc6&v=C88C3FB8218F92FCFDCDF0D2BCEF19EA433F055B",
-      "posted": "2026-10-26",
-      "description": "If you want an exciting job with one of the largest off-price retailers in the nation, join the Burlington Stores team as a Full-Time Customer Experience Lead ! Overview: As a Customer Experience Lead, you'll play a key role in delivering a positive and engaging shopping experience for our customers. You'll help drive front-end operations, support associates during your shift, and ensure the sales floor is organized, stocked, and ready to serve our customers. This is a hands-on leadership role \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "cfb858f997a8",
-      "title": "Customer Experience Lead - Full Time",
-      "company": "Burlington",
-      "location": "Hutchinson Island, St. Lucie County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5942154660?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-10-26",
-      "description": "If you want an exciting job with one of the largest off-price retailers in the nation, join the Burlington Stores team as a Full-Time Customer Experience Lead ! Overview: As a Customer Experience Lead, you'll play a key role in delivering a positive and engaging shopping experience for our customers. You'll help drive front-end operations, support associates during your shift, and ensure the sales floor is organized, stocked, and ready to serve our customers. This is a hands-on leadership role \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "4489a5074fc2",
-      "title": "Assistant Store Leader, Customer Experience & Outreach",
-      "company": "Crate & Barrel",
-      "location": "Corte Madera, Marin County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5942133833?se=4qPKsTjR8RGOuoWV-PVLRQ&utm_medium=api&utm_source=638f9cc6&v=BFB8C1DF22726CA9D2711D135C811AFC381BB9BC",
-      "posted": "2026-10-26",
-      "description": "Job Description Strategic and service-driven, the Assistant Store Leader \u2013 Customer Experience & Outreach drives sales and engagement through hands-on leadership and a passion for delivering results. In this role, you lead sales and service programs, train and coach associates, and implement engagement initiatives that boost customer acquisition, retention, and loyalty. You oversee the performance of key programs such as Design Services, Trade, Registry, and in-store events\u2014driving traffic, con\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "63ce53981ee9",
-      "title": "Assistant Store Leader, Customer Experience & Outreach",
-      "company": "Crate & Barrel",
-      "location": "Roseville, Placer County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5942132253?se=4qPKsTjR8RGOuoWV-PVLRQ&utm_medium=api&utm_source=638f9cc6&v=96BCDB183EF2EFFFAB4C10739B932C8825BACA9C",
-      "posted": "2026-10-26",
-      "description": "Job Description Strategic and service-driven, the Assistant Store Leader \u2013 Customer Experience & Outreach drives sales and engagement through hands-on leadership and a passion for delivering results. In this role, you lead sales and service programs, train and coach associates, and implement engagement initiatives that boost customer acquisition, retention, and loyalty. You oversee the performance of key programs such as Design Services, Trade, Registry, and in-store events\u2014driving traffic, con\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "1e1c1bc6daff",
-      "title": "Assistant Store Leader, Customer Experience & Outreach",
-      "company": "Crate & Barrel",
-      "location": "Corte Madera, Marin County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5941999581?se=4qPKsTjR8RGOuoWV-PVLRQ&utm_medium=api&utm_source=638f9cc6&v=DCF237606C07F227AE17BF5B422C409C33AAE98A",
-      "posted": "2026-10-26",
-      "description": "Strategic and service-driven, the Assistant Store Leader \u2013 Customer Experience & Outreach drives sales and engagement through hands-on leadership and a passion for delivering results. In this role, you lead sales and service programs, train and coach associates, and implement engagement initiatives that boost customer acquisition, retention, and loyalty. You oversee the performance of key programs such as Design Services, Trade, Registry, and in-store events\u2014driving traffic, conversion, and lon\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "c2e6a1d94013",
-      "title": "Patient Experience Program Manager",
-      "company": "Stanford Health Care",
-      "location": "Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5942149091?se=EH87tTjR8RGjD_8hTDo2ZA&utm_medium=api&utm_source=638f9cc6&v=33649D439DA5A832C10E5AFFDDB56A958CCF0471",
-      "posted": "2026-10-26",
-      "description": "Hybrid 900 Welch Rd - PALO ALTO Full time R2661023 If you're ready to be part of our legacy of hope and innovation, we encourage you to take the first step and explore our current job openings. Your best is waiting to be discovered. Day - 08 Hour (United States of America) This is a Stanford Health Care job. A Brief Overview The Patient Experience Program Manager supports the strategic identification and development of key digital and non-digital experience initiatives. The Patient Experience P\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "xm"
-      ]
-    },
-    {
-      "id": "22902765e59f",
-      "title": "Manager, Customer Experience - Training & Voice of Customer (Aftersales)",
-      "company": "Mitsubishi Motors",
-      "location": "Franklin, Williamson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5942127170?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-10-26",
-      "description": "Join the Mitsubishi Motors North America (MMNA) Team! At Mitsubishi Motors NA, we are driving innovation, quality, and excellence in the automotive industry. Our commitment to delivering cutting-edge vehicles goes hand in hand with our dedication to fostering a dynamic and inclusive work environment. Our team members are the driving force behind our success, and we believe in empowering individuals to contribute their unique skills and perspectives. We are a collaborative and forward-thinking t\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "f8f7ac32edb4",
-      "title": "Lead Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Stainsacre, Whitby",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5942111109?se=UsHjtTjR8RGE2f1okUosWA&utm_medium=api&utm_source=638f9cc6&v=378980A57E7FBF07534D01EC459F1077E20E2F51",
-      "posted": "2026-10-26",
-      "description": "Description What you\u2019ll be doing: Lead a team of managers to make sure every single one of our customers has a great experience in store everywhere from the checkouts to the petrol station. Planning for upcoming key trading activity and events by working closely with the rest of the store leadership team Regularly taking full accountability for the store in the absence of a store manager, role modelling and coaching for high standards and efficiency across the store. Running operations at our c\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "a6b8d7ad611e",
-      "title": "Lead Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Stainsacre, Whitby",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5942111109?se=9BW0tzjR8RGJ4c2TBOCzSQ&utm_medium=api&utm_source=638f9cc6&v=378980A57E7FBF07534D01EC459F1077E20E2F51",
-      "posted": "2026-10-26",
-      "description": "Description What you\u2019ll be doing: Lead a team of managers to make sure every single one of our customers has a great experience in store everywhere from the checkouts to the petrol station. Planning for upcoming key trading activity and events by working closely with the rest of the store leadership team Regularly taking full accountability for the store in the absence of a store manager, role modelling and coaching for high standards and efficiency across the store. Running operations at our c\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "9a5f5f5d4a4c",
-      "title": "Customer Experience Director",
-      "company": "State of Indiana",
-      "location": "Indianapolis, Marion County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5942977315?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-10-26",
-      "description": "Work for Indiana Begin a fulfilling career with the State of Indiana by joining one of the largest employers in the state, offering a range of opportunities across 60 agencies. At the state, you'll find competitive compensation, a robust benefits package and a commitment to work-life balance. Most importantly, you'll have the chance to make a real and measurable impact on the lives of Hoosiers across Indiana. About the Indiana Department of Revenue (DOR): The Indiana Department of Revenue team \u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "54d938dcb897",
-      "title": "Customer insights ratings and reviews analyst",
-      "company": "Harvey Nash",
-      "location": "Plano, Collin County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5942260651?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-10-26",
-      "description": "\u00b7 We\u2019re in search of an customer insights ratings and reviews analyst to analyze customer ratings, product reviews, and Voice of Customer (VoC) data, turning feedback into actionable insights for product, marketing, and customer service teams. The role combines hands-on data analytics and reporting with coordinating ratings and reviews programs, product launches, and cross-functional initiatives. Experience with Sprinklr, Bazaarvoice, PowerReviews, or comparable platforms is highly preferred. H\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "1dfd5ad256ed",
-      "title": "Director, Customer Insights and Analytics",
-      "company": "BMO Bank",
-      "location": "Toronto, Jefferson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5942665884?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-10-26",
-      "description": "Application Deadline: 11/29/2026 Address: 33 Dundas Street West Job Family Group: Data Analytics & Reporting The Director, Customer Insights and Analytics within Retail Risk team is responsible for leading the Canadian Retail Customer Insights and Analytics team. This role transforms customer, market, and behavioral data into actionable insights that drive business growth, improve customer experience, and support strategic decision-making. The Director partners closely with business leaders acr\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "insights"
-      ]
-    },
-    {
-      "id": "7b646a7e34a1",
-      "title": "People Insights Visier Platform Manager",
-      "company": "Deloitte",
-      "location": "Birmingham, Jefferson County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5942866784?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-10-26",
-      "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do The People Insights team turns workforce data into clear, actionable insights that help leaders make better decisions about talent, performance, and organizational health. We combine analytics, reporting, and people science, using established platforms and gover\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "f7fe97733cf9",
-      "title": "Customer Experience Program Manager: Product Support",
-      "company": "Nametag",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5943075202?se=audWCfzR8RGTmpORxmRtzw&utm_medium=api&utm_source=638f9cc6&v=7F56206F45C923D982FD7B6E175ADCBF821B6BE9",
-      "posted": "2026-10-26",
-      "description": "Job Description Job Description Team: Customer Experience Mindset: Do you like owning the flow, not just the tickets? Read on. About Nametag Nametag is building the future of secure digital identity. Our mission is to make it easy for people and organizations to prove who they are online, safely and seamlessly. We're pioneering identity verification and account protection so that users can control their own identity, and companies can build trust without friction. By enabling trust at scale, we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
-        "xm"
-      ]
-    },
-    {
-      "id": "b2ce84f53349",
-      "title": "Manager, Talent & People Analytics",
-      "company": "Breakthru Beverage Group",
-      "location": "Tampa, Hillsborough County",
-      "remote": false,
-      "url": "https://www.adzuna.com/details/5942127440?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-10-26",
-      "description": "Are you a current Associate? To be considered, you must submit your application through the internal Career Portal (Jobs Hub). Click here to access. Time Type: Full time Remote Type: Job Family Group: Human Resources Job Description Summary: The Manager, Talent & People Analytics at Breakthru Beverage Group manages talent management programs and people analytics initiatives that drive informed workforce decisions and business outcomes. A critical component of this role is hands-on Workday repor\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "ex",
-        "insights"
-      ]
-    },
-    {
-      "id": "53299c588b4b",
-      "title": "Patient Experience Program Manager",
-      "company": "Stanford Health Care",
-      "location": "Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5942149091?se=Hj22DvzR8RGTmpORxmRtzw&utm_medium=api&utm_source=638f9cc6&v=33649D439DA5A832C10E5AFFDDB56A958CCF0471",
-      "posted": "2026-10-26",
-      "description": "Hybrid 900 Welch Rd - PALO ALTO Full time R2661023 If you're ready to be part of our legacy of hope and innovation, we encourage you to take the first step and explore our current job openings. Your best is waiting to be discovered. Day - 08 Hour (United States of America) This is a Stanford Health Care job. A Brief Overview The Patient Experience Program Manager supports the strategic identification and development of key digital and non-digital experience initiatives. The Patient Experience P\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "xm"
-      ]
-    },
-    {
-      "id": "a56f8c274325",
-      "title": "Customer Experience Team Lead",
-      "company": "Sopra Steria",
-      "location": "Newport, Wales",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5942768191?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-10-26",
-      "description": "Are you someone who enjoys leading people, making confident decisions and keeping services running smoothly \u2013 even when things get busy or outside standard hours? Join our CXM Hub as a Team Leader and play a key role in the day-to-day running of a busy contact centre supporting the Prisons Enquiry Centre. You\u2019ll work alongside a supportive group of Team Leaders and colleagues, where collaboration, accountability and a strong team culture are at the heart of what we do. This is a hands-on leader\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "251d5e0e47d7",
-      "title": "Head of Customer Experience",
-      "company": "Centrick",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5942359834?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-10-26",
-      "description": "At Centrick, we're looking for a passionate and customer-focused Head of Customer Experience to lead our central customer contact function and shape the way we support customers across every stage of their journey. This is an exciting opportunity for an experienced customer service leader to drive service excellence, enhance customer satisfaction and lead a high-performing team that delivers clear, responsive and effective support across multiple communication channels. You'll oversee all custo\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "7e8ba66065a6",
-      "title": "Lead Customer Experience Manager",
-      "company": "Sainsbury's",
-      "location": "Stainsacre, Whitby",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5942111109?se=yKfWEPzR8RGaLvZ41xPXIA&utm_medium=api&utm_source=638f9cc6&v=378980A57E7FBF07534D01EC459F1077E20E2F51",
-      "posted": "2026-10-26",
-      "description": "Description What you\u2019ll be doing: Lead a team of managers to make sure every single one of our customers has a great experience in store everywhere from the checkouts to the petrol station. Planning for upcoming key trading activity and events by working closely with the rest of the store leadership team Regularly taking full accountability for the store in the absence of a store manager, role modelling and coaching for high standards and efficiency across the store. Running operations at our c\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "f85bc2a4a9c4",
-      "title": "Customer Experience Manager",
-      "company": "HOME GROUP",
-      "location": "UK",
-      "remote": false,
-      "url": "https://www.adzuna.co.uk/jobs/details/5942358719?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-10-26",
-      "description": "About the role Earn circa \u00a338,000 per year, dependent on skills and experience, plus brilliant benefits including a Health Cash Plan. Home, a place where you belong As our Customer Experience Manager in the Customer Service Centre, you'll shape how we listen, learn and improve every day, making a real difference to how our customers and colleagues feel. If you love people, processes and finding smarter ways to do things, you'll feel right at home here. What you'll do \u2022 Spotting patterns in feed\u2026",
-      "source": "adzuna",
-      "country": "GB",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "422c069d9255",
-      "title": "Customer Experience Business Consultant Lead",
-      "company": "Lenovo",
-      "location": "Australia",
-      "remote": false,
-      "url": "https://www.adzuna.com.au/details/5942090506?utm_medium=api&utm_source=638f9cc6",
-      "posted": "2026-10-26",
-      "description": "Why Work at Lenovo We are Lenovo. We do what we say. We own what we do. We WOW our customers. Lenovo is a US$83 billion revenue global technology powerhouse, ranked 153 in the Fortune Global 500, and serving millions of customers every day in 180 markets. Focused on a bold vision to deliver Smarter Technology for All, Lenovo has built on its success as the world\u2019s largest PC company with a full-stack portfolio of AI-enabled, AI-ready, and AI-optimized devices (PCs, workstations, smartphones, ta\u2026",
-      "source": "adzuna",
-      "country": "AU",
-      "tags": [
-        "cx"
-      ]
-    },
-    {
-      "id": "c9c33bd2d59f",
-      "title": "Patient Experience Program Manager",
-      "company": "Stanford Health Care",
-      "location": "Palo Alto, Santa Clara County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5942149091?se=VmoW88nS8RGo-phw20TOvA&utm_medium=api&utm_source=638f9cc6&v=33649D439DA5A832C10E5AFFDDB56A958CCF0471",
-      "posted": "2026-10-26",
-      "description": "Hybrid 900 Welch Rd - PALO ALTO Full time R2661023 If you're ready to be part of our legacy of hope and innovation, we encourage you to take the first step and explore our current job openings. Your best is waiting to be discovered. Day - 08 Hour (United States of America) This is a Stanford Health Care job. A Brief Overview The Patient Experience Program Manager supports the strategic identification and development of key digital and non-digital experience initiatives. The Patient Experience P\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "xm"
-      ]
-    },
-    {
-      "id": "1a6fc35310ab",
-      "title": "Customer Experience Program Manager: Product Support",
-      "company": "Nametag",
-      "location": "Atlanta, Fulton County",
-      "remote": false,
-      "url": "https://www.adzuna.com/land/ad/5943075202?se=-IFfbiHV8RGzkfY_QG7FnA&utm_medium=api&utm_source=638f9cc6&v=7F56206F45C923D982FD7B6E175ADCBF821B6BE9",
-      "posted": "2026-10-26",
-      "description": "Job Description Job Description Team: Customer Experience Mindset: Do you like owning the flow, not just the tickets? Read on. About Nametag Nametag is building the future of secure digital identity. Our mission is to make it easy for people and organizations to prove who they are online, safely and seamlessly. We're pioneering identity verification and account protection so that users can control their own identity, and companies can build trust without friction. By enabling trust at scale, we\u2026",
-      "source": "adzuna",
-      "country": "US",
-      "tags": [
-        "cx",
         "xm"
       ]
     }
